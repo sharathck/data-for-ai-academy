@@ -1,0 +1,547 @@
+{
+  "High School - Algebra I": {
+    "Mathematics - Linear functions, equations, and inequalities": [
+      {
+        "skill": "Domain and range: Domain and range of relations",
+        "teks": "A.2(A)",
+        "prompt": "This topic covers domain and range of relations for Algebra I students (TEKS A.2(A)). Students should understand that the domain is the set of all possible input (x) values and the range is the set of all possible output (y) values of a relation. They must determine domain and range from ordered pairs, tables, mappings, and graphs. Key vocabulary: relation, function, domain, range, input, output, independent variable, dependent variable. Students should use set notation or interval notation to express domain and range. They need to identify whether a relation is discrete (individual points) or continuous (connected curve or line) and adjust their notation accordingly. Common representations include set-builder notation, roster notation, and inequality notation. Common errors include confusing domain with range, listing repeated values, and misreading graph scales."
+      },
+      {
+        "skill": "Domain and range: Domain and range of linear functions: graphs",
+        "teks": "A.2(A)",
+        "prompt": "This topic covers determining the domain and range of linear functions from their graphs for Algebra I students (TEKS A.2(A)). Students should understand that linear functions produce straight-line graphs and typically have domain and range of all real numbers unless restricted by context. When reading a graph, students identify the horizontal extent (domain) and vertical extent (range). A continuous line extending infinitely has domain and range of all real numbers; a segment or ray has restricted domain/range. Students express answers using interval notation, inequality notation, or set-builder notation. Vocabulary: linear function, domain, range, continuous, interval. Common errors: confusing open vs closed intervals, not recognizing arrows that indicate the line continues infinitely, and incorrectly reading axis scales."
+      },
+      {
+        "skill": "Domain and range: Domain and range of linear functions: word problems",
+        "teks": "A.2(A)",
+        "prompt": "This topic covers determining the domain and range of linear functions from word problems for Algebra I students (TEKS A.2(A)). Students interpret real-world scenarios to identify reasonable input (domain) and output (range) values. Physical constraints such as time, distance, money, or quantity often restrict domain and range to non-negative values or specific intervals. Students write the linear function modeling the situation, then determine practical domain and range. For example, if a plumber charges $50 plus $30/hour, domain might be [0, 8] for an 8-hour workday. Vocabulary: domain, range, constraint, reasonable values, independent variable, dependent variable. Common errors: ignoring real-world constraints, allowing negative values where they make no physical sense, and confusing which variable is independent vs dependent."
+      },
+      {
+        "skill": "Writing linear equations in various forms: Slope-intercept form: write an equation",
+        "teks": "A.2(B)",
+        "prompt": "This topic covers writing linear equations in slope-intercept form for Algebra I students (TEKS A.2(B)). Students master y = mx + b, where m is the slope (rate of change) and b is the y-intercept (starting value). Given a slope and y-intercept, write the equation directly. Given a slope and a point, substitute to find b. Given two points, calculate slope m = (y2-y1)/(x2-x1), then find b. Key vocabulary: slope, y-intercept, rate of change, initial value, linear equation. Students should understand slope as rise over run and connect to real-world rates. They must handle positive, negative, zero, and undefined slopes. Common errors: inverting the slope formula, sign errors with negative coordinates, and confusing slope with y-intercept."
+      },
+      {
+        "skill": "Writing linear equations in various forms: Write linear equations in standard form",
+        "teks": "A.2(B)",
+        "prompt": "This topic covers writing linear equations in standard form for Algebra I students (TEKS A.2(B)). Standard form is Ax + By = C, where A, B, and C are integers and A is typically non-negative. Students convert from slope-intercept form by rearranging terms and clearing fractions. They write standard form equations given two points or a point and slope. Key skills: multiplying to eliminate fractions, moving terms across the equals sign, ensuring A >= 0. Standard form is useful for finding intercepts and for elimination in systems of equations. Vocabulary: standard form, coefficient, integer, equivalent equation. Common errors: leaving fractions or decimals, forgetting to make A positive, and arithmetic mistakes when rearranging."
+      },
+      {
+        "skill": "Writing linear equations in various forms: Point-slope form: write an equation",
+        "teks": "A.2(B)",
+        "prompt": "This topic covers writing linear equations in point-slope form for Algebra I students (TEKS A.2(B)). Point-slope form is y - y1 = m(x - x1), where m is the slope and (x1, y1) is a known point. Students write equations given a slope and point, or calculate slope from two points first. Point-slope form directly shows the slope and a specific point, making it ideal when these are given. Students convert between point-slope, slope-intercept, and standard forms. Vocabulary: point-slope form, slope, coordinate pair, linear equation. Common errors: sign mistakes with negative coordinates (double negatives), forgetting to distribute when converting, and confusing (x1, y1) with (x, y)."
+      },
+      {
+        "skill": "Writing linear equations in various forms: Write equations for lines of best fit",
+        "teks": "A.4(C)",
+        "prompt": "This topic covers writing equations for lines of best fit for Algebra I students (TEKS A.4(C)). A line of best fit approximates the relationship in a scatter plot. Students select two representative points, calculate slope, then write the equation in slope-intercept form. Key concepts: the line shows the general trend, and can be used for interpolation and extrapolation. Vocabulary: scatter plot, line of best fit, trend line, correlation, positive correlation, negative correlation, interpolation, extrapolation, residual. Students evaluate how well the line fits by examining residuals. Common errors: choosing outlier points, confusing correlation with causation, and making predictions far outside the data range."
+      },
+      {
+        "skill": "Writing linear equations from representations: Slope-intercept form: write an equation from a graph",
+        "teks": "A.2(C)",
+        "prompt": "This topic covers writing linear equations from a graph for Algebra I students (TEKS A.2(C)). Students identify the y-intercept (where the line crosses the y-axis) and calculate slope by selecting two clear lattice points and computing rise/run. For slope-intercept form: y = mx + b. For point-slope form: y - y1 = m(x - x1). Key skills: reading coordinates accurately, counting grid squares for rise and run, determining if slope is positive or negative. Vocabulary: slope, y-intercept, rise, run, lattice point. Students verify their equation by checking additional points on the graph. Common errors: misreading the scale of axes, reversing rise and run, and misidentifying the y-intercept when the graph is not clearly marked."
+      },
+      {
+        "skill": "Writing linear equations from representations: Slope-intercept form: write an equation from a table",
+        "teks": "A.2(C)",
+        "prompt": "This topic covers writing linear equations from a table of values for Algebra I students (TEKS A.2(C)). Students select two rows, calculate slope as change in y divided by change in x, then substitute a point into y = mx + b to find b. In a linear table, the rate of change is constant between any pairs of points. Students verify linearity by checking multiple pairs. The y-intercept may appear directly in the table when x = 0 or may need calculation. Vocabulary: slope, y-intercept, rate of change, constant rate, linear function, table of values. Common errors: choosing non-consecutive points and making arithmetic errors, not verifying constant rate of change, and confusing x and y columns."
+      },
+      {
+        "skill": "Writing linear equations from representations: Point-slope form: write an equation from a graph",
+        "teks": "A.2(C)",
+        "prompt": "This topic covers writing linear equations from a graph for Algebra I students (TEKS A.2(C)). Students identify the y-intercept (where the line crosses the y-axis) and calculate slope by selecting two clear lattice points and computing rise/run. For slope-intercept form: y = mx + b. For point-slope form: y - y1 = m(x - x1). Key skills: reading coordinates accurately, counting grid squares for rise and run, determining if slope is positive or negative. Vocabulary: slope, y-intercept, rise, run, lattice point. Students verify their equation by checking additional points on the graph. Common errors: misreading the scale of axes, reversing rise and run, and misidentifying the y-intercept when the graph is not clearly marked."
+      },
+      {
+        "skill": "Writing linear equations from representations: Write a linear function: word problems",
+        "teks": "A.2(C)",
+        "prompt": "This topic covers writing linear functions from word problems for Algebra I students (TEKS A.2(C)). Students translate real-world scenarios into linear equations by identifying the rate of change (slope) and initial value (y-intercept). Determine what changes at a constant rate (slope m) and what the starting amount is (b), then write f(x) = mx + b. Examples include cost problems (base fee plus per-unit cost), distance-time scenarios, and depreciation. Vocabulary: linear function, rate of change, initial value, slope, y-intercept. Students must define variables and interpret the equation in context. Common errors: mixing up rate vs starting value, incorrect units, and not defining variables."
+      },
+      {
+        "skill": "Direct variation equations: Find the constant of variation",
+        "teks": "A.2(D)",
+        "prompt": "This topic covers finding the constant of variation for Algebra I students (TEKS A.2(D)). In direct variation y = kx, the constant k = y/x for any point (x, y) where x is not 0. Students find k from tables, graphs, or ordered pairs. The graph always passes through the origin with slope k. Students verify direct variation by confirming y/x is constant. Vocabulary: direct variation, constant of variation, constant of proportionality, proportional relationship, origin. Common errors: dividing x by y instead of y by x, assuming any linear relationship is direct variation (it must pass through the origin), and sign errors."
+      },
+      {
+        "skill": "Direct variation equations: Write direct variation equations",
+        "teks": "A.2(D)",
+        "prompt": "This topic covers writing direct variation equations for Algebra I students (TEKS A.2(D)). Direct variation is y = kx where k is the constant of variation. Given a point (x, y), find k = y/x and write the equation. Direct variation means y is proportional to x, the graph passes through the origin, and k equals the slope. Students recognize direct variation from tables, graphs, and verbal descriptions. Vocabulary: direct variation, constant of variation, proportional, origin. Common errors: confusing direct variation with other linear functions with nonzero y-intercepts, computing k incorrectly, and writing y = kx + b when b should be 0."
+      },
+      {
+        "skill": "Direct variation equations: Write and solve direct variation equations",
+        "teks": "A.2(D)",
+        "prompt": "This topic covers writing and solving direct variation equations for Algebra I students (TEKS A.2(D)). Students set up y = kx, find k from given information, then solve for unknowns. Process: identify the relationship, find k using known values (k = y/x), write the equation, substitute to find the unknown. If y varies directly as x, doubling x doubles y. Real-world examples: unit pricing, constant speed, Hooke's law. Vocabulary: direct variation, constant of variation, solve, proportional. Common errors: not finding k first, using wrong pair of values, and forgetting the origin constraint."
+      },
+      {
+        "skill": "Parallel lines: Slopes of parallel and perpendicular lines",
+        "teks": "A.2(E)",
+        "prompt": "This topic covers slopes of parallel and perpendicular lines for Algebra I students (TEKS A.2(E)). Parallel lines have the same slope but different y-intercepts. Students identify, compare, and use slopes to determine if lines are parallel. Key formulas: lines are parallel when m1 = m2. Students find slopes from equations (convert to slope-intercept form), from graphs, or from points. Vocabulary: parallel, slope, slope-intercept form. Students apply this to verify geometric properties. Common errors: failing to convert to slope-intercept form before comparing, confusing parallel with perpendicular, and not recognizing that vertical lines are parallel to other vertical lines."
+      },
+      {
+        "skill": "Parallel lines: Write an equation for a parallel or perpendicular line",
+        "teks": "A.2(E)",
+        "prompt": "This topic covers writing equations for parallel lines for Algebra I students (TEKS A.2(E)). To write an equation parallel to a given line through a point: find the slope of the given line, use the same slope with the new point. Parallel lines share the same slope m but have different y-intercepts b. Use point-slope or slope-intercept form. Vocabulary: parallel lines, slope, y-intercept, point-slope form. Real-world context: parallel lines model situations with the same rate of change but different starting values. Common errors: using the negative reciprocal slope (that is for perpendicular lines), arithmetic mistakes when solving for b."
+      },
+      {
+        "skill": "Perpendicular lines: Slopes of parallel and perpendicular lines",
+        "teks": "A.2(F)",
+        "prompt": "This topic covers slopes of perpendicular lines for Algebra I students (TEKS A.2(F)). Perpendicular lines intersect at right angles (90 degrees). Their slopes are negative reciprocals: if one line has slope m, the perpendicular has slope -1/m, so m * (-1/m) = -1. Students determine perpendicularity from equations, graphs, or points. A horizontal line (slope 0) is perpendicular to a vertical line (undefined slope). Vocabulary: perpendicular, negative reciprocal, right angle, slope. Students verify by checking that the product of slopes equals -1. Common errors: forgetting to negate the reciprocal, confusing parallel/perpendicular relationships, and not handling zero/undefined slopes."
+      },
+      {
+        "skill": "Perpendicular lines: Write an equation for a parallel or perpendicular line",
+        "teks": "A.2(F)",
+        "prompt": "This topic covers writing equations for perpendicular lines for Algebra I students (TEKS A.2(F)). To write a perpendicular equation through a point: find the given line's slope, take its negative reciprocal, use point-slope form with the new point. Key relationship: m1 * m2 = -1. Students handle fractional slopes and convert between forms. Vocabulary: perpendicular, negative reciprocal, slope, point-slope form. Example: line y = 2x + 3 has slope 2, perpendicular slope is -1/2. Common errors: only taking the reciprocal without negating, sign errors with fractions, and confusing with parallel line equations."
+      },
+      {
+        "skill": "Horizontal and vertical lines: Equations of horizontal and vertical lines",
+        "teks": "A.2(G)",
+        "prompt": "This topic covers equations of horizontal and vertical lines for Algebra I students (TEKS A.2(G)). A horizontal line has equation y = k (constant y-value) and slope 0. A vertical line has equation x = h (constant x-value) and undefined slope. Horizontal lines are parallel to the x-axis; vertical lines are parallel to the y-axis. The x-axis is y = 0 and the y-axis is x = 0. Vocabulary: horizontal, vertical, undefined slope, zero slope, constant. Students distinguish between zero slope (horizontal) and undefined slope (vertical). Common errors: writing horizontal lines as x = k instead of y = k, confusing zero slope with undefined slope, and trying to write vertical lines in slope-intercept form."
+      },
+      {
+        "skill": "Writing linear inequalities: Write a linear inequality from a graph",
+        "teks": "A.2(H)",
+        "prompt": "This topic covers writing linear inequalities from a graph for Algebra I students (TEKS A.2(H)). Students identify the boundary line equation (solid for <=/>= dashed for </>), then determine which half-plane is shaded to choose the inequality symbol. Process: find slope and y-intercept of the boundary line, note solid vs dashed, test a point in the shaded region. The test point (0,0) is convenient when not on the boundary. Vocabulary: linear inequality, boundary line, half-plane, shaded region, solid line, dashed line, solution set. Common errors: choosing the wrong inequality direction, confusing solid and dashed lines, and misidentifying the boundary line equation."
+      },
+      {
+        "skill": "Writing linear inequalities: Write two-variable inequalities: word problems",
+        "teks": "A.2(H)",
+        "prompt": "This topic covers writing two-variable linear inequalities from word problems for Algebra I students (TEKS A.2(H)). Students translate constraints into inequalities. Key phrases: 'at most' means <=, 'at least' means >=, 'less than' means <, 'more than' means >. Process: define variables, identify the constraint, write the inequality. Examples: budget constraints (total cost <= budget), capacity limits, nutritional requirements. Vocabulary: inequality, constraint, at most, at least, feasible region. Common errors: reversing the inequality symbol, not defining variables, confusing < with <=, and misinterpreting the problem."
+      },
+      {
+        "skill": "Writing systems of equations: Solve a system of equations by graphing: word problems",
+        "teks": "A.2(I)",
+        "prompt": "This topic covers solving systems of equations by graphing from word problems for Algebra I students (TEKS A.2(I)). Students translate scenarios into two linear equations, graph both, and identify the intersection as the solution. The intersection represents values satisfying both equations simultaneously. Vocabulary: system of equations, solution, intersection, simultaneous. Real-world examples: comparing phone plans, break-even analysis. Limitations: graphing may give approximate solutions for non-integer intersections. Common errors: graphing inaccurately, misidentifying the intersection, and not verifying the solution in both equations."
+      },
+      {
+        "skill": "Writing systems of equations: Solve a system of equations using substitution: word problems",
+        "teks": "A.2(I)",
+        "prompt": "This topic covers solving systems of equations using substitution from word problems for Algebra I students (TEKS A.2(I)). Steps: define variables, write two equations, solve one for one variable, substitute into the other, solve and back-substitute. Substitution works best when one variable is already isolated or has coefficient 1. Vocabulary: system of equations, substitution, isolate, solution. Students verify solutions by substituting into both original equations. Common errors: not distributing correctly, sign mistakes, solving for one variable but forgetting the other, and not checking solutions."
+      },
+      {
+        "skill": "Writing systems of equations: Solve a system of equations using elimination: word problems",
+        "teks": "A.2(I)",
+        "prompt": "This topic covers solving systems of equations using elimination from word problems for Algebra I students (TEKS A.2(I)). Elimination involves adding or subtracting equations to eliminate one variable. Steps: write the system, multiply to create opposite coefficients, add equations, solve for remaining variable, back-substitute. This method works best when variables are aligned and coefficients are manageable. Vocabulary: elimination, linear combination, coefficient, opposite. Common errors: forgetting to multiply all terms, sign errors when subtracting, and not finding both variables."
+      },
+      {
+        "skill": "Writing systems of equations: Solve a system of equations using any method: word problems",
+        "teks": "A.2(I)",
+        "prompt": "This topic covers solving systems of equations using any method from word problems for Algebra I students (TEKS A.2(I)). Students choose the most efficient method based on the system's structure. Decision guide: substitution when one variable is easily isolated; elimination when coefficients align; graphing for visual understanding. Students translate word problems into equations, solve, interpret in context, and verify. Vocabulary: system of equations, substitution, elimination, graphing, intersection. Common errors: choosing an inefficient method, setting up equations incorrectly, and not interpreting the solution contextually."
+      },
+      {
+        "skill": "Writing systems of equations: Write a system of equations given a graph",
+        "teks": "A.2(I)",
+        "prompt": "This topic covers writing a system of equations from a graph for Algebra I students (TEKS A.2(I)). Students examine a graph showing two lines and write each equation by identifying slopes and y-intercepts. Process: find y-intercept of each line, determine each slope using rise/run, write equations in slope-intercept form. The system's solution is the intersection point. Vocabulary: system of equations, slope, y-intercept, intersection. Students verify the intersection satisfies both equations. Common errors: misreading y-intercepts, calculating slopes incorrectly, and not verifying the intersection point."
+      }
+    ],
+    "Mathematics - Quadratic functions and equations": [
+      {
+        "skill": "Domain and range of quadratics: Domain and range of quadratic functions: graphs",
+        "teks": "A.6(A)",
+        "prompt": "This topic covers domain and range of quadratic functions from graphs for Algebra I students (TEKS A.6(A)). The domain of any quadratic function is all real numbers. The range depends on direction: if the parabola opens up (a > 0), range is [vertex y-value, infinity); if down (a < 0), range is (-infinity, vertex y-value]. Students identify the vertex as the minimum or maximum point on the graph and read its coordinates carefully. They express answers in interval notation, inequality notation, or set-builder notation. Vocabulary: parabola, vertex, minimum, maximum, domain, range, opens up, opens down. Common errors: stating range as all real numbers, confusing minimum with maximum, using parentheses instead of brackets at the vertex, and misreading vertex coordinates."
+      },
+      {
+        "skill": "Domain and range of quadratics: Domain and range of quadratic functions: equations",
+        "teks": "A.6(A)",
+        "prompt": "This topic covers domain and range of quadratic functions from equations for Algebra I students (TEKS A.6(A)). Given f(x) = ax^2 + bx + c or vertex form f(x) = a(x-h)^2 + k, domain is always all real numbers. For range: find the vertex. In vertex form, vertex is (h, k). In standard form, x-vertex = -b/(2a), then compute y. If a > 0, range is [k, infinity); if a < 0, range is (-infinity, k]. Vocabulary: vertex, axis of symmetry, parabola, minimum, maximum. Common errors: miscalculating the vertex, forgetting domain is always all real numbers, and using the wrong inequality direction for range."
+      },
+      {
+        "skill": "Writing quadratic functions in vertex form: Write a quadratic function from its vertex and another point",
+        "teks": "A.6(B)",
+        "prompt": "This topic covers writing quadratic functions given a vertex and another point for Algebra I students (TEKS A.6(B)). Use vertex form f(x) = a(x-h)^2 + k where (h, k) is the vertex. Substitute the other point for x and f(x) to solve for a. The value of a determines width and direction: a > 0 opens up, a < 0 opens down, larger |a| means narrower. Example: vertex (2,-3), point (4,5) gives 5 = a(4-2)^2 - 3, so a = 2. Vocabulary: vertex form, vertex, parameter a, parabola. Common errors: sign mistakes with (x-h) when h is negative, arithmetic errors solving for a, and forgetting to write the complete equation."
+      },
+      {
+        "skill": "Writing quadratic functions from solutions: Match quadratic functions and graphs",
+        "teks": "A.6(C)",
+        "prompt": "This topic covers matching quadratic functions with their graphs for Algebra I students (TEKS A.6(C)). Students analyze key features: direction of opening (sign of a), vertex location, y-intercept (c in standard form or plug x=0), x-intercepts (zeros/roots). For vertex form, read vertex directly as (h, k). Compare width using |a|. Vocabulary: parabola, vertex, axis of symmetry, x-intercept, y-intercept, opens up, opens down, stretch, compression. Students systematically eliminate choices. Common errors: confusing the sign of h in vertex form, ignoring the stretch factor, and not checking the y-intercept."
+      },
+      {
+        "skill": "Writing quadratic functions from solutions: Write a quadratic function from its x-intercepts and another point",
+        "teks": "A.6(C)",
+        "prompt": "This topic covers writing quadratic functions from x-intercepts and another point for Algebra I students (TEKS A.6(C)). Use factored form f(x) = a(x-r)(x-s) where r and s are x-intercepts. Substitute the additional point to find a. Students may leave in factored form or expand to standard form. Vocabulary: x-intercept, zero, root, factored form, parameter a. The x-intercepts are where f(x) = 0, and the extra point determines the stretch factor a. Common errors: sign errors in factors (intercept r gives factor (x-r)), arithmetic errors solving for a, and incorrect expansion."
+      },
+      {
+        "skill": "Graphing quadratic functions: Characteristics of quadratic functions: graphs",
+        "teks": "A.7(A)",
+        "prompt": "This topic covers identifying characteristics of quadratic functions from graphs for Algebra I students (TEKS A.7(A)). Students identify: vertex (min/max point), axis of symmetry (vertical line through vertex), direction of opening, y-intercept, x-intercepts/zeros (0, 1, or 2), domain/range, and intervals of increase/decrease. The parabola is symmetric about its axis of symmetry. Vocabulary: parabola, vertex, axis of symmetry, maximum, minimum, zero, increasing, decreasing. Common errors: confusing maximum and minimum, misreading coordinates, and forgetting that the axis of symmetry passes through the vertex."
+      },
+      {
+        "skill": "Graphing quadratic functions: Characteristics of quadratic functions: equations",
+        "teks": "A.7(A)",
+        "prompt": "This topic covers identifying characteristics of quadratic functions from graphs for Algebra I students (TEKS A.7(A)). Students identify: vertex (min/max point), axis of symmetry (vertical line through vertex), direction of opening, y-intercept, x-intercepts/zeros (0, 1, or 2), domain/range, and intervals of increase/decrease. The parabola is symmetric about its axis of symmetry. Vocabulary: parabola, vertex, axis of symmetry, maximum, minimum, zero, increasing, decreasing. Common errors: confusing maximum and minimum, misreading coordinates, and forgetting that the axis of symmetry passes through the vertex."
+      },
+      {
+        "skill": "Graphing quadratic functions: Graph quadratic functions in vertex form",
+        "teks": "A.7(A)",
+        "prompt": "This topic covers graphing quadratic functions in vertex form for Algebra I students (TEKS A.7(A)). Vertex form: f(x) = a(x-h)^2 + k. Steps: plot vertex (h,k), draw axis of symmetry x = h, determine direction (up if a > 0, down if a < 0), plot additional points using symmetry. The value |a| affects width: |a| > 1 narrower, 0 < |a| < 1 wider than y = x^2. Vocabulary: vertex form, vertex, axis of symmetry, parabola, stretch, compression. Plot at least 5 points for accuracy. Common errors: plotting vertex at (-h,k) instead of (h,k), misinterpreting a's effect on width, and not using symmetry."
+      },
+      {
+        "skill": "Graphing quadratic functions: Graph quadratic functions in standard form",
+        "teks": "A.7(A)",
+        "prompt": "This topic covers graphing quadratic functions in standard form for Algebra I students (TEKS A.7(A)). Standard form: f(x) = ax^2 + bx + c. Steps: find vertex using x = -b/(2a) and compute y, plot y-intercept (0, c), find x-intercepts by solving ax^2 + bx + c = 0, draw axis of symmetry, plot symmetric points. Key features from equation: c is y-intercept, sign of a is direction. Vocabulary: standard form, vertex, axis of symmetry, y-intercept, x-intercept. Common errors: computing vertex incorrectly, forgetting to find the y-value of vertex, and not plotting enough points."
+      },
+      {
+        "skill": "Graphing quadratic functions: Match quadratic functions and graphs",
+        "teks": "A.7(A)",
+        "prompt": "This topic covers matching quadratic functions with their graphs for Algebra I students (TEKS A.7(A)). Students analyze key features: direction of opening (sign of a), vertex location, y-intercept (c in standard form or plug x=0), x-intercepts (zeros/roots). For vertex form, read vertex directly as (h, k). Compare width using |a|. Vocabulary: parabola, vertex, axis of symmetry, x-intercept, y-intercept, opens up, opens down, stretch, compression. Students systematically eliminate choices. Common errors: confusing the sign of h in vertex form, ignoring the stretch factor, and not checking the y-intercept."
+      },
+      {
+        "skill": "Linear factors and zeros: Solve a quadratic equation using the zero product property",
+        "teks": "A.7(B)",
+        "prompt": "This topic covers solving quadratic equations using the zero product property for Algebra I students (TEKS A.7(B)). The zero product property states: if ab = 0, then a = 0 or b = 0. When the equation is in factored form (x-r)(x-s) = 0, set each factor to zero and solve. The solutions are the x-intercepts. Students must ensure the equation equals zero and is factored. Vocabulary: zero product property, factor, root, zero, solution, x-intercept. Verify solutions by substituting back. Common errors: forgetting to set the equation equal to zero, sign errors when finding solutions from factors, and not factoring completely."
+      },
+      {
+        "skill": "Transformations of quadratics: Transformations of quadratic functions",
+        "teks": "A.7(C)",
+        "prompt": "This topic covers transformations of quadratic functions for Algebra I students (TEKS A.7(C)). Starting from f(x) = x^2, students apply: vertical shift f(x) + d, horizontal shift f(x-c), vertical stretch/compression af(x), and reflection -f(x). In vertex form a(x-h)^2 + k: h is horizontal shift, k is vertical shift, a is stretch/reflection. Key understanding: c > 0 shifts right (counterintuitive), d > 0 shifts up, |a| > 1 stretches, 0 < |a| < 1 compresses. Vocabulary: transformation, translation, reflection, stretch, compression, parent function. Common errors: confusing horizontal shift direction, mixing up stretch and compression, and applying transformations in wrong order."
+      },
+      {
+        "skill": "Solving quadratic equations: Solve a quadratic equation using square roots",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers solving quadratic equations using square roots for Algebra I students (TEKS A.8(A)). This method works when the equation has the form (expression)^2 = k. Steps: isolate the squared term, take square root of both sides (remember +/-), solve. If k > 0: two real solutions. If k = 0: one solution. If k < 0: no real solutions (or complex in Algebra II). Example: (x-3)^2 = 16 gives x-3 = +/-4, so x = 7 or x = -1. Vocabulary: square root, principal root, plus or minus. Common errors: forgetting +/-, not isolating the squared term first, and arithmetic mistakes."
+      },
+      {
+        "skill": "Solving quadratic equations: Solve a quadratic equation using the zero product property",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers solving quadratic equations using the zero product property for Algebra I students (TEKS A.8(A)). The zero product property states: if ab = 0, then a = 0 or b = 0. When the equation is in factored form (x-r)(x-s) = 0, set each factor to zero and solve. The solutions are the x-intercepts. Students must ensure the equation equals zero and is factored. Vocabulary: zero product property, factor, root, zero, solution, x-intercept. Verify solutions by substituting back. Common errors: forgetting to set the equation equal to zero, sign errors when finding solutions from factors, and not factoring completely."
+      },
+      {
+        "skill": "Solving quadratic equations: Solve a quadratic equation by factoring",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.8(A)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+      },
+      {
+        "skill": "Solving quadratic equations: Complete the square",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers completing the square for Algebra I students (TEKS A.8(A)). Completing the square transforms ax^2 + bx + c into a(x-h)^2 + k form. For x^2 + bx: take half of b, square it, add and subtract (b/2)^2. This creates a perfect square trinomial. For ax^2 + bx + c with a not equal to 1: factor out a first. This technique converts standard form to vertex form, revealing the vertex. Vocabulary: completing the square, perfect square trinomial, vertex form. Common errors: forgetting to balance the equation, errors when a is not 1, and arithmetic with fractions."
+      },
+      {
+        "skill": "Solving quadratic equations: Solve a quadratic equation by completing the square",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers solving quadratic equations by completing the square for Algebra I students (TEKS A.8(A)). Steps: move constant to right, divide by a if needed, add (b/2)^2 to both sides, factor left as perfect square, take square root of both sides (+/-), solve. Example: x^2 + 6x = 7 becomes (x+3)^2 = 16, x+3 = +/-4, giving x = 1 or x = -7. This method always works, even when factoring does not. Vocabulary: completing the square, perfect square trinomial. Common errors: forgetting to add to both sides, errors dividing by a, and sign mistakes with +/-."
+      },
+      {
+        "skill": "Solving quadratic equations: Solve a quadratic equation using the quadratic formula",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers solving quadratic equations using the quadratic formula for Algebra I students (TEKS A.8(A)). Formula: x = (-b +/- sqrt(b^2 - 4ac))/(2a) for ax^2 + bx + c = 0. The discriminant D = b^2 - 4ac determines solution type: D > 0 gives 2 real solutions, D = 0 gives 1 repeated, D < 0 gives no real solutions (complex in Algebra II). Students identify a, b, c from standard form and substitute carefully. Vocabulary: quadratic formula, discriminant, standard form. Common errors: sign errors with negative b, forgetting 2a divides the entire numerator, and discriminant computation errors."
+      },
+      {
+        "skill": "Solving quadratic equations: Solve quadratic equations: word problems",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers solving quadratic equations in word problem contexts for Algebra I students (TEKS A.8(A)). Common contexts: projectile motion (h = -16t^2 + v0t + h0), area problems, revenue optimization, and falling objects. Steps: define variables, write the quadratic equation, solve using any method, interpret solutions in context (reject negative time, unreasonable dimensions). Vocabulary: projectile, maximum height, time of flight, area, optimization. Common errors: not rejecting extraneous solutions, setting up equations incorrectly, and misinterpreting context."
+      },
+      {
+        "skill": "Solving quadratic equations: Using the discriminant",
+        "teks": "A.8(A)",
+        "prompt": "This topic covers using the discriminant for Algebra I students (TEKS A.8(A)). The discriminant D = b^2 - 4ac determines the number and type of solutions: D > 0 means two distinct real solutions, D = 0 means one repeated real solution, D < 0 means no real solutions. If D is a perfect square, solutions are rational. Vocabulary: discriminant, real solutions, repeated root, rational, irrational. Students use the discriminant to predict graph behavior. Common errors: computing b^2-4ac incorrectly, confusing discriminant with the full quadratic formula, and misinterpreting D = 0."
+      }
+    ],
+    "Mathematics - Exponential functions and equations": [
+      {
+        "skill": "Domain and range of exponentials: Domain and range of exponential functions: graphs",
+        "teks": "A.9(A)",
+        "prompt": "This topic covers domain and range of exponential functions from graphs for Algebra I students (TEKS A.9(A)). Exponential functions f(x) = ab^x have domain of all real numbers. Range is restricted by the horizontal asymptote: for a > 0, range is (0, infinity) since the function approaches but never reaches 0. Reflections (a < 0) flip the range. Vertical shifts change the asymptote. Students read the asymptote and direction from the graph. Vocabulary: exponential function, asymptote, domain, range, growth, decay. Common errors: including the asymptote in the range, stating range as all reals, and not recognizing reflections."
+      },
+      {
+        "skill": "Domain and range of exponentials: Domain and range of exponential functions: equations",
+        "teks": "A.9(A)",
+        "prompt": "This topic covers domain and range of exponential functions from equations for Algebra I students (TEKS A.9(A)). For f(x) = ab^x + d: domain is all real numbers, horizontal asymptote is y = d, range is (d, infinity) if a > 0 or (-infinity, d) if a < 0. The base b determines growth vs decay, but a and d affect the range. Vocabulary: exponential function, horizontal asymptote, domain, range, vertical shift. Common errors: forgetting the vertical shift d when determining range, including the asymptote in the range, and confusing the roles of a, b, and d."
+      },
+      {
+        "skill": "Values of a and b in exponentials: Exponential growth and decay: word problems",
+        "teks": "A.9(B)",
+        "prompt": "This topic covers exponential growth and decay word problems for Algebra I students (TEKS A.9(B)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+      },
+      {
+        "skill": "Writing exponential functions: Write exponential functions: word problems",
+        "teks": "A.9(C)",
+        "prompt": "This topic covers writing exponential functions from word problems for Algebra I students (TEKS A.9(C)). Students identify initial value a and growth/decay factor b from context and write f(x) = ab^x. For percentage growth r, b = 1+r; for decay, b = 1-r. Process: identify initial amount, determine rate, classify as growth or decay, write equation, make predictions. Common contexts: population, investment, depreciation, bacterial growth. Vocabulary: exponential function, initial value, growth factor, decay factor, model. Common errors: writing linear instead of exponential models, confusing rate with factor, and not defining variables."
+      },
+      {
+        "skill": "Writing exponential functions: Exponential growth and decay: word problems",
+        "teks": "A.9(C)",
+        "prompt": "This topic covers exponential growth and decay word problems for Algebra I students (TEKS A.9(C)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+      },
+      {
+        "skill": "Graphing exponential functions: Graph exponential functions",
+        "teks": "A.9(D)",
+        "prompt": "This topic covers graphing exponential functions for Algebra I students (TEKS A.9(D)). For f(x) = ab^x: plot y-intercept (0, a), draw horizontal asymptote y = 0, create table of values, sketch curve. For b > 1 (growth): rises left to right. For 0 < b < 1 (decay): falls left to right. Key points: (0, a), (1, ab), (-1, a/b). The function never crosses the asymptote (for a > 0). With vertical shift d, asymptote moves to y = d. Vocabulary: exponential function, asymptote, growth, decay, y-intercept, end behavior. Common errors: drawing curve crossing the asymptote, not plotting enough points, and forgetting to shift asymptote."
+      },
+      {
+        "skill": "Graphing exponential functions: Match exponential functions and graphs I",
+        "teks": "A.9(D)",
+        "prompt": "This topic covers matching exponential functions to graphs (set I) for Algebra I students (TEKS A.9(D)). Students analyze: y-intercept f(0) = a, direction of growth or decay, horizontal asymptote, and rate of change. For f(x) = ab^x: a determines y-intercept, b > 1 means growth, 0 < b < 1 means decay. Strategies: compute f(0) to find y-intercept, check f(1) for direction and steepness. Vocabulary: exponential growth, decay, y-intercept, horizontal asymptote, base. Common errors: confusing growth and decay, not checking y-intercept, and ignoring curve steepness."
+      },
+      {
+        "skill": "Graphing exponential functions: Match exponential functions and graphs II",
+        "teks": "A.9(D)",
+        "prompt": "This topic covers matching exponential functions to graphs (set II, more complex) for Algebra I students (TEKS A.9(D)). Problems involve transformations: vertical shifts f(x) = ab^x + d, reflections f(x) = -ab^x, and horizontal shifts. Students analyze asymptote location, direction, and y-intercept f(0) = a + d. Vocabulary: transformation, vertical shift, reflection, horizontal asymptote. Students check multiple features before selecting. Common errors: ignoring transformations, misidentifying asymptote, computing f(0) incorrectly with shifts, and confusing reflections with decay."
+      },
+      {
+        "skill": "Exponential regression: Exponential regression",
+        "teks": "A.9(E)",
+        "prompt": "This topic covers exponential regression for Algebra I students (TEKS A.9(E)). Students use technology to find y = ab^x that best fits data. Steps: enter data, run exponential regression, interpret a and b, use for predictions. Correlation coefficient r indicates fit quality. Students compare exponential vs linear models. Vocabulary: regression, exponential model, correlation coefficient, residual, best fit, interpolation, extrapolation. Common errors: using model far outside data range, confusing with linear regression, and misinterpreting R^2."
+      }
+    ],
+    "Mathematics - Number and algebraic methods": [
+      {
+        "skill": "Polynomial operations: Add and subtract polynomials using algebra tiles",
+        "teks": "A.10(A)",
+        "prompt": "This topic covers adding and subtracting polynomials using algebra tiles for Algebra I students (TEKS A.10(A)). Algebra tiles provide a visual way to understand polynomial operations. Each tile type represents a term: small squares for units, rectangles for x, large squares for x^2. Positive and negative tiles cancel (zero pairs). To add: combine all tiles and remove zero pairs. To subtract: add opposite tiles. Vocabulary: algebra tiles, polynomial, zero pair, like terms. This builds understanding before abstract manipulation. Common errors: not creating zero pairs correctly, confusing subtraction with just removing tiles, and miscounting."
+      },
+      {
+        "skill": "Polynomial operations: Add polynomials to find perimeter",
+        "teks": "A.10(A)",
+        "prompt": "This topic covers adding polynomials to find perimeter for Algebra I students (TEKS A.10(A)). Perimeter is the sum of all side lengths. When sides are polynomial expressions, add by combining like terms. Process: write all sides, group like terms, add coefficients. This connects algebra to geometry practically. Vocabulary: polynomial, perimeter, like terms, combine, coefficient, simplify. Common errors: forgetting a side, not combining all like terms, and sign errors."
+      },
+      {
+        "skill": "Polynomial operations: Add and subtract polynomials",
+        "teks": "A.10(A)",
+        "prompt": "This topic covers adding and subtracting polynomials for Algebra I students (TEKS A.10(A)). To add: combine like terms (same variable, same power). To subtract: distribute the negative sign, then combine like terms. Like terms have identical variable parts. Write results in standard form (descending powers). Vocabulary: polynomial, like terms, coefficient, degree, standard form, distribute. Common errors: not distributing the negative to all terms when subtracting, combining unlike terms, and not writing in standard form."
+      },
+      {
+        "skill": "Polynomial operations: Multiply a polynomial by a monomial",
+        "teks": "A.10(B)",
+        "prompt": "This topic covers multiplying a polynomial by a monomial for Algebra I students (TEKS A.10(B)). Apply the distributive property: multiply the monomial by each term. For example, 3x(2x^2 + 4x - 5) = 6x^3 + 12x^2 - 15x. Multiply coefficients and add exponents of like bases (product rule). Write in standard form. Vocabulary: monomial, polynomial, distributive property, product rule. Common errors: forgetting to multiply every term, not adding exponents correctly, and sign mistakes with negative monomials."
+      },
+      {
+        "skill": "Polynomial operations: Multiply two binomials using algebra tiles",
+        "teks": "A.10(B)",
+        "prompt": "This topic covers multiplying two binomials using algebra tiles for Algebra I students (TEKS A.10(B)). Arrange tiles in a rectangular area model: one binomial along the top, one along the side, fill the rectangle. The interior tiles give the product. This visual method shows why (a+b)(c+d) = ac + ad + bc + bd. Combine like terms in the result. Vocabulary: binomial, algebra tiles, area model, product, like terms. Common errors: misplacing tiles, not accounting for negative tiles, and forgetting to combine like terms."
+      },
+      {
+        "skill": "Polynomial operations: Multiply two binomials",
+        "teks": "A.10(B)",
+        "prompt": "This topic covers polynomial operations (multiply two binomials) for Algebra I students (TEKS A.10(B)). Students use the distributive property (FOIL for binomials) to multiply: First, Outer, Inner, Last terms, then combine like terms. Example: (x+3)(x-2) = x^2 - 2x + 3x - 6 = x^2 + x - 6. Key vocabulary includes: binomial, FOIL, distributive property, product, like terms, trinomial. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: forgetting the outer or inner products, sign errors with negative terms, not combining like terms."
+      },
+      {
+        "skill": "Polynomial operations: Multiply two binomials: special cases",
+        "teks": "A.10(B)",
+        "prompt": "This topic covers special products of binomials for Algebra I students (TEKS A.10(B)). Key patterns: (a+b)^2 = a^2 + 2ab + b^2, (a-b)^2 = a^2 - 2ab + b^2, (a+b)(a-b) = a^2 - b^2. Students memorize these for efficiency. Understanding these is essential for factoring. Vocabulary: perfect square trinomial, difference of squares, conjugates, special products. Common errors: writing (a+b)^2 as a^2 + b^2 (missing 2ab), sign errors in (a-b)^2, and not recognizing conjugate pairs."
+      },
+      {
+        "skill": "Polynomial operations: Multiply polynomials using area models",
+        "teks": "A.10(B)",
+        "prompt": "This topic covers multiplying polynomials using area models for Algebra I students (TEKS A.10(B)). Draw a grid with one polynomial's terms across the top and the other along the side. Fill each cell with the product of corresponding terms. Combine like terms from all cells. This works for any polynomial multiplication. Vocabulary: area model, box method, polynomial, partial products, like terms. Common errors: miscalculating cell products, forgetting cells, exponent errors, and not combining all like terms."
+      },
+      {
+        "skill": "Polynomial operations: Multiply polynomials",
+        "teks": "A.10(B)",
+        "prompt": "This topic covers polynomial operations (multiply polynomials) for Algebra I students (TEKS A.10(B)). Students distribute each term of one polynomial to every term of the other, then combine like terms. The degree of the product equals the sum of the factors' degrees. Write results in standard form (descending degree). Key vocabulary includes: polynomial, distribute, product, like terms, degree, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: missing terms during distribution, exponent errors, sign mistakes, not combining all like terms."
+      },
+      {
+        "skill": "Polynomial operations: Divide polynomials by monomials",
+        "teks": "A.10(C)",
+        "prompt": "This topic covers dividing polynomials by monomials for Algebra I students (TEKS A.10(C)). Divide each term separately: divide coefficients and subtract exponents of like bases (quotient rule). Example: (6x^3 + 9x^2 - 3x)/(3x) = 2x^2 + 3x - 1. Vocabulary: polynomial, monomial, quotient, quotient rule. This prepares students for more complex polynomial division. Common errors: not dividing every term, subtracting exponents incorrectly, and forgetting that x/x = 1 (not 0)."
+      },
+      {
+        "skill": "Polynomial operations: Divide polynomials using long division",
+        "teks": "A.10(C)",
+        "prompt": "This topic covers dividing polynomials using long division for Algebra I students (TEKS A.10(C)). Process mirrors numerical long division: divide leading terms, multiply divisor by result, subtract, bring down next term, repeat until remainder has degree less than divisor. Include placeholder terms (0x^n) for missing degrees. Result: quotient + remainder/divisor. Vocabulary: dividend, divisor, quotient, remainder, leading term. Common errors: forgetting placeholders, subtraction errors, and stopping too early."
+      },
+      {
+        "skill": "Polynomial expressions: Distributive property",
+        "teks": "A.10(D)",
+        "prompt": "This topic covers polynomial expressions (distributive property) for Algebra I students (TEKS A.10(D)). The distributive property states a(b+c) = ab + ac. Students apply it to expand, factor, and simplify polynomial expressions. Extended form: a(b+c+d) = ab + ac + ad. This property is fundamental to all polynomial manipulation. Key vocabulary includes: distributive property, expand, factor, GCF, simplify, equivalent expression. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not distributing to every term, sign errors with negatives, confusing distribution with combining like terms."
+      },
+      {
+        "skill": "Factoring trinomials: Factor quadratics using algebra tiles",
+        "teks": "A.10(E)",
+        "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+      },
+      {
+        "skill": "Factoring trinomials: Factor quadratics with leading coefficient 1",
+        "teks": "A.10(E)",
+        "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+      },
+      {
+        "skill": "Factoring trinomials: Factor quadratics with other leading coefficients",
+        "teks": "A.10(E)",
+        "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+      },
+      {
+        "skill": "Factoring trinomials: Factor quadratics: special cases",
+        "teks": "A.10(E)",
+        "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+      },
+      {
+        "skill": "Difference of squares: Factor quadratics: special cases",
+        "teks": "A.10(F)",
+        "prompt": "This topic covers difference of squares (factor quadratics: special cases) for Algebra I students (TEKS A.10(F)). Key factoring patterns: a^2 - b^2 = (a+b)(a-b) for difference of squares. Also: a^2 + 2ab + b^2 = (a+b)^2 and a^2 - 2ab + b^2 = (a-b)^2 for perfect square trinomials. The sum of squares a^2 + b^2 does NOT factor over the reals. Always check for GCF first. Key vocabulary includes: difference of squares, perfect square trinomial, conjugates, factor, GCF. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: trying to factor sum of squares, not recognizing variable perfect squares, incomplete factoring."
+      },
+      {
+        "skill": "Simplifying radicals: Simplify radical expressions",
+        "teks": "A.11(A)",
+        "prompt": "This topic covers simplifying radical expressions for Algebra I students (TEKS A.11(A)). To simplify sqrt(n): find the largest perfect square factor, then separate. Example: sqrt(72) = sqrt(36*2) = 6sqrt(2). Steps: find prime factorization, pair factors, bring pairs outside. Know perfect squares to 225 (15^2). Vocabulary: radical, radicand, perfect square, simplify, prime factorization. Common errors: not finding the largest perfect square factor, leaving unsimplified radicals, and errors in prime factorization."
+      },
+      {
+        "skill": "Simplifying radicals: Add and subtract radical expressions",
+        "teks": "A.11(A)",
+        "prompt": "This topic covers adding and subtracting radical expressions for Algebra I students (TEKS A.11(A)). Like radicals (same radicand and index) combine by adding/subtracting coefficients. Steps: simplify each radical completely, identify like radicals, combine. Example: sqrt(12) + sqrt(27) = 2sqrt(3) + 3sqrt(3) = 5sqrt(3). Unlike radicals cannot be combined. Vocabulary: radical, radicand, like radicals, simplify, coefficient. Common errors: adding unlike radicals, not simplifying first, and adding radicands instead of coefficients."
+      },
+      {
+        "skill": "Simplifying radicals: Simplify radical expressions using the distributive property",
+        "teks": "A.11(A)",
+        "prompt": "This topic covers simplifying radical expressions using the distributive property for Algebra I students (TEKS A.11(A)). Students distribute: a(b+c) = ab + ac where terms include radicals. Key rules: sqrt(a)*sqrt(b) = sqrt(ab), (sqrt(a))^2 = a. Example: sqrt(3)(sqrt(3)+2) = 3 + 2sqrt(3). Simplify resulting radicals and combine like terms. Vocabulary: distributive property, radical, product rule for radicals, simplify. Common errors: not distributing to all terms, radical multiplication errors, and not combining like terms."
+      },
+      {
+        "skill": "Simplifying radicals: Simplify radical expressions using conjugates",
+        "teks": "A.11(A)",
+        "prompt": "This topic covers simplifying radical expressions using conjugates for Algebra I students (TEKS A.11(A)). Conjugates are (a + sqrt(b)) and (a - sqrt(b)). Their product eliminates the radical: (a+sqrt(b))(a-sqrt(b)) = a^2 - b. This rationalizes denominators. Steps: multiply numerator and denominator by the conjugate, simplify. Example: 1/(3+sqrt(2)) * (3-sqrt(2))/(3-sqrt(2)) = (3-sqrt(2))/7. Vocabulary: conjugate, rationalize, denominator, difference of squares. Common errors: wrong conjugate, not multiplying both parts, and difference of squares errors."
+      },
+      {
+        "skill": "Laws of exponents: Powers with integer bases",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers evaluating powers with integer bases for Algebra I students (TEKS A.11(B)). Students compute expressions like (-3)^4 or 2^5. Rules: positive base to any power is positive; negative base to even power is positive; negative base to odd power is negative. Distinguish (-3)^2 = 9 from -3^2 = -9. Vocabulary: base, exponent, power, evaluate, integer. Common errors: confusing (-a)^n with -(a^n), miscounting multiplications, and sign errors with negative bases."
+      },
+      {
+        "skill": "Laws of exponents: Powers with decimal and fractional bases",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers evaluating powers with decimal and fractional bases for Algebra I students (TEKS A.11(B)). For fractions: (a/b)^n = a^n/b^n. For decimals: multiply repeatedly or convert to fractions. Example: (2/3)^3 = 8/27. Fractions between 0 and 1 get smaller when raised to positive powers. Vocabulary: fractional base, decimal base, power, exponent, evaluate. Common errors: applying exponent to only numerator or denominator, decimal multiplication errors, and not simplifying."
+      },
+      {
+        "skill": "Laws of exponents: Negative exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers negative exponents for Algebra I students (TEKS A.11(B)). Rule: a^(-n) = 1/a^n (a not 0). A negative exponent means take the reciprocal. Examples: 2^(-3) = 1/8, (1/x)^(-2) = x^2. Negative exponents do NOT make the answer negative. Vocabulary: negative exponent, reciprocal, positive exponent, simplify. Common errors: thinking negative exponent means negative value, not taking reciprocal correctly, and confusing with base negation."
+      },
+      {
+        "skill": "Laws of exponents: Multiplication rule for exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers the multiplication (product) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m * a^n = a^(m+n). When multiplying powers with the same base, add exponents. Only applies when bases are identical. Example: x^3 * x^5 = x^8. Vocabulary: product rule, base, exponent, power. Common errors: multiplying exponents instead of adding, applying to different bases, and confusing with the power rule."
+      },
+      {
+        "skill": "Laws of exponents: Division rule for exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers the division (quotient) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m/a^n = a^(m-n) (a not 0). When dividing powers with same base, subtract exponents. Example: x^7/x^3 = x^4. If denominator exponent is larger: x^3/x^7 = x^(-4) = 1/x^4. Also a^0 = 1 follows from this rule. Vocabulary: quotient rule, base, exponent. Common errors: adding instead of subtracting, subtracting in wrong order, and applying to different bases."
+      },
+      {
+        "skill": "Laws of exponents: Power rule for exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers the power rule for exponents for Algebra I students (TEKS A.11(B)). Rule: (a^m)^n = a^(mn). When raising a power to a power, multiply exponents. Extensions: (ab)^n = a^n*b^n and (a/b)^n = a^n/b^n. Example: (x^3)^4 = x^12, (2x)^3 = 8x^3. Vocabulary: power rule, power of a power, power of a product, power of a quotient. Common errors: adding instead of multiplying exponents, not applying to all factors, and confusing with product rule."
+      },
+      {
+        "skill": "Laws of exponents: Simplify exponential expressions using the multiplication rule",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers the multiplication (product) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m * a^n = a^(m+n). When multiplying powers with the same base, add exponents. Only applies when bases are identical. Example: x^3 * x^5 = x^8. Vocabulary: product rule, base, exponent, power. Common errors: multiplying exponents instead of adding, applying to different bases, and confusing with the power rule."
+      },
+      {
+        "skill": "Laws of exponents: Simplify exponential expressions using the division rule",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers the division (quotient) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m/a^n = a^(m-n) (a not 0). When dividing powers with same base, subtract exponents. Example: x^7/x^3 = x^4. If denominator exponent is larger: x^3/x^7 = x^(-4) = 1/x^4. Also a^0 = 1 follows from this rule. Vocabulary: quotient rule, base, exponent. Common errors: adding instead of subtracting, subtracting in wrong order, and applying to different bases."
+      },
+      {
+        "skill": "Laws of exponents: Simplify exponential expressions using the multiplication and division rules",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers simplifying expressions using both multiplication and division rules for Algebra I students (TEKS A.11(B)). Combine a^m*a^n = a^(m+n) and a^m/a^n = a^(m-n) in multi-step problems. Simplify numerator and denominator separately, then divide. Example: (2x^3*4x^2)/x^4 = 8x^5/x^4 = 8x. Express with positive exponents. Vocabulary: product rule, quotient rule, simplify, exponential expression. Common errors: applying rules in wrong order, exponent arithmetic errors, and incomplete simplification."
+      },
+      {
+        "skill": "Laws of exponents: Simplify exponential expressions using the power rule",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers the power rule for exponents for Algebra I students (TEKS A.11(B)). Rule: (a^m)^n = a^(mn). When raising a power to a power, multiply exponents. Extensions: (ab)^n = a^n*b^n and (a/b)^n = a^n/b^n. Example: (x^3)^4 = x^12, (2x)^3 = 8x^3. Vocabulary: power rule, power of a power, power of a product, power of a quotient. Common errors: adding instead of multiplying exponents, not applying to all factors, and confusing with product rule."
+      },
+      {
+        "skill": "Laws of exponents: Evaluate expressions using exponent rules",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers evaluating expressions using all exponent rules for Algebra I students (TEKS A.11(B)). Apply product rule, quotient rule, power rule, zero exponent (a^0=1), and negative exponent (a^(-n)=1/a^n) together. Simplify first, then compute numerical values. Vocabulary: evaluate, exponent rules, simplify, numerical expression. Common errors: applying wrong rules, order of operations mistakes, and computational errors."
+      },
+      {
+        "skill": "Laws of exponents: Identify equivalent exponential expressions I",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers identifying equivalent exponential expressions (set I) for Algebra I students (TEKS A.11(B)). Students determine which expressions are equivalent by simplifying each using exponent rules. Simplify all options to the same form for comparison. Vocabulary: equivalent, exponential expression, simplify. Common errors: incomplete simplification, applying rules incorrectly, and not checking all choices."
+      },
+      {
+        "skill": "Laws of exponents: Identify equivalent exponential expressions II",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers identifying equivalent exponential expressions (set II) for Algebra I students (TEKS A.11(B)). More complex expressions requiring multiple rules in sequence. Students simplify expressions with nested powers, products, and quotients. Vocabulary: equivalent expressions, simplify, exponent rules, combined operations. Common errors: multi-step errors, sign mistakes with negatives, and incomplete simplification."
+      },
+      {
+        "skill": "Laws of exponents: Evaluate integers raised to positive rational exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers evaluating integers raised to positive rational exponents for Algebra I students (TEKS A.11(B)). Rule: a^(m/n) = (nth root of a)^m = nth root of (a^m). Example: 8^(2/3) = (cbrt(8))^2 = 4. Strategy: take root first to keep numbers small. Vocabulary: rational exponent, fractional exponent, nth root, evaluate. Common errors: confusing root vs power in m/n, computation errors, and not simplifying."
+      },
+      {
+        "skill": "Laws of exponents: Evaluate integers raised to rational exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers evaluating integers raised to rational exponents (including negative) for Algebra I students (TEKS A.11(B)). Combines rational exponents with negative rule: a^(-m/n) = 1/a^(m/n). Process: handle negative by reciprocal, then evaluate positive rational exponent. Example: 27^(-2/3) = 1/27^(2/3) = 1/9. Take roots before powers for easier computation. Vocabulary: rational exponent, negative exponent, reciprocal, nth root. Common errors: confusing negative exponents with negative results, and order of operations errors."
+      },
+      {
+        "skill": "Laws of exponents: Multiplication with rational exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers multiplication with rational exponents for Algebra I students (TEKS A.11(B)). Apply product rule: a^(m/n)*a^(p/q) = a^(m/n + p/q). Add fractional exponents using common denominators. Example: x^(1/2)*x^(1/3) = x^(5/6). Vocabulary: rational exponent, product rule, common denominator. Common errors: multiplying instead of adding exponents, common denominator errors, and not simplifying fractions."
+      },
+      {
+        "skill": "Laws of exponents: Division with rational exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers division with rational exponents for Algebra I students (TEKS A.11(B)). Apply quotient rule: a^(m/n)/a^(p/q) = a^(m/n - p/q). Subtract fractional exponents using common denominators. Example: x^(3/4)/x^(1/2) = x^(1/4). Express with positive exponents. Vocabulary: rational exponent, quotient rule, common denominator. Common errors: subtracting in wrong order, common denominator errors, and leaving negative fractional exponents."
+      },
+      {
+        "skill": "Laws of exponents: Power rule with rational exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers the power rule with rational exponents for Algebra I students (TEKS A.11(B)). Rule: (a^(m/n))^p = a^(mp/n). Multiply exponents. Example: (x^(2/3))^6 = x^4. Also (a^(m/n))^(p/q) = a^(mp/(nq)). Simplify resulting fractions. Vocabulary: power rule, rational exponent, multiply exponents. Common errors: adding instead of multiplying, fraction errors, and not simplifying."
+      },
+      {
+        "skill": "Laws of exponents: Simplify expressions involving rational exponents",
+        "teks": "A.11(B)",
+        "prompt": "This topic covers simplifying complex expressions with rational exponents for Algebra I students (TEKS A.11(B)). Apply all exponent rules to fractional exponents in multi-step problems. Steps: distribute exponents (power rule), combine same bases (product/quotient rules), simplify fractions, express with positive exponents. Vocabulary: rational exponent, simplify, product rule, quotient rule, power rule. Common errors: fraction arithmetic errors, applying rules incorrectly, and sign errors."
+      },
+      {
+        "skill": "Functions and relations: Identify functions",
+        "teks": "A.12(A)",
+        "prompt": "This topic covers identifying functions from various representations for Algebra I students (TEKS A.12(A)). A function assigns exactly one output to each input. Check from: ordered pairs (no repeated x with different y), tables (each input has one output), mappings (each input arrow to exactly one output), equations. Vocabulary: function, relation, input, output, domain, range, mapping. Common errors: confusing functions with one-to-one functions, misreading mappings, and thinking a function cannot repeat y-values."
+      },
+      {
+        "skill": "Functions and relations: Identify functions: vertical line test",
+        "teks": "A.12(A)",
+        "prompt": "This topic covers the vertical line test for Algebra I students (TEKS A.12(A)). A graph represents a function if every vertical line intersects it at most once. If any vertical line crosses at two or more points, the relation is NOT a function. Apply to curves, circles, and other graphs. Vocabulary: vertical line test, function, relation, graph, intersection. Common errors: not checking all possible vertical lines, confusing horizontal and vertical line tests, and misapplying to non-graphical forms."
+      },
+      {
+        "skill": "Function notation: Evaluate a function",
+        "teks": "A.12(B)",
+        "prompt": "This topic covers evaluating functions using function notation for Algebra I students (TEKS A.12(B)). f(x) names the function (f) and input (x). To evaluate f(a), substitute a for x and simplify. Example: f(x) = 3x^2 - 2x + 1, f(4) = 41. Students evaluate for numbers, variables, and expressions like f(a+1). Vocabulary: function notation, evaluate, substitute, input, output. Common errors: confusing f(x) with multiplication, not substituting into all x instances, and order of operations errors."
+      },
+      {
+        "skill": "Function notation: Complete a function table from an equation",
+        "teks": "A.12(B)",
+        "prompt": "This topic covers completing function tables from equations for Algebra I students (TEKS A.12(B)). Given a function rule and a table with missing values: for missing outputs, substitute x into the equation; for missing inputs, set the equation equal to the output and solve. Vocabulary: function table, input, output, evaluate, solve, function rule. Common errors: arithmetic errors, not solving correctly for missing inputs, and confusing table rows."
+      },
+      {
+        "skill": "Function notation: Evaluate piecewise-defined functions",
+        "teks": "A.12(B)",
+        "prompt": "This topic covers evaluating piecewise-defined functions for Algebra I students (TEKS A.12(B)). A piecewise function has different rules for different domain intervals. To evaluate: determine which piece applies based on the input value, then use that formula. Check boundary points carefully for which piece includes them. Example: f(x) = {x+1 if x<0; 2x if x>=0}. Vocabulary: piecewise function, domain restriction, boundary, interval. Common errors: using wrong piece, misreading inequalities at boundaries, and not evaluating boundary points correctly."
+      },
+      {
+        "skill": "Sequences: Evaluate variable expressions for number sequences",
+        "teks": "A.12(C)",
+        "prompt": "This topic covers evaluating variable expressions for number sequences for Algebra I students (TEKS A.12(C)). Students use explicit formulas like a_n = 3n+2 to find specific terms by substituting the term number. Example: a_5 = 3(5)+2 = 17. Also determine which term has a given value. Vocabulary: sequence, term, explicit formula, nth term, evaluate. Common errors: confusing term number with term value, starting n at 0 vs 1, and substitution errors."
+      },
+      {
+        "skill": "Sequences: Evaluate recursive formulas for sequences",
+        "teks": "A.12(C)",
+        "prompt": "This topic covers evaluating recursive formulas for sequences for Algebra I students (TEKS A.12(C)). A recursive formula defines each term using previous term(s), requiring an initial term. Example: a_1 = 5, a_n = a_(n-1) + 3 gives 5, 8, 11, 14... Compute terms sequentially. Vocabulary: recursive formula, initial term, previous term, iteration. Common errors: starting at wrong term, incorrect formula application, and trying to skip terms."
+      },
+      {
+        "skill": "Sequences: Write a formula for a recursive sequence",
+        "teks": "A.12(C)",
+        "prompt": "This topic covers writing recursive formulas for Algebra I students (TEKS A.12(C)). Analyze a sequence to find how each term relates to the previous one. For arithmetic: a_n = a_(n-1) + d. For geometric: a_n = r*a_(n-1). Both require specifying a_1. Vocabulary: recursive formula, common difference, common ratio, initial term. Common errors: not identifying the correct pattern, forgetting to state a_1, and confusing recursive with explicit."
+      },
+      {
+        "skill": "Sequences: Write variable expressions for arithmetic sequences",
+        "teks": "A.12(D)",
+        "prompt": "This topic covers writing explicit formulas for arithmetic sequences for Algebra I students (TEKS A.12(D)). An arithmetic sequence has constant common difference d. Formula: a_n = a_1 + (n-1)d. Find d by subtracting consecutive terms. Example: 3, 7, 11, 15... has d=4, a_1=3, so a_n = 4n-1. An arithmetic sequence is a linear function of n. Vocabulary: arithmetic sequence, common difference, explicit formula, linear. Common errors: using ratio instead of difference, not simplifying, and confusing with recursive formula."
+      },
+      {
+        "skill": "Sequences: Write variable expressions for geometric sequences",
+        "teks": "A.12(D)",
+        "prompt": "This topic covers writing explicit formulas for geometric sequences for Algebra I students (TEKS A.12(D)). A geometric sequence has constant common ratio r. Formula: a_n = a_1*r^(n-1). Find r by dividing consecutive terms. Example: 2, 6, 18, 54... has r=3, a_1=2, so a_n = 2*3^(n-1). Represents exponential growth or decay. Vocabulary: geometric sequence, common ratio, explicit formula, exponential. Common errors: confusing with arithmetic, using n instead of n-1, and ratio errors."
+      },
+      {
+        "skill": "Literal equations: Rearrange multi-variable equations",
+        "teks": "A.12(E)",
+        "prompt": "This topic covers rearranging multi-variable equations for Algebra I students (TEKS A.12(E)). Students isolate a specified variable using inverse operations, treating other variables as constants. Use the same solving techniques as one-variable equations. Example: solve A = lw for w gives w = A/l. Common formulas: distance (d=rt), perimeter, area, temperature conversions. Vocabulary: literal equation, isolate, rearrange, formula, inverse operation. Common errors: not performing operations on all terms, division errors with multiple-term expressions, and distributing incorrectly."
+      },
+      {
+        "skill": "Literal equations: Linear equations: solve for y",
+        "teks": "A.12(E)",
+        "prompt": "This topic covers solving linear equations for y for Algebra I students (TEKS A.12(E)). Given Ax + By = C, isolate y: move non-y terms to the other side, divide by y's coefficient. Example: 3x + 2y = 12 becomes y = -3/2 x + 6. This converts to slope-intercept form, revealing slope and y-intercept. Essential for graphing and calculator use. Vocabulary: solve for y, slope-intercept form, isolate, literal equation. Common errors: forgetting to divide all terms, sign errors, and not simplifying fractions."
+      }
+    ]
+  }
+}
