@@ -1,0 +1,26 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Oscillations",
+  "skills": [
+    {
+      "skill": "Defining Simple Harmonic Motion (SHM)",
+      "ref": "Unit 7, Topic 7.1",
+      "prompt": "This topic covers defining simple harmonic motion for AP Physics 1 students (CED: Unit 7, Topic 7.1). Students should understand that simple harmonic motion (SHM) occurs when a restoring force is proportional to displacement from equilibrium: F = -kx (Hooke's law for springs). This produces sinusoidal oscillation about the equilibrium position. Key characteristics: the motion is periodic, the restoring force always points toward equilibrium, acceleration is maximum at maximum displacement (amplitude) and zero at equilibrium, velocity is maximum at equilibrium and zero at amplitude. Examples include mass-spring systems and simple pendulums (for small angles). Students must identify conditions for SHM and describe the qualitative behavior of oscillating systems. Connect to energy, frequency, and wave motion. AP exam note: conceptual understanding of SHM characteristics is foundational. Vocabulary: simple harmonic motion, restoring force, equilibrium, amplitude, oscillation, periodic motion, displacement."
+    },
+    {
+      "skill": "Frequency and Period of SHM",
+      "ref": "Unit 7, Topic 7.2",
+      "prompt": "This topic covers frequency and period of SHM for AP Physics 1 students (CED: Unit 7, Topic 7.2). Students should understand that period T is the time for one complete oscillation and frequency f is the number of oscillations per second: f = 1/T. For a mass-spring system: T = 2*pi*sqrt(m/k), depending on mass and spring constant but NOT amplitude. For a simple pendulum: T = 2*pi*sqrt(L/g), depending on length and gravitational acceleration but NOT mass or amplitude (for small angles). Angular frequency omega = 2*pi*f = 2*pi/T. Students must calculate period, frequency, and spring constants from oscillation data, and predict how changes in parameters affect period. Connect to SHM definition, energy, and wave properties. AP exam note: period calculations and parameter dependence are commonly tested. Vocabulary: period, frequency, angular frequency, mass-spring system, pendulum, hertz, spring constant."
+    },
+    {
+      "skill": "Representing and Analyzing SHM",
+      "ref": "Unit 7, Topic 7.3",
+      "prompt": "This topic covers representing and analyzing SHM for AP Physics 1 students (CED: Unit 7, Topic 7.3). Students should understand that SHM can be represented by sinusoidal graphs of position, velocity, and acceleration vs. time. Position: x(t) = A*cos(omega*t + phi). Velocity leads position by a quarter period (90 degrees). Acceleration is opposite to position (180 degrees out of phase). When position is at maximum, velocity is zero and acceleration is maximum (toward equilibrium). When position is zero (equilibrium), velocity is maximum and acceleration is zero. Students must sketch, interpret, and translate between x-t, v-t, and a-t graphs for SHM, and identify phase relationships. Connect to restoring force, energy, and wave motion. AP exam note: graph interpretation and relating variables at different points in the cycle are heavily tested. Vocabulary: sinusoidal, amplitude, phase, position-time graph, velocity-time graph, acceleration-time graph, quarter period."
+    },
+    {
+      "skill": "Energy of Simple Harmonic Oscillators",
+      "ref": "Unit 7, Topic 7.4",
+      "prompt": "This topic covers energy of simple harmonic oscillators for AP Physics 1 students (CED: Unit 7, Topic 7.4). Students should understand that in SHM, energy continuously converts between kinetic energy (KE = (1/2)mv^2) and potential energy (PE = (1/2)kx^2 for springs). Total mechanical energy E = KE + PE = (1/2)kA^2 is constant (conserved, assuming no friction). At maximum displacement (x = A), all energy is potential and KE = 0. At equilibrium (x = 0), all energy is kinetic and PE = 0. At any point: (1/2)mv^2 + (1/2)kx^2 = (1/2)kA^2. The total energy depends on amplitude squared but not on mass or frequency. Students must calculate energies at different positions and interpret energy diagrams. Connect to conservation of energy, amplitude, and damping. AP exam note: energy analysis of oscillating systems is commonly tested. Vocabulary: kinetic energy, potential energy, total mechanical energy, amplitude, energy conservation, energy diagram, energy transformation."
+    }
+  ]
+}

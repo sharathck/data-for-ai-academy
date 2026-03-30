@@ -1,0 +1,96 @@
+{
+  "grade": "Grade 7",
+  "subject": "Maths - Probability and statistics",
+  "skills": [
+    {
+      "skill": "Represent sample spaces for simple events using lists and tree diagrams",
+      "teks": "7.6(A)",
+      "prompt": "This topic covers representing sample spaces for simple events for Grade 7 students (TEKS 7.6(A)). Students list all possible outcomes using lists and tree diagrams. Key concepts include: defining event/outcome, creating organized lists, using tree diagrams, and connecting to probability. Vocabulary: sample space, event, outcome, list, tree diagram, probability, equally likely. Common misconceptions: listing outcomes incompletely and confusing events with outcomes. Practice should include dice, coins, spinners, and card scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Represent sample spaces for compound events using lists and tree diagrams",
+      "teks": "7.6(A)",
+      "prompt": "This topic covers representing sample spaces for compound events for Grade 7 students (TEKS 7.6(A)). Students list all outcomes when two or more events occur together. Key concepts include: using tree diagrams, tables, and lists, applying the counting principle, and determining total outcomes. Vocabulary: compound event, sample space, tree diagram, counting principle, outcome, combination. Common misconceptions: not listing all combinations and double-counting. Practice should include multi-step scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find the number of outcomes for compound events",
+      "teks": "7.6(A)",
+      "prompt": "This topic covers finding the number of outcomes for compound events for Grade 7 students (TEKS 7.6(A)). Students use the Fundamental Counting Principle: multiply the outcomes for each event. Key concepts include: identifying options for each event, multiplying across events, and applying to menus, outfits, passwords. Vocabulary: compound event, Fundamental Counting Principle, outcome, multiply, total, combination. Common misconceptions: adding instead of multiplying. Practice should include menu, clothing, and code scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Select and use different simulations to represent events",
+      "teks": "7.6(B)",
+      "prompt": "This topic covers selecting and using simulations for Grade 7 students (TEKS 7.6(B)). Students choose appropriate tools (coins, dice, spinners, random generators) to model probability situations. Key concepts include: matching outcomes in the simulation to the real event, running multiple trials, recording results, and estimating probabilities. Vocabulary: simulation, model, trial, random, equally likely, experimental probability. Common misconceptions: choosing simulations with wrong number of outcomes and not running enough trials. Practice should include designing simulations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Make predictions using experimental probability",
+      "teks": "7.6(C)",
+      "prompt": "This topic covers making predictions using experimental probability for Grade 7 students (TEKS 7.6(C)). Students use experiment results to estimate probabilities and predict future outcomes. Key concepts include: calculating experimental probability = favorable outcomes / total trials, using it to predict future results, and understanding more trials improve reliability. Vocabulary: experimental probability, trial, outcome, predict, frequency, relative frequency. Common misconceptions: expecting exact match with theoretical probability and using too few trials. Practice should include data-based predictions appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Determine solutions using experimental probability",
+      "teks": "7.6(C)",
+      "prompt": "This topic covers determining solutions using experimental probability for Grade 7 students (TEKS 7.6(C)). Students use experimental data to solve problems and make decisions. Key concepts include: conducting experiments, computing probabilities, using proportional reasoning to scale predictions, and evaluating reliability. Vocabulary: experimental probability, data, trial, outcome, solution, frequency, proportion. Common misconceptions: treating small samples as conclusive and confusing experimental with theoretical probability. Practice should include experiment-based problem solving appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Make predictions using theoretical probability",
+      "teks": "7.6(D)",
+      "prompt": "This topic covers making predictions using theoretical probability for Grade 7 students (TEKS 7.6(D)). Students use theoretical probability (equally likely outcomes) to predict results. Key concepts include: P = favorable/total, multiplying by trial count for expected frequency, and understanding variability. Vocabulary: theoretical probability, equally likely, favorable outcome, predict, expected, frequency. Common misconceptions: confusing with experimental probability and thinking predictions are guarantees. Practice should include dice, coin, spinner problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find probabilities of simple events and their complements",
+      "teks": "7.6(E)",
+      "prompt": "This topic covers probabilities of simple events and complements for Grade 7 students (TEKS 7.6(E)). Key relationship: P(event) + P(complement) = 1. Students find probabilities of events and their complements. Key concepts include: identifying the complement, using the complement rule efficiently, and applying in context. Vocabulary: probability, event, complement, P(A), P(not A), certain, impossible. Common misconceptions: not recognizing the complement relationship. Practice should include varied probability scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Estimate population size using proportions",
+      "teks": "7.6(F)",
+      "prompt": "This topic covers estimating population size using proportions for Grade 7 students (TEKS 7.6(F)). Students use sample data and proportional reasoning to estimate total populations, similar to capture-recapture methods. Key concepts include: setting up proportions, cross-multiplying, understanding sampling assumptions. Vocabulary: population, sample, proportion, estimate, capture-recapture, representative. Common misconceptions: not recognizing when proportions apply and cross-multiplication errors. Practice should include wildlife estimation and survey problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Solve problems using data in bar graphs, dot plots, and circle graphs",
+      "teks": "7.6(G)",
+      "prompt": "This topic covers solving problems using bar graphs, dot plots, and circle graphs for Grade 7 students (TEKS 7.6(G)). Students read, interpret, and use data from various displays. Key concepts include: reading values from bar graphs, identifying frequencies in dot plots, interpreting proportions in circle graphs, and computing statistics. Vocabulary: bar graph, dot plot, circle graph, frequency, category, proportion. Common misconceptions: misreading scales and confusing frequency with value. Practice should include multi-graph interpretation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Interpret line plots with fractions",
+      "teks": "7.6(G)",
+      "prompt": "This topic covers interpreting line plots with fractions for Grade 7 students (TEKS 7.6(G)). Students read and analyze line plots where data values are fractions. Key concepts include: reading fractional values, counting data points, computing totals, and finding mean/median of fractional data. Vocabulary: line plot, dot plot, fraction, frequency, number line, mean, median. Common misconceptions: miscounting points and errors adding fractions. Practice should include measurement data appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Interpret bar graphs",
+      "teks": "7.6(G)",
+      "prompt": "This topic covers interpreting bar graphs for Grade 7 students (TEKS 7.6(G)). Students read and analyze bar graphs to answer questions and draw conclusions. Key concepts include: reading scale and labels, comparing bar heights, computing totals and averages, and making inferences. Vocabulary: bar graph, axis, scale, category, frequency, compare, interpret. Common misconceptions: misreading scale intervals and making unsupported claims. Practice should include varied bar graph contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Interpret circle graphs",
+      "teks": "7.6(G)",
+      "prompt": "This topic covers interpreting circle graphs (pie charts) for Grade 7 students (TEKS 7.6(G)). Students determine proportions, calculate actual values, and make comparisons from circle graphs. Key concepts include: whole circle = 100%, reading sectors, computing actual values from percents, and comparing sectors. Vocabulary: circle graph, pie chart, sector, percent, proportion, whole, part. Common misconceptions: not understanding sectors as parts of whole and errors converting percents to values. Practice should include survey and budget data appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Estimate population size using proportions",
+      "teks": "7.6(F)",
+      "prompt": "This topic covers estimating population size using proportions for Grade 7 students (TEKS 7.6(F)). Students use sample data and proportional reasoning to estimate total populations, similar to capture-recapture methods. Key concepts include: setting up proportions, cross-multiplying, understanding sampling assumptions. Vocabulary: population, sample, proportion, estimate, capture-recapture, representative. Common misconceptions: not recognizing when proportions apply and cross-multiplication errors. Practice should include wildlife estimation and survey problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Make predictions using experimental and theoretical probability",
+      "teks": "7.6(I)",
+      "prompt": "This topic covers making predictions using both experimental and theoretical probability for Grade 7 students (TEKS 7.6(I)). Students compare both approaches and use them for informed predictions. Key concepts include: computing theoretical probability from equally likely outcomes, computing experimental probability from data, understanding convergence with more trials (Law of Large Numbers), and choosing appropriate methods. Vocabulary: experimental probability, theoretical probability, prediction, Law of Large Numbers, converge. Common misconceptions: expecting exact match and not recognizing when to use each type. Practice should include comparative exercises appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Determine experimental and theoretical probabilities for events",
+      "teks": "7.6(I)",
+      "prompt": "This topic covers determining both experimental and theoretical probabilities for Grade 7 students (TEKS 7.6(I)). Students calculate both and compare results. Key concepts include: theoretical = favorable/total (equally likely), experimental = favorable occurrences/trials, comparing and discussing discrepancies. Vocabulary: experimental probability, theoretical probability, favorable outcome, trial, frequency. Common misconceptions: thinking they must always match and using theoretical when outcomes are not equally likely. Practice should include experiments with known theoretical values appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Identify independent and dependent events",
+      "teks": "7.6(I)",
+      "prompt": "This topic covers identifying independent and dependent events for Grade 7 students (TEKS 7.6(I)). Students distinguish between events where one outcome affects the other (dependent) and events where outcomes are unrelated (independent). Key concepts include: independent events (coin flips), dependent events (drawing without replacement), and how the sample space changes. Vocabulary: independent events, dependent events, probability, with/without replacement, sample space. Common misconceptions: thinking all sequential events are dependent and confusing replacement concepts. Practice should include card, marble, and spinner scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find probabilities of independent and dependent events",
+      "teks": "7.6(I)",
+      "prompt": "This topic covers finding probabilities of independent and dependent events for Grade 7 students (TEKS 7.6(I)). For independent: P(A and B) = P(A) x P(B). For dependent: P(A and B) = P(A) x P(B|A). Key concepts include: applying the multiplication rule, adjusting for dependent events, and multi-step problems. Vocabulary: independent, dependent, compound probability, multiplication rule, conditional probability, replacement. Common misconceptions: using independent formula for dependent events and not adjusting denominators. Practice should include drawing and sequential event problems appropriate for 12-13 year olds."
+    }
+  ]
+}

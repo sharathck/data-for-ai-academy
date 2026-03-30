@@ -1,0 +1,90 @@
+{
+  "grade": "Grade 8",
+  "subject": "Science - Matter and energy",
+  "skills": [
+    {
+      "skill": "Atoms and elements: Describe the structure of atoms, including the masses, electrical charges, and locations, of protons and neutrons in the nucleus and electrons in the electron cloud",
+      "teks": "8.6(A)",
+      "teks_description": "Explain how matter is classified as elements, compounds, or mixtures",
+      "prompt": "This topic covers atomic structure for Grade 8 science students (TEKS 8.6(A)). Students describe the components and arrangement of atoms. Key concepts include: protons (positive charge, in nucleus, determine element identity), neutrons (no charge, in nucleus, contribute to mass), electrons (negative charge, in electron cloud, determine chemical properties), atomic number = number of protons, and mass number = protons + neutrons. Vocabulary: atom, proton, neutron, electron, nucleus, electron cloud, atomic number, mass number, charge, element. Common misconceptions: thinking electrons orbit in fixed paths (they form clouds), confusing atomic number with mass number, and thinking atoms are mostly solid. Practice should include atomic model analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Atoms and elements: What are atoms and chemical elements?",
+      "teks": "8.6(A)",
+      "teks_description": "Explain how matter is classified as elements, compounds, or mixtures",
+      "prompt": "This topic covers atoms and chemical elements for Grade 8 science students (TEKS 8.6(A)). Students understand that atoms are the building blocks of matter and elements are pure substances made of one type of atom. Key concepts include: atoms are the smallest unit of an element, each element has a unique number of protons, elements are organized on the periodic table, atoms combine to form molecules and compounds, and the difference between elements and compounds. Vocabulary: atom, element, molecule, compound, proton, periodic table, chemical symbol, pure substance. Common misconceptions: confusing atoms with molecules, thinking elements and compounds are the same, and that atoms can be seen with regular microscopes. Practice should include classification exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Atoms and elements: Identify that protons determine an element's identity and valence electrons determine its chemical properties, including reactivity",
+      "teks": "8.6(B)",
+      "teks_description": "Use the periodic table to identify atoms in chemical reactions",
+      "prompt": "This topic covers how protons determine element identity and valence electrons determine chemical properties for Grade 8 science students (TEKS 8.6(B)). Key concepts include: the number of protons defines which element an atom is (atomic number), valence electrons (outermost electrons) determine how an atom bonds and reacts, atoms with full outer shells are stable (noble gases), and atoms tend to gain, lose, or share electrons to achieve stability. Vocabulary: proton, atomic number, valence electron, chemical property, reactivity, stability, noble gas, electron shell, bond. Common misconceptions: thinking neutrons determine element identity and confusing total electrons with valence electrons. Practice should include periodic table analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Periodic Table: Interpret the arrangement of the Periodic Table, including groups and periods, to explain how properties are used to classify elements",
+      "teks": "8.6(B)",
+      "teks_description": "Use the periodic table to identify atoms in chemical reactions",
+      "prompt": "This topic covers interpreting the Periodic Table for Grade 8 science students (TEKS 8.6(B)). Students understand how the table organizes elements by properties. Key concepts include: elements are arranged by atomic number, groups (columns) have similar chemical properties, periods (rows) represent electron shell levels, metals/nonmetals/metalloids regions, and how group number relates to valence electrons. Vocabulary: periodic table, group, period, atomic number, chemical property, metal, nonmetal, metalloid, valence electron, classify. Common misconceptions: thinking elements in the same period have similar properties and confusing groups with periods. Practice should include periodic table navigation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical formulas: Recognize that chemical formulas are used to identify substances and determine the number of atoms of each element in chemical formulas containing subscripts",
+      "teks": "8.6(A)",
+      "teks_description": "Explain how matter is classified as elements, compounds, or mixtures",
+      "prompt": "This topic covers recognizing and interpreting chemical formulas for Grade 8 science students (TEKS 8.6(A)). Students read chemical formulas to identify substances and count atoms. Key concepts include: chemical symbols represent elements, subscripts indicate the number of atoms, no subscript means one atom, interpreting formulas like H2O (2 hydrogen, 1 oxygen), and distinguishing elements from compounds by their formulas. Vocabulary: chemical formula, element, compound, subscript, atom, molecule, chemical symbol. Common misconceptions: confusing subscripts with coefficients, thinking subscripts apply to all elements in the formula, and not understanding what formulas represent physically. Practice should include formula interpretation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical formulas: How are substances represented by chemical formulas and models?",
+      "teks": "8.6(A)",
+      "teks_description": "Explain how matter is classified as elements, compounds, or mixtures",
+      "prompt": "This topic covers how substances are represented by chemical formulas and models for Grade 8 science students (TEKS 8.6(A)). Students connect chemical formulas to physical and ball-and-stick models. Key concepts include: chemical formulas show element types and quantities, ball-and-stick models show 3D arrangement, different representations serve different purposes, and connecting molecular models to written formulas. Vocabulary: chemical formula, model, ball-and-stick model, molecule, atom, bond, element, compound, representation. Common misconceptions: thinking models are exact replicas, confusing different model types, and not connecting formulas to structures. Practice should include model-formula matching appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical formulas: Identify chemical formulas for ball-and-stick models",
+      "teks": "8.6(A)",
+      "teks_description": "Explain how matter is classified as elements, compounds, or mixtures",
+      "prompt": "This topic covers identifying chemical formulas from ball-and-stick models for Grade 8 science students (TEKS 8.6(A)). Students translate 3D molecular models into written chemical formulas. Key concepts include: each ball color represents a specific element, counting atoms of each element in the model, writing the chemical formula with proper subscripts, and recognizing common molecules from their models. Vocabulary: ball-and-stick model, chemical formula, element, atom, subscript, molecule, bond, identify. Common misconceptions: miscounting atoms, confusing element colors, and not using subscripts correctly. Practice should include model-to-formula conversion appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical formulas: Describe the atomic composition of molecules",
+      "teks": "8.6(A)",
+      "teks_description": "Explain how matter is classified as elements, compounds, or mixtures",
+      "prompt": "This topic covers describing the atomic composition of molecules for Grade 8 science students (TEKS 8.6(A)). Students identify the types and numbers of atoms that make up molecules. Key concepts include: molecules are made of two or more atoms bonded together, reading chemical formulas to determine composition, distinguishing between molecular elements (O2) and compounds (H2O), and comparing atomic composition of different molecules. Vocabulary: molecule, atom, composition, element, compound, bond, chemical formula, subscript. Common misconceptions: thinking molecules are always compounds (some are molecular elements) and confusing atoms with molecules. Practice should include composition analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical reactions: Investigate how evidence of chemical reactions indicates that new substances with different properties are formed and how that relates to the law of conservation of mass",
+      "teks": "8.6(E)",
+      "teks_description": "Investigate how mass is conserved in chemical reactions",
+      "prompt": "This topic covers evidence of chemical reactions and the law of conservation of mass for Grade 8 science students (TEKS 8.6(E)). Students identify evidence that new substances have formed and verify mass conservation. Key evidence includes: color change, gas production, temperature change, precipitate formation, and odor change. Key concepts include: matter is neither created nor destroyed in chemical reactions, total mass of reactants equals total mass of products, and new substances have different properties from the original. Vocabulary: chemical reaction, evidence, conservation of mass, reactant, product, precipitate, gas, temperature change. Common misconceptions: thinking mass can be created or destroyed in reactions and confusing physical with chemical changes. Practice should include reaction evidence analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical reactions: Identify reactants and products",
+      "teks": "8.6(E)",
+      "teks_description": "Investigate how mass is conserved in chemical reactions",
+      "prompt": "This topic covers identifying reactants and products in chemical reactions for Grade 8 science students (TEKS 8.6(E)). Students distinguish between the substances that enter a reaction (reactants) and the substances that are produced (products). Key concepts include: reactants are on the left side of a chemical equation, products are on the right side, the arrow means yields, and new substances with new properties are formed. Vocabulary: reactant, product, chemical equation, yield, arrow, chemical reaction, substance, before, after. Common misconceptions: confusing reactants with products, thinking some matter disappears during reactions, and not recognizing that products have different properties. Practice should include equation reading appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical reactions: Count atoms and molecules in chemical reactions",
+      "teks": "8.6(E)",
+      "teks_description": "Investigate how mass is conserved in chemical reactions",
+      "prompt": "This topic covers counting atoms and molecules in chemical reactions for Grade 8 science students (TEKS 8.6(E)). Students count the number of each type of atom on both sides of a chemical equation to check for balance. Key concepts include: reading subscripts and coefficients, coefficients multiply all atoms in a formula, subscripts indicate atoms within a molecule, and balanced equations have equal atoms on both sides. Vocabulary: atom, molecule, coefficient, subscript, balanced equation, reactant, product, chemical equation. Common misconceptions: confusing coefficients with subscripts, not multiplying coefficients through all atoms, and thinking unbalanced equations are valid. Practice should include atom counting exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical reactions: Calculate amounts of reactants or products in chemical reactions",
+      "teks": "8.6(E)",
+      "teks_description": "Investigate how mass is conserved in chemical reactions",
+      "prompt": "This topic covers calculating amounts of reactants or products in chemical reactions for Grade 8 science students (TEKS 8.6(E)). Students use balanced equations and the law of conservation of mass to determine unknown amounts. Key concepts include: using ratios from balanced equations, applying conservation of mass (total reactant mass = total product mass), and solving for unknown quantities. Vocabulary: reactant, product, balanced equation, conservation of mass, ratio, calculate, chemical reaction, mass. Common misconceptions: not using balanced equations, ignoring conservation of mass, and errors in ratio calculations. Practice should include calculation problems appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical reactions: Describe energy changes in chemical reactions",
+      "teks": "8.6(E)",
+      "teks_description": "Investigate how mass is conserved in chemical reactions",
+      "prompt": "This topic covers energy changes in chemical reactions for Grade 8 science students (TEKS 8.6(E)). Students understand that chemical reactions involve energy changes. Key concepts include: exothermic reactions release energy (feel hot), endothermic reactions absorb energy (feel cold), activation energy is needed to start reactions, and energy is stored in and released from chemical bonds. Vocabulary: exothermic, endothermic, activation energy, chemical bond, energy release, energy absorption, temperature change. Common misconceptions: thinking all reactions release energy, confusing temperature change direction with reaction type, and not understanding activation energy. Practice should include classifying reactions appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Chemical reactions: Compare physical and chemical changes",
+      "teks": "8.6(A)",
+      "teks_description": "Explain how matter is classified as elements, compounds, or mixtures",
+      "prompt": "This topic covers distinguishing between physical and chemical changes in matter for Grade 8 science students (TEKS 8.6(A)). Students identify and compare changes that alter appearance only (physical) versus changes that create new substances (chemical). Key concepts include: physical changes (melting, dissolving, cutting) do not create new substances, chemical changes (burning, rusting, cooking) produce new substances with different properties, evidence of chemical change (color change, gas production, temperature change, precipitate), and reversibility. Vocabulary: physical change, chemical change, substance, property, reversible, irreversible, precipitate, reaction. Common misconceptions: thinking all color changes are chemical and confusing dissolving (physical) with a chemical reaction. Practice should include classification activities appropriate for 13-14 year olds."
+    }
+  ]
+}

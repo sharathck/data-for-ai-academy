@@ -1,0 +1,51 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Differential Equations",
+  "skills": [
+    {
+      "skill": "Analysis of Functions: Modeling Situations with Differential Equations",
+      "ref": "FUN-7.A",
+      "prompt": "This topic covers modeling with differential equations for AP Calculus BC (CED: FUN-7.A, Unit 7). A differential equation involves a function and its derivatives. Students write DEs from verbal descriptions: identify the rate of change and its dependence. Common models: dy/dx = ky (exponential), dy/dx = k(y-A) (Newton's cooling), dP/dt = kP(1-P/L) (logistic). BC students work with all these models and must verify proposed solutions by substitution. The general solution contains arbitrary constants; particular solutions use initial conditions. AP exam note: writing DEs from context is a BC free-response skill. Students should identify whether a model is exponential, logistic, or other. Vocabulary: differential equation, model, rate of change, proportional, exponential, logistic, general solution, particular solution."
+    },
+    {
+      "skill": "Analysis of Functions: Verifying Solutions for Differential Equations",
+      "ref": "FUN-7.B",
+      "prompt": "This topic covers verifying DE solutions for AP Calculus BC (CED: FUN-7.B, Unit 7). To verify y = f(x) solves a DE: compute required derivatives, substitute into the equation, confirm equality for all x. Also verify initial conditions when given. General solutions have constant C; particular solutions have specific C from initial conditions. BC students verify solutions for exponential, logistic, and other models. AP exam note: verification tests differentiation skills and algebraic manipulation. Students must show substitution and simplification clearly. Vocabulary: verify, solution, general solution, particular solution, initial condition, substitute, identity, differentiate."
+    },
+    {
+      "skill": "Analysis of Functions: Sketching Slope Fields",
+      "ref": "FUN-7.C",
+      "prompt": "This topic covers slope fields for AP Calculus BC (CED: FUN-7.C, Unit 7). A slope field for dy/dx = f(x,y) shows small segments at grid points with slope f(x,y). Key concepts: slope fields visualize solution families without solving; solution curves follow the segment pattern; horizontal segments where f(x,y) = 0; parallel segments indicate dependence on only one variable. BC students should quickly sketch and interpret slope fields, connecting them to the qualitative behavior of solutions. AP exam note: slope field questions appear in both multiple-choice (matching) and free-response (sketching solution curves through given points). Vocabulary: slope field, direction field, line segment, slope, solution curve, grid point, pattern."
+    },
+    {
+      "skill": "Analysis of Functions: Reasoning Using Slope Fields",
+      "ref": "FUN-7.C",
+      "prompt": "This topic covers reasoning with slope fields for AP Calculus BC (CED: FUN-7.C, Unit 7). Students use slope fields to: sketch solution curves from initial points, identify equilibria (horizontal segments along a line), determine long-term behavior, and match fields to DEs. Reasoning: if slopes depend only on y (isoclines are horizontal), the field has the same slopes across rows; if only on x, same slopes down columns. BC students should connect slope field analysis to analytical solutions and use it when analytical solutions are unavailable. AP exam note: matching slope fields to DEs is a common MC question. Students should also sketch solutions through specified initial points. Vocabulary: slope field, solution curve, equilibrium, long-term behavior, isocline, qualitative, pattern matching."
+    },
+    {
+      "skill": "Analysis of Functions: Approximating Solutions Using Euler’s Method (BC ONLY)",
+      "ref": "FUN-7.C",
+      "prompt": "This topic covers Euler's Method for AP Calculus BC (CED: FUN-7.C, Unit 7). Euler's Method approximates solutions to dy/dx = f(x,y) with y(x0) = y0 using steps: x_(n+1) = x_n + h, y_(n+1) = y_n + h*f(x_n, y_n). Each step follows the tangent line. Smaller h gives better accuracy. Concavity determines error direction: concave up means underestimate, concave down means overestimate. This is BC ONLY. Students should perform several steps by hand, organizing work in a table. Example: dy/dx = x+y, y(0) = 1, h = 0.1: y(0.1) = 1 + 0.1(0+1) = 1.1. AP exam note: Euler's Method is commonly tested on BC. Students should organize computations clearly. Vocabulary: Euler's Method, step size, numerical approximation, iteration, tangent line, error, concavity, BC only."
+    },
+    {
+      "skill": "Analysis of Functions: Finding General Solutions Using Separation of Variables",
+      "ref": "FUN-7.D",
+      "prompt": "This topic covers separation of variables for AP Calculus BC (CED: FUN-7.D, Unit 7). For dy/dx = f(x)g(y): separate as (1/g(y))dy = f(x)dx, integrate both sides, include constant C. Check for equilibrium solutions where g(y) = 0 (may be lost during separation). BC students handle a wider variety of separable equations, including those leading to logarithmic, inverse trig, and more complex solutions. AP exam note: separation of variables is the primary DE-solving technique on the BC exam. Students must show the separation step clearly and include the constant of integration. Vocabulary: separation of variables, separable, general solution, equilibrium, constant of integration, family of curves."
+    },
+    {
+      "skill": "Analysis of Functions: Finding Particular Solutions Using Initial Conditions and Separation of Variables",
+      "ref": "FUN-7.E",
+      "prompt": "This topic covers finding particular solutions for AP Calculus BC (CED: FUN-7.E, Unit 7). After finding the general solution, substitute the initial condition y(x0) = y0 to determine C. Steps: (1) general solution with C; (2) plug in initial values; (3) solve for C; (4) write particular solution. Often easier to find C before solving explicitly for y. Verify the solution satisfies both the DE and initial condition. AP exam note: finding particular solutions is a core BC free-response skill. Students must show clear use of the initial condition. Vocabulary: particular solution, initial condition, initial value problem, constant of integration, verify, specific solution."
+    },
+    {
+      "skill": "Analysis of Functions: Exponential Models with Differential Equations",
+      "ref": "FUN-7.F, FUN-7.G",
+      "prompt": "This topic covers exponential growth/decay for AP Calculus BC (CED: FUN-7.F, FUN-7.G, Unit 7). dy/dt = ky has solution y = Ce^(kt). k > 0: growth; k < 0: decay. With y(0) = y0: y = y0*e^(kt). Applications: population growth, radioactive decay (half-life = ln2/|k|), Newton's Cooling (dT/dt = -k(T-T_env), solution T = T_env + (T0-T_env)e^(-kt)). BC students should derive solutions via separation of variables and apply them in context. AP exam note: exponential models are commonly tested. Students should connect the DE to its solution and interpret parameters (growth rate, initial value, half-life) in context. Vocabulary: exponential growth, decay, half-life, doubling time, Newton's Cooling, growth rate."
+    },
+    {
+      "skill": "Analysis of Functions: Logistic Models with Differential Equations (BC ONLY)",
+      "ref": "FUN-7.H",
+      "prompt": "This topic covers logistic growth for AP Calculus BC (CED: FUN-7.H, Unit 7). dP/dt = kP(1-P/L), carrying capacity L, growth constant k. Solution is S-shaped; maximum growth at P = L/2 (inflection point); equilibria at P = 0 (unstable) and P = L (stable). Solution: P(t) = L/(1+Ae^(-kt)) where A = (L-P0)/P0. For P0 < L, population grows toward L; for P0 > L, decreases toward L. This is BC ONLY. AP exam note: BC students should analyze logistic equations qualitatively (concavity, inflection, equilibria) and know that fastest growth occurs at P = L/2. Vocabulary: logistic growth, carrying capacity, inflection point, sigmoidal, equilibrium, maximum growth rate, BC only."
+    }
+  ]
+}

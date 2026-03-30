@@ -1,0 +1,206 @@
+{
+  "grade": "Grade 3",
+  "subject": "Maths - Geometry and measurement",
+  "skills": [
+    {
+      "skill": "Three-dimensional shapes in the real world I",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Three-dimensional shapes in the real world I for Grade 3 students (TEKS 3.6(A)). Students identify three-dimensional shapes (cubes, rectangular prisms, spheres, cones, cylinders, pyramids) and describe their attributes. Key concepts include faces, edges, vertices, and relating 3D shapes to real objects and their 2D faces. Vocabulary: three-dimensional, solid, face, edge, vertex, cube, rectangular prism, sphere, cone, cylinder, pyramid. Common misconceptions include difficulty counting hidden attributes and confusing 2D/3D terminology. Activities should include examining real objects, building with blocks, and sorting by attributes appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Three-dimensional shapes in the real world II",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Three-dimensional shapes in the real world II for Grade 3 students (TEKS 3.6(A)). Students identify three-dimensional shapes (cubes, rectangular prisms, spheres, cones, cylinders, pyramids) and describe their attributes. Key concepts include faces, edges, vertices, and relating 3D shapes to real objects and their 2D faces. Vocabulary: three-dimensional, solid, face, edge, vertex, cube, rectangular prism, sphere, cone, cylinder, pyramid. Common misconceptions include difficulty counting hidden attributes and confusing 2D/3D terminology. Activities should include examining real objects, building with blocks, and sorting by attributes appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Attributes of polygons",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Attributes of polygons for Grade 3 students (TEKS 3.6(A)). Polygons are closed 2D shapes with straight sides. Students classify by side count: triangle (3), quadrilateral (4), pentagon (5), hexagon (6), etc. Key concepts include polygon vs. non-polygon criteria and regular vs. irregular types. Vocabulary: polygon, closed, straight sides, triangle, quadrilateral, pentagon, hexagon, regular, irregular. Common misconceptions include thinking circles are polygons and not recognizing irregular forms. Activities should include sorting, naming by counting sides, drawing, and finding polygons in the environment appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Identify polygons: up to 12 sides",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Identify polygons: up to 12 sides for Grade 3 students (TEKS 3.6(A)). Polygons are closed 2D shapes with straight sides. Students classify by side count: triangle (3), quadrilateral (4), pentagon (5), hexagon (6), etc. Key concepts include polygon vs. non-polygon criteria and regular vs. irregular types. Vocabulary: polygon, closed, straight sides, triangle, quadrilateral, pentagon, hexagon, regular, irregular. Common misconceptions include thinking circles are polygons and not recognizing irregular forms. Activities should include sorting, naming by counting sides, drawing, and finding polygons in the environment appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Count and compare sides and vertices",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Count and compare sides and vertices for Grade 3 students (TEKS 3.6(A)). Students identify and count faces (flat surfaces), edges (where faces meet), and vertices (corner points) of 3D shapes. Key concepts include systematic counting, understanding that different shapes have different counts, and comparing shapes by these attributes. Vocabulary: face, edge, vertex/vertices, flat surface, corner, three-dimensional. Common misconceptions include miscounting hidden features and confusing edges with sides. Activities should include handling physical objects, marking attributes, and creating comparison charts appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Acute, obtuse, and right triangles",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Acute, obtuse, and right triangles for Grade 3 students (TEKS 3.6(A)). Students classify triangles by angles (acute, right, obtuse) and sides (equilateral, isosceles, scalene). Every triangle belongs to one angle category and one side category. Vocabulary: acute, obtuse, right, equilateral, isosceles, scalene, angle, side, classify. Common misconceptions include confusing classifications. Activities should include measuring, sorting, and creating examples of each type appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Scalene, isosceles, and equilateral triangles",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Scalene, isosceles, and equilateral triangles for Grade 3 students (TEKS 3.6(A)). Students classify triangles by angles (acute, right, obtuse) and sides (equilateral, isosceles, scalene). Every triangle belongs to one angle category and one side category. Vocabulary: acute, obtuse, right, equilateral, isosceles, scalene, angle, side, classify. Common misconceptions include confusing classifications. Activities should include measuring, sorting, and creating examples of each type appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Identify three-dimensional shapes",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Identify three-dimensional shapes for Grade 3 students (TEKS 3.6(A)). Students identify three-dimensional shapes (cubes, rectangular prisms, spheres, cones, cylinders, pyramids) and describe their attributes. Key concepts include faces, edges, vertices, and relating 3D shapes to real objects and their 2D faces. Vocabulary: three-dimensional, solid, face, edge, vertex, cube, rectangular prism, sphere, cone, cylinder, pyramid. Common misconceptions include difficulty counting hidden attributes and confusing 2D/3D terminology. Activities should include examining real objects, building with blocks, and sorting by attributes appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Count vertices, edges, and faces",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Count vertices, edges, and faces for Grade 3 students (TEKS 3.6(A)). Students identify and count faces (flat surfaces), edges (where faces meet), and vertices (corner points) of 3D shapes. Key concepts include systematic counting, understanding that different shapes have different counts, and comparing shapes by these attributes. Vocabulary: face, edge, vertex/vertices, flat surface, corner, three-dimensional. Common misconceptions include miscounting hidden features and confusing edges with sides. Activities should include handling physical objects, marking attributes, and creating comparison charts appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Identify faces of three-dimensional shapes",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Identify faces of three-dimensional shapes for Grade 3 students (TEKS 3.6(A)). Students identify three-dimensional shapes (cubes, rectangular prisms, spheres, cones, cylinders, pyramids) and describe their attributes. Key concepts include faces, edges, vertices, and relating 3D shapes to real objects and their 2D faces. Vocabulary: three-dimensional, solid, face, edge, vertex, cube, rectangular prism, sphere, cone, cylinder, pyramid. Common misconceptions include difficulty counting hidden attributes and confusing 2D/3D terminology. Activities should include examining real objects, building with blocks, and sorting by attributes appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Parallel sides in quadrilaterals",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Parallel sides in quadrilaterals for Grade 3 students (TEKS 3.6(B)). Students classify quadrilaterals by their attributes. The hierarchy: squares are rectangles, rectangles are parallelograms, all are quadrilaterals. Trapezoids have exactly one pair of parallel sides. Vocabulary: quadrilateral, rectangle, square, rhombus, parallelogram, trapezoid, parallel, right angle. Common misconceptions include thinking categories are mutually exclusive. Activities should include sorting, Venn diagrams, and attribute-based identification games appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Attributes of quadrilaterals",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Attributes of quadrilaterals for Grade 3 students (TEKS 3.6(B)). Students classify quadrilaterals by their attributes. The hierarchy: squares are rectangles, rectangles are parallelograms, all are quadrilaterals. Trapezoids have exactly one pair of parallel sides. Vocabulary: quadrilateral, rectangle, square, rhombus, parallelogram, trapezoid, parallel, right angle. Common misconceptions include thinking categories are mutually exclusive. Activities should include sorting, Venn diagrams, and attribute-based identification games appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Identify rectangles",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Identify rectangles for Grade 3 students (TEKS 3.6(B)). This geometry and measurement skill develops spatial reasoning and measurement abilities. Key concepts include understanding shapes and properties, applying measurement tools, solving spatial problems, and connecting to real-world contexts. Students ages 8-9 benefit from hands-on exploration with shapes, tools, and visual models. Activities should include manipulation, drawing, real-world connections, and integrated problem solving appropriate for Grade 3. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Identify parallelograms",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Identify parallelograms for Grade 3 students (TEKS 3.6(B)). Students classify quadrilaterals by their attributes. The hierarchy: squares are rectangles, rectangles are parallelograms, all are quadrilaterals. Trapezoids have exactly one pair of parallel sides. Vocabulary: quadrilateral, rectangle, square, rhombus, parallelogram, trapezoid, parallel, right angle. Common misconceptions include thinking categories are mutually exclusive. Activities should include sorting, Venn diagrams, and attribute-based identification games appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Identify rhombuses",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Identify rhombuses for Grade 3 students (TEKS 3.6(B)). A rhombus is a quadrilateral with four equal sides. It is a special parallelogram. A square is a special rhombus with right angles. Vocabulary: rhombus, quadrilateral, parallelogram, equal sides, parallel, diagonal, angle. Common misconceptions include thinking rhombuses must be tilted and not recognizing squares as rhombuses. Activities should include sorting quadrilaterals, measuring sides, and drawing in various orientations appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Identify trapezoids",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Identify trapezoids for Grade 3 students (TEKS 3.6(B)). Students classify quadrilaterals by their attributes. The hierarchy: squares are rectangles, rectangles are parallelograms, all are quadrilaterals. Trapezoids have exactly one pair of parallel sides. Vocabulary: quadrilateral, rectangle, square, rhombus, parallelogram, trapezoid, parallel, right angle. Common misconceptions include thinking categories are mutually exclusive. Activities should include sorting, Venn diagrams, and attribute-based identification games appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Classify squares, rectangles, rhombuses, parallelograms, and trapezoids",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Classify squares, rectangles, rhombuses, parallelograms, and trapezoids for Grade 3 students (TEKS 3.6(B)). A rhombus is a quadrilateral with four equal sides. It is a special parallelogram. A square is a special rhombus with right angles. Vocabulary: rhombus, quadrilateral, parallelogram, equal sides, parallel, diagonal, angle. Common misconceptions include thinking rhombuses must be tilted and not recognizing squares as rhombuses. Activities should include sorting quadrilaterals, measuring sides, and drawing in various orientations appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Draw squares, rectangles, rhombuses, parallelograms, and trapezoids",
+      "teks": "3.6(B)",
+      "prompt": "This topic covers Draw squares, rectangles, rhombuses, parallelograms, and trapezoids for Grade 3 students (TEKS 3.6(B)). A rhombus is a quadrilateral with four equal sides. It is a special parallelogram. A square is a special rhombus with right angles. Vocabulary: rhombus, quadrilateral, parallelogram, equal sides, parallel, diagonal, angle. Common misconceptions include thinking rhombuses must be tilted and not recognizing squares as rhombuses. Activities should include sorting quadrilaterals, measuring sides, and drawing in various orientations appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Find the area of rectangles and squares",
+      "teks": "3.6(C)",
+      "prompt": "This topic covers Find the area of rectangles and squares for Grade 3 students (TEKS 3.6(C)). Area measures the surface a shape covers in square units. Key concepts include tiling with unit squares, using Area = length x width for rectangles, and understanding square units. Vocabulary: area, square unit, cover, tile, length, width, multiply. Common misconceptions include confusing area with perimeter and not using square units. Activities should include tiling, grid counting, and formula application appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Find the missing side length of a rectangle",
+      "teks": "3.6(C)",
+      "prompt": "This topic covers Find the missing side length of a rectangle for Grade 3 students (TEKS 3.6(C)). This geometry and measurement skill develops spatial reasoning and measurement abilities. Key concepts include understanding shapes and properties, applying measurement tools, solving spatial problems, and connecting to real-world contexts. Students ages 8-9 benefit from hands-on exploration with shapes, tools, and visual models. Activities should include manipulation, drawing, real-world connections, and integrated problem solving appropriate for Grade 3. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Find the area of rectangles with missing unit squares",
+      "teks": "3.6(C)",
+      "prompt": "This topic covers Find the area of rectangles with missing unit squares for Grade 3 students (TEKS 3.6(C)). Area measures the surface a shape covers in square units. Key concepts include tiling with unit squares, using Area = length x width for rectangles, and understanding square units. Vocabulary: area, square unit, cover, tile, length, width, multiply. Common misconceptions include confusing area with perimeter and not using square units. Activities should include tiling, grid counting, and formula application appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Find the area of rectangles: word problems",
+      "teks": "3.6(C)",
+      "prompt": "This topic covers Find the area of rectangles: word problems for Grade 3 students (TEKS 3.6(C)). Area measures the surface a shape covers in square units. Key concepts include tiling with unit squares, using Area = length x width for rectangles, and understanding square units. Vocabulary: area, square unit, cover, tile, length, width, multiply. Common misconceptions include confusing area with perimeter and not using square units. Activities should include tiling, grid counting, and formula application appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Find the area of complex figures by dividing them into rectangles",
+      "teks": "3.6(D)",
+      "prompt": "This topic covers Find the area of complex figures by dividing them into rectangles for Grade 3 students (TEKS 3.6(D)). Area measures the surface a shape covers in square units. Key concepts include tiling with unit squares, using Area = length x width for rectangles, and understanding square units. Vocabulary: area, square unit, cover, tile, length, width, multiply. Common misconceptions include confusing area with perimeter and not using square units. Activities should include tiling, grid counting, and formula application appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Find the area of complex figures",
+      "teks": "3.6(D)",
+      "prompt": "This topic covers Find the area of complex figures for Grade 3 students (TEKS 3.6(D)). Area measures the surface a shape covers in square units. Key concepts include tiling with unit squares, using Area = length x width for rectangles, and understanding square units. Vocabulary: area, square unit, cover, tile, length, width, multiply. Common misconceptions include confusing area with perimeter and not using square units. Activities should include tiling, grid counting, and formula application appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Fractions of number lines: halves, fourths, and eighths",
+      "teks": "3.7(A)",
+      "prompt": "This topic covers Fractions of number lines: halves, fourths, and eighths for Grade 3 students (TEKS 3.7(A)). Students partition shapes into equal parts and name the fractions. Key concepts include truly equal parts, naming (halves=2 parts, fourths=4, eighths=8), and understanding that more parts means smaller pieces. Vocabulary: equal parts, partition, halves, fourths, quarters, eighths, whole, fraction. Common misconceptions include accepting unequal parts. Activities should include folding paper, cutting shapes, shading parts, and sharing objects equally appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Graph unit fractions on number lines",
+      "teks": "3.7(A)",
+      "prompt": "This topic covers Graph unit fractions on number lines for Grade 3 students (TEKS 3.7(A)). Students place fractions on number lines by dividing intervals into equal parts. Key concepts include equal spacing, counting parts from 0, and fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals and counting marks instead of spaces. Activities should include drawing, placing fraction cards, and comparing on parallel lines appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Graph fractions on number lines",
+      "teks": "3.7(A)",
+      "prompt": "This topic covers Graph fractions on number lines for Grade 3 students (TEKS 3.7(A)). Students place fractions on number lines by dividing intervals into equal parts. Key concepts include equal spacing, counting parts from 0, and fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals and counting marks instead of spaces. Activities should include drawing, placing fraction cards, and comparing on parallel lines appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Perimeter of figures on grids",
+      "teks": "3.7(B)",
+      "prompt": "This topic covers Perimeter of figures on grids for Grade 3 students (TEKS 3.7(B)). Perimeter is the total distance around a shape. Key concepts include adding all side lengths, rectangle formula P = 2l + 2w, finding missing sides, and distinguishing from area. Vocabulary: perimeter, distance around, side, length, add, formula. Common misconceptions include confusing with area and missing sides. Activities should include measuring real objects and solving perimeter problems appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Perimeter of rectangles",
+      "teks": "3.7(B)",
+      "prompt": "This topic covers Perimeter of rectangles for Grade 3 students (TEKS 3.7(B)). Perimeter is the total distance around a shape. Key concepts include adding all side lengths, rectangle formula P = 2l + 2w, finding missing sides, and distinguishing from area. Vocabulary: perimeter, distance around, side, length, add, formula. Common misconceptions include confusing with area and missing sides. Activities should include measuring real objects and solving perimeter problems appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Perimeter of rectilinear shapes",
+      "teks": "3.7(B)",
+      "prompt": "This topic covers Perimeter of rectilinear shapes for Grade 3 students (TEKS 3.7(B)). Perimeter is the total distance around a shape. Key concepts include adding all side lengths, rectangle formula P = 2l + 2w, finding missing sides, and distinguishing from area. Vocabulary: perimeter, distance around, side, length, add, formula. Common misconceptions include confusing with area and missing sides. Activities should include measuring real objects and solving perimeter problems appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Perimeter of polygons",
+      "teks": "3.7(B)",
+      "prompt": "This topic covers Perimeter of polygons for Grade 3 students (TEKS 3.7(B)). Polygons are closed 2D shapes with straight sides. Students classify by side count: triangle (3), quadrilateral (4), pentagon (5), hexagon (6), etc. Key concepts include polygon vs. non-polygon criteria and regular vs. irregular types. Vocabulary: polygon, closed, straight sides, triangle, quadrilateral, pentagon, hexagon, regular, irregular. Common misconceptions include thinking circles are polygons and not recognizing irregular forms. Activities should include sorting, naming by counting sides, drawing, and finding polygons in the environment appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Perimeter: find the missing side length",
+      "teks": "3.7(B)",
+      "prompt": "This topic covers Perimeter: find the missing side length for Grade 3 students (TEKS 3.7(B)). Perimeter is the total distance around a shape. Key concepts include adding all side lengths, rectangle formula P = 2l + 2w, finding missing sides, and distinguishing from area. Vocabulary: perimeter, distance around, side, length, add, formula. Common misconceptions include confusing with area and missing sides. Activities should include measuring real objects and solving perimeter problems appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Perimeter: word problems",
+      "teks": "3.7(B)",
+      "prompt": "This topic covers Perimeter: word problems for Grade 3 students (TEKS 3.7(B)). Perimeter is the total distance around a shape. Key concepts include adding all side lengths, rectangle formula P = 2l + 2w, finding missing sides, and distinguishing from area. Vocabulary: perimeter, distance around, side, length, add, formula. Common misconceptions include confusing with area and missing sides. Activities should include measuring real objects and solving perimeter problems appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Compare area and perimeter of two figures",
+      "teks": "3.7(B)",
+      "prompt": "This topic covers Compare area and perimeter of two figures for Grade 3 students (TEKS 3.7(B)). Perimeter is the total distance around a shape. Key concepts include adding all side lengths, rectangle formula P = 2l + 2w, finding missing sides, and distinguishing from area. Vocabulary: perimeter, distance around, side, length, add, formula. Common misconceptions include confusing with area and missing sides. Activities should include measuring real objects and solving perimeter problems appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Find the end time",
+      "teks": "3.7(C)",
+      "prompt": "This topic covers Find the end time for Grade 3 students (TEKS 3.7(C)). Students read analog and digital clocks and understand time conventions. Key concepts include hour/minute hands, reading digital displays, matching analog/digital, A.M./P.M., and telling time to appropriate precision. Vocabulary: analog, digital, hour hand, minute hand, o'clock, half past, A.M., P.M., noon, midnight. Common misconceptions include confusing hands and difficulty near hour changes. Activities should include clock manipulation, matching, and daily schedule work appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Time patterns",
+      "teks": "3.7(C)",
+      "prompt": "This topic covers Time patterns for Grade 3 students (TEKS 3.7(C)). Students read analog and digital clocks and understand time conventions. Key concepts include hour/minute hands, reading digital displays, matching analog/digital, A.M./P.M., and telling time to appropriate precision. Vocabulary: analog, digital, hour hand, minute hand, o'clock, half past, A.M., P.M., noon, midnight. Common misconceptions include confusing hands and difficulty near hour changes. Activities should include clock manipulation, matching, and daily schedule work appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    },
+    {
+      "skill": "Which customary unit of weight is appropriate?",
+      "teks": "3.7(D)",
+      "prompt": "This topic covers Which customary unit of weight is appropriate? for Grade 3 students (TEKS 3.7(D)). Students select appropriate measurement units for different situations. Key concepts include understanding relative unit sizes, choosing sensible units (inches for small objects, feet/yards for larger), and understanding both customary and metric systems. Vocabulary: unit, inch, foot, yard, centimeter, meter, customary, metric, appropriate. Common misconceptions include confusing systems and not understanding relative sizes. Activities should include estimating, selecting tools, and discussing practical unit choices appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Which customary unit of volume is appropriate?",
+      "teks": "3.7(D)",
+      "prompt": "This topic covers Which customary unit of volume is appropriate? for Grade 3 students (TEKS 3.7(D)). Students select appropriate measurement units for different situations. Key concepts include understanding relative unit sizes, choosing sensible units (inches for small objects, feet/yards for larger), and understanding both customary and metric systems. Vocabulary: unit, inch, foot, yard, centimeter, meter, customary, metric, appropriate. Common misconceptions include confusing systems and not understanding relative sizes. Activities should include estimating, selecting tools, and discussing practical unit choices appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Which metric unit of volume is appropriate?",
+      "teks": "3.7(D)",
+      "prompt": "This topic covers Which metric unit of volume is appropriate? for Grade 3 students (TEKS 3.7(D)). Students select appropriate measurement units for different situations. Key concepts include understanding relative unit sizes, choosing sensible units (inches for small objects, feet/yards for larger), and understanding both customary and metric systems. Vocabulary: unit, inch, foot, yard, centimeter, meter, customary, metric, appropriate. Common misconceptions include confusing systems and not understanding relative sizes. Activities should include estimating, selecting tools, and discussing practical unit choices appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily."
+    },
+    {
+      "skill": "Choose the appropriate measuring tool",
+      "teks": "3.7(E)",
+      "prompt": "This topic covers Choose the appropriate measuring tool for Grade 3 students (TEKS 3.7(E)). Students select the appropriate tool for different measurement tasks: rulers for length, scales for weight, measuring cups for capacity, thermometers for temperature, clocks for time. Vocabulary: measuring tool, ruler, scale, measuring cup, thermometer, clock, appropriate. Common misconceptions include using wrong tools and not knowing which attribute is measured. Activities should include measurement stations and tool-task matching appropriate for ages 8-9. When creating content, emphasize hands-on exploration with physical shapes, measurement tools, and real-world objects that 8-9-year-olds encounter daily. Encourage precise mathematical language when describing shapes, measurements, and spatial relationships. Include opportunities for drawing, building, and measuring."
+    }
+  ]
+}

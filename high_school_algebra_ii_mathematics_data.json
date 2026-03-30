@@ -1,0 +1,56 @@
+{
+  "grade": "High School - Algebra II",
+  "subject": "Mathematics - Data",
+  "skills": [
+    {
+      "skill": "Analyze data to select the appropriate model from among linear, quadratic, and exponential models;",
+      "teks": "2A.8(A)",
+      "prompt": "This topic covers analyze data to select the appropriate model from among linear, quadratic, and exponential models; for Algebra II students (TEKS 2A.8(A)). Examine data patterns: constant rate of change = linear; U-shape/constant second differences = quadratic; constant percentage change = exponential. Key vocabulary includes: linear model, quadratic model, exponential model, scatter plot, regression. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Identify linear, quadratic, and exponential functions from graphs",
+      "teks": "2A.8(A)",
+      "prompt": "This topic covers identify linear, quadratic, and exponential functions from graphs for Algebra II students (TEKS 2A.8(A)). Linear: straight line. Quadratic: parabola (U-shaped). Exponential: rapid growth/decay with horizontal asymptote. Distinguish by shape, symmetry, and behavior. Key vocabulary includes: linear, quadratic, exponential, parabola, asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Identify linear, quadratic, and exponential functions from tables",
+      "teks": "2A.8(A)",
+      "prompt": "This topic covers identify linear, quadratic, and exponential functions from tables for Algebra II students (TEKS 2A.8(A)). First differences constant = linear. Second differences constant = quadratic. Consecutive ratios constant = exponential. Use equally spaced x-values. Key vocabulary includes: first differences, second differences, common ratio, linear, quadratic, exponential. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Use regression methods available through technology to write a linear function, a quadratic function, and an exponential function from a given set of data;",
+      "teks": "2A.8(B)",
+      "prompt": "This topic covers exponential regression for Algebra II students (TEKS 2A.8(B)). Students use technology to find y = ab^x that best fits data. Steps: enter data, run exponential regression, interpret a and b, use for predictions. Correlation coefficient r indicates fit quality. Students compare exponential vs linear models. Vocabulary: regression, exponential model, correlation coefficient, residual, best fit, interpolation, extrapolation. Common errors: using model far outside data range, confusing with linear regression, and misinterpreting R^2."
+    },
+    {
+      "skill": "Find the equation of a regression line",
+      "teks": "2A.8(B)",
+      "prompt": "This topic covers find the equation of a regression line for Algebra II students (TEKS 2A.8(B)). Use technology to compute least-squares regression. Interpret slope and intercept in context. Evaluate fit using R^2. Key vocabulary includes: regression line, least squares, slope, y-intercept, R^2. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Interpret regression lines",
+      "teks": "2A.8(B)",
+      "prompt": "This topic covers interpret regression lines for Algebra II students (TEKS 2A.8(B)). Explain slope as average rate of change per unit increase in x. Y-intercept is predicted value when x = 0 (may not be meaningful). Assess reliability using R^2. Key vocabulary includes: regression line, slope, y-intercept, interpret, R^2, context. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Analyze a regression line of a data set",
+      "teks": "2A.8(B)",
+      "prompt": "This topic covers analyze a regression line of a data set for Algebra II students (TEKS 2A.8(B)). Evaluate model fit using R^2 value and residual plots. Random residuals indicate good fit; patterned residuals suggest a different model type. Compare models. Key vocabulary includes: regression analysis, R^2, residual, residual plot, goodness of fit. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Predict and make decisions and critical judgments from a given set of data using linear, quadratic, and exponential models.",
+      "teks": "2A.8(C)",
+      "prompt": "This topic covers using regression models for prediction and decision-making for Algebra II students (TEKS 2A.8(C)). Use equations for interpolation (reliable, within data range) and extrapolation (less reliable, beyond data). Evaluate model appropriateness critically. Key vocabulary: prediction, interpolation, extrapolation, reliability, model limitations. Common errors: trusting extrapolation too far, using poorly-fitting models, and not considering context."
+    },
+    {
+      "skill": "Interpret regression lines",
+      "teks": "2A.8(C)",
+      "prompt": "This topic covers interpret regression lines for Algebra II students (TEKS 2A.8(C)). Explain slope as average rate of change per unit increase in x. Y-intercept is predicted value when x = 0 (may not be meaningful). Assess reliability using R^2. Key vocabulary includes: regression line, slope, y-intercept, interpret, R^2, context. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Analyze a regression line of a data set",
+      "teks": "2A.8(C)",
+      "prompt": "This topic covers analyze a regression line of a data set for Algebra II students (TEKS 2A.8(C)). Evaluate model fit using R^2 value and residual plots. Random residuals indicate good fit; patterned residuals suggest a different model type. Compare models. Key vocabulary includes: regression analysis, R^2, residual, residual plot, goodness of fit. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    }
+  ]
+}

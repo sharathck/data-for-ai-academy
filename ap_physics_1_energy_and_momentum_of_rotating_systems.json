@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Energy and Momentum of Rotating Systems",
+  "skills": [
+    {
+      "skill": "Rotational Kinetic Energy",
+      "ref": "Unit 6, Topic 6.1",
+      "prompt": "This topic covers rotational kinetic energy for AP Physics 1 students (CED: Unit 6, Topic 6.1). Students should understand that a rotating object has rotational kinetic energy: KE_rot = (1/2)*I*omega^2, where I is the moment of inertia about the rotation axis and omega is the angular velocity. For an object that is both translating and rotating (like a rolling ball), total kinetic energy = (1/2)*mv^2 + (1/2)*I*omega^2. This total KE must be included in energy conservation problems. Students must calculate rotational KE, compare it for objects with different shapes rolling at the same speed, and apply energy conservation including rotational KE. Connect to conservation of energy, moment of inertia, and rolling motion. AP exam note: energy conservation problems involving rolling objects are a distinctive AP Physics 1 challenge. Vocabulary: rotational kinetic energy, moment of inertia, angular velocity, translational kinetic energy, total kinetic energy, rolling."
+    },
+    {
+      "skill": "Torque and Work",
+      "ref": "Unit 6, Topic 6.2",
+      "prompt": "This topic covers torque and work in rotational systems for AP Physics 1 students (CED: Unit 6, Topic 6.2). Students should understand that work done by a torque is W = tau * theta (for constant torque), where theta is the angular displacement in radians. This is analogous to W = Fd in translational motion. The work-energy theorem applies to rotation: net work equals the change in rotational kinetic energy (W_net = delta-KE_rot = (1/2)*I*omega_f^2 - (1/2)*I*omega_i^2). Rotational power is P = tau * omega. Students must calculate work done by torques, apply the rotational work-energy theorem, and compute rotational power. Connect to translational work, energy conservation, and angular kinematics. AP exam note: rotational work and power calculations extend translational concepts. Vocabulary: rotational work, torque, angular displacement, rotational work-energy theorem, rotational power, radian."
+    },
+    {
+      "skill": "Angular Momentum and Angular Impulse",
+      "ref": "Unit 6, Topic 6.3",
+      "prompt": "This topic covers angular momentum and angular impulse for AP Physics 1 students (CED: Unit 6, Topic 6.3). Students should understand that angular momentum is the rotational analog of linear momentum: L = I*omega for a rotating rigid body, or L = mvr*sin(theta) for a particle moving in a path. Angular impulse equals the change in angular momentum: tau_net * delta-t = delta-L. Newton's second law for rotation can be written as tau_net = dL/dt. The direction of angular momentum is along the axis of rotation (determined by the right-hand rule). Students must calculate angular momentum for rotating objects and particles, and apply the angular impulse-momentum theorem. Connect to conservation of angular momentum, torque, and linear momentum analogy. AP exam note: angular momentum calculations are core to the rotational dynamics unit. Vocabulary: angular momentum, angular impulse, moment of inertia, angular velocity, torque, right-hand rule."
+    },
+    {
+      "skill": "Conservation of Angular Momentum",
+      "ref": "Unit 6, Topic 6.4",
+      "prompt": "This topic covers conservation of angular momentum for AP Physics 1 students (CED: Unit 6, Topic 6.4). Students should understand that when the net external torque on a system is zero, the total angular momentum is conserved: L_initial = L_final, or I_i * omega_i = I_f * omega_f. Classic examples include an ice skater pulling arms in (I decreases, omega increases), collapsing gas clouds forming stars, and objects landing on rotating platforms. If moment of inertia changes, angular velocity changes inversely to conserve L. Note that kinetic energy may change even when angular momentum is conserved (unlike linear momentum conservation). Students must apply angular momentum conservation and analyze whether KE changes. Connect to rotational dynamics, torque, and system analysis. AP exam note: angular momentum conservation problems are heavily tested. Vocabulary: conservation of angular momentum, net external torque, moment of inertia change, angular velocity change, isolated system."
+    },
+    {
+      "skill": "Rolling",
+      "ref": "Unit 6, Topic 6.5",
+      "prompt": "This topic covers rolling motion for AP Physics 1 students (CED: Unit 6, Topic 6.5). Students should understand that rolling without slipping requires the constraint v_cm = R*omega, where v_cm is the velocity of the center of mass and R is the radius. Static friction provides the torque for rolling but does no work (no sliding). Total kinetic energy of a rolling object: KE_total = (1/2)*mv^2 + (1/2)*I*omega^2 = (1/2)*(m + I/R^2)*v^2. Objects with different moments of inertia (solid sphere, cylinder, hoop) roll down an incline at different rates: those with less rotational inertia (relative to mass) accelerate faster because more energy goes to translation. Students must apply energy conservation and Newton's second law with rolling constraints. Connect to rotational kinematics, energy, and friction. AP exam note: comparing rolling objects on inclines is a classic problem. Vocabulary: rolling without slipping, static friction, center of mass velocity, rolling constraint, translational, rotational."
+    },
+    {
+      "skill": "Motion of Orbiting Satellites",
+      "ref": "Unit 6, Topic 6.6",
+      "prompt": "This topic covers motion of orbiting satellites for AP Physics 1 students (CED: Unit 6, Topic 6.6). Students should understand that a satellite in circular orbit has gravitational force providing centripetal force: GMm/r^2 = mv^2/r, giving orbital speed v = sqrt(GM/r). Orbital period T = 2*pi*r/v = 2*pi*sqrt(r^3/(GM)). Key insights: orbital speed decreases with increasing orbital radius; closer satellites orbit faster. Total energy of an orbiting satellite: E = KE + PE = (1/2)mv^2 - GMm/r = -GMm/(2r). For a stable orbit, total energy is negative. Escape velocity v_esc = sqrt(2GM/r). Students must calculate orbital quantities and analyze energy in orbits. Connect to universal gravitation, circular motion, and conservation of energy. AP exam note: satellite orbit problems combine multiple physics concepts. Vocabulary: orbital velocity, orbital period, gravitational force, centripetal force, escape velocity, orbital radius, Kepler's laws."
+    }
+  ]
+}

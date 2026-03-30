@@ -1,0 +1,56 @@
+{
+  "grade": "Grade 1",
+  "subject": "Maths - Data analysis",
+  "skills": [
+    {
+      "skill": "Which picture graph is correct?",
+      "teks": "1.8(B)",
+      "prompt": "This topic covers Which picture graph is correct? for Grade 1 students (TEKS 1.8(B)). Students create or verify picture graphs where symbols represent data. Key concepts include choosing symbols, using keys (especially for scaled graphs where each symbol represents >1), organizing data in rows/columns, and ensuring accuracy. Vocabulary: picture graph, pictograph, symbol, key, data, category, represent, title, label, scale. Common misconceptions include forgetting the key and miscounting. Activities should include collecting data, creating graphs, and evaluating correctness appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Which tally chart is correct?",
+      "teks": "1.8(A)",
+      "prompt": "This topic covers Which tally chart is correct? for Grade 1 students (TEKS 1.8(A)). Students create, read, and interpret tally charts. Every five tallies are bundled with a diagonal slash. Key concepts include systematic recording, counting bundles of five, and comparing categories. Vocabulary: tally, tally mark, bundle, five, count, data, category, record, total. Common misconceptions include not bundling in fives and miscounting groups. Activities should include data collection with tallies, converting to numbers, and using tally data to make graphs appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Which table is correct?",
+      "teks": "1.8(A)",
+      "prompt": "This topic covers Which table is correct? for Grade 1 students (TEKS 1.8(A)). Students organize, read, and interpret data in tables. Key concepts include using row and column headers, locating values, comparing across categories, and answering questions from table data. Vocabulary: table, row, column, header, data, category, value, organize, compare. Common misconceptions include reading wrong rows/columns. Activities should include reading tables, collecting data, and converting table data to graphs appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Which picture graph is correct?",
+      "teks": "1.8(B)",
+      "prompt": "This topic covers Which picture graph is correct? for Grade 1 students (TEKS 1.8(B)). Students create or verify picture graphs where symbols represent data. Key concepts include choosing symbols, using keys (especially for scaled graphs where each symbol represents >1), organizing data in rows/columns, and ensuring accuracy. Vocabulary: picture graph, pictograph, symbol, key, data, category, represent, title, label, scale. Common misconceptions include forgetting the key and miscounting. Activities should include collecting data, creating graphs, and evaluating correctness appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Which bar graph is correct?",
+      "teks": "1.8(B)",
+      "prompt": "This topic covers Which bar graph is correct? for Grade 1 students (TEKS 1.8(B)). Students create or verify bar graphs. Key concepts include drawing and labeling axes, choosing scales, drawing bars to correct heights, and adding titles. Vocabulary: bar graph, axis, scale, bar, height, label, title, category, horizontal, vertical. Common misconceptions include not starting at zero and inconsistent bar widths. Activities should include data collection, graph creation, and accuracy checking appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Interpret picture graphs",
+      "teks": "1.8(C)",
+      "prompt": "This topic covers Interpret picture graphs for Grade 1 students (TEKS 1.8(C)). Students read picture graphs to answer questions. Key concepts include using the key, counting/multiplying symbols, comparing categories, and computing totals and differences. Vocabulary: picture graph, key, symbol, data, most, least, more, fewer, total, difference. Common misconceptions include ignoring the key for scaled graphs and confusing 'how many more' with 'how many.' Activities should include reading pre-made graphs, answering multi-step questions, and creating peer questions appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Interpret tally charts",
+      "teks": "1.8(C)",
+      "prompt": "This topic covers Interpret tally charts for Grade 1 students (TEKS 1.8(C)). Students create, read, and interpret tally charts. Every five tallies are bundled with a diagonal slash. Key concepts include systematic recording, counting bundles of five, and comparing categories. Vocabulary: tally, tally mark, bundle, five, count, data, category, record, total. Common misconceptions include not bundling in fives and miscounting groups. Activities should include data collection with tallies, converting to numbers, and using tally data to make graphs appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Interpret data in tables",
+      "teks": "1.8(C)",
+      "prompt": "This topic covers Interpret data in tables for Grade 1 students (TEKS 1.8(C)). Students organize, read, and interpret data in tables. Key concepts include using row and column headers, locating values, comparing across categories, and answering questions from table data. Vocabulary: table, row, column, header, data, category, value, organize, compare. Common misconceptions include reading wrong rows/columns. Activities should include reading tables, collecting data, and converting table data to graphs appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Interpret bar graphs I",
+      "teks": "1.8(C)",
+      "prompt": "This topic covers Interpret bar graphs I for Grade 1 students (TEKS 1.8(C)). Students read bar graphs to answer questions. Key concepts include reading the scale, comparing bar heights, computing differences and totals, and reading both horizontal and vertical formats. Vocabulary: bar graph, scale, axis, category, value, compare, total, difference. Common misconceptions include misreading non-1 scales and confusing axes. Activities should include answering questions, comparing data, and multi-step problem solving appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Interpret bar graphs II",
+      "teks": "1.8(C)",
+      "prompt": "This topic covers Interpret bar graphs II for Grade 1 students (TEKS 1.8(C)). Students read bar graphs to answer questions. Key concepts include reading the scale, comparing bar heights, computing differences and totals, and reading both horizontal and vertical formats. Vocabulary: bar graph, scale, axis, category, value, compare, total, difference. Common misconceptions include misreading non-1 scales and confusing axes. Activities should include answering questions, comparing data, and multi-step problem solving appropriate for ages 6-7. When creating content for this topic, use data sets that are meaningful to 6-7-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    }
+  ]
+}

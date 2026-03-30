@@ -1,0 +1,166 @@
+{
+  "grade": "Grade 4",
+  "subject": "Maths - Geometry and measurement",
+  "skills": [
+    {
+      "skill": "Points, lines, line segments, rays, and angles",
+      "teks": "4.6(A)",
+      "prompt": "This topic covers points, lines, line segments, rays, and angles for Grade 4 students (TEKS 4.6(A)). Students should understand the basic building blocks of geometry. Key concepts: a point is an exact location in space with no size; a line extends infinitely in both directions; a line segment has two endpoints; a ray has one endpoint and extends infinitely in one direction; an angle is formed by two rays sharing a common endpoint (vertex). Students should identify and draw each figure, use proper notation (naming conventions), and understand the differences between them. Vocabulary: point, line, line segment, ray, angle, vertex, endpoint, infinite, straight, notation, symbol. Common errors include confusing rays and line segments or misidentifying angles. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Parallel, perpendicular, and intersecting lines",
+      "teks": "4.6(A)",
+      "prompt": "This topic covers parallel, perpendicular, and intersecting lines for Grade 4 students (TEKS 4.6(A)). Students should understand three key relationships between lines. Key concepts: parallel lines never intersect and are always the same distance apart; perpendicular lines intersect at right angles (90 degrees); intersecting lines cross at any angle; students should identify these relationships in geometric figures and real-world objects. Vocabulary: parallel, perpendicular, intersecting, right angle, 90 degrees, lines, symbol, distance, relationship, identify. Students should recognize these relationships in everyday examples (railroad tracks for parallel, corner of a room for perpendicular). Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify parallel, perpendicular, and intersecting lines",
+      "teks": "4.6(A)",
+      "prompt": "This topic covers parallel, perpendicular, and intersecting lines for Grade 4 students (TEKS 4.6(A)). Students should understand three key relationships between lines. Key concepts: parallel lines never intersect and are always the same distance apart; perpendicular lines intersect at right angles (90 degrees); intersecting lines cross at any angle; students should identify these relationships in geometric figures and real-world objects. Vocabulary: parallel, perpendicular, intersecting, right angle, 90 degrees, lines, symbol, distance, relationship, identify. Students should recognize these relationships in everyday examples (railroad tracks for parallel, corner of a room for perpendicular). Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Acute, right, obtuse, and straight angles",
+      "teks": "4.6(A)",
+      "prompt": "This topic covers classifying angles as acute, right, obtuse, and straight for Grade 4 students (TEKS 4.6(A)). Students should understand how angles are classified by their measure. Key concepts: an acute angle measures less than 90 degrees; a right angle measures exactly 90 degrees; an obtuse angle measures more than 90 degrees but less than 180 degrees; a straight angle measures exactly 180 degrees. Students should identify angle types by sight and by measurement, and recognize them in geometric shapes and real-world contexts. Vocabulary: acute, right, obtuse, straight, angle, degree, measure, vertex, ray, classify, protractor. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Angles of 90, 180, 270, and 360 degrees",
+      "teks": "4.7(A)",
+      "prompt": "This topic covers Angles of 90, 180, 270, and 360 degrees for Grade 4 students (TEKS 4.7(A)) in the area of geometry and measurement. Students should understand the key geometric concepts, properties, and measurement techniques related to this topic. Key skills include identifying and classifying shapes, understanding spatial relationships, measuring attributes, applying formulas, and solving real-world problems involving geometry. Vocabulary related to geometric shapes, angles, measurement, and spatial reasoning should be explicitly taught. Problems should involve both visual identification and computation, appropriate for 9-10 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Identify lines of symmetry",
+      "teks": "4.6(B)",
+      "prompt": "This topic covers lines of symmetry for Grade 4 students (TEKS 4.6(B)). Students should understand that a line of symmetry divides a figure into two congruent halves that are mirror images of each other. Key concepts: a figure has a line of symmetry if it can be folded along that line so both halves match exactly; some figures have no lines of symmetry, one line, or multiple lines; regular polygons have as many lines of symmetry as they have sides; circles have infinite lines of symmetry. Students should identify, draw, and count lines of symmetry in various 2D figures. Vocabulary: line of symmetry, symmetrical, congruent, mirror image, fold, reflection, half, figure, shape, regular polygon. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Draw lines of symmetry",
+      "teks": "4.6(B)",
+      "prompt": "This topic covers lines of symmetry for Grade 4 students (TEKS 4.6(B)). Students should understand that a line of symmetry divides a figure into two congruent halves that are mirror images of each other. Key concepts: a figure has a line of symmetry if it can be folded along that line so both halves match exactly; some figures have no lines of symmetry, one line, or multiple lines; regular polygons have as many lines of symmetry as they have sides; circles have infinite lines of symmetry. Students should identify, draw, and count lines of symmetry in various 2D figures. Vocabulary: line of symmetry, symmetrical, congruent, mirror image, fold, reflection, half, figure, shape, regular polygon. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Count lines of symmetry",
+      "teks": "4.6(B)",
+      "prompt": "This topic covers lines of symmetry for Grade 4 students (TEKS 4.6(B)). Students should understand that a line of symmetry divides a figure into two congruent halves that are mirror images of each other. Key concepts: a figure has a line of symmetry if it can be folded along that line so both halves match exactly; some figures have no lines of symmetry, one line, or multiple lines; regular polygons have as many lines of symmetry as they have sides; circles have infinite lines of symmetry. Students should identify, draw, and count lines of symmetry in various 2D figures. Vocabulary: line of symmetry, symmetrical, congruent, mirror image, fold, reflection, half, figure, shape, regular polygon. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Classify triangles",
+      "teks": "4.6(C)",
+      "prompt": "This topic covers classifying triangles for Grade 4 students (TEKS 4.6(C)). Students should understand two ways to classify triangles: by sides and by angles. Key concepts: by sides - equilateral (all sides equal), isosceles (exactly two sides equal), scalene (no sides equal); by angles - acute (all angles less than 90 degrees), right (one angle equals 90 degrees), obtuse (one angle greater than 90 degrees). Students should classify triangles using both criteria simultaneously (e.g., 'right isosceles triangle'). The sum of interior angles of any triangle is 180 degrees. Vocabulary: triangle, equilateral, isosceles, scalene, acute, right, obtuse, classify, sides, angles, vertex, congruent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Classify triangles: acute, obtuse, and right",
+      "teks": "4.6(C)",
+      "prompt": "This topic covers classifying triangles for Grade 4 students (TEKS 4.6(C)). Students should understand two ways to classify triangles: by sides and by angles. Key concepts: by sides - equilateral (all sides equal), isosceles (exactly two sides equal), scalene (no sides equal); by angles - acute (all angles less than 90 degrees), right (one angle equals 90 degrees), obtuse (one angle greater than 90 degrees). Students should classify triangles using both criteria simultaneously (e.g., 'right isosceles triangle'). The sum of interior angles of any triangle is 180 degrees. Vocabulary: triangle, equilateral, isosceles, scalene, acute, right, obtuse, classify, sides, angles, vertex, congruent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Acute, obtuse, and right triangles",
+      "teks": "4.6(C)",
+      "prompt": "This topic covers classifying triangles for Grade 4 students (TEKS 4.6(C)). Students should understand two ways to classify triangles: by sides and by angles. Key concepts: by sides - equilateral (all sides equal), isosceles (exactly two sides equal), scalene (no sides equal); by angles - acute (all angles less than 90 degrees), right (one angle equals 90 degrees), obtuse (one angle greater than 90 degrees). Students should classify triangles using both criteria simultaneously (e.g., 'right isosceles triangle'). The sum of interior angles of any triangle is 180 degrees. Vocabulary: triangle, equilateral, isosceles, scalene, acute, right, obtuse, classify, sides, angles, vertex, congruent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Scalene, isosceles, and equilateral triangles",
+      "teks": "4.6(C)",
+      "prompt": "This topic covers classifying triangles for Grade 4 students (TEKS 4.6(C)). Students should understand two ways to classify triangles: by sides and by angles. Key concepts: by sides - equilateral (all sides equal), isosceles (exactly two sides equal), scalene (no sides equal); by angles - acute (all angles less than 90 degrees), right (one angle equals 90 degrees), obtuse (one angle greater than 90 degrees). Students should classify triangles using both criteria simultaneously (e.g., 'right isosceles triangle'). The sum of interior angles of any triangle is 180 degrees. Vocabulary: triangle, equilateral, isosceles, scalene, acute, right, obtuse, classify, sides, angles, vertex, congruent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Classify triangles (2)",
+      "teks": "4.6(C)",
+      "prompt": "This topic covers classifying triangles for Grade 4 students (TEKS 4.6(C)). Students should understand two ways to classify triangles: by sides and by angles. Key concepts: by sides - equilateral (all sides equal), isosceles (exactly two sides equal), scalene (no sides equal); by angles - acute (all angles less than 90 degrees), right (one angle equals 90 degrees), obtuse (one angle greater than 90 degrees). Students should classify triangles using both criteria simultaneously (e.g., 'right isosceles triangle'). The sum of interior angles of any triangle is 180 degrees. Vocabulary: triangle, equilateral, isosceles, scalene, acute, right, obtuse, classify, sides, angles, vertex, congruent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Parallel sides in quadrilaterals",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Sides and angles of quadrilaterals",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify parallelograms",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify trapezoids",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify rectangles",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify rhombuses",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Classify quadrilaterals",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Pick all the names for a quadrilateral",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify relationships between quadrilaterals",
+      "teks": "4.6(D)",
+      "prompt": "This topic covers classifying and identifying quadrilaterals for Grade 4 students (TEKS 4.6(D)). Students should understand the properties and relationships among different types of quadrilaterals. Key concepts: a quadrilateral has four sides and four angles; parallelograms have two pairs of parallel sides; rectangles are parallelograms with four right angles; rhombuses are parallelograms with four equal sides; squares are both rectangles and rhombuses; trapezoids have exactly one pair of parallel sides. Students should understand the hierarchy of quadrilateral relationships (a square is always a rectangle, but a rectangle is not always a square). Vocabulary: quadrilateral, parallelogram, rectangle, rhombus, square, trapezoid, parallel, perpendicular, right angle, side, congruent, classify. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Angles as fractions of a circle",
+      "teks": "4.7(A)",
+      "prompt": "This topic covers angles as fractions of a circle for Grade 4 students (TEKS 4.7(A)). Students should understand that a full turn around a point equals 360 degrees and that angles can be expressed as fractions of a full rotation. Key concepts: a full rotation is 360 degrees; a half rotation is 180 degrees; a quarter rotation is 90 degrees; an angle of n degrees represents n/360 of a full rotation. Students should convert between angle measures and fractions of a circle and understand the relationship between angle measures and circle geometry. Vocabulary: angle, degree, rotation, full turn, half turn, quarter turn, fraction, circle, 360 degrees, 180 degrees, 90 degrees, measure. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Measure angles on a circle",
+      "teks": "4.7(B)",
+      "prompt": "This topic covers angles as fractions of a circle for Grade 4 students (TEKS 4.7(B)). Students should understand that a full turn around a point equals 360 degrees and that angles can be expressed as fractions of a full rotation. Key concepts: a full rotation is 360 degrees; a half rotation is 180 degrees; a quarter rotation is 90 degrees; an angle of n degrees represents n/360 of a full rotation. Students should convert between angle measures and fractions of a circle and understand the relationship between angle measures and circle geometry. Vocabulary: angle, degree, rotation, full turn, half turn, quarter turn, fraction, circle, 360 degrees, 180 degrees, 90 degrees, measure. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Use fractions to find the measure of an angle",
+      "teks": "4.7(A)",
+      "prompt": "This topic covers angles as fractions of a circle for Grade 4 students (TEKS 4.7(A)). Students should understand that a full turn around a point equals 360 degrees and that angles can be expressed as fractions of a full rotation. Key concepts: a full rotation is 360 degrees; a half rotation is 180 degrees; a quarter rotation is 90 degrees; an angle of n degrees represents n/360 of a full rotation. Students should convert between angle measures and fractions of a circle and understand the relationship between angle measures and circle geometry. Vocabulary: angle, degree, rotation, full turn, half turn, quarter turn, fraction, circle, 360 degrees, 180 degrees, 90 degrees, measure. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Angles of 90, 180, 270, and 360 degrees (2)",
+      "teks": "4.7(A)",
+      "prompt": "This topic covers Angles of 90, 180, 270, and 360 degrees (2) for Grade 4 students (TEKS 4.7(A)) in the area of geometry and measurement. Students should understand the key geometric concepts, properties, and measurement techniques related to this topic. Key skills include identifying and classifying shapes, understanding spatial relationships, measuring attributes, applying formulas, and solving real-world problems involving geometry. Vocabulary related to geometric shapes, angles, measurement, and spatial reasoning should be explicitly taught. Problems should involve both visual identification and computation, appropriate for 9-10 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Measure angles on a circle (2)",
+      "teks": "4.7(B)",
+      "prompt": "This topic covers angles as fractions of a circle for Grade 4 students (TEKS 4.7(B)). Students should understand that a full turn around a point equals 360 degrees and that angles can be expressed as fractions of a full rotation. Key concepts: a full rotation is 360 degrees; a half rotation is 180 degrees; a quarter rotation is 90 degrees; an angle of n degrees represents n/360 of a full rotation. Students should convert between angle measures and fractions of a circle and understand the relationship between angle measures and circle geometry. Vocabulary: angle, degree, rotation, full turn, half turn, quarter turn, fraction, circle, 360 degrees, 180 degrees, 90 degrees, measure. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate angle measurements",
+      "teks": "4.7(C)",
+      "prompt": "This topic covers estimating angle measurements for Grade 4 students (TEKS 4.7(C)). Students should understand how to use benchmark angles to estimate the measure of an unknown angle without a protractor. Key concepts: benchmark angles include 0, 45, 90, 135, and 180 degrees; students should visualize these benchmarks and compare unknown angles to them; a right angle (90 degrees) is a common reference point; angles slightly less than 90 are acute, slightly more are obtuse. Students should develop spatial reasoning to estimate angles within about 10-15 degrees of the actual measure. Vocabulary: estimate, angle, degree, benchmark, acute, right, obtuse, compare, approximate, reference angle. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Use a protractor to measure angles",
+      "teks": "4.7(C)",
+      "prompt": "This topic covers measuring and drawing angles using a protractor for Grade 4 students (TEKS 4.7(C)). Students should understand how to use a protractor to accurately measure and construct angles. Key concepts: align the protractor's center mark with the vertex of the angle; align one ray with the zero line; read the degree measurement where the other ray crosses the scale; use the correct scale (inner or outer) based on the angle's direction; angles are measured in degrees from 0 to 180 on a standard protractor. Students should practice measuring existing angles and drawing angles of specified measures. Vocabulary: protractor, vertex, ray, degree, measure, angle, scale, baseline, center mark, acute, obtuse, right angle. Common errors include reading the wrong scale. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Draw angles with a protractor",
+      "teks": "4.7(D)",
+      "prompt": "This topic covers measuring and drawing angles using a protractor for Grade 4 students (TEKS 4.7(D)). Students should understand how to use a protractor to accurately measure and construct angles. Key concepts: align the protractor's center mark with the vertex of the angle; align one ray with the zero line; read the degree measurement where the other ray crosses the scale; use the correct scale (inner or outer) based on the angle's direction; angles are measured in degrees from 0 to 180 on a standard protractor. Students should practice measuring existing angles and drawing angles of specified measures. Vocabulary: protractor, vertex, ray, degree, measure, angle, scale, baseline, center mark, acute, obtuse, right angle. Common errors include reading the wrong scale. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Adjacent angles",
+      "teks": "4.7(E)",
+      "prompt": "This topic covers adjacent angles for Grade 4 students (TEKS 4.7(E)). Students should understand that adjacent angles share a common vertex and a common side but do not overlap. Key concepts: adjacent angles are next to each other; when two adjacent angles form a straight line, their measures sum to 180 degrees; when two adjacent angles form a right angle, their measures sum to 90 degrees; students can find unknown angle measures by using these relationships. Vocabulary: adjacent, angle, vertex, common side, supplement, complement, straight angle, right angle, sum, measure, degree, decompose. Problems should involve finding missing angle measures using the relationship between adjacent angles, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Angle measures: word problems",
+      "teks": "4.7(E)",
+      "prompt": "This topic covers angle measurement word problems for Grade 4 students (TEKS 4.7(E)). Students should apply their understanding of angle relationships to solve real-world and mathematical word problems. Key concepts: angles can be added when they share a side (angle addition postulate); adjacent angles along a straight line sum to 180 degrees; angles around a point sum to 360 degrees; students should write and solve equations to find unknown angle measures. Vocabulary: angle, degree, adjacent, supplement, complement, sum, unknown, equation, solve, measure, rotation, straight angle. Problems should involve real-world contexts like clock hands, turns, and geometric shapes, appropriate for 9-10 year olds."
+    }
+  ]
+}

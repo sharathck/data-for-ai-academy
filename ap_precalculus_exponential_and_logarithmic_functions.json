@@ -1,0 +1,81 @@
+{
+  "grade": "AP - Precalculus",
+  "subject": "Exponential and Logarithmic Functions",
+  "skills": [
+    {
+      "skill": "Change in Arithmetic and Geometric Sequences",
+      "ref": "2.1.A",
+      "prompt": "This topic covers arithmetic and geometric sequences for AP Precalculus (CED: 2.1.A, Unit 2, Topic 2.1). An arithmetic sequence has a constant common difference d: a_n = a_1 + (n-1)d. A geometric sequence has a constant common ratio r: a_n = a_1 * r^(n-1). Key concepts: arithmetic sequences model additive change (constant amount added); geometric sequences model multiplicative change (constant factor applied); identifying which type from data (constant first differences = arithmetic, constant ratios = geometric); these sequences are the discrete analogs of linear and exponential functions respectively. Students should write explicit and recursive formulas for both types. AP exam note: students must distinguish arithmetic from geometric patterns and connect them to their continuous counterparts (linear and exponential functions). Vocabulary: arithmetic sequence, geometric sequence, common difference, common ratio, explicit formula, recursive formula, additive, multiplicative."
+    },
+    {
+      "skill": "Change in Linear and Exponential Functions",
+      "ref": "2.2.A",
+      "prompt": "This topic covers the relationship between linear and exponential functions for AP Precalculus (CED: 2.2.A, Unit 2, Topic 2.2). Linear functions have constant additive rate of change: f(x) = mx + b, adding m for each unit increase in x. Exponential functions have constant multiplicative rate of change: f(x) = a*b^x, multiplying by b for each unit increase in x. Key concepts: over equal-length input intervals, linear functions change by a constant amount while exponential functions change by a constant factor; this fundamental distinction determines long-term behavior (exponential growth eventually exceeds any linear growth). Students should identify linear vs. exponential behavior from tables (constant differences vs. constant ratios) and contextual descriptions. AP exam note: distinguishing linear from exponential growth is a foundational precalculus skill tested throughout the course. Vocabulary: linear, exponential, additive change, multiplicative change, constant difference, constant ratio, growth."
+    },
+    {
+      "skill": "Exponential Functions",
+      "ref": "2.3.A",
+      "prompt": "This topic covers exponential functions for AP Precalculus (CED: 2.3.A, Unit 2, Topic 2.3). An exponential function has the form f(x) = a*b^x where a != 0, b > 0, b != 1. Key properties: the domain is all real numbers, range is (0,inf) if a > 0 or (-inf,0) if a < 0; the function is always increasing (b > 1) or always decreasing (0 < b < 1); there is a horizontal asymptote at y = 0; the y-intercept is (0,a); the function never equals zero. The base b determines growth or decay rate; the initial value a determines the vertical stretch and direction. Students should graph exponential functions, identify key features, and understand the effect of parameters a and b. AP exam note: students must identify and interpret parameters of exponential functions in context. Vocabulary: exponential function, base, initial value, growth, decay, horizontal asymptote, domain, range."
+    },
+    {
+      "skill": "Exponential Function Manipulation",
+      "ref": "2.4.A",
+      "prompt": "This topic covers manipulating exponential expressions for AP Precalculus (CED: 2.4.A, Unit 2, Topic 2.4). Students rewrite exponential expressions using properties of exponents: a^m * a^n = a^(m+n), a^m/a^n = a^(m-n), (a^m)^n = a^(mn), a^0 = 1, a^(-n) = 1/a^n. Key applications: converting between different bases (b^x = e^(x*ln(b))); expressing growth rates in different time units (if f doubles every 3 years, f = a*2^(t/3)); rewriting to reveal different information about the function. Students should be fluent in transforming exponential expressions to equivalent forms. AP exam note: manipulation skills are essential for solving exponential equations and comparing growth rates across different representations. Vocabulary: exponent properties, base conversion, equivalent forms, rewrite, growth rate, time unit conversion."
+    },
+    {
+      "skill": "Exponential Function Context and Data Modeling",
+      "ref": "2.5.A",
+      "prompt": "This topic covers exponential modeling for AP Precalculus (CED: 2.5.A, Unit 2, Topic 2.5). Students use exponential functions to model real-world scenarios: population growth, radioactive decay, compound interest, depreciation. Key concepts: determining the initial value and growth/decay factor from data or context; using two data points to find the exponential function f(x) = a*b^x; applying the model to make predictions; understanding the meaning of the base (growth factor per unit time) and interpreting it in context. Students should use technology for exponential regression when appropriate. Limitations: exponential models may not account for limiting factors (carrying capacity) or changing rates. AP exam note: students must construct exponential models from data or descriptions and interpret parameters and predictions in context. Vocabulary: exponential model, initial value, growth factor, decay factor, regression, prediction, context, limitation."
+    },
+    {
+      "skill": "Competing Function Model Validation",
+      "ref": "2.6.A",
+      "prompt": "This topic covers comparing and validating competing function models for AP Precalculus (CED: 2.6.A, Unit 2, Topic 2.6). When multiple function types could model the same data, students must evaluate which model is most appropriate. Key concepts: examining residuals (deviations from model predictions) for patterns suggesting a better model; comparing predicted vs. actual values; considering the context to determine which function type makes physical sense; understanding that a good fit over the observed data does not guarantee good predictions outside that range. Students should compare linear, quadratic, and exponential models and justify their selection. AP exam note: model validation questions require students to explain why one model is superior using both mathematical evidence and contextual reasoning. Vocabulary: model validation, residual, competing models, best fit, prediction, context, justification, comparison."
+    },
+    {
+      "skill": "Composition of Functions",
+      "ref": "2.7.A",
+      "prompt": "This topic covers function composition for AP Precalculus (CED: 2.7.A, Unit 2, Topic 2.7). The composition (f o g)(x) = f(g(x)) applies g first, then f to the result. Key concepts: the output of the inner function becomes the input of the outer function; the domain of f o g is the set of x in the domain of g such that g(x) is in the domain of f; composition is not commutative (f o g != g o f in general); decomposing a complex function into a composition of simpler functions. Students should evaluate compositions from formulas, tables, and graphs. Composition connects to many advanced topics: the Chain Rule in calculus, inverse functions (f o f^(-1) = identity), and modeling multi-step processes. AP exam note: students may need to evaluate, interpret, or decompose compositions in various representations. Vocabulary: composition, inner function, outer function, domain, decompose, order of operations, not commutative."
+    },
+    {
+      "skill": "Inverse Functions",
+      "ref": "2.8.A",
+      "prompt": "This topic covers inverse functions for AP Precalculus (CED: 2.8.A, Unit 2, Topic 2.8). The inverse f^(-1) reverses f: if f(a) = b, then f^(-1)(b) = a. A function has an inverse if and only if it is one-to-one (passes the horizontal line test). Key concepts: f(f^(-1)(x)) = x and f^(-1)(f(x)) = x (composition equals identity); the graph of f^(-1) is the reflection of f's graph over y = x; domain of f^(-1) = range of f, and vice versa; to find f^(-1) algebraically, swap x and y in y = f(x) and solve for y. Restricting the domain of a non-one-to-one function can create an invertible function. AP exam note: students should find inverses algebraically, graphically, and from tables. Understanding inverse relationships is essential for logarithms (inverse of exponentials) and inverse trigonometric functions. Vocabulary: inverse function, one-to-one, horizontal line test, reflection, domain, range, identity composition."
+    },
+    {
+      "skill": "Logarithmic Expressions",
+      "ref": "2.9.A",
+      "prompt": "This topic covers logarithmic expressions for AP Precalculus (CED: 2.9.A, Unit 2, Topic 2.9). The logarithm log_b(x) = y means b^y = x. Key properties: log_b(b^x) = x and b^(log_b(x)) = x; log_b(mn) = log_b(m) + log_b(n); log_b(m/n) = log_b(m) - log_b(n); log_b(m^n) = n*log_b(m); log_b(1) = 0; log_b(b) = 1; change of base: log_b(x) = ln(x)/ln(b). Common logarithms: log (base 10) and ln (base e). Students should evaluate logarithmic expressions, expand and condense using properties, and convert between exponential and logarithmic forms. AP exam note: logarithm properties are essential for solving exponential equations and for the semi-log plot analysis in Topic 2.15. Vocabulary: logarithm, base, exponent, properties, expand, condense, change of base, common log, natural log."
+    },
+    {
+      "skill": "Inverses of Exponential Functions",
+      "ref": "2.10.A",
+      "prompt": "This topic covers logarithms as inverses of exponential functions for AP Precalculus (CED: 2.10.A, Unit 2, Topic 2.10). Since f(x) = b^x is one-to-one, its inverse f^(-1)(x) = log_b(x) exists. Key concepts: the logarithm undoes exponentiation (log_b(b^x) = x) and exponentiation undoes logarithm (b^(log_b(x)) = x); the graph of y = log_b(x) is the reflection of y = b^x over y = x; domain of log_b = (0,inf), range = all reals; the logarithm has a vertical asymptote at x = 0 and passes through (1,0). For b > 1, log_b is increasing; for 0 < b < 1, decreasing. Students should graph logarithmic functions and connect their features to the corresponding exponential. AP exam note: understanding the inverse relationship between exponentials and logarithms is essential for solving equations and modeling. Vocabulary: inverse, exponential, logarithm, reflection, domain, range, vertical asymptote, one-to-one."
+    },
+    {
+      "skill": "Logarithmic Functions",
+      "ref": "2.11.A",
+      "prompt": "This topic covers logarithmic functions for AP Precalculus (CED: 2.11.A, Unit 2, Topic 2.11). The function f(x) = log_b(x) has domain (0,inf), range all reals, vertical asymptote x = 0, x-intercept (1,0), and passes through (b,1). Key features: logarithmic growth is slow (much slower than polynomial or exponential); the function is concave down (rate of change is decreasing); for b > 1, the function is increasing. Transformations: a*log_b(cx+d) + k shifts, stretches, and reflects the parent function. Students should graph logarithmic functions with transformations and identify key features (domain, range, asymptote, intercepts). AP exam note: logarithmic functions model phenomena with diminishing returns (decibels, pH, Richter scale). Students should connect features to context. Vocabulary: logarithmic function, domain, range, vertical asymptote, concave down, diminishing returns, transformation."
+    },
+    {
+      "skill": "Logarithmic Function Manipulation",
+      "ref": "2.12.A",
+      "prompt": "This topic covers manipulating logarithmic expressions for AP Precalculus (CED: 2.12.A, Unit 2, Topic 2.12). Key properties: log(mn) = log(m)+log(n); log(m/n) = log(m)-log(n); log(m^n) = n*log(m); change of base: log_b(x) = log(x)/log(b). Students use these properties to: expand logarithmic expressions (useful for differentiation in calculus), condense logarithmic expressions (useful for solving equations), and convert between bases. Students should simplify complex logarithmic expressions and verify equivalence of different forms. AP exam note: logarithm manipulation is tested directly and is essential for solving logarithmic and exponential equations. Students should be fluent with all properties. Vocabulary: logarithm properties, expand, condense, Product Rule, Quotient Rule, Power Rule, change of base."
+    },
+    {
+      "skill": "Exponential and Logarithmic Equations and Inequalities",
+      "ref": "2.13.A",
+      "prompt": "This topic covers solving exponential and logarithmic equations for AP Precalculus (CED: 2.13.A, Unit 2, Topic 2.13). For exponential equations: isolate the exponential term, take logarithm of both sides, solve. Example: 3^(2x) = 15 gives 2x = log_3(15), x = log(15)/(2log(3)). For logarithmic equations: condense logs, convert to exponential form, solve, and check for extraneous solutions (arguments must be positive). Inequalities require careful attention to direction when multiplying/dividing by negative values or when the base is between 0 and 1. Students should solve both simple and complex equations and verify solutions in the original equation. AP exam note: extraneous solutions are a common pitfall in logarithmic equations. Students must check that solutions are in the domain. Vocabulary: exponential equation, logarithmic equation, extraneous solution, domain check, isolate, convert, inequality."
+    },
+    {
+      "skill": "Logarithmic Function Context and Data Modeling",
+      "ref": "2.14.A",
+      "prompt": "This topic covers logarithmic modeling for AP Precalculus (CED: 2.14.A, Unit 2, Topic 2.14). Logarithmic functions model phenomena with rapid initial change that slows over time: sound intensity (decibels), earthquake magnitude (Richter scale), acidity (pH), information entropy. Key concepts: logarithmic models are appropriate when the rate of change is inversely proportional to the input; building models from data using logarithmic regression; interpreting parameters in context; understanding limitations (logarithmic models may not capture long-term behavior). Students should construct logarithmic models, make predictions, and compare with other model types. AP exam note: students must justify why a logarithmic model is appropriate for given data and interpret the model in context. Vocabulary: logarithmic model, diminishing returns, regression, context, rate of change, prediction, limitation."
+    },
+    {
+      "skill": "Semi-log Plots",
+      "ref": "2.15.A",
+      "prompt": "This topic covers semi-log plots for AP Precalculus (CED: 2.15.A, Unit 2, Topic 2.15). A semi-log plot uses a logarithmic scale on the y-axis and a linear scale on the x-axis. On a semi-log plot, exponential data (y = a*b^x) appears as a straight line because log(y) = log(a) + x*log(b) is linear in x. Key concepts: if data appears linear on a semi-log plot, the original data follows an exponential model; the slope of the semi-log line equals log(b) (the log of the growth factor); the y-intercept equals log(a); semi-log plots are useful for identifying exponential behavior in data that spans many orders of magnitude. Students should read and interpret semi-log plots and convert between semi-log linear relationships and exponential equations. AP exam note: semi-log plots are a distinctive AP Precalculus topic. Students must interpret linearity on a semi-log plot as evidence of exponential behavior. Vocabulary: semi-log plot, logarithmic scale, linear appearance, exponential data, slope, intercept, orders of magnitude."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "grade": "AP - Precalculus",
+  "subject": "Functions Involving Parameters, Vectors, and Matrices",
+  "skills": [
+    {
+      "skill": "Parametric Functions",
+      "ref": "4.1.A",
+      "prompt": "This topic introduces parametric functions for AP Precalculus (CED: 4.1.A, Unit 4, Topic 4.1). A parametric function defines x and y each as functions of a parameter t: x = f(t), y = g(t). As t varies, the point (x,y) traces a curve in the plane. Key concepts: the parameter t often represents time; the same curve can have different parametrizations; parametric representation can describe curves that are not functions of x (e.g., circles, loops); eliminating the parameter gives the Cartesian equation. Students should graph parametric curves by making a table of (t, x, y) values and plotting, and understand how the parameter determines direction of travel. AP exam note: students should graph parametric curves and understand the role of the parameter in determining direction and speed along the curve. Vocabulary: parametric function, parameter, trace, curve, direction, eliminate parameter, Cartesian equation."
+    },
+    {
+      "skill": "Parametric Functions Modeling Planar Motion",
+      "ref": "4.2.A",
+      "prompt": "This topic covers using parametric functions to model planar motion for AP Precalculus (CED: 4.2.A, Unit 4, Topic 4.2). When an object moves in a plane, its position at time t is given by x(t) and y(t). Key concepts: x(t) describes horizontal position and y(t) describes vertical position; the path traced is the trajectory; direction of motion is determined by increasing t; speed relates to how fast x and y change with t. Common models: projectile motion (x = v0*cos(theta)*t, y = v0*sin(theta)*t - (1/2)g*t^2), uniform circular motion (x = r*cos(omega*t), y = r*sin(omega*t)). Students should analyze motion from parametric equations and interpret in context. AP exam note: students must describe the motion (direction, speed, position) from parametric equations and connect to real-world contexts. Vocabulary: planar motion, trajectory, projectile, circular motion, position, direction, parameter t, horizontal, vertical."
+    },
+    {
+      "skill": "Parametric Functions and Rates of Change",
+      "ref": "4.3.A",
+      "prompt": "This topic covers rates of change for parametric functions in AP Precalculus (CED: 4.3.A, Unit 4, Topic 4.3). For parametric equations x(t), y(t), the average rate of change of y with respect to x over an interval is Delta_y/Delta_x = [y(t2)-y(t1)]/[x(t2)-x(t1)]. Key concepts: this ratio gives the slope of the secant line on the parametric curve between two points; if both x and y are differentiable, the instantaneous rate dy/dx = (dy/dt)/(dx/dt); the rates dx/dt and dy/dt represent horizontal and vertical velocities. Students should compute and interpret average rates of change from parametric data and understand how horizontal and vertical rates combine to describe motion along the curve. AP exam note: students should compute average rates of change of y with respect to x from parametric data and interpret them as slopes. Vocabulary: rate of change, parametric, slope, secant line, horizontal rate, vertical rate, average rate."
+    },
+    {
+      "skill": "Parametrically Defined Circles and Lines",
+      "ref": "4.4.A",
+      "prompt": "This topic covers parametric representations of circles and lines for AP Precalculus (CED: 4.4.A, Unit 4, Topic 4.4). Line: x = x0 + at, y = y0 + bt traces a line through (x0,y0) with direction vector <a,b>. Circle: x = h + r*cos(t), y = k + r*sin(t) traces a circle centered at (h,k) with radius r. Key concepts: the parameter t determines position and direction of travel; for circles, t represents the angle; the line parametrization can be restricted to a segment by limiting t; eliminating t from the circle parametrization gives (x-h)^2 + (y-k)^2 = r^2. Students should write parametric equations for given circles and lines and eliminate parameters to verify Cartesian equations. AP exam note: students should fluently convert between parametric and Cartesian forms for circles and lines. Vocabulary: parametric circle, parametric line, direction vector, center, radius, eliminate parameter, direction of travel."
+    },
+    {
+      "skill": "Implicitly Defined Functions",
+      "ref": "4.5.A",
+      "prompt": "This topic covers implicitly defined functions for AP Precalculus (CED: 4.5.A, Unit 4, Topic 4.5). An implicit equation like x^2 + y^2 = 25 defines a relationship between x and y without explicitly solving for one variable. Key concepts: implicit equations can define curves that are not functions (failing the vertical line test); solving for y may yield multiple branches, each of which may be a function; analyzing implicit equations involves identifying symmetry, intercepts, and other features directly from the equation. Common implicit curves: circles, ellipses, hyperbolas, and more complex relations. Students should graph implicit equations using technology and analyze their features. AP exam note: students should identify key features of implicitly defined curves (symmetry, intercepts, domain) without necessarily solving for y. Vocabulary: implicit equation, explicit function, relation, curve, symmetry, intercept, branch, vertical line test."
+    },
+    {
+      "skill": "Parametrization of Implicitly Defined Functions",
+      "ref": "4.7.A",
+      "prompt": "This topic covers parametrizing implicitly defined curves for AP Precalculus (CED: 4.7.A, Unit 4, Topic 4.7). Students convert implicit equations into parametric form. Key examples: circle x^2+y^2=r^2 becomes x=r*cos(t), y=r*sin(t); ellipse x^2/a^2+y^2/b^2=1 becomes x=a*cos(t), y=b*sin(t). Key concepts: parametrization adds direction and timing information to an implicit curve; the same implicit curve can have multiple parametrizations (different speeds, directions, starting points); choosing the right parametrization simplifies analysis and computation. Students should find parametric equations for standard implicit curves and understand the role of the parameter. AP exam note: students should convert between implicit and parametric forms and understand the advantages of each representation. Vocabulary: parametrize, implicit curve, parametric form, direction, speed, ellipse, circle, parameter."
+    },
+    {
+      "skill": "Conic Sections",
+      "ref": "4.6.A",
+      "prompt": "This topic covers conic sections for AP Precalculus (CED: 4.6.A, Unit 4, Topic 4.6). Conics are curves formed by intersecting a plane with a cone: circles, ellipses, parabolas, and hyperbolas. Standard forms: circle (x-h)^2+(y-k)^2=r^2; ellipse (x-h)^2/a^2+(y-k)^2/b^2=1; parabola y-k=a(x-h)^2 or x-h=a(y-k)^2; hyperbola (x-h)^2/a^2-(y-k)^2/b^2=1. Key features: center, vertices, foci, asymptotes (hyperbolas), directrix (parabolas), eccentricity. Students should identify, graph, and write equations for each conic type. The general second-degree equation Ax^2+Bxy+Cy^2+Dx+Ey+F=0 can represent any conic. AP exam note: students should identify conic type from equations and know key features for each. Vocabulary: conic section, circle, ellipse, parabola, hyperbola, focus, vertex, asymptote, eccentricity, standard form."
+    },
+    {
+      "skill": "Vectors",
+      "ref": "4.8.A",
+      "prompt": "This topic introduces vectors for AP Precalculus (CED: 4.8.A, Unit 4, Topic 4.8). A vector has magnitude (length) and direction, written as <a,b> or ai+bj. Key operations: addition (<a,b>+<c,d>=<a+c,b+d>), scalar multiplication (k<a,b>=<ka,kb>), magnitude |v|=sqrt(a^2+b^2), direction angle theta=arctan(b/a). Unit vector: v/|v|. Key concepts: vectors represent displacement, velocity, force, and other directed quantities; the zero vector has magnitude 0; vectors can be added geometrically (tip-to-tail) or algebraically (component-wise); the dot product u*v = |u||v|cos(theta) = a1a2+b1b2 measures alignment. Students should perform vector operations, find magnitude and direction, and interpret vectors in context. AP exam note: students should be comfortable with component form and geometric interpretation of vectors. Vocabulary: vector, magnitude, direction, component, unit vector, scalar multiplication, addition, dot product."
+    },
+    {
+      "skill": "Vector-Valued Functions",
+      "ref": "4.9.A",
+      "prompt": "This topic covers vector-valued functions for AP Precalculus (CED: 4.9.A, Unit 4, Topic 4.9). A vector-valued function r(t) = <x(t), y(t)> assigns a vector to each value of t, tracing a curve in the plane. Key concepts: r(t) gives position at time t; the difference r(t2)-r(t1) gives the displacement vector; average velocity = (r(t2)-r(t1))/(t2-t1); the direction of motion is given by the direction of the displacement or velocity vector. Vector-valued functions are essentially parametric equations expressed in vector notation. Students should graph the path, determine direction of travel, compute displacement, and interpret in context. AP exam note: students should connect vector-valued function notation to parametric equations and interpret motion in context. Vocabulary: vector-valued function, position vector, displacement, average velocity, direction, parametric, trace."
+    },
+    {
+      "skill": "Matrices",
+      "ref": "4.10.A",
+      "prompt": "This topic introduces matrices for AP Precalculus (CED: 4.10.A, Unit 4, Topic 4.10). A matrix is a rectangular array of numbers with m rows and n columns (m x n). Key operations: addition (same dimensions, add corresponding entries), scalar multiplication (multiply each entry by the scalar), matrix multiplication (AB defined when columns of A = rows of B; entry (i,j) of AB = dot product of row i of A and column j of B). Key concepts: matrix multiplication is not commutative (AB != BA in general); the identity matrix I (diagonal of 1s) satisfies AI = IA = A; matrices can represent systems of linear equations, transformations, and data. Students should perform matrix operations and understand their properties. AP exam note: students should compute matrix operations accurately, especially matrix multiplication, and understand when operations are defined. Vocabulary: matrix, dimension, row, column, addition, scalar multiplication, matrix multiplication, identity matrix, entry."
+    },
+    {
+      "skill": "The Inverse and Determinant of a Matrix",
+      "ref": "4.11.A",
+      "prompt": "This topic covers matrix inverses and determinants for AP Precalculus (CED: 4.11.A, Unit 4, Topic 4.11). For a 2x2 matrix A = [[a,b],[c,d]], the determinant is det(A) = ad-bc. A is invertible if and only if det(A) != 0, and A^(-1) = (1/det(A))*[[d,-b],[-c,a]]. Key concepts: AA^(-1) = A^(-1)A = I (identity); the inverse is used to solve matrix equations AX = B as X = A^(-1)B; det(A) = 0 means the system has no unique solution (singular matrix); geometric interpretation: |det(A)| gives the area scaling factor of the linear transformation represented by A. Students should compute determinants and inverses for 2x2 matrices and apply inverses to solve systems. AP exam note: students should compute 2x2 determinants and inverses and use them to solve systems of equations. Vocabulary: determinant, inverse matrix, singular, invertible, identity, system of equations, area scaling."
+    },
+    {
+      "skill": "Linear Transformations and Matrices",
+      "ref": "4.12.A",
+      "prompt": "This topic covers linear transformations represented by matrices for AP Precalculus (CED: 4.12.A, Unit 4, Topic 4.12). A 2x2 matrix A represents a linear transformation T: R^2 -> R^2 by T(v) = Av. Key transformations: rotation by angle theta: [[cos(theta),-sin(theta)],[sin(theta),cos(theta)]]; reflection over x-axis: [[1,0],[0,-1]]; scaling: [[k,0],[0,k]]; shear: [[1,k],[0,1]]. Key concepts: linear transformations preserve the origin, lines, and parallelism; the columns of the matrix are the images of the standard basis vectors; composition of transformations corresponds to matrix multiplication; the determinant gives the area scaling factor (negative det means orientation reversal). Students should identify and apply standard transformations and compose them. AP exam note: students should connect matrix entries to geometric transformations and understand how composition works via multiplication. Vocabulary: linear transformation, matrix representation, rotation, reflection, scaling, shear, composition, basis vectors."
+    },
+    {
+      "skill": "Matrices as Functions",
+      "ref": "4.13.A",
+      "prompt": "This topic covers interpreting matrices as functions for AP Precalculus (CED: 4.13.A, Unit 4, Topic 4.13). A matrix A defines a function T_A: R^n -> R^m by T_A(x) = Ax. Key concepts: the input is a vector, the output is a vector; this function is linear (T(u+v) = T(u)+T(v), T(kv) = kT(v)); the matrix encodes how inputs map to outputs; inverse matrices define inverse functions; composing matrix functions corresponds to multiplying matrices. Students should evaluate matrix functions at specific inputs, compose them, and find inverses when they exist. This perspective unifies matrices with the function concept studied throughout the course. AP exam note: students should treat matrices as functions, evaluating them at vector inputs and understanding composition as multiplication. Vocabulary: matrix function, linear function, input vector, output vector, composition, inverse, evaluate."
+    },
+    {
+      "skill": "Matrices Modeling Contexts",
+      "ref": "4.14.A",
+      "prompt": "This topic covers using matrices to model real-world contexts for AP Precalculus (CED: 4.14.A, Unit 4, Topic 4.14). Matrices model: systems of linear equations (Ax = b), transition matrices (Markov chains, population movement between states), economic models (input-output analysis), network models (adjacency matrices for graphs), and data organization. Key concepts: setting up the matrix equation from a contextual description; interpreting matrix multiplication in context (e.g., for transition matrices, A^n gives the state after n steps); understanding what the entries of the product matrix represent. Students should construct matrix models from descriptions and interpret results in context. AP exam note: students must translate contextual problems into matrix form, compute products, and interpret the results meaningfully. Vocabulary: matrix model, system of equations, transition matrix, Markov chain, network, adjacency, context, interpret."
+    }
+  ]
+}

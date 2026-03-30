@@ -1,0 +1,54 @@
+{
+  "grade": "Grade 7",
+  "subject": "Science - Earth and space",
+  "skills": [
+    {
+      "skill": "Catastrophic events: Predict and describe how catastrophic events such as floods, hurricanes, or tornadoes impact ecosystems",
+      "teks": "7.10(B)",
+      "teks_description": "Describe how plate tectonics causes ocean basins, earthquakes, mountains, volcanoes",
+      "prompt": "This topic covers how catastrophic events impact ecosystems for Grade 7 science students (TEKS 7.10(B)). Students predict and describe the effects of floods, hurricanes, tornadoes, and other natural disasters on ecosystems. Key concepts include: immediate effects (habitat destruction, organism displacement), long-term effects (succession, population changes), how ecosystems recover over time, and the role of natural disasters in shaping landscapes. Vocabulary: catastrophic event, flood, hurricane, tornado, ecosystem, habitat, succession, displacement, recovery, erosion. Common misconceptions: thinking ecosystems cannot recover from catastrophic events and that all effects are negative. Practice should include scenario analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Weathering and erosion: Analyze the effects of weathering, erosion, and deposition on the environment in ecoregions of Texas",
+      "teks": "7.10(A)",
+      "teks_description": "Describe evidence Earth has changed (fossils, plate tectonics, superposition)",
+      "prompt": "This topic covers weathering, erosion, and deposition effects on Texas ecoregions for Grade 7 science students (TEKS 7.10(A)). Students analyze how these processes shape the environment. Key concepts include: weathering (mechanical and chemical breakdown of rock), erosion (transport of weathered material by water, wind, ice, gravity), deposition (settling of transported material), and how these processes create and change landforms in Texas ecoregions. Vocabulary: weathering, erosion, deposition, mechanical weathering, chemical weathering, ecoregion, landform, sediment, canyon, delta. Common misconceptions: confusing weathering with erosion, thinking erosion is always harmful, and not connecting to local Texas features. Practice should include Texas ecoregion analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Weathering and erosion: How do rock layers form?",
+      "teks": "7.10(A)",
+      "teks_description": "Describe evidence Earth has changed",
+      "prompt": "This topic covers how rock layers form for Grade 7 science students (TEKS 7.10(A)). Students understand the processes of sedimentary rock formation and the principle of superposition. Key concepts include: sediment deposited in layers over time, older layers are at the bottom (superposition), compaction and cementation transform sediment into sedimentary rock, and rock layers provide evidence of Earth's history. Vocabulary: sedimentary rock, layer, stratum, superposition, compaction, cementation, sediment, deposition, fossil, geologic time. Common misconceptions: thinking rock layers form quickly and that superposition always applies (ignoring folding/faulting). Practice should include rock layer analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human impact on water: Model the effects of human activity on groundwater and surface water in a watershed",
+      "teks": "7.11(A)",
+      "teks_description": "Analyze beneficial and harmful influences on groundwater and surface water",
+      "prompt": "This topic covers human impacts on water systems for Grade 7 science students (TEKS 7.11(A)). Students model how human activities affect groundwater and surface water in a watershed. Key concepts include: how pollutants enter water systems (runoff, seepage), effects of urbanization (impervious surfaces, increased runoff), agricultural impacts (fertilizers, pesticides), groundwater depletion from overuse, and watershed management. Vocabulary: groundwater, surface water, watershed, runoff, pollution, aquifer, impervious surface, contamination, depletion. Common misconceptions: thinking groundwater is separate from surface water systems and that pollution dilutes to harmless levels. Practice should include watershed modeling appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human impact on water: Evaluate claims about natural resource use: groundwater",
+      "teks": "7.11(A)",
+      "teks_description": "Analyze beneficial and harmful influences on groundwater and surface water",
+      "prompt": "This topic covers evaluating claims about natural resource use for Grade 7 science students (TEKS 7.11(A)). Students critically evaluate evidence-based claims about how humans use natural resources, particularly groundwater. Key concepts include: understanding groundwater systems (aquifers, recharge, depletion), evaluating evidence quality, identifying bias in claims, and making informed decisions about resource management. Vocabulary: groundwater, aquifer, recharge, depletion, natural resource, claim, evidence, bias, sustainability. Common misconceptions: thinking groundwater is unlimited, not understanding recharge rates, and accepting claims without evidence. Practice should include evaluating resource claims appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Solar system and life: Analyze the characteristics of objects in our solar system that allow life to exist such as the proximity of the Sun, presence of water, and composition of the atmosphere",
+      "teks": "7.9(C)",
+      "teks_description": "Analyze characteristics of Earth that allow life to exist",
+      "prompt": "This topic covers characteristics that allow life in our solar system for Grade 7 science students (TEKS 7.9(C)). Students analyze what makes Earth uniquely suited for life. Key characteristics include: distance from the Sun (habitable zone temperature), presence of liquid water, protective atmosphere (ozone layer, greenhouse effect), magnetic field (protection from solar radiation), and appropriate chemical composition. Vocabulary: habitable zone, atmosphere, ozone, greenhouse effect, magnetic field, liquid water, solar radiation, proximity. Common misconceptions: thinking Earth is the only possible place for life and not understanding why other planets lack these conditions. Practice should include comparative planetary analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Space exploration: Identify the accommodations that enabled manned space exploration, considering the characteristics of our solar system",
+      "teks": "7.9(A)",
+      "teks_description": "Describe physical properties, locations, movements of celestial bodies",
+      "prompt": "This topic covers accommodations for manned space exploration for Grade 7 science students (TEKS 7.9(A)). Students identify the engineering solutions needed for humans to survive in space. Key accommodations include: pressurized spacecraft, oxygen supply, temperature regulation, radiation shielding, food and water systems, waste management, and microgravity adaptations. Key concepts include: why space is hostile to human life and how engineering overcomes each challenge. Vocabulary: accommodation, spacecraft, pressurize, oxygen, radiation, microgravity, life support, insulation. Common misconceptions: thinking space is cold everywhere (radiation makes temperature complex) and underestimating the engineering challenges. Practice should include design challenge analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Space exploration: Explore the engineering-design process: going to the Moon!",
+      "teks": "7.9(A)",
+      "teks_description": "Describe physical properties, locations, movements of celestial bodies",
+      "prompt": "This topic covers the engineering design process through the context of lunar exploration for Grade 7 science students (TEKS 7.9(A)). Students explore how engineering design was applied to space missions. Key concepts include: the engineering design process (identify problem, research, design, build, test, redesign), challenges of space travel (no atmosphere, extreme temperatures, radiation, microgravity), historical Moon missions, and how scientific research impacts society. Vocabulary: engineering design, prototype, criteria, constraint, iteration, spacecraft, lunar, mission, technology. Common misconceptions: thinking engineering design is linear and that first designs are always final. Practice should include design challenge activities appropriate for 12-13 year olds."
+    }
+  ]
+}

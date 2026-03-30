@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Biology",
+  "subject": "Cellular Energetics",
+  "skills": [
+    {
+      "skill": "ENE Enzyme Structure",
+      "ref": "ENE-3.A (Unit 3, Topic 3.1)",
+      "prompt": "This topic covers enzyme structure for AP Biology students (CED: ENE-3.A, Unit 3, Topic 3.1). Students should understand that enzymes are biological catalysts, mostly proteins, that lower activation energy without being consumed. Each enzyme has an active site with a specific 3D shape complementary to its substrate (induced fit model). Enzyme specificity arises from the shape and chemical properties of the active site. Cofactors (metal ions) and coenzymes (organic molecules like vitamins) assist enzyme function. Students must explain how enzyme structure determines substrate specificity and catalytic activity. Connect to protein structure (tertiary and quaternary), metabolism, and regulation of biochemical pathways. AP exam note: questions may ask students to interpret enzyme-substrate interaction diagrams or predict effects of structural changes. Vocabulary: enzyme, substrate, active site, activation energy, catalyst, cofactor, coenzyme, induced fit model."
+    },
+    {
+      "skill": "ENE 3.2 Enzyme Catalysis",
+      "ref": "ENE-3.B (Unit 3, Topic 3.2)",
+      "prompt": "This topic covers enzyme catalysis for AP Biology students (CED: ENE-3.B, Unit 3, Topic 3.2). Students should understand that enzymes increase reaction rates by lowering the activation energy barrier. The enzyme-substrate complex forms at the active site, where the enzyme stabilizes the transition state. Reaction rate depends on substrate concentration, enzyme concentration, and environmental conditions. At high substrate concentrations, enzymes become saturated (Vmax). Students must interpret graphs of reaction rate vs. substrate concentration and identify Vmax and Km (Michaelis constant). Competitive inhibitors bind the active site; noncompetitive (allosteric) inhibitors bind elsewhere and change enzyme shape. Connect to metabolic regulation, drug design, and feedback inhibition. AP exam note: data analysis of enzyme kinetics graphs is common. Vocabulary: activation energy, transition state, Vmax, Km, competitive inhibition, noncompetitive inhibition, allosteric regulation, enzyme-substrate complex."
+    },
+    {
+      "skill": "ENE 3.3 Environmental Impacts on Enzyme Function",
+      "ref": "ENE-3.C (Unit 3, Topic 3.3)",
+      "prompt": "This topic covers environmental impacts on enzyme function for AP Biology students (CED: ENE-3.C, Unit 3, Topic 3.3). Students should understand that enzyme activity is affected by temperature, pH, and substrate concentration. Each enzyme has an optimal temperature and pH at which activity is maximized. Temperatures or pH values outside the optimal range cause denaturation, unfolding the protein and destroying the active site shape. Most human enzymes function optimally near 37C and pH 7, but exceptions exist (pepsin at pH 2, taq polymerase at high temperatures). Students must interpret graphs showing enzyme activity vs. temperature or pH and explain results. Connect to homeostasis, adaptation to extreme environments, and biotechnology applications. AP exam note: experimental design questions may ask students to test optimal conditions. Vocabulary: optimal temperature, optimal pH, denaturation, thermophile, enzyme activity curve."
+    },
+    {
+      "skill": "ENE 3.4 Cellular Energy",
+      "ref": "ENE-3.D (Unit 3, Topic 3.4)",
+      "prompt": "This topic covers cellular energy for AP Biology students (CED: ENE-3.D, Unit 3, Topic 3.4). Students should understand that ATP (adenosine triphosphate) is the primary energy currency of cells. Energy is released when the terminal phosphate bond is hydrolyzed (ATP to ADP + Pi), and this energy drives endergonic reactions through energy coupling. ATP is continuously recycled: cells regenerate ATP from ADP through cellular respiration and photosynthesis. Students must explain the relationship between exergonic and endergonic reactions and how ATP couples them. Chemiosmosis, the flow of H+ ions through ATP synthase, is the primary mechanism of ATP production in both mitochondria and chloroplasts. Connect to metabolism, active transport, and muscle contraction. AP exam note: understanding the ATP cycle and energy coupling is fundamental. Vocabulary: ATP, ADP, phosphorylation, energy coupling, exergonic, endergonic, chemiosmosis, ATP synthase, free energy."
+    },
+    {
+      "skill": "ENE 3.5 Photosynthesis",
+      "ref": "ENE-3.E (Unit 3, Topic 3.5)",
+      "prompt": "This topic covers photosynthesis for AP Biology students (CED: ENE-3.E, Unit 3, Topic 3.5). Students should understand the two stages: light-dependent reactions (in thylakoid membranes) and the Calvin cycle (in the stroma). Light reactions capture solar energy using chlorophyll and other pigments, split water (photolysis), generate ATP via chemiosmosis, and produce NADPH. The Calvin cycle uses ATP and NADPH to fix CO2 into G3P through carbon fixation (rubisco), reduction, and regeneration of RuBP. Overall equation: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2. Students must trace energy flow from light to chemical bonds and explain how environmental factors (light intensity, CO2 concentration, temperature) affect rate. Connect to cellular respiration, carbon cycle, and climate change. AP exam note: free-response questions on photosynthesis are very common. Vocabulary: chlorophyll, thylakoid, stroma, photosystem, electron transport chain, Calvin cycle, carbon fixation, rubisco, NADPH, photolysis."
+    },
+    {
+      "skill": "ENE 3.6 Cellular Respiration",
+      "ref": "ENE-3.F (Unit 3, Topic 3.6)",
+      "prompt": "This topic covers cellular respiration for AP Biology students (CED: ENE-3.F, Unit 3, Topic 3.6). Students should understand the three stages: glycolysis (cytoplasm), the Krebs cycle (mitochondrial matrix), and oxidative phosphorylation (inner mitochondrial membrane). Glycolysis splits glucose into two pyruvate molecules, producing 2 ATP and 2 NADH. The Krebs cycle oxidizes acetyl-CoA, generating CO2, NADH, FADH2, and GTP. Oxidative phosphorylation uses the electron transport chain to create a proton gradient driving ATP synthase (chemiosmosis), producing most of the approximately 30-32 ATP per glucose. Fermentation (anaerobic) regenerates NAD+ when oxygen is absent. Overall equation: C6H12O6 + 6O2 -> 6CO2 + 6H2O + ATP. Students must trace carbon, hydrogen, and energy through each stage. Connect to photosynthesis, exercise physiology, and evolution. AP exam note: detailed knowledge of each stage is expected. Vocabulary: glycolysis, pyruvate, acetyl-CoA, Krebs cycle, ETC, chemiosmosis, oxidative phosphorylation, fermentation, NAD+, FADH2."
+    },
+    {
+      "skill": "SYI 3.7 Fitness",
+      "ref": "SYI-3.A (Unit 3, Topic 3.7)",
+      "prompt": "This topic covers fitness for AP Biology students (CED: SYI-3.A, Unit 3, Topic 3.7). Students should understand that biological fitness refers to an organism's ability to survive and reproduce in a given environment, not physical strength. Fitness is measured by reproductive success and the contribution of alleles to the next generation. Organisms with higher fitness have traits better suited to their environment, enabling them to obtain resources, avoid predation, and successfully reproduce. Students must distinguish between fitness in everyday language and evolutionary fitness. Natural selection acts on phenotypic variation within populations, favoring traits that increase fitness. Connect to natural selection, adaptation, and population genetics. AP exam note: questions may present data on survival and reproduction rates and ask students to determine relative fitness. Vocabulary: fitness, reproductive success, adaptation, natural selection, phenotype, allele frequency, relative fitness, selective advantage."
+    }
+  ]
+}

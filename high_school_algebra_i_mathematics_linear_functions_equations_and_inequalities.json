@@ -1,0 +1,136 @@
+{
+  "grade": "High School - Algebra I",
+  "subject": "Mathematics - Linear functions, equations, and inequalities",
+  "skills": [
+    {
+      "skill": "Domain and range: Domain and range of relations",
+      "teks": "A.2(A)",
+      "prompt": "This topic covers domain and range of relations for Algebra I students (TEKS A.2(A)). Students should understand that the domain is the set of all possible input (x) values and the range is the set of all possible output (y) values of a relation. They must determine domain and range from ordered pairs, tables, mappings, and graphs. Key vocabulary: relation, function, domain, range, input, output, independent variable, dependent variable. Students should use set notation or interval notation to express domain and range. They need to identify whether a relation is discrete (individual points) or continuous (connected curve or line) and adjust their notation accordingly. Common representations include set-builder notation, roster notation, and inequality notation. Common errors include confusing domain with range, listing repeated values, and misreading graph scales."
+    },
+    {
+      "skill": "Domain and range: Domain and range of linear functions: graphs",
+      "teks": "A.2(A)",
+      "prompt": "This topic covers determining the domain and range of linear functions from their graphs for Algebra I students (TEKS A.2(A)). Students should understand that linear functions produce straight-line graphs and typically have domain and range of all real numbers unless restricted by context. When reading a graph, students identify the horizontal extent (domain) and vertical extent (range). A continuous line extending infinitely has domain and range of all real numbers; a segment or ray has restricted domain/range. Students express answers using interval notation, inequality notation, or set-builder notation. Vocabulary: linear function, domain, range, continuous, interval. Common errors: confusing open vs closed intervals, not recognizing arrows that indicate the line continues infinitely, and incorrectly reading axis scales."
+    },
+    {
+      "skill": "Domain and range: Domain and range of linear functions: word problems",
+      "teks": "A.2(A)",
+      "prompt": "This topic covers determining the domain and range of linear functions from word problems for Algebra I students (TEKS A.2(A)). Students interpret real-world scenarios to identify reasonable input (domain) and output (range) values. Physical constraints such as time, distance, money, or quantity often restrict domain and range to non-negative values or specific intervals. Students write the linear function modeling the situation, then determine practical domain and range. For example, if a plumber charges $50 plus $30/hour, domain might be [0, 8] for an 8-hour workday. Vocabulary: domain, range, constraint, reasonable values, independent variable, dependent variable. Common errors: ignoring real-world constraints, allowing negative values where they make no physical sense, and confusing which variable is independent vs dependent."
+    },
+    {
+      "skill": "Writing linear equations in various forms: Slope-intercept form: write an equation",
+      "teks": "A.2(B)",
+      "prompt": "This topic covers writing linear equations in slope-intercept form for Algebra I students (TEKS A.2(B)). Students master y = mx + b, where m is the slope (rate of change) and b is the y-intercept (starting value). Given a slope and y-intercept, write the equation directly. Given a slope and a point, substitute to find b. Given two points, calculate slope m = (y2-y1)/(x2-x1), then find b. Key vocabulary: slope, y-intercept, rate of change, initial value, linear equation. Students should understand slope as rise over run and connect to real-world rates. They must handle positive, negative, zero, and undefined slopes. Common errors: inverting the slope formula, sign errors with negative coordinates, and confusing slope with y-intercept."
+    },
+    {
+      "skill": "Writing linear equations in various forms: Write linear equations in standard form",
+      "teks": "A.2(B)",
+      "prompt": "This topic covers writing linear equations in standard form for Algebra I students (TEKS A.2(B)). Standard form is Ax + By = C, where A, B, and C are integers and A is typically non-negative. Students convert from slope-intercept form by rearranging terms and clearing fractions. They write standard form equations given two points or a point and slope. Key skills: multiplying to eliminate fractions, moving terms across the equals sign, ensuring A >= 0. Standard form is useful for finding intercepts and for elimination in systems of equations. Vocabulary: standard form, coefficient, integer, equivalent equation. Common errors: leaving fractions or decimals, forgetting to make A positive, and arithmetic mistakes when rearranging."
+    },
+    {
+      "skill": "Writing linear equations in various forms: Point-slope form: write an equation",
+      "teks": "A.2(B)",
+      "prompt": "This topic covers writing linear equations in point-slope form for Algebra I students (TEKS A.2(B)). Point-slope form is y - y1 = m(x - x1), where m is the slope and (x1, y1) is a known point. Students write equations given a slope and point, or calculate slope from two points first. Point-slope form directly shows the slope and a specific point, making it ideal when these are given. Students convert between point-slope, slope-intercept, and standard forms. Vocabulary: point-slope form, slope, coordinate pair, linear equation. Common errors: sign mistakes with negative coordinates (double negatives), forgetting to distribute when converting, and confusing (x1, y1) with (x, y)."
+    },
+    {
+      "skill": "Writing linear equations in various forms: Write equations for lines of best fit",
+      "teks": "A.4(C)",
+      "prompt": "This topic covers writing equations for lines of best fit for Algebra I students (TEKS A.4(C)). A line of best fit approximates the relationship in a scatter plot. Students select two representative points, calculate slope, then write the equation in slope-intercept form. Key concepts: the line shows the general trend, and can be used for interpolation and extrapolation. Vocabulary: scatter plot, line of best fit, trend line, correlation, positive correlation, negative correlation, interpolation, extrapolation, residual. Students evaluate how well the line fits by examining residuals. Common errors: choosing outlier points, confusing correlation with causation, and making predictions far outside the data range."
+    },
+    {
+      "skill": "Writing linear equations from representations: Slope-intercept form: write an equation from a graph",
+      "teks": "A.2(C)",
+      "prompt": "This topic covers writing linear equations from a graph for Algebra I students (TEKS A.2(C)). Students identify the y-intercept (where the line crosses the y-axis) and calculate slope by selecting two clear lattice points and computing rise/run. For slope-intercept form: y = mx + b. For point-slope form: y - y1 = m(x - x1). Key skills: reading coordinates accurately, counting grid squares for rise and run, determining if slope is positive or negative. Vocabulary: slope, y-intercept, rise, run, lattice point. Students verify their equation by checking additional points on the graph. Common errors: misreading the scale of axes, reversing rise and run, and misidentifying the y-intercept when the graph is not clearly marked."
+    },
+    {
+      "skill": "Writing linear equations from representations: Slope-intercept form: write an equation from a table",
+      "teks": "A.2(C)",
+      "prompt": "This topic covers writing linear equations from a table of values for Algebra I students (TEKS A.2(C)). Students select two rows, calculate slope as change in y divided by change in x, then substitute a point into y = mx + b to find b. In a linear table, the rate of change is constant between any pairs of points. Students verify linearity by checking multiple pairs. The y-intercept may appear directly in the table when x = 0 or may need calculation. Vocabulary: slope, y-intercept, rate of change, constant rate, linear function, table of values. Common errors: choosing non-consecutive points and making arithmetic errors, not verifying constant rate of change, and confusing x and y columns."
+    },
+    {
+      "skill": "Writing linear equations from representations: Point-slope form: write an equation from a graph",
+      "teks": "A.2(C)",
+      "prompt": "This topic covers writing linear equations from a graph for Algebra I students (TEKS A.2(C)). Students identify the y-intercept (where the line crosses the y-axis) and calculate slope by selecting two clear lattice points and computing rise/run. For slope-intercept form: y = mx + b. For point-slope form: y - y1 = m(x - x1). Key skills: reading coordinates accurately, counting grid squares for rise and run, determining if slope is positive or negative. Vocabulary: slope, y-intercept, rise, run, lattice point. Students verify their equation by checking additional points on the graph. Common errors: misreading the scale of axes, reversing rise and run, and misidentifying the y-intercept when the graph is not clearly marked."
+    },
+    {
+      "skill": "Writing linear equations from representations: Write a linear function: word problems",
+      "teks": "A.2(C)",
+      "prompt": "This topic covers writing linear functions from word problems for Algebra I students (TEKS A.2(C)). Students translate real-world scenarios into linear equations by identifying the rate of change (slope) and initial value (y-intercept). Determine what changes at a constant rate (slope m) and what the starting amount is (b), then write f(x) = mx + b. Examples include cost problems (base fee plus per-unit cost), distance-time scenarios, and depreciation. Vocabulary: linear function, rate of change, initial value, slope, y-intercept. Students must define variables and interpret the equation in context. Common errors: mixing up rate vs starting value, incorrect units, and not defining variables."
+    },
+    {
+      "skill": "Direct variation equations: Find the constant of variation",
+      "teks": "A.2(D)",
+      "prompt": "This topic covers finding the constant of variation for Algebra I students (TEKS A.2(D)). In direct variation y = kx, the constant k = y/x for any point (x, y) where x is not 0. Students find k from tables, graphs, or ordered pairs. The graph always passes through the origin with slope k. Students verify direct variation by confirming y/x is constant. Vocabulary: direct variation, constant of variation, constant of proportionality, proportional relationship, origin. Common errors: dividing x by y instead of y by x, assuming any linear relationship is direct variation (it must pass through the origin), and sign errors."
+    },
+    {
+      "skill": "Direct variation equations: Write direct variation equations",
+      "teks": "A.2(D)",
+      "prompt": "This topic covers writing direct variation equations for Algebra I students (TEKS A.2(D)). Direct variation is y = kx where k is the constant of variation. Given a point (x, y), find k = y/x and write the equation. Direct variation means y is proportional to x, the graph passes through the origin, and k equals the slope. Students recognize direct variation from tables, graphs, and verbal descriptions. Vocabulary: direct variation, constant of variation, proportional, origin. Common errors: confusing direct variation with other linear functions with nonzero y-intercepts, computing k incorrectly, and writing y = kx + b when b should be 0."
+    },
+    {
+      "skill": "Direct variation equations: Write and solve direct variation equations",
+      "teks": "A.2(D)",
+      "prompt": "This topic covers writing and solving direct variation equations for Algebra I students (TEKS A.2(D)). Students set up y = kx, find k from given information, then solve for unknowns. Process: identify the relationship, find k using known values (k = y/x), write the equation, substitute to find the unknown. If y varies directly as x, doubling x doubles y. Real-world examples: unit pricing, constant speed, Hooke's law. Vocabulary: direct variation, constant of variation, solve, proportional. Common errors: not finding k first, using wrong pair of values, and forgetting the origin constraint."
+    },
+    {
+      "skill": "Parallel lines: Slopes of parallel and perpendicular lines",
+      "teks": "A.2(E)",
+      "prompt": "This topic covers slopes of parallel and perpendicular lines for Algebra I students (TEKS A.2(E)). Parallel lines have the same slope but different y-intercepts. Students identify, compare, and use slopes to determine if lines are parallel. Key formulas: lines are parallel when m1 = m2. Students find slopes from equations (convert to slope-intercept form), from graphs, or from points. Vocabulary: parallel, slope, slope-intercept form. Students apply this to verify geometric properties. Common errors: failing to convert to slope-intercept form before comparing, confusing parallel with perpendicular, and not recognizing that vertical lines are parallel to other vertical lines."
+    },
+    {
+      "skill": "Parallel lines: Write an equation for a parallel or perpendicular line",
+      "teks": "A.2(E)",
+      "prompt": "This topic covers writing equations for parallel lines for Algebra I students (TEKS A.2(E)). To write an equation parallel to a given line through a point: find the slope of the given line, use the same slope with the new point. Parallel lines share the same slope m but have different y-intercepts b. Use point-slope or slope-intercept form. Vocabulary: parallel lines, slope, y-intercept, point-slope form. Real-world context: parallel lines model situations with the same rate of change but different starting values. Common errors: using the negative reciprocal slope (that is for perpendicular lines), arithmetic mistakes when solving for b."
+    },
+    {
+      "skill": "Perpendicular lines: Slopes of parallel and perpendicular lines",
+      "teks": "A.2(F)",
+      "prompt": "This topic covers slopes of perpendicular lines for Algebra I students (TEKS A.2(F)). Perpendicular lines intersect at right angles (90 degrees). Their slopes are negative reciprocals: if one line has slope m, the perpendicular has slope -1/m, so m * (-1/m) = -1. Students determine perpendicularity from equations, graphs, or points. A horizontal line (slope 0) is perpendicular to a vertical line (undefined slope). Vocabulary: perpendicular, negative reciprocal, right angle, slope. Students verify by checking that the product of slopes equals -1. Common errors: forgetting to negate the reciprocal, confusing parallel/perpendicular relationships, and not handling zero/undefined slopes."
+    },
+    {
+      "skill": "Perpendicular lines: Write an equation for a parallel or perpendicular line",
+      "teks": "A.2(F)",
+      "prompt": "This topic covers writing equations for perpendicular lines for Algebra I students (TEKS A.2(F)). To write a perpendicular equation through a point: find the given line's slope, take its negative reciprocal, use point-slope form with the new point. Key relationship: m1 * m2 = -1. Students handle fractional slopes and convert between forms. Vocabulary: perpendicular, negative reciprocal, slope, point-slope form. Example: line y = 2x + 3 has slope 2, perpendicular slope is -1/2. Common errors: only taking the reciprocal without negating, sign errors with fractions, and confusing with parallel line equations."
+    },
+    {
+      "skill": "Horizontal and vertical lines: Equations of horizontal and vertical lines",
+      "teks": "A.2(G)",
+      "prompt": "This topic covers equations of horizontal and vertical lines for Algebra I students (TEKS A.2(G)). A horizontal line has equation y = k (constant y-value) and slope 0. A vertical line has equation x = h (constant x-value) and undefined slope. Horizontal lines are parallel to the x-axis; vertical lines are parallel to the y-axis. The x-axis is y = 0 and the y-axis is x = 0. Vocabulary: horizontal, vertical, undefined slope, zero slope, constant. Students distinguish between zero slope (horizontal) and undefined slope (vertical). Common errors: writing horizontal lines as x = k instead of y = k, confusing zero slope with undefined slope, and trying to write vertical lines in slope-intercept form."
+    },
+    {
+      "skill": "Writing linear inequalities: Write a linear inequality from a graph",
+      "teks": "A.2(H)",
+      "prompt": "This topic covers writing linear inequalities from a graph for Algebra I students (TEKS A.2(H)). Students identify the boundary line equation (solid for <=/>= dashed for </>), then determine which half-plane is shaded to choose the inequality symbol. Process: find slope and y-intercept of the boundary line, note solid vs dashed, test a point in the shaded region. The test point (0,0) is convenient when not on the boundary. Vocabulary: linear inequality, boundary line, half-plane, shaded region, solid line, dashed line, solution set. Common errors: choosing the wrong inequality direction, confusing solid and dashed lines, and misidentifying the boundary line equation."
+    },
+    {
+      "skill": "Writing linear inequalities: Write two-variable inequalities: word problems",
+      "teks": "A.2(H)",
+      "prompt": "This topic covers writing two-variable linear inequalities from word problems for Algebra I students (TEKS A.2(H)). Students translate constraints into inequalities. Key phrases: 'at most' means <=, 'at least' means >=, 'less than' means <, 'more than' means >. Process: define variables, identify the constraint, write the inequality. Examples: budget constraints (total cost <= budget), capacity limits, nutritional requirements. Vocabulary: inequality, constraint, at most, at least, feasible region. Common errors: reversing the inequality symbol, not defining variables, confusing < with <=, and misinterpreting the problem."
+    },
+    {
+      "skill": "Writing systems of equations: Solve a system of equations by graphing: word problems",
+      "teks": "A.2(I)",
+      "prompt": "This topic covers solving systems of equations by graphing from word problems for Algebra I students (TEKS A.2(I)). Students translate scenarios into two linear equations, graph both, and identify the intersection as the solution. The intersection represents values satisfying both equations simultaneously. Vocabulary: system of equations, solution, intersection, simultaneous. Real-world examples: comparing phone plans, break-even analysis. Limitations: graphing may give approximate solutions for non-integer intersections. Common errors: graphing inaccurately, misidentifying the intersection, and not verifying the solution in both equations."
+    },
+    {
+      "skill": "Writing systems of equations: Solve a system of equations using substitution: word problems",
+      "teks": "A.2(I)",
+      "prompt": "This topic covers solving systems of equations using substitution from word problems for Algebra I students (TEKS A.2(I)). Steps: define variables, write two equations, solve one for one variable, substitute into the other, solve and back-substitute. Substitution works best when one variable is already isolated or has coefficient 1. Vocabulary: system of equations, substitution, isolate, solution. Students verify solutions by substituting into both original equations. Common errors: not distributing correctly, sign mistakes, solving for one variable but forgetting the other, and not checking solutions."
+    },
+    {
+      "skill": "Writing systems of equations: Solve a system of equations using elimination: word problems",
+      "teks": "A.2(I)",
+      "prompt": "This topic covers solving systems of equations using elimination from word problems for Algebra I students (TEKS A.2(I)). Elimination involves adding or subtracting equations to eliminate one variable. Steps: write the system, multiply to create opposite coefficients, add equations, solve for remaining variable, back-substitute. This method works best when variables are aligned and coefficients are manageable. Vocabulary: elimination, linear combination, coefficient, opposite. Common errors: forgetting to multiply all terms, sign errors when subtracting, and not finding both variables."
+    },
+    {
+      "skill": "Writing systems of equations: Solve a system of equations using any method: word problems",
+      "teks": "A.2(I)",
+      "prompt": "This topic covers solving systems of equations using any method from word problems for Algebra I students (TEKS A.2(I)). Students choose the most efficient method based on the system's structure. Decision guide: substitution when one variable is easily isolated; elimination when coefficients align; graphing for visual understanding. Students translate word problems into equations, solve, interpret in context, and verify. Vocabulary: system of equations, substitution, elimination, graphing, intersection. Common errors: choosing an inefficient method, setting up equations incorrectly, and not interpreting the solution contextually."
+    },
+    {
+      "skill": "Writing systems of equations: Write a system of equations given a graph",
+      "teks": "A.2(I)",
+      "prompt": "This topic covers writing a system of equations from a graph for Algebra I students (TEKS A.2(I)). Students examine a graph showing two lines and write each equation by identifying slopes and y-intercepts. Process: find y-intercept of each line, determine each slope using rise/run, write equations in slope-intercept form. The system's solution is the intersection point. Vocabulary: system of equations, slope, y-intercept, intersection. Students verify the intersection satisfies both equations. Common errors: misreading y-intercepts, calculating slopes incorrectly, and not verifying the intersection point."
+    }
+  ]
+}

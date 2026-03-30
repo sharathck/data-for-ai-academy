@@ -1,0 +1,61 @@
+{
+  "grade": "Grade 5",
+  "subject": "Maths - Personal financial literacy",
+  "skills": [
+    {
+      "skill": "Income and payroll taxes: word problems",
+      "teks": "5.10(A)",
+      "prompt": "This topic covers taxes for Grade 5 students (TEKS 5.10(A)). Students should understand that taxes are required payments to the government used to fund public services. Key concepts: income tax is a percentage of money earned from work; payroll taxes fund Social Security and Medicare; sales tax is added to the price of goods and services at the point of sale; property tax is based on the value of owned property; tax rates vary by type and location; taxes fund public services like schools, roads, emergency services, and parks. Students should practice calculating tax amounts and understanding the difference between gross income (before taxes) and net income (after taxes). Vocabulary: tax, income tax, payroll tax, sales tax, property tax, gross income, net income, deduction, percentage, government, revenue, public services. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Sales and property taxes: word problems",
+      "teks": "5.10(A)",
+      "prompt": "This topic covers taxes for Grade 5 students (TEKS 5.10(A)). Students should understand that taxes are required payments to the government used to fund public services. Key concepts: income tax is a percentage of money earned from work; payroll taxes fund Social Security and Medicare; sales tax is added to the price of goods and services at the point of sale; property tax is based on the value of owned property; tax rates vary by type and location; taxes fund public services like schools, roads, emergency services, and parks. Students should practice calculating tax amounts and understanding the difference between gross income (before taxes) and net income (after taxes). Vocabulary: tax, income tax, payroll tax, sales tax, property tax, gross income, net income, deduction, percentage, government, revenue, public services. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Identify types of taxes",
+      "teks": "5.10(A)",
+      "prompt": "This topic covers taxes for Grade 5 students (TEKS 5.10(A)). Students should understand that taxes are required payments to the government used to fund public services. Key concepts: income tax is a percentage of money earned from work; payroll taxes fund Social Security and Medicare; sales tax is added to the price of goods and services at the point of sale; property tax is based on the value of owned property; tax rates vary by type and location; taxes fund public services like schools, roads, emergency services, and parks. Students should practice calculating tax amounts and understanding the difference between gross income (before taxes) and net income (after taxes). Vocabulary: tax, income tax, payroll tax, sales tax, property tax, gross income, net income, deduction, percentage, government, revenue, public services. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Understand gross and net income",
+      "teks": "5.10(B)",
+      "prompt": "This topic covers gross and net income for Grade 5 students (TEKS 5.10(B)). Students should understand the difference between gross income (total earnings before deductions) and net income (take-home pay after deductions). Key concepts: gross income is the total amount earned from work; deductions include federal and state income taxes, Social Security, Medicare, and sometimes health insurance or retirement contributions; net income = gross income - total deductions; understanding the difference helps people plan budgets based on what they actually receive. Vocabulary: gross income, net income, deduction, tax, withholding, paycheck, salary, wages, take-home pay, Social Security, Medicare, federal tax, state tax. Students should practice calculating net income from gross income with given deduction amounts or percentages. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Calculate gross and net income",
+      "teks": "5.10(B)",
+      "prompt": "This topic covers gross and net income for Grade 5 students (TEKS 5.10(B)). Students should understand the difference between gross income (total earnings before deductions) and net income (take-home pay after deductions). Key concepts: gross income is the total amount earned from work; deductions include federal and state income taxes, Social Security, Medicare, and sometimes health insurance or retirement contributions; net income = gross income - total deductions; understanding the difference helps people plan budgets based on what they actually receive. Vocabulary: gross income, net income, deduction, tax, withholding, paycheck, salary, wages, take-home pay, Social Security, Medicare, federal tax, state tax. Students should practice calculating net income from gross income with given deduction amounts or percentages. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Identify advantages and disadvantages of payment methods",
+      "teks": "5.10(C)",
+      "prompt": "This topic covers advantages and disadvantages of payment methods for Grade 5 students (TEKS 5.10(C)). Students should understand different ways to pay for goods and services and the pros and cons of each method. Key concepts: cash is immediate and widely accepted but can be lost or stolen; debit cards draw directly from a bank account and help track spending but require a bank account; credit cards allow buying now and paying later but charge interest if not paid in full; checks provide a paper record but take time to process. Students should evaluate which payment method is most appropriate for different situations. Vocabulary: cash, debit card, credit card, check, interest, payment, transaction, balance, account, advantage, disadvantage, convenience, security. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Evaluate payment methods",
+      "teks": "5.10(C)",
+      "prompt": "This topic covers advantages and disadvantages of payment methods for Grade 5 students (TEKS 5.10(C)). Students should understand different ways to pay for goods and services and the pros and cons of each method. Key concepts: cash is immediate and widely accepted but can be lost or stolen; debit cards draw directly from a bank account and help track spending but require a bank account; credit cards allow buying now and paying later but charge interest if not paid in full; checks provide a paper record but take time to process. Students should evaluate which payment method is most appropriate for different situations. Vocabulary: cash, debit card, credit card, check, interest, payment, transaction, balance, account, advantage, disadvantage, convenience, security. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Reading financial records",
+      "teks": "5.10(D)",
+      "prompt": "This topic covers financial records for Grade 5 students (TEKS 5.10(D)). Students should understand the importance of keeping and reading financial records to manage money effectively. Key concepts: financial records include receipts, bank statements, check registers, and budget tracking documents; records help track income and expenses over time; reading a bank statement involves understanding deposits, withdrawals, and the running balance; accurate records help identify spending patterns and ensure accounts are correct. Vocabulary: financial record, receipt, bank statement, check register, balance, deposit, withdrawal, transaction, income, expense, ledger, reconcile, record keeping. Students should practice reading and maintaining simple financial records. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Keeping financial records",
+      "teks": "5.10(D)",
+      "prompt": "This topic covers financial records for Grade 5 students (TEKS 5.10(D)). Students should understand the importance of keeping and reading financial records to manage money effectively. Key concepts: financial records include receipts, bank statements, check registers, and budget tracking documents; records help track income and expenses over time; reading a bank statement involves understanding deposits, withdrawals, and the running balance; accurate records help identify spending patterns and ensure accounts are correct. Vocabulary: financial record, receipt, bank statement, check register, balance, deposit, withdrawal, transaction, income, expense, ledger, reconcile, record keeping. Students should practice reading and maintaining simple financial records. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Adjust a budget",
+      "teks": "5.10(E)",
+      "prompt": "This topic covers budgeting for Grade 5 students (TEKS 5.10(E)). Students should understand how to create and manage a simple budget by planning income and expenses. Key concepts: a budget is a plan for how to spend and save money; income is the money received (allowance, earnings); expenses are the money spent; a balanced budget means expenses do not exceed income; budgets help people make decisions about spending priorities and saving for goals. Students should practice creating budgets with given incomes and expense categories, making choices about spending, and adjusting budgets when income or expenses change. Vocabulary: budget, income, expense, savings, spending, needs, wants, allowance, plan, balance, prioritize, adjust, goal. Problems should involve realistic budgeting scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Balance a budget",
+      "teks": "5.10(F)",
+      "prompt": "This topic covers budgeting for Grade 5 students (TEKS 5.10(F)). Students should understand how to create and manage a simple budget by planning income and expenses. Key concepts: a budget is a plan for how to spend and save money; income is the money received (allowance, earnings); expenses are the money spent; a balanced budget means expenses do not exceed income; budgets help people make decisions about spending priorities and saving for goals. Students should practice creating budgets with given incomes and expense categories, making choices about spending, and adjusting budgets when income or expenses change. Vocabulary: budget, income, expense, savings, spending, needs, wants, allowance, plan, balance, prioritize, adjust, goal. Problems should involve realistic budgeting scenarios appropriate for 10-11 year olds."
+    }
+  ]
+}

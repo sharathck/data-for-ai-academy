@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Boolean Expressions and if Statements",
+  "skills": [
+    {
+      "skill": "3.1 Boolean Expressions",
+      "ref": "CON-1.A (Unit 3, Topic 3.1)",
+      "prompt": "This topic covers boolean expressions for AP CSA students (CED: CON-1.A, Unit 3, Topic 3.1). Students should understand how to form and evaluate boolean expressions using relational operators. Key concepts: the six relational operators (==, !=, <, >, <=, >=) compare two values and return true or false; these operators work with primitive types; for objects, == compares references (memory addresses), not content; boolean expressions are the foundation of control flow in Java. Students should evaluate expressions like (x > 5), (a == b), and (score >= 90), understand that boolean is a primitive type that holds only true or false, and recognize that boolean variables can store the result of a comparison for later use. Common error: using = (assignment) instead of == (comparison). Vocabulary: boolean, relational operator, comparison, true, false, equality, inequality, expression evaluation."
+    },
+    {
+      "skill": "3.2 if Statements and Control Flow",
+      "ref": "CON-1.B (Unit 3, Topic 3.2)",
+      "prompt": "This topic covers if statements and control flow for AP CSA students (CED: CON-1.B, Unit 3, Topic 3.2). Students should understand that an if statement executes a block of code only when its boolean condition is true. Key concepts: the if statement syntax (if (condition) { body }); the condition must be a boolean expression; if the condition is false, the body is skipped entirely; curly braces define the scope of the if body; without braces, only the single next statement is conditional (a common source of bugs). Students should trace through code with if statements, predict which statements execute for given variable values, and understand that if statements enable programs to make decisions and respond differently to different inputs. Control flow: execution proceeds sequentially unless altered by conditional or iterative structures. Vocabulary: if statement, condition, control flow, block, scope, sequential execution, conditional execution, decision."
+    },
+    {
+      "skill": "3.3 if-else Statements",
+      "ref": "CON-1.C (Unit 3, Topic 3.3)",
+      "prompt": "This topic covers if-else statements for AP CSA students (CED: CON-1.C, Unit 3, Topic 3.3). Students should understand that if-else provides two-way branching: one path when the condition is true, another when false. Key concepts: syntax is if (condition) { trueBlock } else { falseBlock }; exactly one of the two blocks always executes; the else block has no condition of its own; if-else is ideal for binary decisions (pass/fail, positive/negative, even/odd). Students should trace through if-else logic, determine output for different inputs, and understand that if-else guarantees one block executes. Nesting: an if-else can contain other if-else statements inside either block. Common patterns: finding the maximum or minimum of two values, classifying input into two categories. Vocabulary: if-else, two-way selection, branching, true block, false block, binary decision, nested conditional."
+    },
+    {
+      "skill": "3.4 else if Statements",
+      "ref": "CON-1.D (Unit 3, Topic 3.4)",
+      "prompt": "This topic covers else if statements for AP CSA students (CED: CON-1.D, Unit 3, Topic 3.4). Students should understand multi-way selection using chained if-else if-else structures. Key concepts: conditions are checked sequentially from top to bottom; once a true condition is found, its block executes and all remaining conditions are skipped; the final else (optional) serves as a default case; the order of conditions matters because only the first true condition's block runs. Students should trace through multi-branch logic, understand that conditions are mutually exclusive in execution (even if not logically), and recognize when the order of conditions affects correctness (e.g., grading scales must check from highest to lowest). Common error: using separate if statements instead of else if, which allows multiple blocks to execute. Vocabulary: else if, multi-way selection, chained conditionals, mutually exclusive, default case, sequential evaluation."
+    },
+    {
+      "skill": "3.5 Compound Boolean Expressions",
+      "ref": "CON-1.E (Unit 3, Topic 3.5)",
+      "prompt": "This topic covers compound boolean expressions for AP CSA students (CED: CON-1.E, Unit 3, Topic 3.5). Students should understand how to combine boolean expressions using logical operators. Key concepts: && (AND) returns true only if both operands are true; || (OR) returns true if at least one operand is true; ! (NOT) negates a boolean value; short-circuit evaluation means Java stops evaluating as soon as the result is determined (&& stops at false, || stops at true). Students should build truth tables, evaluate complex expressions with multiple operators, and understand operator precedence (! highest, then &&, then ||). Common patterns: range checking (x >= 0 && x <= 100), validating multiple conditions, checking if a value is outside a range using OR. Vocabulary: logical operator, AND, OR, NOT, short-circuit evaluation, truth table, compound expression, precedence, De Morgan's Law."
+    },
+    {
+      "skill": "3.6 Equivalent Boolean Expressions",
+      "ref": "CON-1.F (Unit 3, Topic 3.6)",
+      "prompt": "This topic covers equivalent boolean expressions for AP CSA students (CED: CON-1.F, Unit 3, Topic 3.6). Students should understand De Morgan's Laws and how to simplify or transform boolean expressions. Key concepts: De Morgan's Laws state that !(a && b) is equivalent to !a || !b, and !(a || b) is equivalent to !a && !b; when negating a compound expression, flip the operator (AND becomes OR, OR becomes AND) and negate each operand. Students should apply De Morgan's Laws to simplify conditions, prove equivalence of two boolean expressions using truth tables, and recognize common simplification patterns. This is heavily tested on the AP exam: students must be able to identify which of several expressions is equivalent to a given expression. Practice: distribute NOT through complex conditions and verify using test values. Vocabulary: De Morgan's Laws, equivalence, negation, simplification, truth table, logical identity, complement."
+    },
+    {
+      "skill": "3.7 Comparing Objects",
+      "ref": "CON-1.G (Unit 3, Topic 3.7)",
+      "prompt": "This topic covers comparing objects for AP CSA students (CED: CON-1.G, Unit 3, Topic 3.7). Students should understand the critical difference between == and .equals() for object comparison. Key concepts: == compares references (whether two variables point to the same object in memory); .equals() compares content (whether two objects have the same value); for String objects, always use .equals() for content comparison; two String literals with the same text may share a reference (String pool), but Strings created with new always have different references. Students should predict the output of comparisons using both == and .equals(), understand that null.equals() throws NullPointerException, and know that == is appropriate for primitives but not for comparing object content. Vocabulary: reference comparison, content comparison, equals method, String pool, null, NullPointerException, aliasing, identity vs. equality."
+    }
+  ]
+}

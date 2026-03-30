@@ -1,0 +1,806 @@
+{
+  "grade": "Grade 1",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Counting review - up to 10",
+      "teks": "1.2(A)",
+      "prompt": "This topic covers counting and recognizing numbers up to 10 for Grade 1 students (TEKS 1.2(A)). Students should understand one-to-one correspondence, where each object is counted exactly once. Key concepts include: recognizing number symbols (numerals 0-10), understanding that the last number counted tells 'how many', counting objects in various arrangements (lines, arrays, scattered groups), and comparing small groups to determine which has more or fewer. Students should be able to instantly recognize (subitize) small quantities (1-5) without counting. Use concrete objects, pictures, and number lines as visual supports. Vocabulary: count, number, numeral, more, fewer, same, equal, how many. Common misconceptions include skipping objects when counting, counting an object twice, or not understanding that arrangement doesn't change quantity. Activities should involve hands-on counting with manipulatives, matching numerals to quantities, and real-world counting situations appropriate for 6-7-year-olds."
+    },
+    {
+      "skill": "Count to fill a ten frame",
+      "teks": "1.2(A)",
+      "prompt": "This topic covers using ten frames to count for Grade 1 students (TEKS 1.2(A)). A ten frame is a 2x5 grid that helps students organize counting and develop number sense. Key concepts include filling frames systematically (left to right, top to bottom), recognizing how many dots are shown without counting each one (subitizing), understanding how numbers relate to 5 and 10, and seeing that a full frame equals 10. Vocabulary: ten frame, full, empty, count, how many, more, less, subitize. Common misconceptions include filling frames randomly, miscounting partially filled frames, and not seeing the relationship to 5. Activities should use physical ten frames with counters, matching frames to numerals, and building number sense through repeated ten frame work appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting tens and ones - up to 20",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Counting tens and ones - up to 20 for Grade 1 students (TEKS 1.2(B)). Students learn to decompose numbers into groups of tens and ones, which is foundational for understanding place value. Key concepts include grouping objects into sets of ten, recognizing that a 'ten' is a bundle of ten ones, and understanding that two-digit numbers are composed of tens and ones. Visual models such as base-ten blocks, ten frames, and place value charts are essential tools. Vocabulary: tens, ones, place value, group, bundle, digit, compose, decompose. Common misconceptions include confusing the tens and ones digits or not understanding that 10 ones equals 1 ten. Activities should include building numbers with manipulatives and writing corresponding equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Write numbers as tens and ones up to 20",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers writing numbers as tens and ones for Grade 1 students (TEKS 1.2(B)). Students practice expressing numbers in expanded place value form, e.g., 34 = 3 tens and 4 ones. Key concepts include decomposing numbers into place value components, connecting physical models (base-ten blocks) to written representations, and understanding that the same number can be decomposed in multiple ways when regrouping. Vocabulary: tens, ones, write, decompose, expanded form, digit, place value. Common misconceptions include reversing tens and ones digits and not understanding flexible regrouping. Activities should include writing number sentences from block models and converting between forms appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting tens and ones - up to 99",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Counting tens and ones - up to 99 for Grade 1 students (TEKS 1.2(B)). Students learn to decompose numbers into groups of tens and ones, which is foundational for understanding place value. Key concepts include grouping objects into sets of ten, recognizing that a 'ten' is a bundle of ten ones, and understanding that two-digit numbers are composed of tens and ones. Visual models such as base-ten blocks, ten frames, and place value charts are essential tools. Vocabulary: tens, ones, place value, group, bundle, digit, compose, decompose. Common misconceptions include confusing the tens and ones digits or not understanding that 10 ones equals 1 ten. Activities should include building numbers with manipulatives and writing corresponding equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Convert between tens and ones - multiples of ten",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Convert between tens and ones - multiples of ten for Grade 1 students (TEKS 1.2(B)). Students learn to flexibly convert between different place value representations. Key concepts include understanding that 1 ten equals 10 ones, numbers can be represented in multiple equivalent ways using different groupings, and this flexibility is essential for regrouping in addition and subtraction. Vocabulary: convert, regroup, exchange, tens, ones, hundreds, equivalent, trade. Common misconceptions include thinking there is only one way to represent a number and difficulty understanding that regrouping does not change the total value. Activities should involve trading games with base-ten blocks and solving puzzles requiring flexible place value thinking appropriate for ages 6-7."
+    },
+    {
+      "skill": "Write numbers as tens and ones",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers writing numbers as tens and ones for Grade 1 students (TEKS 1.2(B)). Students practice expressing numbers in expanded place value form, e.g., 34 = 3 tens and 4 ones. Key concepts include decomposing numbers into place value components, connecting physical models (base-ten blocks) to written representations, and understanding that the same number can be decomposed in multiple ways when regrouping. Vocabulary: tens, ones, write, decompose, expanded form, digit, place value. Common misconceptions include reversing tens and ones digits and not understanding flexible regrouping. Activities should include writing number sentences from block models and converting between forms appropriate for ages 6-7."
+    },
+    {
+      "skill": "Regroup tens and ones - ways to make a number",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Regroup tens and ones - ways to make a number for Grade 1 students (TEKS 1.2(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 6-7."
+    },
+    {
+      "skill": "Regroup tens and ones",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Regroup tens and ones for Grade 1 students (TEKS 1.2(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 6-7."
+    },
+    {
+      "skill": "Write numbers as hundreds, tens, and ones - up to 120",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Write numbers as hundreds, tens, and ones - up to 120 for Grade 1 students (TEKS 1.2(B)). Students extend place value understanding to include hundreds, writing numbers in expanded form showing the value of each digit. For example, 115 = 100 + 10 + 5. Key concepts include identifying the value of each digit based on its position, converting between standard form and expanded form, and understanding that each place value position is ten times the one to its right. Vocabulary: hundreds, tens, ones, expanded form, standard form, place value, digit, value. Common misconceptions include confusing face value with place value and difficulty with numbers containing zero. Activities should include base-ten block building, writing equations, and number form conversion exercises appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting review - up to 20",
+      "teks": "1.2(A)",
+      "prompt": "This topic covers counting and reviewing numbers up to 20 for Grade 1 students (TEKS 1.2(A)). Students extend counting fluency beyond 10, developing familiarity with teen numbers. Key concepts include understanding teen numbers as 'ten and some more,' maintaining one-to-one correspondence with larger sets, counting objects in various arrangements, and connecting counting to numeral recognition for 11-20. Vocabulary: count, teen numbers, eleven through twenty, how many, more, fewer. Common misconceptions include difficulty with teen number names (confusing thirteen/thirty), losing track when counting beyond 10, and not seeing teen numbers as composed of ten and ones. Activities should use double ten frames, counting collections, and numeral matching appropriate for ages 6-7."
+    },
+    {
+      "skill": "Count on ten frames - up to 40",
+      "teks": "1.2(A)",
+      "prompt": "This topic covers counting on ten frames up to 40 for Grade 1 students (TEKS 1.2(A)). Students use multiple ten frames to represent and count larger quantities, building understanding of grouping by tens. Key concepts include filling complete ten frames and counting remaining ones, skip counting by tens and then adding ones, understanding that each full frame represents 10, and building toward place value understanding. Vocabulary: ten frame, count, full, tens, ones, how many, skip count. Common misconceptions include miscounting across multiple frames and not recognizing that full frames can be skip-counted by tens. Activities should include physical multi-frame counting, matching frame displays to numbers, and building fluency with quantities to 40 appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting objects to 100",
+      "teks": "1.2(C)",
+      "prompt": "This topic covers counting objects to 100 for Grade 1 students (TEKS 1.2(C)). Students practice counting large collections of objects accurately. Key concepts include organizing objects into groups for efficient counting, using groups of ten, maintaining accurate count with larger sets, and recording the total. Vocabulary: count, objects, group, organize, total, how many, tens, ones. Common misconceptions include losing track with larger collections, double-counting or skipping objects, and not using grouping strategies. Activities should include counting collections of real objects (buttons, beans, cubes), organizing into groups of ten before counting, and recording totals appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Number lines - up to 100",
+      "teks": "1.2(F)",
+      "prompt": "This topic covers Number lines - up to 100 for Grade 1 students (TEKS 1.2(F)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting objects to 120",
+      "teks": "1.2(C)",
+      "prompt": "This topic covers counting objects to 120 for Grade 1 students (TEKS 1.2(C)). Students extend counting skills to quantities beyond 100, understanding that the number sequence continues past the hundred mark. Key concepts include counting past 100 (101, 102... 120), organizing large collections into groups of ten for efficient counting, and understanding that 120 = 12 tens = 1 hundred and 2 tens. Vocabulary: count, hundred, objects, group, organize, beyond one hundred. Common misconceptions include difficulty transitioning past 100 and not knowing number names beyond 100. Activities should include counting large collections, hundred chart extensions, and real-world counting of large quantities appropriate for ages 6-7."
+    },
+    {
+      "skill": "Number lines - up to 120",
+      "teks": "1.2(F)",
+      "prompt": "This topic covers Number lines - up to 120 for Grade 1 students (TEKS 1.2(F)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting tens and ones - up to 20",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Counting tens and ones - up to 20 for Grade 1 students (TEKS 1.2(B)). Students learn to decompose numbers into groups of tens and ones, which is foundational for understanding place value. Key concepts include grouping objects into sets of ten, recognizing that a 'ten' is a bundle of ten ones, and understanding that two-digit numbers are composed of tens and ones. Visual models such as base-ten blocks, ten frames, and place value charts are essential tools. Vocabulary: tens, ones, place value, group, bundle, digit, compose, decompose. Common misconceptions include confusing the tens and ones digits or not understanding that 10 ones equals 1 ten. Activities should include building numbers with manipulatives and writing corresponding equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Place value models up to 20",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Place value models up to 20 for Grade 1 students (TEKS 1.2(B)). Students use visual and physical models to understand place value. Base-ten blocks, bundles of sticks, and place value charts help students see that digits in different positions represent different values. Key concepts include representing numbers with models, reading models to determine the number shown, and understanding the relationship between ones, tens, and hundreds. Vocabulary: place value, model, base-ten blocks, ones, tens, hundreds, represent, value, digit. Common misconceptions include miscounting blocks, confusing tens rods with ones cubes, and not connecting models to written numbers. Activities should include building numbers with blocks, matching models to numerals, and comparing numbers using models appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting tens and ones - up to 99",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Counting tens and ones - up to 99 for Grade 1 students (TEKS 1.2(B)). Students learn to decompose numbers into groups of tens and ones, which is foundational for understanding place value. Key concepts include grouping objects into sets of ten, recognizing that a 'ten' is a bundle of ten ones, and understanding that two-digit numbers are composed of tens and ones. Visual models such as base-ten blocks, ten frames, and place value charts are essential tools. Vocabulary: tens, ones, place value, group, bundle, digit, compose, decompose. Common misconceptions include confusing the tens and ones digits or not understanding that 10 ones equals 1 ten. Activities should include building numbers with manipulatives and writing corresponding equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Place value models up to 100",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Place value models up to 100 for Grade 1 students (TEKS 1.2(B)). Students use visual and physical models to understand place value. Base-ten blocks, bundles of sticks, and place value charts help students see that digits in different positions represent different values. Key concepts include representing numbers with models, reading models to determine the number shown, and understanding the relationship between ones, tens, and hundreds. Vocabulary: place value, model, base-ten blocks, ones, tens, hundreds, represent, value, digit. Common misconceptions include miscounting blocks, confusing tens rods with ones cubes, and not connecting models to written numbers. Activities should include building numbers with blocks, matching models to numerals, and comparing numbers using models appropriate for ages 6-7."
+    },
+    {
+      "skill": "Place value models up to 120",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Place value models up to 120 for Grade 1 students (TEKS 1.2(B)). Students use visual and physical models to understand place value. Base-ten blocks, bundles of sticks, and place value charts help students see that digits in different positions represent different values. Key concepts include representing numbers with models, reading models to determine the number shown, and understanding the relationship between ones, tens, and hundreds. Vocabulary: place value, model, base-ten blocks, ones, tens, hundreds, represent, value, digit. Common misconceptions include miscounting blocks, confusing tens rods with ones cubes, and not connecting models to written numbers. Activities should include building numbers with blocks, matching models to numerals, and comparing numbers using models appropriate for ages 6-7."
+    },
+    {
+      "skill": "Writing numbers up to 120 in expanded form",
+      "teks": "1.2(C)",
+      "prompt": "This topic covers Writing numbers up to 120 in expanded form for Grade 1 students (TEKS 1.2(C)). Students extend place value understanding to include hundreds, writing numbers in expanded form showing the value of each digit. For example, 115 = 100 + 10 + 5. Key concepts include identifying the value of each digit based on its position, converting between standard form and expanded form, and understanding that each place value position is ten times the one to its right. Vocabulary: hundreds, tens, ones, expanded form, standard form, place value, digit, value. Common misconceptions include confusing face value with place value and difficulty with numbers containing zero. Activities should include base-ten block building, writing equations, and number form conversion exercises appropriate for ages 6-7."
+    },
+    {
+      "skill": "Ten more or less",
+      "teks": "1.5(C)",
+      "prompt": "This topic covers Ten more or less for Grade 1 students (TEKS 1.5(C)). Students learn to mentally add or subtract 10 from any given number. Key concepts include understanding that adding 10 increases the tens digit by 1 while the ones digit stays the same, and subtracting 10 decreases the tens digit by 1. On a hundred chart, 10 more is directly below and 10 less is directly above. Vocabulary: ten more, ten less, tens digit, ones digit, pattern, mental math, hundred chart. Common misconceptions include changing the ones digit and difficulty when regrouping is needed (e.g., 10 more than 95). Activities should include hundred chart explorations, base-ten block demonstrations, and mental math games appropriate for ages 6-7."
+    },
+    {
+      "skill": "One more or less - up to 120",
+      "teks": "1.2(D)",
+      "prompt": "This topic covers One more or less - up to 120 for Grade 1 students (TEKS 1.2(D)). Students learn to identify the number that is one more or one less than a given number, connecting to the counting sequence. Key concepts include understanding that one more means the next counting number and one less means the previous one, and recognizing what happens at decade boundaries (e.g., one more than 39 is 40). Vocabulary: one more, one less, next, before, after, counting sequence. Common misconceptions include difficulty at decade transitions and confusing one more with ten more. Activities should use number lines, hundred charts, and concrete objects appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparing: more or fewer?",
+      "teks": "1.2(E)",
+      "prompt": "This topic covers comparing groups to determine more or fewer for Grade 1 students (TEKS 1.2(E)). Students compare two groups of objects to determine which has more, fewer, or if they have the same amount. Key concepts include matching objects one-to-one between groups, counting each group and comparing the numbers, and using comparison language correctly. Vocabulary: more, fewer, less, same, equal, compare, count, group. Common misconceptions include confusing more and fewer, comparing by visual appearance rather than counting, and difficulty when groups are arranged differently. Activities should include side-by-side group comparisons, matching activities, and real-world comparison situations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Compare numbers up to 10 using words",
+      "teks": "1.2(E)",
+      "prompt": "This topic covers Compare numbers up to 10 using words for Grade 1 students (TEKS 1.2(E)). Students express number comparisons using words such as 'greater than,' 'less than,' and 'equal to.' Key concepts include comparing numbers using place value understanding, expressing comparisons in complete sentences, and understanding that comparison is relative (a number can be greater than one number but less than another). Vocabulary: greater than, less than, equal to, compare, more, fewer, same. Common misconceptions include confusing comparison terms and not using place value to compare systematically. Activities should include comparing with base-ten blocks, writing comparison statements, and sorting numbers from least to greatest appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use place value to compare numbers up to 100",
+      "teks": "1.2(E)",
+      "prompt": "This topic covers Use place value to compare numbers up to 100 for Grade 1 students (TEKS 1.2(E)). Students apply place value understanding to compare multi-digit numbers systematically. Key concepts include starting comparison from the largest place value, moving to smaller place values only when digits are equal, and understanding that a digit in a higher place value position is worth more than any combination of digits in lower positions. Vocabulary: place value, compare, greater than, less than, equal to, digit, ones, tens, hundreds. Common misconceptions include comparing digits without considering place value, comparing from right to left, and thinking longer numbers are always greater. Activities should include place value chart comparisons, using base-ten blocks to compare, and ordering sets of numbers appropriate for ages 6-7."
+    },
+    {
+      "skill": "Compare numbers up to 100 using words",
+      "teks": "1.2(E)",
+      "prompt": "This topic covers Compare numbers up to 100 using words for Grade 1 students (TEKS 1.2(E)). Students express number comparisons using words such as 'greater than,' 'less than,' and 'equal to.' Key concepts include comparing numbers using place value understanding, expressing comparisons in complete sentences, and understanding that comparison is relative (a number can be greater than one number but less than another). Vocabulary: greater than, less than, equal to, compare, more, fewer, same. Common misconceptions include confusing comparison terms and not using place value to compare systematically. Activities should include comparing with base-ten blocks, writing comparison statements, and sorting numbers from least to greatest appropriate for ages 6-7."
+    },
+    {
+      "skill": "Compare numbers up to 120 using words",
+      "teks": "1.2(E)",
+      "prompt": "This topic covers Compare numbers up to 120 using words for Grade 1 students (TEKS 1.2(E)). Students express number comparisons using words such as 'greater than,' 'less than,' and 'equal to.' Key concepts include comparing numbers using place value understanding, expressing comparisons in complete sentences, and understanding that comparison is relative (a number can be greater than one number but less than another). Vocabulary: greater than, less than, equal to, compare, more, fewer, same. Common misconceptions include confusing comparison terms and not using place value to compare systematically. Activities should include comparing with base-ten blocks, writing comparison statements, and sorting numbers from least to greatest appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use place value to compare numbers up to 120",
+      "teks": "1.2(E)",
+      "prompt": "This topic covers Use place value to compare numbers up to 120 for Grade 1 students (TEKS 1.2(E)). Students apply place value understanding to compare multi-digit numbers systematically. Key concepts include starting comparison from the largest place value, moving to smaller place values only when digits are equal, and understanding that a digit in a higher place value position is worth more than any combination of digits in lower positions. Vocabulary: place value, compare, greater than, less than, equal to, digit, ones, tens, hundreds. Common misconceptions include comparing digits without considering place value, comparing from right to left, and thinking longer numbers are always greater. Activities should include place value chart comparisons, using base-ten blocks to compare, and ordering sets of numbers appropriate for ages 6-7."
+    },
+    {
+      "skill": "Number lines - up to 100",
+      "teks": "1.2(F)",
+      "prompt": "This topic covers Number lines - up to 100 for Grade 1 students (TEKS 1.2(F)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 6-7."
+    },
+    {
+      "skill": "Number lines - up to 120",
+      "teks": "1.2(F)",
+      "prompt": "This topic covers Number lines - up to 120 for Grade 1 students (TEKS 1.2(F)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 6-7."
+    },
+    {
+      "skill": "Put numbers in order - up to 100",
+      "teks": "1.2(F)",
+      "prompt": "This topic covers Put numbers in order - up to 100 for Grade 1 students (TEKS 1.2(F)). Students arrange sets of numbers from least to greatest or greatest to least using place value understanding. Key concepts include comparing multiple numbers systematically, checking all numbers against each other, understanding ascending vs. descending order, and verifying the final arrangement. Vocabulary: order, least to greatest, greatest to least, ascending, descending, arrange, sequence, compare. Common misconceptions include errors when numbers share leading digits, not checking all pairwise comparisons, and confusing ascending with descending. Activities should include sorting number cards, ordering groups of numbers, and using number lines to verify arrangements appropriate for ages 6-7."
+    },
+    {
+      "skill": "Put numbers in order - up to 120",
+      "teks": "1.2(F)",
+      "prompt": "This topic covers Put numbers in order - up to 120 for Grade 1 students (TEKS 1.2(F)). Students arrange sets of numbers from least to greatest or greatest to least using place value understanding. Key concepts include comparing multiple numbers systematically, checking all numbers against each other, understanding ascending vs. descending order, and verifying the final arrangement. Vocabulary: order, least to greatest, greatest to least, ascending, descending, arrange, sequence, compare. Common misconceptions include errors when numbers share leading digits, not checking all pairwise comparisons, and confusing ascending with descending. Activities should include sorting number cards, ordering groups of numbers, and using number lines to verify arrangements appropriate for ages 6-7."
+    },
+    {
+      "skill": "Compare numbers up to 10 using symbols",
+      "teks": "1.2(G)",
+      "prompt": "This topic covers Compare numbers up to 10 using symbols for Grade 1 students (TEKS 1.2(G)). Students learn to use mathematical symbols (>, <, =) to express number comparisons. Key concepts include understanding that the open end of the symbol faces the greater number, connecting symbols to verbal expressions (greater than, less than, equal to), and using place value to determine which symbol to use. Vocabulary: greater than (>), less than (<), equal to (=), compare, symbol. Common misconceptions include confusing the direction of inequality symbols and not aligning place values when comparing. Activities should include the 'alligator mouth' strategy, comparing with manipulatives before writing symbols, and practice with varied number pairs appropriate for ages 6-7."
+    },
+    {
+      "skill": "Compare numbers up to 100 using symbols",
+      "teks": "1.2(G)",
+      "prompt": "This topic covers Compare numbers up to 100 using symbols for Grade 1 students (TEKS 1.2(G)). Students learn to use mathematical symbols (>, <, =) to express number comparisons. Key concepts include understanding that the open end of the symbol faces the greater number, connecting symbols to verbal expressions (greater than, less than, equal to), and using place value to determine which symbol to use. Vocabulary: greater than (>), less than (<), equal to (=), compare, symbol. Common misconceptions include confusing the direction of inequality symbols and not aligning place values when comparing. Activities should include the 'alligator mouth' strategy, comparing with manipulatives before writing symbols, and practice with varied number pairs appropriate for ages 6-7."
+    },
+    {
+      "skill": "Make teen numbers: addition sentences",
+      "teks": "1.3(A)",
+      "prompt": "This topic covers making teen numbers through addition sentences for Grade 1 students (TEKS 1.3(A)). Students learn that teen numbers (11-19) are composed of ten plus some additional ones. Key concepts include understanding that 10 + 3 = 13, using ten frames to visualize teen number composition, writing addition sentences that show the ten-and-ones structure, and connecting this to place value. Vocabulary: teen number, ten, ones, addition sentence, plus, equals, compose. Common misconceptions include not seeing the 'ten and some more' structure of teen numbers and difficulty connecting the addition sentence to the physical model. Activities should include ten frame representations, building teen numbers with blocks, and writing addition equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use models to add a multiple of ten and a one-digit number",
+      "teks": "1.3(A)",
+      "prompt": "This topic covers using models to add a multiple of ten and a one-digit number for Grade 1 students (TEKS 1.3(A)). Students visualize combining tens and ones using base-ten blocks or similar models. Key concepts include seeing that a multiple of ten plus a single digit creates a two-digit number (e.g., 30 + 4 = 34), connecting models to addition sentences, and building place value understanding through composition. Vocabulary: multiple of ten, add, ones, tens, model, base-ten blocks, sum. Common misconceptions include difficulty connecting the visual model to the equation and not understanding what 'multiple of ten' means. Activities should include building with blocks, writing equations from models, and connecting to expanded form appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add a multiple of ten and a one-digit number",
+      "teks": "1.3(A)",
+      "prompt": "This topic covers adding a multiple of ten and a one-digit number for Grade 1 students (TEKS 1.3(A)). Students apply place value understanding to efficiently add round tens to single digits (e.g., 50 + 7 = 57). Key concepts include recognizing that this addition simply places the ones digit alongside the tens, connecting to place value and number composition, and building toward fluency with multi-digit addition. Vocabulary: multiple of ten, one-digit number, add, sum, tens, ones, place value. Common misconceptions include adding the ones to the tens digit (50 + 7 = 120) and not recognizing the place value pattern. Activities should include mental math practice, connecting to expanded form, and solving related equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition word problems with pictures - sums up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Addition word problems with pictures - sums up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Write addition sentences for word problems with pictures - sums up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Write addition sentences for word problems with pictures - sums up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Build cube trains to solve addition word problems - sums up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Build cube trains to solve addition word problems - sums up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Addition word problems - sums up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Addition word problems - sums up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Model and write addition sentences for word problems - sums up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Model and write addition sentences for word problems - sums up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Addition sentences for word problems - sums up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Addition sentences for word problems - sums up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Subtraction word problems with pictures - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Subtraction word problems with pictures - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Write subtraction sentences for word problems with pictures - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Write subtraction sentences for word problems with pictures - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use cube trains to solve subtraction word problems - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Use cube trains to solve subtraction word problems - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtraction word problems - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Subtraction word problems - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Model and write subtraction sentences for word problems - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Model and write subtraction sentences for word problems - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtraction sentences for take apart word problems - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Subtraction sentences for take apart word problems - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtraction sentences for word problems - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Subtraction sentences for word problems - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Comparison word problems up to 10: how many more or fewer?",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 10: how many more or fewer? for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparison word problems up to 10: what is the larger amount?",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 10: what is the larger amount? for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparison word problems up to 10: what is the smaller amount?",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 10: what is the smaller amount? for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparison word problems up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 10 for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Word problems with unknown sums and differences - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems with unknown sums and differences - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve problems where the unknown is not the total but rather one or both of the parts. Key concepts include understanding equations with unknowns in various positions, using subtraction or counting on to find missing addends, and for 'both addends unknown' finding all decompositions. Vocabulary: unknown, missing part, addend, sum, decompose, part-part-whole. Common misconceptions include always treating the unknown as the answer, difficulty with non-standard equation positions, and not recognizing multiple valid answers for both-addends-unknown problems. Activities should include part-part-whole mats, number bonds, and story problems with hidden quantities appropriate for ages 6-7."
+    },
+    {
+      "skill": "Word problems with one addend unknown - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems with one addend unknown - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve problems where the unknown is not the total but rather one or both of the parts. Key concepts include understanding equations with unknowns in various positions, using subtraction or counting on to find missing addends, and for 'both addends unknown' finding all decompositions. Vocabulary: unknown, missing part, addend, sum, decompose, part-part-whole. Common misconceptions include always treating the unknown as the answer, difficulty with non-standard equation positions, and not recognizing multiple valid answers for both-addends-unknown problems. Activities should include part-part-whole mats, number bonds, and story problems with hidden quantities appropriate for ages 6-7."
+    },
+    {
+      "skill": "Word problems with both addends unknown - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems with both addends unknown - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve problems where the unknown is not the total but rather one or both of the parts. Key concepts include understanding equations with unknowns in various positions, using subtraction or counting on to find missing addends, and for 'both addends unknown' finding all decompositions. Vocabulary: unknown, missing part, addend, sum, decompose, part-part-whole. Common misconceptions include always treating the unknown as the answer, difficulty with non-standard equation positions, and not recognizing multiple valid answers for both-addends-unknown problems. Activities should include part-part-whole mats, number bonds, and story problems with hidden quantities appropriate for ages 6-7."
+    },
+    {
+      "skill": "Word problems involving addition and subtraction - up to 10",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems involving addition and subtraction - up to 10 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Addition word problems with models - sums up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Addition word problems with models - sums up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Addition word problems - sums up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Addition word problems - sums up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Addition sentences for word problems - sums up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Addition sentences for word problems - sums up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Subtraction word problems with models - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Subtraction word problems with models - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtraction word problems - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Subtraction word problems - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtraction sentences for word problems - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Subtraction sentences for word problems - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Comparison word problems up to 20: how many more or fewer?",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 20: how many more or fewer? for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparison word problems up to 20: what is the larger amount?",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 20: what is the larger amount? for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparison word problems up to 20: what is the smaller amount?",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 20: what is the smaller amount? for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparison word problems up to 20: part 1",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 20: part 1 for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Comparison word problems up to 20: part 2",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Comparison word problems up to 20: part 2 for Grade 1 students (TEKS 1.3(B)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 6-7."
+    },
+    {
+      "skill": "Word problems with one addend unknown - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems with one addend unknown - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve problems where the unknown is not the total but rather one or both of the parts. Key concepts include understanding equations with unknowns in various positions, using subtraction or counting on to find missing addends, and for 'both addends unknown' finding all decompositions. Vocabulary: unknown, missing part, addend, sum, decompose, part-part-whole. Common misconceptions include always treating the unknown as the answer, difficulty with non-standard equation positions, and not recognizing multiple valid answers for both-addends-unknown problems. Activities should include part-part-whole mats, number bonds, and story problems with hidden quantities appropriate for ages 6-7."
+    },
+    {
+      "skill": "Word problems with both addends unknown - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems with both addends unknown - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve problems where the unknown is not the total but rather one or both of the parts. Key concepts include understanding equations with unknowns in various positions, using subtraction or counting on to find missing addends, and for 'both addends unknown' finding all decompositions. Vocabulary: unknown, missing part, addend, sum, decompose, part-part-whole. Common misconceptions include always treating the unknown as the answer, difficulty with non-standard equation positions, and not recognizing multiple valid answers for both-addends-unknown problems. Activities should include part-part-whole mats, number bonds, and story problems with hidden quantities appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use models to solve word problems involving addition and subtraction - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Use models to solve word problems involving addition and subtraction - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Word problems involving addition and subtraction without comparisons - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems involving addition and subtraction without comparisons - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Word problems involving addition and subtraction - up to 20",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Word problems involving addition and subtraction - up to 20 for Grade 1 students (TEKS 1.3(B)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Count to fill a ten frame",
+      "teks": "1.3(C)",
+      "prompt": "This topic covers Count to fill a ten frame for Grade 1 students (TEKS 1.3(C)). This skill builds numerical understanding and computational fluency appropriate for ages 6-7. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the addition sentence to make ten - with models",
+      "teks": "1.3(C)",
+      "prompt": "This topic covers Complete the addition sentence to make ten - with models for Grade 1 students (TEKS 1.3(C)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Complete the addition sentence to make ten",
+      "teks": "1.3(C)",
+      "prompt": "This topic covers Complete the addition sentence to make ten for Grade 1 students (TEKS 1.3(C)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add three numbers - make ten",
+      "teks": "1.3(C)",
+      "prompt": "This topic covers Add three numbers - make ten for Grade 1 students (TEKS 1.3(C)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition sentences up to 10: which model matches?",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Addition sentences up to 10: which model matches? for Grade 1 students (TEKS 1.3(D)). Students match number sentences to visual models, strengthening the connection between concrete/pictorial representations and abstract equations. Key concepts include interpreting both the equation and the model, understanding what each part represents, and verifying that the model and equation represent the same situation. Vocabulary: model, match, number sentence, equation, represent, addend, sum, difference. Common misconceptions include matching based on only one number rather than the whole equation, not checking that all parts correspond, and confusing addition and subtraction models. Activities should include matching cards, multiple-choice model selection, and creating models for given equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add in any order",
+      "teks": "1.5(G)",
+      "prompt": "This topic covers adding in any order for Grade 1 students (TEKS 1.5(G)). The commutative property of addition states that changing the order of addends does not change the sum (a+b = b+a). Key concepts include demonstrating with objects that rearranging groups doesn't change the total, using this to reduce memorization, and starting with the larger addend when counting on. Vocabulary: commutative property, order, addend, sum, turn-around facts. Common misconceptions include thinking this applies to subtraction and not recognizing opportunities to apply it. Activities should include pairing turn-around facts, using counters to verify, and strategy discussions appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add by counting on - sums up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Add by counting on - sums up to 10 for Grade 1 students (TEKS 1.3(D)). Counting on is an addition strategy where students start from the larger addend and count up by the smaller addend. For example, for 8+3, start at 8 and count: 9, 10, 11. Key concepts include starting from the larger number for efficiency, keeping track of how many counts were made, and recognizing when counting on is the best strategy. Vocabulary: count on, start, addend, sum, strategy, efficient. Common misconceptions include starting from 1 instead of the first addend, including the starting number in the count, and not choosing the larger number to start from. Activities should include number line jumps, counting on with fingers, and comparing counting on with other strategies appropriate for ages 6-7."
+    },
+    {
+      "skill": "Complete the addition sentence to make ten",
+      "teks": "1.3(C)",
+      "prompt": "This topic covers Complete the addition sentence to make ten for Grade 1 students (TEKS 1.3(C)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition facts - sums up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Addition facts - sums up to 10 for Grade 1 students (TEKS 1.3(D)). Students develop fluency with addition facts, recalling sums quickly and accurately. Key concepts include understanding addition as combining, the commutative property, and strategies like counting on, making ten, doubles, and near-doubles. Vocabulary: add, addend, sum, plus, equals, fact, fluency, doubles, near doubles. Students should progress from concrete models to mental computation. Common misconceptions include always counting from 1, not using the commutative property, and confusing addition with subtraction. Activities should include timed practice, flashcards, fact family triangles, and strategy-based games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Take apart numbers in different ways - sums up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Take apart numbers in different ways - sums up to 10 for Grade 1 students (TEKS 1.3(D)). Take-apart problems present a total that must be decomposed into two parts. Unlike take-away problems, nothing is removed; instead, a known quantity is separated into groups. Key concepts include understanding that the total equals the sum of the parts, writing subtraction sentences to show one part when the total and other part are known, and recognizing multiple valid decompositions. Vocabulary: take apart, decompose, parts, whole, total, subtraction sentence. Common misconceptions include confusing take-apart with take-away, not understanding that multiple decompositions exist, and difficulty with the equation structure. Activities should include physically separating groups of objects, writing equations for each decomposition, and exploring all ways to take apart a number appropriate for ages 6-7."
+    },
+    {
+      "skill": "Make a number using addition - sums up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Make a number using addition - sums up to 10 for Grade 1 students (TEKS 1.3(D)). Students explore different ways to decompose a number into two parts, building flexibility with number composition. Key concepts include finding all combinations that make a target number, recording combinations as equations, understanding that the same number can be decomposed in multiple ways, and recognizing the commutative property. Vocabulary: decompose, compose, parts, whole, ways to make, combination. Common misconceptions include missing some combinations, not recognizing commutative pairs (3+5 and 5+3), and thinking there is only one way to make a number. Activities should include systematic exploration with manipulatives, recording all combinations, and connecting to fact families appropriate for ages 6-7."
+    },
+    {
+      "skill": "Ways to make a number - addition sentences up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Ways to make a number - addition sentences up to 10 for Grade 1 students (TEKS 1.3(D)). Students explore different ways to decompose a number into two parts, building flexibility with number composition. Key concepts include finding all combinations that make a target number, recording combinations as equations, understanding that the same number can be decomposed in multiple ways, and recognizing the commutative property. Vocabulary: decompose, compose, parts, whole, ways to make, combination. Common misconceptions include missing some combinations, not recognizing commutative pairs (3+5 and 5+3), and thinking there is only one way to make a number. Activities should include systematic exploration with manipulatives, recording all combinations, and connecting to fact families appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtraction sentences up to 10: which model matches?",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtraction sentences up to 10: which model matches? for Grade 1 students (TEKS 1.3(D)). Students match number sentences to visual models, strengthening the connection between concrete/pictorial representations and abstract equations. Key concepts include interpreting both the equation and the model, understanding what each part represents, and verifying that the model and equation represent the same situation. Vocabulary: model, match, number sentence, equation, represent, addend, sum, difference. Common misconceptions include matching based on only one number rather than the whole equation, not checking that all parts correspond, and confusing addition and subtraction models. Activities should include matching cards, multiple-choice model selection, and creating models for given equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtract by counting back - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtract by counting back - up to 10 for Grade 1 students (TEKS 1.3(D)). Counting back is a subtraction strategy where students start from the larger number and count backward by the amount being subtracted. For 9-3, start at 9 and count back: 8, 7, 6. Key concepts include starting from the correct number, keeping track of how many counts, and knowing when this strategy is efficient (best for subtracting small numbers). Vocabulary: count back, subtract, difference, strategy, start. Common misconceptions include including the starting number in the count and losing track with larger subtrahends. Activities should include number line jumps backward, counting back with fingers, and comparing with other strategies appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtract by counting on - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtract by counting on - up to 10 for Grade 1 students (TEKS 1.3(D)). Counting on to subtract reframes subtraction as finding the distance between two numbers. For 12-9, count up from 9 to 12: 10, 11, 12—that's 3 counts, so 12-9=3. Key concepts include counting up from the subtrahend to the minuend, tracking the number of jumps, and using landmark numbers. Vocabulary: count on, subtract, difference, distance, number line, jump. Common misconceptions include confusing this with addition, losing track of counts, and not recognizing when this strategy is most efficient (when numbers are close together). Activities should include open number line jumps, comparing strategies, and practice with numbers close together appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use addition to subtract - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Use addition to subtract - up to 10 for Grade 1 students (TEKS 1.3(D)). Students learn that subtraction can be solved by thinking of the related addition fact. For example, 10-3=? becomes 3+?=10. Key concepts include understanding the inverse relationship between addition and subtraction, using known addition facts to find differences, and thinking of subtraction as finding a missing addend. Vocabulary: inverse, related facts, missing addend, think addition, subtraction, addition. Common misconceptions include not seeing the connection between operations and trying to memorize subtraction facts independently. Activities should include fact family practice, think-addition drills, and using addition knowledge to check subtraction answers appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtraction facts - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtraction facts - up to 10 for Grade 1 students (TEKS 1.3(D)). Students develop fluency with subtraction facts using strategies like counting back, counting up, using related addition facts, and making ten. Key concepts include understanding subtraction as finding a difference, the relationship between addition and subtraction, and fact families. Vocabulary: subtract, minus, difference, fact, count back, count up, related fact, fluency. Common misconceptions include not connecting subtraction to addition and difficulty with subtraction from teen numbers. Activities should include fact practice, fact family triangles, number line jumps, and strategy games appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Make a number using subtraction - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Make a number using subtraction - up to 10 for Grade 1 students (TEKS 1.3(D)). Students explore different ways to decompose a number into two parts, building flexibility with number composition. Key concepts include finding all combinations that make a target number, recording combinations as equations, understanding that the same number can be decomposed in multiple ways, and recognizing the commutative property. Vocabulary: decompose, compose, parts, whole, ways to make, combination. Common misconceptions include missing some combinations, not recognizing commutative pairs (3+5 and 5+3), and thinking there is only one way to make a number. Activities should include systematic exploration with manipulatives, recording all combinations, and connecting to fact families appropriate for ages 6-7."
+    },
+    {
+      "skill": "Ways to make a number - subtraction sentences up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Ways to make a number - subtraction sentences up to 10 for Grade 1 students (TEKS 1.3(D)). Students explore different ways to decompose a number into two parts, building flexibility with number composition. Key concepts include finding all combinations that make a target number, recording combinations as equations, understanding that the same number can be decomposed in multiple ways, and recognizing the commutative property. Vocabulary: decompose, compose, parts, whole, ways to make, combination. Common misconceptions include missing some combinations, not recognizing commutative pairs (3+5 and 5+3), and thinking there is only one way to make a number. Activities should include systematic exploration with manipulatives, recording all combinations, and connecting to fact families appropriate for ages 6-7."
+    },
+    {
+      "skill": "Ways to subtract from a number - subtraction sentences up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Ways to subtract from a number - subtraction sentences up to 10 for Grade 1 students (TEKS 1.3(D)). This skill builds numerical understanding and computational fluency appropriate for ages 6-7. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Fact families - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Fact families - up to 10 for Grade 1 students (TEKS 1.3(D)). A fact family is a set of related addition and subtraction facts using the same three numbers (e.g., 3, 5, 8: 3+5=8, 5+3=8, 8-3=5, 8-5=3). Key concepts include understanding inverse operations, the commutative property creating two addition facts, and using known facts to derive unknown ones. Vocabulary: fact family, related facts, inverse operations, addend, sum, difference. Common misconceptions include writing equations with wrong numbers and not understanding how addition and subtraction connect. Activities should include completing fact family sets, using triangles as organizers, and solving missing-number problems using relationships appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition and subtraction facts - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Addition and subtraction facts - up to 10 for Grade 1 students (TEKS 1.3(D)). Students develop fluency with subtraction facts using strategies like counting back, counting up, using related addition facts, and making ten. Key concepts include understanding subtraction as finding a difference, the relationship between addition and subtraction, and fact families. Vocabulary: subtract, minus, difference, fact, count back, count up, related fact, fluency. Common misconceptions include not connecting subtraction to addition and difficulty with subtraction from teen numbers. Activities should include fact practice, fact family triangles, number line jumps, and strategy games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Sort addition and subtraction facts - up to 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Sort addition and subtraction facts - up to 10 for Grade 1 students (TEKS 1.3(D)). Students develop fluency with subtraction facts using strategies like counting back, counting up, using related addition facts, and making ten. Key concepts include understanding subtraction as finding a difference, the relationship between addition and subtraction, and fact families. Vocabulary: subtract, minus, difference, fact, count back, count up, related fact, fluency. Common misconceptions include not connecting subtraction to addition and difficulty with subtraction from teen numbers. Activities should include fact practice, fact family triangles, number line jumps, and strategy games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Related addition facts",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Related addition facts for Grade 1 students (TEKS 1.3(D)). Students develop fluency with addition facts, recalling sums quickly and accurately. Key concepts include understanding addition as combining, the commutative property, and strategies like counting on, making ten, doubles, and near-doubles. Vocabulary: add, addend, sum, plus, equals, fact, fluency, doubles, near doubles. Students should progress from concrete models to mental computation. Common misconceptions include always counting from 1, not using the commutative property, and confusing addition with subtraction. Activities should include timed practice, flashcards, fact family triangles, and strategy-based games appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add using doubles plus one",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Add using doubles plus one for Grade 1 students (TEKS 1.3(D)). Doubles are addition facts with identical addends (3+3=6, 7+7=14). Near-doubles strategies extend this: doubles plus one (6+7 = 6+6+1) and doubles minus one (6+7 = 7+7-1). For subtraction, doubles work in reverse (12-6=6). Key concepts include memorizing doubles as anchor facts and using them to solve nearby facts. Vocabulary: doubles, doubles plus one, doubles minus one, near doubles, addend, sum. Common misconceptions include confusing doubles-plus-one with doubles-plus-two and not recognizing applicable situations. Activities should include dominoes, dot patterns, doubles songs, and applying strategies to harder facts appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add using doubles minus one",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Add using doubles minus one for Grade 1 students (TEKS 1.3(D)). Doubles are addition facts with identical addends (3+3=6, 7+7=14). Near-doubles strategies extend this: doubles plus one (6+7 = 6+6+1) and doubles minus one (6+7 = 7+7-1). For subtraction, doubles work in reverse (12-6=6). Key concepts include memorizing doubles as anchor facts and using them to solve nearby facts. Vocabulary: doubles, doubles plus one, doubles minus one, near doubles, addend, sum. Common misconceptions include confusing doubles-plus-one with doubles-plus-two and not recognizing applicable situations. Activities should include dominoes, dot patterns, doubles songs, and applying strategies to harder facts appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add three numbers - use doubles",
+      "teks": "1.5(G)",
+      "prompt": "This topic covers Add three numbers - use doubles for Grade 1 students (TEKS 1.5(G)). Doubles are addition facts with identical addends (3+3=6, 7+7=14). Near-doubles strategies extend this: doubles plus one (6+7 = 6+6+1) and doubles minus one (6+7 = 7+7-1). For subtraction, doubles work in reverse (12-6=6). Key concepts include memorizing doubles as anchor facts and using them to solve nearby facts. Vocabulary: doubles, doubles plus one, doubles minus one, near doubles, addend, sum. Common misconceptions include confusing doubles-plus-one with doubles-plus-two and not recognizing applicable situations. Activities should include dominoes, dot patterns, doubles songs, and applying strategies to harder facts appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use ten frames to add",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Use ten frames to add for Grade 1 students (TEKS 1.3(D)). Ten frames provide visual structure for computation by organizing quantities in a 2x5 grid. For addition, students fill frames and see overflow; for subtraction, they remove counters. Key concepts include using the frame to make ten as an intermediate step, seeing complements of ten, and connecting to written equations. Vocabulary: ten frame, add, subtract, fill, remove, make ten, complement. Common misconceptions include not filling systematically and losing track during operations. Activities should include physical ten frames with counters, digital tools, and drawing frames to solve problems appropriate for ages 6-7."
+    },
+    {
+      "skill": "Make ten to add",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Make ten to add for Grade 1 students (TEKS 1.3(D)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add three numbers - make ten",
+      "teks": "1.3(C)",
+      "prompt": "This topic covers Add three numbers - make ten for Grade 1 students (TEKS 1.3(C)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition facts - sums up to 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Addition facts - sums up to 20 for Grade 1 students (TEKS 1.3(D)). Students develop fluency with addition facts, recalling sums quickly and accurately. Key concepts include understanding addition as combining, the commutative property, and strategies like counting on, making ten, doubles, and near-doubles. Vocabulary: add, addend, sum, plus, equals, fact, fluency, doubles, near doubles. Students should progress from concrete models to mental computation. Common misconceptions include always counting from 1, not using the commutative property, and confusing addition with subtraction. Activities should include timed practice, flashcards, fact family triangles, and strategy-based games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Sort addition facts - sums up to 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Sort addition facts - sums up to 20 for Grade 1 students (TEKS 1.3(D)). Students develop fluency with addition facts, recalling sums quickly and accurately. Key concepts include understanding addition as combining, the commutative property, and strategies like counting on, making ten, doubles, and near-doubles. Vocabulary: add, addend, sum, plus, equals, fact, fluency, doubles, near doubles. Students should progress from concrete models to mental computation. Common misconceptions include always counting from 1, not using the commutative property, and confusing addition with subtraction. Activities should include timed practice, flashcards, fact family triangles, and strategy-based games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Make a number using addition - sums up to 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Make a number using addition - sums up to 20 for Grade 1 students (TEKS 1.3(D)). Students explore different ways to decompose a number into two parts, building flexibility with number composition. Key concepts include finding all combinations that make a target number, recording combinations as equations, understanding that the same number can be decomposed in multiple ways, and recognizing the commutative property. Vocabulary: decompose, compose, parts, whole, ways to make, combination. Common misconceptions include missing some combinations, not recognizing commutative pairs (3+5 and 5+3), and thinking there is only one way to make a number. Activities should include systematic exploration with manipulatives, recording all combinations, and connecting to fact families appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add three numbers",
+      "teks": "1.5(G)",
+      "prompt": "This topic covers Add three numbers for Grade 1 students (TEKS 1.5(G)). Students add three or more addends using strategies like the associative property, making ten, doubles, and efficient grouping. For example, 4+3+6: add 4+6=10 first, then 10+3=13. Key concepts include looking for efficient pairings, the associative property, and tracking partial sums. Vocabulary: addend, sum, group, make ten, doubles, strategy, associative property. Common misconceptions include always adding left to right without seeking efficient groupings and difficulty tracking intermediate results. Activities should include three-addend equations, strategy discussions, and word problems with three quantities appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Related subtraction facts",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Related subtraction facts for Grade 1 students (TEKS 1.3(D)). Students develop fluency with subtraction facts using strategies like counting back, counting up, using related addition facts, and making ten. Key concepts include understanding subtraction as finding a difference, the relationship between addition and subtraction, and fact families. Vocabulary: subtract, minus, difference, fact, count back, count up, related fact, fluency. Common misconceptions include not connecting subtraction to addition and difficulty with subtraction from teen numbers. Activities should include fact practice, fact family triangles, number line jumps, and strategy games appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtract by counting back - up to 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtract by counting back - up to 20 for Grade 1 students (TEKS 1.3(D)). Counting back is a subtraction strategy where students start from the larger number and count backward by the amount being subtracted. For 9-3, start at 9 and count back: 8, 7, 6. Key concepts include starting from the correct number, keeping track of how many counts, and knowing when this strategy is efficient (best for subtracting small numbers). Vocabulary: count back, subtract, difference, strategy, start. Common misconceptions include including the starting number in the count and losing track with larger subtrahends. Activities should include number line jumps backward, counting back with fingers, and comparing with other strategies appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtracting to and from 10",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtracting to and from 10 for Grade 1 students (TEKS 1.3(D)). Students use 10 as a bridge number for subtraction. For 15-8: subtract to get to 10 (15-5=10), then subtract the rest (10-3=7). Or think: 8 to 10 is 2, 10 to 15 is 5, so 2+5=7. Key concepts include using 10 as a landmark, decomposing the subtrahend to pass through 10, and building mental subtraction fluency. Vocabulary: make ten, subtract through ten, landmark number, bridge, decompose. Common misconceptions include difficulty decomposing the subtrahend and errors when passing through 10. Activities should include number line jumps, ten frame demonstrations, and paired strategy practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use ten frames to subtract",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Use ten frames to subtract for Grade 1 students (TEKS 1.3(D)). Ten frames provide visual structure for computation by organizing quantities in a 2x5 grid. For addition, students fill frames and see overflow; for subtraction, they remove counters. Key concepts include using the frame to make ten as an intermediate step, seeing complements of ten, and connecting to written equations. Vocabulary: ten frame, add, subtract, fill, remove, make ten, complement. Common misconceptions include not filling systematically and losing track during operations. Activities should include physical ten frames with counters, digital tools, and drawing frames to solve problems appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use ten to subtract",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Use ten to subtract for Grade 1 students (TEKS 1.3(D)). Students use 10 as a bridge number for subtraction. For 15-8: subtract to get to 10 (15-5=10), then subtract the rest (10-3=7). Or think: 8 to 10 is 2, 10 to 15 is 5, so 2+5=7. Key concepts include using 10 as a landmark, decomposing the subtrahend to pass through 10, and building mental subtraction fluency. Vocabulary: make ten, subtract through ten, landmark number, bridge, decompose. Common misconceptions include difficulty decomposing the subtrahend and errors when passing through 10. Activities should include number line jumps, ten frame demonstrations, and paired strategy practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use addition to subtract - up to 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Use addition to subtract - up to 20 for Grade 1 students (TEKS 1.3(D)). Students learn that subtraction can be solved by thinking of the related addition fact. For example, 10-3=? becomes 3+?=10. Key concepts include understanding the inverse relationship between addition and subtraction, using known addition facts to find differences, and thinking of subtraction as finding a missing addend. Vocabulary: inverse, related facts, missing addend, think addition, subtraction, addition. Common misconceptions include not seeing the connection between operations and trying to memorize subtraction facts independently. Activities should include fact family practice, think-addition drills, and using addition knowledge to check subtraction answers appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtract by counting on - up to 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtract by counting on - up to 20 for Grade 1 students (TEKS 1.3(D)). Counting on to subtract reframes subtraction as finding the distance between two numbers. For 12-9, count up from 9 to 12: 10, 11, 12—that's 3 counts, so 12-9=3. Key concepts include counting up from the subtrahend to the minuend, tracking the number of jumps, and using landmark numbers. Vocabulary: count on, subtract, difference, distance, number line, jump. Common misconceptions include confusing this with addition, losing track of counts, and not recognizing when this strategy is most efficient (when numbers are close together). Activities should include open number line jumps, comparing strategies, and practice with numbers close together appropriate for ages 6-7."
+    },
+    {
+      "skill": "Count on and use ten to subtract - up to 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Count on and use ten to subtract - up to 20 for Grade 1 students (TEKS 1.3(D)). Students use 10 as a bridge number for subtraction. For 15-8: subtract to get to 10 (15-5=10), then subtract the rest (10-3=7). Or think: 8 to 10 is 2, 10 to 15 is 5, so 2+5=7. Key concepts include using 10 as a landmark, decomposing the subtrahend to pass through 10, and building mental subtraction fluency. Vocabulary: make ten, subtract through ten, landmark number, bridge, decompose. Common misconceptions include difficulty decomposing the subtrahend and errors when passing through 10. Activities should include number line jumps, ten frame demonstrations, and paired strategy practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtract doubles",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Subtract doubles for Grade 1 students (TEKS 1.3(D)). Doubles are addition facts with identical addends (3+3=6, 7+7=14). Near-doubles strategies extend this: doubles plus one (6+7 = 6+6+1) and doubles minus one (6+7 = 7+7-1). For subtraction, doubles work in reverse (12-6=6). Key concepts include memorizing doubles as anchor facts and using them to solve nearby facts. Vocabulary: doubles, doubles plus one, doubles minus one, near doubles, addend, sum. Common misconceptions include confusing doubles-plus-one with doubles-plus-two and not recognizing applicable situations. Activities should include dominoes, dot patterns, doubles songs, and applying strategies to harder facts appropriate for ages 6-7."
+    },
+    {
+      "skill": "Count groups of like coins: pennies, nickels, or dimes",
+      "teks": "1.4(C)",
+      "prompt": "This topic covers Count groups of like coins: pennies, nickels, or dimes for Grade 1 students (TEKS 1.4(C)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 6-7."
+    },
+    {
+      "skill": "Count pennies, nickels, and dimes",
+      "teks": "1.4(C)",
+      "prompt": "This topic covers Count pennies, nickels, and dimes for Grade 1 students (TEKS 1.4(C)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting forward - up to 100",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers Counting forward - up to 100 for Grade 1 students (TEKS 1.5(A)). Students build fluency counting in both directions using number charts and sequences. Key concepts include understanding the number system structure, recognizing patterns, and identifying what comes before, after, or between given numbers. Each row on a hundred chart represents a decade; columns show repeating patterns. Vocabulary: count forward, count backward, sequence, pattern, before, after, between, number chart. Common misconceptions include hesitation at decade transitions and difficulty counting backward. Activities should include filling in missing numbers, counting from various starting points, and identifying sequence errors appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting backward - up to 100",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers Counting backward - up to 100 for Grade 1 students (TEKS 1.5(A)). Students build fluency counting in both directions using number charts and sequences. Key concepts include understanding the number system structure, recognizing patterns, and identifying what comes before, after, or between given numbers. Each row on a hundred chart represents a decade; columns show repeating patterns. Vocabulary: count forward, count backward, sequence, pattern, before, after, between, number chart. Common misconceptions include hesitation at decade transitions and difficulty counting backward. Activities should include filling in missing numbers, counting from various starting points, and identifying sequence errors appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting on the hundred chart",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers Counting on the hundred chart for Grade 1 students (TEKS 1.5(A)). Students build fluency counting in both directions using number charts and sequences. Key concepts include understanding the number system structure, recognizing patterns, and identifying what comes before, after, or between given numbers. Each row on a hundred chart represents a decade; columns show repeating patterns. Vocabulary: count forward, count backward, sequence, pattern, before, after, between, number chart. Common misconceptions include hesitation at decade transitions and difficulty counting backward. Activities should include filling in missing numbers, counting from various starting points, and identifying sequence errors appropriate for ages 6-7."
+    },
+    {
+      "skill": "Count up to find the next number - up to 120",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers Count up to find the next number - up to 120 for Grade 1 students (TEKS 1.5(A)). Students determine the next number in a sequence by counting up or down by one. Key concepts include connecting to the counting sequence, understanding that each counting number is one more than the previous, and fluency with the number sequence in both directions. Vocabulary: count up, count down, next number, before, after, one more, one less, sequence. Common misconceptions include difficulty at decade boundaries and confusion about direction. Activities should include number line work, quick response games, and hundred chart navigation appropriate for ages 6-7."
+    },
+    {
+      "skill": "Count down to find the next number - up to 120",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers Count down to find the next number - up to 120 for Grade 1 students (TEKS 1.5(A)). Students determine the next number in a sequence by counting up or down by one. Key concepts include connecting to the counting sequence, understanding that each counting number is one more than the previous, and fluency with the number sequence in both directions. Vocabulary: count up, count down, next number, before, after, one more, one less, sequence. Common misconceptions include difficulty at decade boundaries and confusion about direction. Activities should include number line work, quick response games, and hundred chart navigation appropriate for ages 6-7."
+    },
+    {
+      "skill": "Counting on a number chart - up to 120",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers Counting on a number chart - up to 120 for Grade 1 students (TEKS 1.5(A)). Students build fluency counting in both directions using number charts and sequences. Key concepts include understanding the number system structure, recognizing patterns, and identifying what comes before, after, or between given numbers. Each row on a hundred chart represents a decade; columns show repeating patterns. Vocabulary: count forward, count backward, sequence, pattern, before, after, between, number chart. Common misconceptions include hesitation at decade transitions and difficulty counting backward. Activities should include filling in missing numbers, counting from various starting points, and identifying sequence errors appropriate for ages 6-7."
+    },
+    {
+      "skill": "Sequences - count up and down by 1",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers counting sequences for Grade 1 students (TEKS 1.5(A)). Students identify and extend counting sequences that go up or down by 1. Key concepts include recognizing the pattern rule (+1 or -1), predicting subsequent numbers, filling in missing numbers in sequences, and understanding that the counting sequence is the foundation of our number system. Vocabulary: sequence, pattern, count up, count down, rule, next, missing number, extend. Common misconceptions include losing track of direction and errors at decade transitions. Activities should include completing sequences, identifying errors in given sequences, and creating original sequences appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Skip-counting by twos",
+      "teks": "1.5(B)",
+      "prompt": "This topic covers Skip-counting by twos for Grade 1 students (TEKS 1.5(B)). Skip counting means counting forward by a number other than 1, creating predictable patterns. Key concepts include recognizing and continuing skip-counting patterns, understanding that skip counting is related to repeated addition and multiplication, and using skip counting for solving problems. Vocabulary: skip count, pattern, sequence, rule, interval, by twos, by fives, by tens. Common misconceptions include losing the pattern after several counts, not starting from the correct number, and confusing different skip-counting patterns. Activities should include number line and hundred chart highlighting, counting grouped objects, and connecting to real-world contexts like counting coins appropriate for ages 6-7."
+    },
+    {
+      "skill": "Skip-counting by fives",
+      "teks": "1.5(B)",
+      "prompt": "This topic covers Skip-counting by fives for Grade 1 students (TEKS 1.5(B)). Skip counting means counting forward by a number other than 1, creating predictable patterns. Key concepts include recognizing and continuing skip-counting patterns, understanding that skip counting is related to repeated addition and multiplication, and using skip counting for solving problems. Vocabulary: skip count, pattern, sequence, rule, interval, by twos, by fives, by tens. Common misconceptions include losing the pattern after several counts, not starting from the correct number, and confusing different skip-counting patterns. Activities should include number line and hundred chart highlighting, counting grouped objects, and connecting to real-world contexts like counting coins appropriate for ages 6-7."
+    },
+    {
+      "skill": "Skip-counting by tens - up to 120",
+      "teks": "1.5(B)",
+      "prompt": "This topic covers Skip-counting by tens - up to 120 for Grade 1 students (TEKS 1.5(B)). Skip counting means counting forward by a number other than 1, creating predictable patterns. Key concepts include recognizing and continuing skip-counting patterns, understanding that skip counting is related to repeated addition and multiplication, and using skip counting for solving problems. Vocabulary: skip count, pattern, sequence, rule, interval, by twos, by fives, by tens. Common misconceptions include losing the pattern after several counts, not starting from the correct number, and confusing different skip-counting patterns. Activities should include number line and hundred chart highlighting, counting grouped objects, and connecting to real-world contexts like counting coins appropriate for ages 6-7."
+    },
+    {
+      "skill": "Skip-counting by twos, fives, and tens - up to 120",
+      "teks": "1.5(B)",
+      "prompt": "This topic covers Skip-counting by twos, fives, and tens - up to 120 for Grade 1 students (TEKS 1.5(B)). Skip counting means counting forward by a number other than 1, creating predictable patterns. Key concepts include recognizing and continuing skip-counting patterns, understanding that skip counting is related to repeated addition and multiplication, and using skip counting for solving problems. Vocabulary: skip count, pattern, sequence, rule, interval, by twos, by fives, by tens. Common misconceptions include losing the pattern after several counts, not starting from the correct number, and confusing different skip-counting patterns. Activities should include number line and hundred chart highlighting, counting grouped objects, and connecting to real-world contexts like counting coins appropriate for ages 6-7."
+    },
+    {
+      "skill": "Ten more or less",
+      "teks": "1.5(C)",
+      "prompt": "This topic covers Ten more or less for Grade 1 students (TEKS 1.5(C)). Students learn to mentally add or subtract 10 from any given number. Key concepts include understanding that adding 10 increases the tens digit by 1 while the ones digit stays the same, and subtracting 10 decreases the tens digit by 1. On a hundred chart, 10 more is directly below and 10 less is directly above. Vocabulary: ten more, ten less, tens digit, ones digit, pattern, mental math, hundred chart. Common misconceptions include changing the ones digit and difficulty when regrouping is needed (e.g., 10 more than 95). Activities should include hundred chart explorations, base-ten block demonstrations, and mental math games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Ten more or less - up to 120",
+      "teks": "1.5(C)",
+      "prompt": "This topic covers Ten more or less - up to 120 for Grade 1 students (TEKS 1.5(C)). Students learn to mentally add or subtract 10 from any given number. Key concepts include understanding that adding 10 increases the tens digit by 1 while the ones digit stays the same, and subtracting 10 decreases the tens digit by 1. On a hundred chart, 10 more is directly below and 10 less is directly above. Vocabulary: ten more, ten less, tens digit, ones digit, pattern, mental math, hundred chart. Common misconceptions include changing the ones digit and difficulty when regrouping is needed (e.g., 10 more than 95). Activities should include hundred chart explorations, base-ten block demonstrations, and mental math games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Hundred chart - ten more or less",
+      "teks": "1.5(C)",
+      "prompt": "This topic covers Hundred chart - ten more or less for Grade 1 students (TEKS 1.5(C)). Students learn to mentally add or subtract 10 from any given number. Key concepts include understanding that adding 10 increases the tens digit by 1 while the ones digit stays the same, and subtracting 10 decreases the tens digit by 1. On a hundred chart, 10 more is directly below and 10 less is directly above. Vocabulary: ten more, ten less, tens digit, ones digit, pattern, mental math, hundred chart. Common misconceptions include changing the ones digit and difficulty when regrouping is needed (e.g., 10 more than 95). Activities should include hundred chart explorations, base-ten block demonstrations, and mental math games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Number chart up to 120 - ten more or less",
+      "teks": "1.5(C)",
+      "prompt": "This topic covers Number chart up to 120 - ten more or less for Grade 1 students (TEKS 1.5(C)). Students learn to mentally add or subtract 10 from any given number. Key concepts include understanding that adding 10 increases the tens digit by 1 while the ones digit stays the same, and subtracting 10 decreases the tens digit by 1. On a hundred chart, 10 more is directly below and 10 less is directly above. Vocabulary: ten more, ten less, tens digit, ones digit, pattern, mental math, hundred chart. Common misconceptions include changing the ones digit and difficulty when regrouping is needed (e.g., 10 more than 95). Activities should include hundred chart explorations, base-ten block demonstrations, and mental math games appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition sentences for word problems - sums up to 10",
+      "teks": "1.5(D)",
+      "prompt": "This topic covers Addition sentences for word problems - sums up to 10 for Grade 1 students (TEKS 1.5(D)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Subtraction sentences for word problems - up to 10",
+      "teks": "1.5(D)",
+      "prompt": "This topic covers Subtraction sentences for word problems - up to 10 for Grade 1 students (TEKS 1.5(D)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Addition sentences for word problems - sums up to 20",
+      "teks": "1.5(D)",
+      "prompt": "This topic covers Addition sentences for word problems - sums up to 20 for Grade 1 students (TEKS 1.5(D)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 6-7-year-olds."
+    },
+    {
+      "skill": "Subtraction sentences for word problems - up to 20",
+      "teks": "1.5(D)",
+      "prompt": "This topic covers Subtraction sentences for word problems - up to 20 for Grade 1 students (TEKS 1.5(D)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 6-7-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Addition sentences: true or false?",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Addition sentences: true or false? for Grade 1 students (TEKS 1.5(E)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition sentences: which is true?",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Addition sentences: which is true? for Grade 1 students (TEKS 1.5(E)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtraction sentences: true or false?",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Subtraction sentences: true or false? for Grade 1 students (TEKS 1.5(E)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Subtraction sentences: which is true?",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Subtraction sentences: which is true? for Grade 1 students (TEKS 1.5(E)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Addition and subtraction sentences to 20: which is true?",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Addition and subtraction sentences to 20: which is true? for Grade 1 students (TEKS 1.5(E)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 6-7."
+    },
+    {
+      "skill": "Which sign makes the number sentence true?",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Which sign makes the number sentence true? for Grade 1 students (TEKS 1.5(E)). Students determine which operation sign (+, -, =) makes a number sentence true. Key concepts include understanding each symbol's meaning, mentally computing results, and selecting the sign that creates a true statement. Vocabulary: plus sign, minus sign, equals sign, operation, number sentence, true. Common misconceptions include not computing before guessing and difficulty when the equals sign is the unknown. Activities should include fill-in-the-sign exercises, number sentence puzzles, and interactive games appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the addition sentence to make ten",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Complete the addition sentence to make ten for Grade 1 students (TEKS 1.5(F)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Use addition to subtract - up to 10",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Use addition to subtract - up to 10 for Grade 1 students (TEKS 1.5(F)). Students learn that subtraction can be solved by thinking of the related addition fact. For example, 10-3=? becomes 3+?=10. Key concepts include understanding the inverse relationship between addition and subtraction, using known addition facts to find differences, and thinking of subtraction as finding a missing addend. Vocabulary: inverse, related facts, missing addend, think addition, subtraction, addition. Common misconceptions include not seeing the connection between operations and trying to memorize subtraction facts independently. Activities should include fact family practice, think-addition drills, and using addition knowledge to check subtraction answers appropriate for ages 6-7."
+    },
+    {
+      "skill": "Relate addition and subtraction sentences - up to 20",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Relate addition and subtraction sentences - up to 20 for Grade 1 students (TEKS 1.5(F)). Students learn that addition and subtraction are inverse operations that undo each other. Key concepts include using addition facts to solve subtraction, fact families, and thinking of subtraction as finding a missing addend. Vocabulary: inverse operations, related facts, fact family, undo, missing addend. Common misconceptions include not seeing the connection and memorizing subtraction facts independently. Activities should include fact family exercises, using addition to check subtraction, and exploring the undo relationship appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use addition to subtract - up to 20",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Use addition to subtract - up to 20 for Grade 1 students (TEKS 1.5(F)). Students learn that subtraction can be solved by thinking of the related addition fact. For example, 10-3=? becomes 3+?=10. Key concepts include understanding the inverse relationship between addition and subtraction, using known addition facts to find differences, and thinking of subtraction as finding a missing addend. Vocabulary: inverse, related facts, missing addend, think addition, subtraction, addition. Common misconceptions include not seeing the connection between operations and trying to memorize subtraction facts independently. Activities should include fact family practice, think-addition drills, and using addition knowledge to check subtraction answers appropriate for ages 6-7."
+    },
+    {
+      "skill": "Complete the addition sentence - sums up to 10",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Complete the addition sentence - sums up to 10 for Grade 1 students (TEKS 1.5(F)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the subtraction sentence - up to 10",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Complete the subtraction sentence - up to 10 for Grade 1 students (TEKS 1.5(F)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the addition sentence - sums up to 20",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Complete the addition sentence - sums up to 20 for Grade 1 students (TEKS 1.5(F)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the subtraction sentence - up to 20",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Complete the subtraction sentence - up to 20 for Grade 1 students (TEKS 1.5(F)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the addition and subtraction equations - up to 20",
+      "teks": "1.5(F)",
+      "prompt": "This topic covers Complete the addition and subtraction equations - up to 20 for Grade 1 students (TEKS 1.5(F)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Balance addition and subtraction equations - up to 10",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Balance addition and subtraction equations - up to 10 for Grade 1 students (TEKS 1.5(E)). Balancing equations means finding values that make both sides equal. Key concepts include understanding equals as a balance point, computing both sides, and finding missing numbers that maintain equality. Vocabulary: balance, equal, equation, both sides, same value, equivalent. This is foundational algebraic thinking. Common misconceptions include viewing equals as 'do something' rather than balance and only computing left to right. Activities should include physical balance scales, equation mats, and puzzles requiring both sides to be equal appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Balance addition and subtraction equations - up to 20",
+      "teks": "1.5(E)",
+      "prompt": "This topic covers Balance addition and subtraction equations - up to 20 for Grade 1 students (TEKS 1.5(E)). Balancing equations means finding values that make both sides equal. Key concepts include understanding equals as a balance point, computing both sides, and finding missing numbers that maintain equality. Vocabulary: balance, equal, equation, both sides, same value, equivalent. This is foundational algebraic thinking. Common misconceptions include viewing equals as 'do something' rather than balance and only computing left to right. Activities should include physical balance scales, equation mats, and puzzles requiring both sides to be equal appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add three numbers - use doubles",
+      "teks": "1.5(G)",
+      "prompt": "This topic covers Add three numbers - use doubles for Grade 1 students (TEKS 1.5(G)). Doubles are addition facts with identical addends (3+3=6, 7+7=14). Near-doubles strategies extend this: doubles plus one (6+7 = 6+6+1) and doubles minus one (6+7 = 7+7-1). For subtraction, doubles work in reverse (12-6=6). Key concepts include memorizing doubles as anchor facts and using them to solve nearby facts. Vocabulary: doubles, doubles plus one, doubles minus one, near doubles, addend, sum. Common misconceptions include confusing doubles-plus-one with doubles-plus-two and not recognizing applicable situations. Activities should include dominoes, dot patterns, doubles songs, and applying strategies to harder facts appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add three numbers - make ten",
+      "teks": "1.5(G)",
+      "prompt": "This topic covers Add three numbers - make ten for Grade 1 students (TEKS 1.5(G)). Making ten is a critical mental math strategy where students decompose numbers to create a sum of 10, then add the remainder. Key concepts include knowing number pairs that sum to 10 (1+9, 2+8, 3+7, 4+6, 5+5), using ten frames to visualize, and applying this to simplify addition beyond 10. Vocabulary: make ten, number pair, complement, decompose, ten frame, strategy. Common misconceptions include not having automatic recall of pairs to ten and difficulty decomposing the second addend. Activities should include ten frame work, card games, and decomposition practice appropriate for ages 6-7."
+    },
+    {
+      "skill": "Add three numbers - word problems",
+      "teks": "1.5(G)",
+      "prompt": "This topic covers Add three numbers - word problems for Grade 1 students (TEKS 1.5(G)). Students add three or more addends using strategies like the associative property, making ten, doubles, and efficient grouping. For example, 4+3+6: add 4+6=10 first, then 10+3=13. Key concepts include looking for efficient pairings, the associative property, and tracking partial sums. Vocabulary: addend, sum, group, make ten, doubles, strategy, associative property. Common misconceptions include always adding left to right without seeking efficient groupings and difficulty tracking intermediate results. Activities should include three-addend equations, strategy discussions, and word problems with three quantities appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency."
+    }
+  ]
+}

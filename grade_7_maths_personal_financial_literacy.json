@@ -1,0 +1,86 @@
+{
+  "grade": "Grade 7",
+  "subject": "Maths - Personal financial literacy",
+  "skills": [
+    {
+      "skill": "Calculate sales tax for a given purchase",
+      "teks": "7.13(A)",
+      "prompt": "This topic covers calculating sales tax for Grade 7 students (TEKS 7.13(A)). Students compute sales tax and total cost including tax. Key concepts include: converting tax rate to decimal, multiplying by purchase price, and adding to find total. Vocabulary: sales tax, tax rate, purchase price, total cost, percent, decimal. Common misconceptions: adding tax rate directly and not converting percent. Practice should include shopping scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Calculate income tax for earned wages",
+      "teks": "7.13(A)",
+      "prompt": "This topic covers calculating income tax on earned wages for Grade 7 students (TEKS 7.13(A)). Students compute income tax amounts from wages and tax rates. Key concepts include: applying tax rate to wages, distinguishing gross from net pay, and understanding tax rates can vary. Vocabulary: income tax, wages, gross pay, net pay, tax rate, deduction, taxable income. Common misconceptions: confusing gross and net pay. Practice should include paycheck scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Identify components of a personal budget",
+      "teks": "7.13(B)",
+      "prompt": "This topic covers identifying personal budget components for Grade 7 students (TEKS 7.13(B)). Students learn to identify and categorize budget parts: income, fixed expenses (rent, insurance), variable expenses (food, entertainment), savings, and giving. Key concept: a balanced budget has expenses not exceeding income. Vocabulary: budget, income, expense, fixed expense, variable expense, savings, surplus, deficit. Common misconceptions: forgetting savings and not distinguishing fixed from variable. Practice should include creating and analyzing budgets appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Calculate percentage of each budget category",
+      "teks": "7.13(B)",
+      "prompt": "This topic covers calculating budget category percentages for Grade 7 students (TEKS 7.13(B)). Students find what percent each category is of the total. Key concepts include: dividing category amount by total, multiplying by 100, verifying percentages sum to ~100%, and analyzing reasonableness. Vocabulary: budget, category, percentage, proportion, total, allocate, pie chart. Common misconceptions: dividing by wrong total and rounding errors. Practice should include budget analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Create financial records and net worth statements",
+      "teks": "7.13(C)",
+      "prompt": "This topic covers creating financial records and net worth statements for Grade 7 students (TEKS 7.13(C)). Students track assets and liabilities and calculate net worth = assets - liabilities. Key concepts include: categorizing items, assigning monetary values, computing totals, and interpreting positive/negative net worth. Vocabulary: financial record, net worth, asset, liability, debt, value, balance. Common misconceptions: confusing assets and liabilities. Practice should include personal financial statement creation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Use budget estimators for household budgeting",
+      "teks": "7.13(D)",
+      "prompt": "This topic covers using budget estimators for household budgeting for Grade 7 students (TEKS 7.13(D)). Students use tools to estimate household expenses and create realistic budgets. Key concepts include: identifying typical expenses (housing, utilities, food, transportation), estimating costs, balancing income against expenses, and adjusting categories. Vocabulary: budget estimator, household budget, expenses, income, estimate, financial planning. Common misconceptions: underestimating variable expenses and not accounting for irregular costs. Practice should include realistic budgeting scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Calculate simple interest",
+      "teks": "7.13(E)",
+      "prompt": "This topic covers calculating simple interest for Grade 7 students (TEKS 7.13(E)). Students use I = Prt where P is principal, r is annual rate (as decimal), and t is time in years. Key concepts include: converting rate to decimal, computing interest, finding total amount, and comparing scenarios. Vocabulary: simple interest, principal, rate, time, interest earned, total amount, annual, percent. Common misconceptions: not converting rate, confusing simple and compound interest, and using months without converting to years. Practice should include savings and loan scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Calculate compound interest",
+      "teks": "7.13(E)",
+      "prompt": "This topic covers calculating compound interest for Grade 7 students (TEKS 7.13(E)). Students learn compound interest is calculated on principal and previously earned interest. Formula: A = P(1 + r/n)^(nt). Key concepts include: compound interest grows faster than simple, computing for given periods, and comparing outcomes. Vocabulary: compound interest, principal, rate, compounding period, annually, monthly, exponential growth. Common misconceptions: confusing with simple interest and errors with exponents. Practice should include savings and investment scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Analyze monetary incentives (sales, rebates, coupons)",
+      "teks": "7.13(F)",
+      "prompt": "This topic covers analyzing monetary incentives (sales, rebates, coupons) for Grade 7 students (TEKS 7.13(F)). Students evaluate promotions to make informed purchasing decisions. Key concepts include: calculating savings from each type, comparing dollar-off vs. percent-off, understanding rebate processes, and determining best deals. Vocabulary: incentive, sale, rebate, coupon, discount, savings, percent off, dollar off, promotion. Common misconceptions: assuming highest percent off is always best. Practice should include consumer comparison scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Solve percent equations",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers solving percent equations for Grade 7 students (TEKS 7.4(D)). Students solve for the part, whole, or percent using the equation part = percent x whole. Key concepts include: converting between percents, decimals, and fractions, solving for each variable, and applying to financial contexts. Vocabulary: percent, equation, part, whole, solve, convert, decimal, fraction. Common misconceptions: confusing part and whole and not converting percent to decimal. Practice should include financial math contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Unit prices",
+      "teks": "7.4(B)",
+      "prompt": "This topic covers calculating unit prices for Grade 7 students (TEKS 7.4(B)). Students find the cost per single unit by dividing total price by quantity. Key concepts include: setting up the division, comparing unit prices for better value, and applying to shopping decisions. Vocabulary: unit price, cost, total price, quantity, compare, value, per unit, best deal. Common misconceptions: dividing in the wrong order and not comparing when package sizes differ. Practice should include grocery and consumer scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Percent of a number: tax, discount, and more",
+      "teks": "7.13(A)",
+      "prompt": "This topic covers calculating tax, discount, and related percent applications for Grade 7 students (TEKS 7.13(A)). Students find a percent of a number in contexts like sales tax, discounts, tips, markups, and commissions. Key concepts include: converting percent to decimal, multiplying by the base amount, adding tax or subtracting discount, and computing final prices. Vocabulary: percent, tax, discount, tip, markup, commission, original price, sale price, total cost. Common misconceptions: adding the percent itself instead of the calculated amount and confusing tax (added) with discount (subtracted). Practice should include consumer math scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Which is the better coupon?",
+      "teks": "7.13(F)",
+      "prompt": "This topic covers comparing coupons to find the better deal for Grade 7 students (TEKS 7.13(F)). Students compare percent-off coupons with dollar-off coupons. Key concepts include: calculating dollar value of a percent discount, comparing savings, understanding that the better coupon depends on purchase price, and analyzing each type. Vocabulary: coupon, discount, percent off, dollar off, savings, compare, better deal. Common misconceptions: assuming higher percent is always better without calculating. Practice should include shopping comparison scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find the percent: tax, discount, and more",
+      "teks": "7.13(A)",
+      "prompt": "This topic covers finding the percent in tax, discount, and related scenarios for Grade 7 students (TEKS 7.13(A)). Students determine the percent when given the part and whole in consumer contexts. Key concepts include: percent = (part/whole) x 100, identifying part and whole, and interpreting in context. Vocabulary: percent, part, whole, tax rate, discount rate, tip percent, original price, amount saved. Common misconceptions: dividing in wrong order, confusing part and whole, and not multiplying by 100. Practice should include consumer math appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Sale prices: find the original price",
+      "teks": "7.13(F)",
+      "prompt": "This topic covers finding the original price from a sale price for Grade 7 students (TEKS 7.13(F)). Students work backward from a discounted price and discount percent. Key concept: sale price = original x (1 - d/100), so original = sale price / (1 - d/100). Vocabulary: original price, sale price, discount, percent off, solve, work backward. Common misconceptions: simply adding the discount percent to the sale price and dividing by percent instead of (1 - d/100). Practice should include realistic shopping scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multi-step problems with percents",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers multi-step problems with percents for Grade 7 students (TEKS 7.4(D)). Students solve complex problems requiring multiple percent calculations, such as discount then tax, or successive percent changes. Key concepts include: performing calculations in correct order, understanding successive changes are not additive, and tracking intermediate values. Vocabulary: percent, multi-step, discount, tax, tip, markup, successive change, compound. Common misconceptions: adding successive percents, wrong order of operations, and using wrong base. Practice should include layered consumer math appropriate for 12-13 year olds."
+    }
+  ]
+}

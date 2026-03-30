@@ -1,0 +1,131 @@
+{
+  "grade": "Grade 2",
+  "subject": "Maths - Algebraic reasoning",
+  "skills": [
+    {
+      "skill": "Even or odd number of shapes - up to 20",
+      "teks": "2.7(A)",
+      "prompt": "This topic covers Even or odd number of shapes - up to 20 for Grade 2 students (TEKS 2.7(A)). Even numbers split into two equal groups; odd numbers have one leftover. Even numbers end in 0,2,4,6,8; odd in 1,3,5,7,9. Key concepts include recognizing from the ones digit, pairing objects, and addition patterns. Vocabulary: even, odd, pair, ones digit, pattern, remainder. Common misconceptions include checking the wrong digit and uncertainty about zero. Activities should include pairing, sorting, and pattern exploration appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds."
+    },
+    {
+      "skill": "Identify even and odd numbers - up to 20",
+      "teks": "2.7(A)",
+      "prompt": "This topic covers Identify even and odd numbers - up to 20 for Grade 2 students (TEKS 2.7(A)). Even numbers split into two equal groups; odd numbers have one leftover. Even numbers end in 0,2,4,6,8; odd in 1,3,5,7,9. Key concepts include recognizing from the ones digit, pairing objects, and addition patterns. Vocabulary: even, odd, pair, ones digit, pattern, remainder. Common misconceptions include checking the wrong digit and uncertainty about zero. Activities should include pairing, sorting, and pattern exploration appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds."
+    },
+    {
+      "skill": "Add 10 or 100",
+      "teks": "2.7(B)",
+      "prompt": "This topic covers Add 10 or 100 for Grade 2 students (TEKS 2.7(B)). Students mentally add or subtract 10 or 100, developing place value fluency. Adding 10 changes the tens digit; adding 100 changes the hundreds digit. Vocabulary: add, subtract, ten, hundred, mental math, pattern, place value. Common misconceptions include changing the wrong digit and boundary crossing errors. Activities should include hundred chart work, mental math challenges, and pattern recognition appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds."
+    },
+    {
+      "skill": "Subtract 10 or 100",
+      "teks": "2.7(B)",
+      "prompt": "This topic covers Subtract 10 or 100 for Grade 2 students (TEKS 2.7(B)). Students mentally add or subtract 10 or 100, developing place value fluency. Adding 10 changes the tens digit; adding 100 changes the hundreds digit. Vocabulary: add, subtract, ten, hundred, mental math, pattern, place value. Common misconceptions include changing the wrong digit and boundary crossing errors. Activities should include hundred chart work, mental math challenges, and pattern recognition appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds."
+    },
+    {
+      "skill": "Input/output tables - add and subtract by 10",
+      "teks": "2.7(B)",
+      "prompt": "This topic covers Input/output tables - add and subtract by 10 for Grade 2 students (TEKS 2.7(B)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds."
+    },
+    {
+      "skill": "Input/output tables - add and subtract by 100",
+      "teks": "2.7(B)",
+      "prompt": "This topic covers Input/output tables - add and subtract by 100 for Grade 2 students (TEKS 2.7(B)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds."
+    },
+    {
+      "skill": "Input/output tables - add and subtract by 10 or 100",
+      "teks": "2.7(B)",
+      "prompt": "This topic covers Input/output tables - add and subtract by 10 or 100 for Grade 2 students (TEKS 2.7(B)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition word problems - sums to 20",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Addition word problems - sums to 20 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Addition sentences for word problems - sums to 20",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Addition sentences for word problems - sums to 20 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Subtraction word problems - up to 20",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Subtraction word problems - up to 20 for Grade 2 students (TEKS 2.7(C)). Students solve subtraction word problems, identifying take-away, comparison, and missing-part situations. Vocabulary: subtract, difference, remaining, fewer, how many more. Common misconceptions include confusing with addition and difficulty with comparison structures. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Subtraction sentences for word problems - up to 20",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Subtraction sentences for word problems - up to 20 for Grade 2 students (TEKS 2.7(C)). Students solve subtraction word problems, identifying take-away, comparison, and missing-part situations. Vocabulary: subtract, difference, remaining, fewer, how many more. Common misconceptions include confusing with addition and difficulty with comparison structures. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Addition and subtraction word problems - up to 20",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Addition and subtraction word problems - up to 20 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Two-step addition and subtraction word problems - up to 20",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Two-step addition and subtraction word problems - up to 20 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Addition word problems - up to two digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Addition word problems - up to two digits for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Write the addition sentence - up to two digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Write the addition sentence - up to two digits for Grade 2 students (TEKS 2.7(C)). Students translate word problems into equations. Key concepts include identifying quantities and operations, writing with correct structure, and solving. Vocabulary: equation, sentence, write, represent, addend, sum, difference. Common misconceptions include wrong number order (for subtraction) and wrong operation. Activities should include guided equation writing and matching exercises appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Subtraction word problems - up to two digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Subtraction word problems - up to two digits for Grade 2 students (TEKS 2.7(C)). Students solve subtraction word problems, identifying take-away, comparison, and missing-part situations. Vocabulary: subtract, difference, remaining, fewer, how many more. Common misconceptions include confusing with addition and difficulty with comparison structures. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Write the subtraction sentence - up to two digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Write the subtraction sentence - up to two digits for Grade 2 students (TEKS 2.7(C)). Students translate word problems into equations. Key concepts include identifying quantities and operations, writing with correct structure, and solving. Vocabulary: equation, sentence, write, represent, addend, sum, difference. Common misconceptions include wrong number order (for subtraction) and wrong operation. Activities should include guided equation writing and matching exercises appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Use models to solve addition and subtraction word problems - up to 100",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Use models to solve addition and subtraction word problems - up to 100 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Addition and subtraction word problems - up to 100",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Addition and subtraction word problems - up to 100 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Match addition and subtraction word problems to equations - up to 100",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Match addition and subtraction word problems to equations - up to 100 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Two-step addition and subtraction word problems - up to 100",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Two-step addition and subtraction word problems - up to 100 for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Addition word problems - up to three digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Addition word problems - up to three digits for Grade 2 students (TEKS 2.7(C)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Write the addition sentence - up to three digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Write the addition sentence - up to three digits for Grade 2 students (TEKS 2.7(C)). Students translate word problems into equations. Key concepts include identifying quantities and operations, writing with correct structure, and solving. Vocabulary: equation, sentence, write, represent, addend, sum, difference. Common misconceptions include wrong number order (for subtraction) and wrong operation. Activities should include guided equation writing and matching exercises appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Subtraction word problems - up to three digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Subtraction word problems - up to three digits for Grade 2 students (TEKS 2.7(C)). Students solve subtraction word problems, identifying take-away, comparison, and missing-part situations. Vocabulary: subtract, difference, remaining, fewer, how many more. Common misconceptions include confusing with addition and difficulty with comparison structures. Activities should include modeling, equation writing, and varied contexts appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Write the subtraction sentence - up to three digits",
+      "teks": "2.7(C)",
+      "prompt": "This topic covers Write the subtraction sentence - up to three digits for Grade 2 students (TEKS 2.7(C)). Students translate word problems into equations. Key concepts include identifying quantities and operations, writing with correct structure, and solving. Vocabulary: equation, sentence, write, represent, addend, sum, difference. Common misconceptions include wrong number order (for subtraction) and wrong operation. Activities should include guided equation writing and matching exercises appropriate for ages 7-8. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 7-8-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    }
+  ]
+}

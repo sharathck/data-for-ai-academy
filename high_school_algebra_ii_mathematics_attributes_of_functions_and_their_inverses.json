@@ -1,0 +1,111 @@
+{
+  "grade": "High School - Algebra II",
+  "subject": "Mathematics - Attributes of functions and their inverses",
+  "skills": [
+    {
+      "skill": "Graph the functions f(x)=√x, f(x)=1/x, f(x)=x³, f(x)=³√x, f(x)=b to the x power, f(x)=|x|, and f(x)=logb (x) where b is 2, 10, and e, and, when applicable, analyze the key attributes such as domain, range, intercepts, symmetries, asymptotic behavior, and maximum and minimum given an interval;",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers graph the functions f(x)=√x, f(x)=1/x, f(x)=x³, f(x)=³√x, f(x)=b to the x power, f(x)=|x|, and f(x)=logb (x) where b is 2, 10, and e, and, when applicable, analyze the key attributes such as domain, range, intercepts, symmetries, asymptotic behavior, and maximum and minimum given an interval; for Algebra II students (TEKS 2A.2(A)). Analyze transformations of f(x) = x^3 and f(x) = cbrt(x): af(x) stretches/reflects vertically, f(bx) stretches horizontally, f(x-c)+d shifts. Both have domain/range of all reals. The parent f(x) = 1/x has vertical asymptote x=0 and horizontal asymptote y=0. Transformations: a/(b(x-c))+d shifts asymptotes to x=c and y=d. Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, hyperbola, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Domain and range of absolute value functions: graphs",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers domain and range of absolute value functions (graphs) for Algebra II students (TEKS 2A.2(A)). The parent f(x) = |x| has domain (-inf, inf) and range [0, inf). Transformed f(x) = a|x-h| + k has domain all reals and range [k, inf) if a > 0 or (-inf, k] if a < 0. The vertex (h, k) determines the range boundary. Read vertex and direction from the V-shaped graph. Key vocabulary includes: absolute value, vertex, domain, range, V-shape, opens up/down. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Domain and range of absolute value functions: equations",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers domain and range of absolute value functions (equations) for Algebra II students (TEKS 2A.2(A)). For f(x) = a|x-h| + k: domain is always all real numbers. If a > 0, range is [k, inf); if a < 0, range is (-inf, k]. Vertex is at (h, k). Key vocabulary includes: absolute value function, vertex, domain, range, parameter, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Domain and range of radical functions",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers domain and range of radical functions for Algebra II students (TEKS 2A.2(A)). For square root functions f(x) = a*sqrt(x-h) + k: domain is [h, inf) since radicand must be >= 0. Range is [k, inf) if a > 0 or (-inf, k] if a < 0. For cube root functions: domain and range are both all real numbers since cube roots exist for all reals. Key vocabulary includes: radical function, radicand, domain restriction, square root, cube root, index. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: forgetting domain restrictions for even-index roots, applying restrictions to odd-index roots."
+    },
+    {
+      "skill": "Rational functions: asymptotes and excluded values",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers rational functions (asymptotes and excluded values) for Algebra II students (TEKS 2A.2(A)). For f(x) = p(x)/q(x): vertical asymptotes where q(x) = 0 and the factor does not cancel. Horizontal asymptote depends on degree comparison. Degrees rule: num < den gives HA y=0; equal degrees gives HA = leading coeff ratio; num > den gives no HA (possible oblique). Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, excluded value, hole, degree. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not factoring first, confusing holes with asymptotes, misapplying degree rules."
+    },
+    {
+      "skill": "Match exponential functions and graphs",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers matching exponential functions to their graphs for Algebra II students (TEKS 2A.2(A)). Students analyze key features to match equations to graphs: y-intercept f(0), growth vs decay (b > 1 or 0 < b < 1), horizontal asymptote position, and transformations. For f(x) = ab^x + d: asymptote is y = d, y-intercept is a + d. Key vocabulary: exponential function, base, growth, decay, asymptote, y-intercept, transformation. Students systematically check features to eliminate choices. Common errors: not computing y-intercepts, confusing growth and decay, and misidentifying the asymptote."
+    },
+    {
+      "skill": "Domain and range of logarithmic functions",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers domain and range of logarithmic functions for Algebra II students (TEKS 2A.2(A)). For f(x) = a*log_b(x-h) + k: domain is (h, infinity) because the argument must be positive, range is all real numbers. The vertical asymptote is x = h. The logarithmic function is the inverse of exponential, so domain/range are swapped. Vocabulary: logarithmic function, domain, range, vertical asymptote, argument. Common errors: including the asymptote in the domain, incorrectly stating range is restricted, and sign errors finding h."
+    },
+    {
+      "skill": "Graph logarithmic functions",
+      "teks": "2A.2(A)",
+      "prompt": "This topic covers graphing logarithmic functions for Algebra II students (TEKS 2A.2(A)). For f(x) = a*log_b(x-h) + k: identify vertical asymptote x = h, find key points by substituting convenient x-values, note y-intercept if it exists. The parent log function passes through (1, 0) and (b, 1). Transformations shift, stretch, and reflect. Vocabulary: logarithmic function, vertical asymptote, base, transformation, inverse. Bases 2, 10, and e (ln) are most common. Common errors: graphing on wrong side of asymptote, forgetting the vertical asymptote, and incorrect key points."
+    },
+    {
+      "skill": "Graph and write the inverse of a function using notation such as f⁻¹(x);",
+      "teks": "2A.2(B)",
+      "prompt": "This topic covers graph and write the inverse of a function using notation such as f⁻¹(x); for Algebra II students (TEKS 2A.2(B)). To find inverse: replace f(x) with y, swap x and y, solve for y, write as f^(-1)(x). Graphically, inverse is reflection over y = x. Key vocabulary includes: inverse function, reflection, y = x line, one-to-one, domain restriction. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Find values of inverse functions from graphs",
+      "teks": "2A.2(B)",
+      "prompt": "This topic covers find values of inverse functions from graphs for Algebra II students (TEKS 2A.2(B)). To find inverse: replace f(x) with y, swap x and y, solve for y, write as f^(-1)(x). Graphically, inverse is reflection over y = x. Key vocabulary includes: inverse function, reflection, y = x line, one-to-one, domain restriction. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Find inverse functions and relations",
+      "teks": "2A.2(B)",
+      "prompt": "This topic covers find inverse functions and relations for Algebra II students (TEKS 2A.2(B)). Process: write y = f(x), swap x and y, solve for y. For non-one-to-one functions, restrict domain first. Key vocabulary includes: inverse function, swap, solve, domain restriction, horizontal line test. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Describe and analyze the relationship between a function and its inverse (quadratic and square root, logarithmic and exponential), including the restriction(s) on domain, which will restrict its range;",
+      "teks": "2A.2(C)",
+      "prompt": "This topic covers describe and analyze the relationship between a function and its inverse (quadratic and square root, logarithmic and exponential), including the restriction(s) on domain, which will restrict its range; for Algebra II students (TEKS 2A.2(C)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses without domain restrictions. Key vocabulary includes: inverse function, one-to-one, composition, reflection. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Find values of inverse functions from tables",
+      "teks": "2A.2(C)",
+      "prompt": "This topic covers find values of inverse functions from tables for Algebra II students (TEKS 2A.2(C)). In a function table, the inverse swaps columns: f^(-1) uses f(x) values as inputs and x values as outputs. Key vocabulary includes: inverse function, table, input, output, one-to-one. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Find values of inverse functions from graphs",
+      "teks": "2A.2(C)",
+      "prompt": "This topic covers find values of inverse functions from graphs for Algebra II students (TEKS 2A.2(C)). To find inverse: replace f(x) with y, swap x and y, solve for y, write as f^(-1)(x). Graphically, inverse is reflection over y = x. Key vocabulary includes: inverse function, reflection, y = x line, one-to-one, domain restriction. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Find inverse functions and relations",
+      "teks": "2A.2(C)",
+      "prompt": "This topic covers find inverse functions and relations for Algebra II students (TEKS 2A.2(C)). Process: write y = f(x), swap x and y, solve for y. For non-one-to-one functions, restrict domain first. Key vocabulary includes: inverse function, swap, solve, domain restriction, horizontal line test. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Use the composition of two functions, including the necessary restrictions on the domain, to determine if the functions are inverses of each other.",
+      "teks": "2A.2(D)",
+      "prompt": "This topic covers use the composition of two functions, including the necessary restrictions on the domain, to determine if the functions are inverses of each other. for Algebra II students (TEKS 2A.2(D)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses without domain restrictions. Key vocabulary includes: inverse function, one-to-one, composition, reflection. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Composition of linear functions: find a value",
+      "teks": "2A.2(D)",
+      "prompt": "This topic covers composition of linear functions (find a value) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To evaluate f(g(a)): first compute g(a), then substitute result into f. Key vocabulary includes: composition, evaluate, inner function, outer function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Composition of linear functions: find an equation",
+      "teks": "2A.2(D)",
+      "prompt": "This topic covers composition of linear functions (find an equation) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To find f(g(x)): substitute the entire g(x) expression into f wherever x appears, then simplify. Key vocabulary includes: composition, composite function, substitute, simplify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Composition of linear and quadratic functions: find a value",
+      "teks": "2A.2(D)",
+      "prompt": "This topic covers composition of linear and quadratic functions (find a value) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To evaluate f(g(a)): first compute g(a), then substitute result into f. Key vocabulary includes: composition, evaluate, inner function, outer function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Composition of linear and quadratic functions: find an equation",
+      "teks": "2A.2(D)",
+      "prompt": "This topic covers composition of linear and quadratic functions (find an equation) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To find f(g(x)): substitute the entire g(x) expression into f wherever x appears, then simplify. Key vocabulary includes: composition, composite function, substitute, simplify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Identify inverse functions",
+      "teks": "2A.2(D)",
+      "prompt": "This topic covers identify inverse functions for Algebra II students (TEKS 2A.2(D)). Verify inverses using composition: f(g(x)) = x AND g(f(x)) = x. Both must hold. Also verify graphically (reflection over y = x). Key vocabulary includes: inverse functions, composition, verify, identity function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    }
+  ]
+}

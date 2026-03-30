@@ -1,0 +1,51 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Force and Translational Dynamics",
+  "skills": [
+    {
+      "skill": "Systems and Center of Mass",
+      "ref": "Unit 2, Topic 2.1",
+      "prompt": "This topic covers systems and center of mass for AP Physics 1 students (CED: Unit 2, Topic 2.1). Students should understand that a system is a collection of objects analyzed together, and the center of mass (COM) is the average position of mass in a system, weighted by each object's mass: x_cm = (m1*x1 + m2*x2 + ...) / (m1 + m2 + ...). The center of mass moves as if all external forces act on a single particle at that point with the total system mass. Internal forces between objects within the system do not affect COM motion. For isolated systems, the velocity of the center of mass remains constant (conservation of momentum). Students must calculate COM position and velocity for multi-object systems. Connect to momentum, collisions, and Newton's laws applied to systems. AP exam note: center of mass questions test system-level thinking. Vocabulary: system, center of mass, internal force, external force, weighted average, system boundary."
+    },
+    {
+      "skill": "Forces and Free-Body Diagrams",
+      "ref": "Unit 2, Topic 2.2",
+      "prompt": "This topic covers forces and free-body diagrams for AP Physics 1 students (CED: Unit 2, Topic 2.2). Students should understand that forces are vector quantities representing interactions between objects. Common forces include gravitational force (weight, Fg = mg), normal force (perpendicular to surface), tension, friction (static and kinetic), spring force, and applied forces. A free-body diagram (FBD) shows all forces acting on a single object as arrows originating from the object's center, with lengths proportional to magnitude. Only forces ON the object are included, not forces BY the object. Students must draw accurate FBDs for objects in various scenarios (inclined planes, connected objects, suspended objects). Connect to Newton's laws, equilibrium, and acceleration. AP exam note: FBDs are required in nearly every dynamics problem and are explicitly scored. Vocabulary: free-body diagram, normal force, tension, friction, weight, applied force, contact force, field force."
+    },
+    {
+      "skill": "Newton’s Third Law",
+      "ref": "Unit 2, Topic 2.3",
+      "prompt": "This topic covers Newton’s Third Law for AP Physics 1 students (CED: Unit 2, Topic 2.3). Students should understand that when object A exerts a force on object B, object B simultaneously exerts an equal and opposite force on object A. These action-reaction (third law) pairs are always equal in magnitude, opposite in direction, the same type of force, and act on different objects. They never cancel because they act on different objects. Students must identify third law pairs, distinguish them from balanced forces on the same object, and explain why third law pairs do not prevent acceleration (because they act on different objects). Connect to free-body diagrams, systems analysis, and momentum conservation. AP exam note: distinguishing third law pairs from balanced forces is a common conceptual question. Vocabulary: action-reaction pair, Newton’s third law, interaction, equal and opposite, different objects, force pair."
+    },
+    {
+      "skill": "Newton’s First Law",
+      "ref": "Unit 2, Topic 2.4",
+      "prompt": "This topic covers Newton’s First Law for AP Physics 1 students (CED: Unit 2, Topic 2.4). Students should understand that an object at rest stays at rest, and an object in motion stays in motion at constant velocity, unless acted upon by a net external force. This law defines inertia: the tendency of an object to resist changes in its state of motion. Mass is the quantitative measure of inertia. When the net force on an object is zero, the object is in translational equilibrium (either at rest or moving at constant velocity, meaning acceleration is zero). Students must apply this law to identify equilibrium conditions and recognize that constant velocity requires zero net force. Connect to free-body diagrams, Newton’s second law, and reference frames. AP exam note: conceptual questions often test whether students recognize that motion at constant velocity requires no net force. Vocabulary: inertia, net force, equilibrium, constant velocity, mass, Newton’s first law, translational equilibrium."
+    },
+    {
+      "skill": "Newton’s Second Law",
+      "ref": "Unit 2, Topic 2.5",
+      "prompt": "This topic covers Newton’s Second Law for AP Physics 1 students (CED: Unit 2, Topic 2.5). Students should understand that the net force on an object equals its mass times acceleration: F_net = ma (vector equation). The acceleration is in the same direction as the net force. For multi-force problems, resolve forces into components along perpendicular axes, apply F_net = ma independently along each axis. On inclined planes, choose axes parallel and perpendicular to the surface. For connected objects (Atwood machines, objects on surfaces with pulleys), the system can be treated as a whole or each object separately. Students must set up and solve equations of motion for various configurations. Connect to kinematics, work-energy theorem, and circular motion. AP exam note: Newton’s second law problems are the most common quantitative problems on the exam. Vocabulary: net force, mass, acceleration, Newton’s second law, component, free-body diagram, system, Atwood machine."
+    },
+    {
+      "skill": "Gravitational Force",
+      "ref": "Unit 2, Topic 2.6",
+      "prompt": "This topic covers gravitational force for AP Physics 1 students (CED: Unit 2, Topic 2.6). Students should understand that every object with mass exerts a gravitational attraction on every other mass. Near Earth's surface, gravitational force (weight) is Fg = mg, where g is approximately 9.8 m/s^2 downward. Newton's law of universal gravitation states F = Gm1m2/r^2 for point masses or spherical objects, where G is the universal gravitational constant. Gravitational field strength g = F/m = GM/r^2 varies with distance from the center of a massive body. On a planetary surface, g depends on the planet's mass and radius. Students must calculate gravitational forces and field strengths and compare them for different scenarios. Connect to orbits, weight vs. mass, and free fall. AP exam note: universal gravitation calculations and conceptual questions about weight are tested. Vocabulary: gravitational force, weight, Newton's law of universal gravitation, gravitational field, g, gravitational constant G."
+    },
+    {
+      "skill": "Kinetic and Static Friction",
+      "ref": "Unit 2, Topic 2.7",
+      "prompt": "This topic covers kinetic and static friction for AP Physics 1 students (CED: Unit 2, Topic 2.7). Students should understand that friction is a contact force that opposes relative motion or the tendency of relative motion between surfaces. Static friction (fs) prevents motion and can vary from zero up to a maximum value: fs_max = mu_s * N, where mu_s is the coefficient of static friction and N is the normal force. Kinetic friction (fk) acts during sliding: fk = mu_k * N, and is generally constant and less than maximum static friction. Friction depends on the nature of surfaces and normal force, not on surface area or speed. Students must calculate friction forces and incorporate them into Newton's second law problems. Connect to inclined planes, acceleration, and energy dissipation. AP exam note: friction appears in many dynamics and energy problems. Vocabulary: static friction, kinetic friction, coefficient of friction, normal force, sliding, contact force, mu."
+    },
+    {
+      "skill": "Spring Forces",
+      "ref": "Unit 2, Topic 2.8",
+      "prompt": "This topic covers spring forces for AP Physics 1 students (CED: Unit 2, Topic 2.8). Students should understand Hooke's law: the force exerted by a spring is proportional to its displacement from equilibrium and directed toward equilibrium: Fs = -kx, where k is the spring constant (N/m) and x is the displacement from the natural length. The negative sign indicates a restoring force. Stiffer springs have larger k values. Springs store elastic potential energy: PEs = (1/2)kx^2. The spring constant can be determined from the slope of a force vs. displacement graph. Students must calculate spring forces, determine k from data, and apply spring forces in Newton's second law and energy problems. Connect to simple harmonic motion, energy conservation, and oscillations. AP exam note: spring force and energy calculations appear in dynamics and energy units. Vocabulary: Hooke's law, spring constant, restoring force, displacement, elastic, spring force, equilibrium position."
+    },
+    {
+      "skill": "Circular Motion",
+      "ref": "Unit 2, Topic 2.9",
+      "prompt": "This topic covers circular motion for AP Physics 1 students (CED: Unit 2, Topic 2.9). Students should understand that an object moving in a circle at constant speed has centripetal acceleration directed toward the center: ac = v^2/r = omega^2*r, where v is tangential speed and r is radius. This requires a net centripetal force: Fc = mac = mv^2/r. Centripetal force is not a new type of force but the net inward force provided by gravity, tension, friction, normal force, or combinations. Period T = 2*pi*r/v. Students must identify the force(s) providing centripetal acceleration and apply Newton's second law in the radial direction. Common scenarios include cars on curves, objects on turntables, and vertical circles. Connect to universal gravitation, satellite orbits, and rotational motion. AP exam note: identifying what provides centripetal force is critical. Vocabulary: centripetal acceleration, centripetal force, uniform circular motion, radius, period, tangential speed, radial direction."
+    }
+  ]
+}

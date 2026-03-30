@@ -1,0 +1,336 @@
+{
+  "grade": "High School - Precalculus",
+  "subject": "Mathematics - Algebraic Reasoning",
+  "skills": [
+    {
+      "skill": "A: evaluate finite sums and geometric series, when possible, written in sigma notation",
+      "teks": "P.5(A)",
+      "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(A)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+    },
+    {
+      "skill": "A: Identify arithmetic and geometric series",
+      "teks": "P.5(A)",
+      "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(A)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+    },
+    {
+      "skill": "A: Find the sum of a finite geometric series",
+      "teks": "P.5(A)",
+      "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(A)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+    },
+    {
+      "skill": "B: represent arithmetic sequences and geometric sequences using recursive formulas",
+      "teks": "P.5(B)",
+      "prompt": "This topic covers writing explicit formulas for arithmetic sequences for Precalculus students (TEKS P.5(B)). An arithmetic sequence has constant common difference d. Formula: a_n = a_1 + (n-1)d. Find d by subtracting consecutive terms. Example: 3, 7, 11, 15... has d=4, a_1=3, so a_n = 4n-1. An arithmetic sequence is a linear function of n. Vocabulary: arithmetic sequence, common difference, explicit formula, linear. Common errors: using ratio instead of difference, not simplifying, and confusing with recursive formula."
+    },
+    {
+      "skill": "B: Find terms of a recursive sequence",
+      "teks": "P.5(B)",
+      "prompt": "This topic covers finding terms of recursive sequences for Precalculus students (TEKS P.5(B)). Given initial term(s) and recursive rule, compute terms sequentially. Each term depends on previous term(s). Key vocabulary: recursive sequence, initial term, recursive rule, iteration. Common errors: wrong initial term, not computing all intermediate terms, and formula application errors."
+    },
+    {
+      "skill": "B: Find a recursive formula",
+      "teks": "P.5(B)",
+      "prompt": "This topic covers finding recursive formulas from sequences for Precalculus students (TEKS P.5(B)). Analyze how each term relates to the previous. Arithmetic: a_n=a_(n-1)+d. Geometric: a_n=r*a_(n-1). Specify a_1. Key vocabulary: recursive formula, common difference, common ratio, initial term. Common errors: not specifying initial term, wrong pattern identification."
+    },
+    {
+      "skill": "B: Convert an explicit formula to a recursive formula",
+      "teks": "P.5(B)",
+      "prompt": "This topic covers converting explicit formulas to recursive formulas for Precalculus students (TEKS P.5(B)). From explicit a_n=f(n), determine how a_n relates to a_(n-1). For arithmetic a_n=a_1+(n-1)d: recursive is a_n=a_(n-1)+d. For geometric a_n=a_1*r^(n-1): recursive is a_n=r*a_(n-1). Key vocabulary: explicit formula, recursive formula, convert. Common errors: incorrect conversion and forgetting the initial term."
+    },
+    {
+      "skill": "C: calculate the nth term and the nth partial sum of an arithmetic series in mathematical and real-world problems",
+      "teks": "P.5(C)",
+      "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(C)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+    },
+    {
+      "skill": "C: Find terms of a sequence",
+      "teks": "P.5(C)",
+      "prompt": "This topic covers finding terms of arithmetic sequences for Precalculus students (TEKS P.5(C)). Use explicit formula a_n=a_1+(n-1)d to find any term directly. Students find specific terms and determine term numbers for given values. Key vocabulary: arithmetic sequence, common difference, explicit formula, nth term. Common errors: off-by-one errors with n, and confusing arithmetic with geometric."
+    },
+    {
+      "skill": "C: Find the sum of an arithmetic series",
+      "teks": "P.5(C)",
+      "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(C)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+    },
+    {
+      "skill": "C: Introduction to partial sums",
+      "teks": "P.5(C)",
+      "prompt": "This topic covers introduction to partial sums for Precalculus students (TEKS P.5(C)). A partial sum is the sum of the first n terms of a sequence. Students compute partial sums by direct addition or using formulas. Key vocabulary includes: partial sum, sequence, series, sum, formula. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "C: Partial sums of arithmetic series",
+      "teks": "P.5(C)",
+      "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(C)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+    },
+    {
+      "skill": "C: Partial sums: mixed review",
+      "teks": "P.5(C)",
+      "prompt": "This topic covers partial sums (mixed review) for Precalculus students (TEKS P.5(C)). Students distinguish between arithmetic and geometric series and apply the appropriate partial sum formula for each type. Key vocabulary includes: partial sum, arithmetic, geometric, distinguish, formula. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "D: represent arithmetic series and geometric series using sigma notation",
+      "teks": "P.5(D)",
+      "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(D)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+    },
+    {
+      "skill": "D: Introduction to sigma notation",
+      "teks": "P.5(D)",
+      "prompt": "This topic covers introduction to sigma notation for Precalculus students (TEKS P.5(D)). Sigma notation compactly represents sums. Components: summation symbol, index variable, lower/upper limits, and expression. Convert between expanded and sigma forms. Key vocabulary includes: sigma notation, summation, index, lower limit, upper limit. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "E: calculate the nth term of a geometric series, the nth partial sum of a geometric series, and sum of an infinite geometric series when it exists",
+      "teks": "P.5(E)",
+      "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+    },
+    {
+      "skill": "E: Find terms of a sequence",
+      "teks": "P.5(E)",
+      "prompt": "This topic covers finding terms of geometric sequences for Precalculus students (TEKS P.5(E)). Use explicit formula a_n=a_1*r^(n-1) to find any term. Students find specific terms and identify the common ratio. Key vocabulary: geometric sequence, common ratio, explicit formula, nth term. Common errors: using n instead of n-1 in the exponent, and confusing with arithmetic sequences."
+    },
+    {
+      "skill": "E: Partial sums of geometric series",
+      "teks": "P.5(E)",
+      "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+    },
+    {
+      "skill": "E: Partial sums: mixed review",
+      "teks": "P.5(E)",
+      "prompt": "This topic covers partial sums (mixed review) for Precalculus students (TEKS P.5(E)). Students distinguish between arithmetic and geometric series and apply the appropriate partial sum formula for each type. Key vocabulary includes: partial sum, arithmetic, geometric, distinguish, formula. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "E: Convergent and divergent geometric series",
+      "teks": "P.5(E)",
+      "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+    },
+    {
+      "skill": "E: Find the value of an infinite geometric series",
+      "teks": "P.5(E)",
+      "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+    },
+    {
+      "skill": "E: Write a repeating decimal as a fraction",
+      "teks": "P.5(E)",
+      "prompt": "This topic covers writing repeating decimals as fractions using infinite geometric series for Precalculus students (TEKS P.5(E)). Express the repeating part as a geometric series, apply S=a_1/(1-r). Example: 0.333...=3/10/(1-1/10)=1/3. Key vocabulary: repeating decimal, geometric series, convergent, fraction. Common errors: wrong a_1 or r, and not simplifying the fraction."
+    },
+    {
+      "skill": "F: apply the Binomial Theorem for the expansion of (a + b)^n in powers of a and b for a positive integer n, where a and b are any numbers",
+      "teks": "P.5(F)",
+      "prompt": "This topic covers apply the binomial theorem for the expansion of (a + b)^n in powers of a and b for a positive integer n, where a and b are any numbers for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "F: Pascal's triangle",
+      "teks": "P.5(F)",
+      "prompt": "This topic covers pascal's triangle for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "F: Pascal's triangle and the Binomial Theorem",
+      "teks": "P.5(F)",
+      "prompt": "This topic covers pascal's triangle and the binomial theorem for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "F: Binomial Theorem I",
+      "teks": "P.5(F)",
+      "prompt": "This topic covers binomial theorem i for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "F: Binomial Theorem II",
+      "teks": "P.5(F)",
+      "prompt": "This topic covers binomial theorem ii for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: use the properties of logarithms to evaluate or transform logarithmic expressions",
+      "teks": "P.5(G)",
+      "prompt": "This topic covers using properties of logarithms for Precalculus students (TEKS P.5(G)). Key properties: product rule log_b(MN) = log_b(M) + log_b(N), quotient rule log_b(M/N) = log_b(M) - log_b(N), power rule log_b(M^p) = p*log_b(M), change of base log_b(x) = log(x)/log(b). Students use properties to expand, condense, and evaluate logarithmic expressions. Vocabulary: product property, quotient property, power property, change of base, evaluate. Common errors: applying properties incorrectly (especially with addition vs multiplication), and confusing log rules."
+    },
+    {
+      "skill": "G: Evaluate logarithms",
+      "teks": "P.5(G)",
+      "prompt": "This topic covers evaluating logarithmic expressions for Precalculus students (TEKS P.5(G)). Students evaluate log_b(x) by asking 'b to what power equals x?' Key values to know: log_b(1) = 0, log_b(b) = 1, log_b(b^n) = n. For common log: log(10) = 1, log(100) = 2. For natural log: ln(e) = 1, ln(1) = 0. Students use change of base formula for calculator evaluation: log_b(x) = ln(x)/ln(b). Vocabulary: logarithm, evaluate, base, common logarithm, natural logarithm. Common errors: confusing the base, not recognizing perfect powers, and calculator entry errors."
+    },
+    {
+      "skill": "G: Change of base formula",
+      "teks": "P.5(G)",
+      "prompt": "This topic covers the change of base formula for Precalculus students (TEKS P.5(G)). log_b(x)=log(x)/log(b)=ln(x)/ln(b). Essential for calculator evaluation of non-standard bases. Students apply to simplify and compute. Key vocabulary: change of base, common logarithm, natural logarithm, evaluate. Common errors: inverting the formula, and not recognizing when to apply it."
+    },
+    {
+      "skill": "G: Product property of logarithms",
+      "teks": "P.5(G)",
+      "prompt": "This topic covers the product property of logarithms for Precalculus students (TEKS P.5(G)). The product property states log_b(MN) = log_b(M) + log_b(N). This allows expanding a log of a product into a sum of logs, or condensing a sum of logs into a log of a product. Students apply this to simplify expressions and solve equations. Vocabulary: product property, expand, condense, logarithm. Important: this only works for multiplication inside the log, not addition. Common errors: applying to log(M+N) instead of log(MN), and confusing with other log properties."
+    },
+    {
+      "skill": "G: Quotient property of logarithms",
+      "teks": "P.5(G)",
+      "prompt": "This topic covers the quotient property of logarithms for Precalculus students (TEKS P.5(G)). The quotient property states log_b(M/N) = log_b(M) - log_b(N). Students use this to expand logs of quotients into differences or condense differences into single logs. Combined with other properties, this allows complex simplification. Vocabulary: quotient property, expand, condense, logarithm, difference. Common errors: applying to log(M-N) instead of log(M/N), subtracting in wrong order, and confusing with the product property."
+    },
+    {
+      "skill": "G: Power property of logarithms",
+      "teks": "P.5(G)",
+      "prompt": "This topic covers the power property of logarithms for Precalculus students (TEKS P.5(G)). The power property states log_b(M^p) = p*log_b(M). The exponent becomes a coefficient in front of the logarithm. This property is used to expand, condense, and solve logarithmic and exponential equations. Vocabulary: power property, exponent, coefficient, expand, condense. This is the key property used when solving exponential equations by taking logarithms. Common errors: applying the property in the wrong direction, and confusing with the product property."
+    },
+    {
+      "skill": "G: Evaluate logarithms using properties",
+      "teks": "P.5(G)",
+      "prompt": "This topic covers using properties of logarithms for Precalculus students (TEKS P.5(G)). Key properties: product rule log_b(MN) = log_b(M) + log_b(N), quotient rule log_b(M/N) = log_b(M) - log_b(N), power rule log_b(M^p) = p*log_b(M), change of base log_b(x) = log(x)/log(b). Students use properties to expand, condense, and evaluate logarithmic expressions. Vocabulary: product property, quotient property, power property, change of base, evaluate. Common errors: applying properties incorrectly (especially with addition vs multiplication), and confusing log rules."
+    },
+    {
+      "skill": "H: generate and solve logarithmic equations in mathematical and real-world problems",
+      "teks": "P.5(H)",
+      "prompt": "This topic covers solving logarithmic equations for Precalculus students (TEKS P.5(H)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+    },
+    {
+      "skill": "H: Solve logarithmic equations with one logarithm",
+      "teks": "P.5(H)",
+      "prompt": "This topic covers solving logarithmic equations for Precalculus students (TEKS P.5(H)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+    },
+    {
+      "skill": "H: Solve logarithmic equations with multiple logarithms",
+      "teks": "P.5(H)",
+      "prompt": "This topic covers solving logarithmic equations for Precalculus students (TEKS P.5(H)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+    },
+    {
+      "skill": "I: generate and solve exponential equations in mathematical and real-world problems",
+      "teks": "P.5(I)",
+      "prompt": "This topic covers generating and solving exponential equations in mathematical and real-world contexts for Precalculus students (TEKS P.5(I)). Students write exponential models from scenarios and solve using rewriting bases or logarithms. Contexts: growth, decay, finance. Key vocabulary: exponential equation, model, growth, decay, logarithm. Common errors: wrong model setup, and not using logarithms when needed."
+    },
+    {
+      "skill": "I: Solve exponential equations by rewriting the base",
+      "teks": "P.5(I)",
+      "prompt": "This topic covers solving exponential equations by rewriting bases for Precalculus students (TEKS P.5(I)). Express both sides with the same base, then set exponents equal. Example: 4^x=32 gives (2^2)^x=2^5, so 2x=5, x=5/2. Key vocabulary: common base, exponent equality, rewrite. Common errors: not finding a common base, and exponent arithmetic errors."
+    },
+    {
+      "skill": "I: Solve exponential equations using logarithms",
+      "teks": "P.5(I)",
+      "prompt": "This topic covers solving exponential equations using logarithms for Precalculus students (TEKS P.5(I)). When bases cannot be made equal, take log or ln of both sides. Apply power rule: log(a^x)=x*log(a). Solve for x. Key vocabulary: logarithm, power rule, solve, exponential equation. Common errors: not isolating the exponential first, and forgetting the power rule."
+    },
+    {
+      "skill": "I: Exponential growth and decay: word problems",
+      "teks": "P.5(I)",
+      "prompt": "This topic covers exponential growth and decay word problems for Precalculus students (TEKS P.5(I)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+    },
+    {
+      "skill": "I: Compound interest: word problems",
+      "teks": "P.5(I)",
+      "prompt": "This topic covers compound interest word problems for Precalculus students (TEKS P.5(I)). Use A=P(1+r/n)^(nt) or A=Pe^(rt). Solve for any variable using logarithms when needed. Key vocabulary: compound interest, principal, rate, compounding, logarithm. Common errors: unit mismatches, wrong n, and not using logs to solve for t."
+    },
+    {
+      "skill": "J: solve polynomial equations with real coefficients by applying a variety of techniques in mathematical and real-world problems",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers solving polynomial equations using varied techniques for Precalculus students (TEKS P.5(J)). Methods: factoring, Rational Root Theorem, synthetic division, quadratic formula (for reducible cases), sum/difference of cubes, and quadratic patterns. Key vocabulary: polynomial equation, Rational Root Theorem, Factor Theorem, synthetic division. Common errors: not trying all possible rational roots, and incomplete factoring."
+    },
+    {
+      "skill": "J: Solve quadratic equations: word problems",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers solving quadratic equations in word problem contexts for Precalculus students (TEKS P.5(J)). Common contexts: projectile motion (h = -16t^2 + v0t + h0), area problems, revenue optimization, and falling objects. Steps: define variables, write the quadratic equation, solve using any method, interpret solutions in context (reject negative time, unreasonable dimensions). Vocabulary: projectile, maximum height, time of flight, area, optimization. Common errors: not rejecting extraneous solutions, setting up equations incorrectly, and misinterpreting context."
+    },
+    {
+      "skill": "J: Divide polynomials using long division",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers dividing polynomials using long division for Precalculus students (TEKS P.5(J)). Process mirrors numerical long division: divide leading terms, multiply divisor by result, subtract, bring down next term, repeat until remainder has degree less than divisor. Include placeholder terms (0x^n) for missing degrees. Result: quotient + remainder/divisor. Vocabulary: dividend, divisor, quotient, remainder, leading term. Common errors: forgetting placeholders, subtraction errors, and stopping too early."
+    },
+    {
+      "skill": "J: Divide polynomials using synthetic division",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers dividing polynomials using synthetic division for Precalculus students (TEKS P.5(J)). A shortcut for dividing by (x-c). Setup: write c on left, coefficients across top (include 0 for missing terms). Process: bring down first coefficient, multiply by c, add to next, repeat. Last number is remainder; others are quotient coefficients. By the Factor Theorem, remainder 0 means (x-c) is a factor. Vocabulary: synthetic division, coefficient, remainder, Factor Theorem. Common errors: using wrong sign for c, missing placeholder coefficients, and arithmetic errors."
+    },
+    {
+      "skill": "J: Evaluate polynomials using synthetic division",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers evaluating polynomials using synthetic division (Remainder Theorem) for Precalculus students (TEKS P.5(J)). By the Remainder Theorem, f(c) equals the remainder when dividing f(x) by (x-c). Synthetic division efficiently computes this. Key vocabulary: synthetic division, Remainder Theorem, evaluate, polynomial. Common errors: wrong sign for c, missing placeholder coefficients, and arithmetic errors."
+    },
+    {
+      "skill": "J: Solve equations with sums and differences of cubes",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers solving equations involving sums and differences of cubes for Precalculus students (TEKS P.5(J)). Factor using a^3+b^3=(a+b)(a^2-ab+b^2) or a^3-b^3=(a-b)(a^2+ab+b^2), then solve each factor. The trinomial factor may be irreducible or yield complex roots. Key vocabulary: sum of cubes, difference of cubes, factor, solve. Common errors: sign errors in formulas, and not solving all factors."
+    },
+    {
+      "skill": "J: Solve equations using a quadratic pattern",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers solving equations using a quadratic pattern (u-substitution) for Precalculus students (TEKS P.5(J)). Recognize degree-4 or degree-6 equations as quadratics in x^2 or x^3. Substitute u, solve the quadratic in u, substitute back, solve for x. Key vocabulary: quadratic pattern, u-substitution, degree 4, solve. Common errors: not recognizing the pattern, forgetting to substitute back, and missing solutions."
+    },
+    {
+      "skill": "J: Find the roots of factored polynomials",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers factoring polynomials for Precalculus students (TEKS P.5(J)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+    },
+    {
+      "skill": "J: Rational root theorem",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers rational root theorem for Precalculus students (TEKS P.5(J)). Rational Root Theorem: possible rational roots of a polynomial with integer coefficients are +/-p/q where p divides the constant term and q divides the leading coefficient. Key vocabulary includes: Rational Root Theorem, possible roots, polynomial, leading coefficient, constant term. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "J: Complex conjugate theorem",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers complex conjugate theorem for Precalculus students (TEKS P.5(J)). Complex Conjugate Theorem: if a+bi is a root of a polynomial with real coefficients, then a-bi is also a root. Complex roots come in conjugate pairs. Key vocabulary includes: Complex Conjugate Theorem, conjugate pair, polynomial, real coefficients. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "J: Conjugate root theorems",
+      "teks": "P.5(J)",
+      "prompt": "This topic covers conjugate root theorems for Precalculus students (TEKS P.5(J)). Complex Conjugate Theorem: if a+bi is a root of a polynomial with real coefficients, then a-bi is also a root. Complex roots come in conjugate pairs. Key vocabulary includes: Complex Conjugate Theorem, conjugate pair, polynomial, real coefficients. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "K: solve polynomial inequalities with real coefficients by applying a variety of techniques and write the solution set of the polynomial inequality in interval notation in mathematical and real-world problems",
+      "teks": "P.5(K)",
+      "prompt": "This topic covers solve polynomial inequalities with real coefficients by applying a variety of techniques and write the solution set of the polynomial inequality in interval notation in mathematical and real-world problems for Precalculus students (TEKS P.5(K)). Solve polynomial inequalities by finding zeros, testing intervals between zeros, and expressing the solution in interval notation. Include/exclude endpoints based on strict vs non-strict inequality. Key vocabulary includes: critical values, interval notation, polynomial inequality, sign chart, zeros. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "K: Graph solutions to higher-degree inequalities",
+      "teks": "P.5(K)",
+      "prompt": "This topic covers graph solutions to higher-degree inequalities for Precalculus students (TEKS P.5(K)). Solve polynomial inequalities by finding zeros, testing intervals between zeros, and expressing the solution in interval notation. Include/exclude endpoints based on strict vs non-strict inequality. Key vocabulary includes: critical values, interval notation, polynomial inequality, sign chart, zeros. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "K: Solve higher-degree inequalities",
+      "teks": "P.5(K)",
+      "prompt": "This topic covers solve higher-degree inequalities for Precalculus students (TEKS P.5(K)). Solve polynomial inequalities by finding zeros, testing intervals between zeros, and expressing the solution in interval notation. Include/exclude endpoints based on strict vs non-strict inequality. Key vocabulary includes: critical values, interval notation, polynomial inequality, sign chart, zeros. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "L: solve rational inequalities with real coefficients by applying a variety of techniques and write the solution set of the rational inequality in interval notation in mathematical and real-world problems",
+      "teks": "P.5(L)",
+      "prompt": "This topic covers solve rational inequalities with real coefficients by applying a variety of techniques and write the solution set of the rational inequality in interval notation in mathematical and real-world problems for Precalculus students (TEKS P.5(L)). Solve rational inequalities by finding critical values (zeros and undefined points), creating a sign chart, and testing intervals. Express solutions in interval notation, excluding undefined points. Key vocabulary includes: critical values, excluded values, interval notation, rational inequality, sign chart. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "M: use trigonometric identities such as reciprocal, quotient, Pythagorean, cofunctions, even/odd, and sum and difference identities for cosine and sine to simplify trigonometric expressions",
+      "teks": "P.5(M)",
+      "prompt": "This topic covers use trigonometric identities such as reciprocal, quotient, pythagorean, cofunctions, even/odd, and sum and difference identities for cosine and sine to simplify trigonometric expressions for Precalculus students (TEKS P.5(M)). Even functions satisfy f(-x) = f(x) and are symmetric about the y-axis. Odd functions satisfy f(-x) = -f(x) and are symmetric about the origin. Key identities: sin^2+cos^2=1, tan=sin/cos, sum formulas sin(A+B) = sin(A)cos(B)+cos(A)sin(B). Students use identities to simplify expressions and solve equations. Key vocabulary includes: Pythagorean identity, even function, identity, odd function, origin, quotient, reciprocal, sum/difference, symmetry, y-axis. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "M: Complementary angle identities",
+      "teks": "P.5(M)",
+      "prompt": "This topic covers complementary angle (cofunction) identities for Precalculus students (TEKS P.5(M)). sin(90-x)=cos(x), cos(90-x)=sin(x), tan(90-x)=cot(x), and their reciprocals. In radians: sin(pi/2-x)=cos(x). Cofunctions of complementary angles are equal. Key vocabulary: cofunction, complementary, sine, cosine, tangent, cotangent. Common errors: confusing which functions are cofunctions, and forgetting to convert degrees/radians."
+    },
+    {
+      "skill": "M: Symmetry and periodicity of trigonometric functions",
+      "teks": "P.5(M)",
+      "prompt": "This topic covers symmetry and periodicity of trigonometric functions for Precalculus students (TEKS P.5(M)). Sine is odd: sin(-x)=-sin(x). Cosine is even: cos(-x)=cos(x). Sin and cos have period 2pi; tan has period pi. Students use these properties to simplify expressions and evaluate functions. Key vocabulary: symmetry, periodicity, even, odd, period, 2pi, pi. Common errors: confusing even/odd properties, and not recognizing periodicity."
+    },
+    {
+      "skill": "M: Find trigonometric ratios using a Pythagorean or reciprocal identity",
+      "teks": "P.5(M)",
+      "prompt": "This topic covers find trigonometric ratios using a pythagorean or reciprocal identity for Precalculus students (TEKS P.5(M)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Reciprocal identities: csc(x) = 1/sin(x), sec(x) = 1/cos(x), cot(x) = 1/tan(x). Used to rewrite and simplify trigonometric expressions. Pythagorean identities: sin^2(x) + cos^2(x) = 1, 1 + tan^2(x) = sec^2(x), 1 + cot^2(x) = csc^2(x). Derive others from the fundamental identity. Key vocabulary includes: Pythagorean identity, sin^2+cos^2=1, derive, simplify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "M: Find trigonometric ratios using multiple identities",
+      "teks": "P.5(M)",
+      "prompt": "This topic covers find trigonometric ratios using multiple identities for Precalculus students (TEKS P.5(M)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Key vocabulary includes: sine, cosine, tangent, opposite, adjacent, hypotenuse, SOHCAHTOA. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "M: Trigonometric sum and difference identities",
+      "teks": "P.5(M)",
+      "prompt": "This topic covers trigonometric sum and difference identities for Precalculus students (TEKS P.5(M)). sin(A+B)=sin(A)cos(B)+cos(A)sin(B), cos(A+B)=cos(A)cos(B)-sin(A)sin(B), tan(A+B)=(tan(A)+tan(B))/(1-tan(A)tan(B)). Used to find exact values and simplify. Key vocabulary: sum identity, difference identity, exact value, simplify. Common errors: sign errors in formulas, and mixing up sine and cosine versions."
+    },
+    {
+      "skill": "N: generate and solve trigonometric equations in mathematical and real-world problems",
+      "teks": "P.5(N)",
+      "prompt": "This topic covers generate and solve trigonometric equations in mathematical and real-world problems for Precalculus students (TEKS P.5(N)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "N: Solve trigonometric equations",
+      "teks": "P.5(N)",
+      "prompt": "This topic covers solve trigonometric equations for Precalculus students (TEKS P.5(N)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "N: Solve trigonometric equations using sum and difference identities",
+      "teks": "P.5(N)",
+      "prompt": "This topic covers solve trigonometric equations using sum and difference identities for Precalculus students (TEKS P.5(N)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Biology",
+  "subject": "Heredity",
+  "skills": [
+    {
+      "skill": "IST 5.1 Meiosis",
+      "ref": "IST-5.A (Unit 5, Topic 5.1)",
+      "prompt": "This topic covers meiosis for AP Biology students (CED: IST-5.A, Unit 5, Topic 5.1). Students should understand that meiosis is a type of cell division that produces four genetically unique haploid gametes from one diploid parent cell through two rounds of division (meiosis I and II). Meiosis I separates homologous chromosomes (reductional division), while meiosis II separates sister chromatids (equational division, similar to mitosis). Key events include synapsis and crossing over during prophase I, and independent assortment during metaphase I. Students must compare meiosis to mitosis, track chromosome number changes, and explain how meiosis produces genetic variation. Connect to sexual reproduction, Mendelian genetics, and evolution. AP exam note: questions frequently compare mitosis and meiosis or ask about ploidy changes. Vocabulary: meiosis, homologous chromosomes, synapsis, crossing over, independent assortment, haploid, diploid, gamete, tetrad, chiasma."
+    },
+    {
+      "skill": "IST 5.2 Meiosis and Genetic Diversity",
+      "ref": "IST-5.B (Unit 5, Topic 5.2)",
+      "prompt": "This topic covers meiosis and genetic diversity for AP Biology students (CED: IST-5.B, Unit 5, Topic 5.2). Students should understand three mechanisms by which meiosis generates genetic variation: crossing over (recombination during prophase I exchanges segments between homologs), independent assortment (random orientation of homologous pairs at metaphase I produces 2^n possible gamete combinations), and random fertilization (any sperm can fuse with any egg). These mechanisms ensure that offspring are genetically unique, providing raw material for natural selection. Students must calculate the number of possible gamete combinations and explain how each mechanism contributes to variation. Connect to evolution, population genetics, and adaptation. AP exam note: mathematical reasoning about genetic diversity is expected. Vocabulary: crossing over, recombination, independent assortment, random fertilization, genetic variation, chiasma, recombinant chromosome."
+    },
+    {
+      "skill": "EVO 5.3 Mendelian Genetics",
+      "ref": "EVO-5.A (Unit 5, Topic 5.3)",
+      "prompt": "This topic covers Mendelian genetics for AP Biology students (CED: EVO-5.A, Unit 5, Topic 5.3). Students should understand Mendel's laws: the Law of Segregation (two alleles for each gene separate during gamete formation) and the Law of Independent Assortment (genes on different chromosomes assort independently). Key concepts include dominant and recessive alleles, homozygous and heterozygous genotypes, phenotype vs. genotype, and Punnett squares for predicting offspring ratios. Monohybrid crosses yield 3:1 phenotypic ratios; dihybrid crosses yield 9:3:3:1. Test crosses determine unknown genotypes. Students must solve genetics problems and use probability rules (multiplication and addition). Connect to meiosis, chromosomal basis of inheritance, and deviations from Mendelian patterns. AP exam note: genetics problem-solving is heavily tested. Vocabulary: allele, genotype, phenotype, dominant, recessive, homozygous, heterozygous, Punnett square, test cross, monohybrid, dihybrid."
+    },
+    {
+      "skill": "IST 5.4 Non-Mendelian Genetics",
+      "ref": "IST-5.C (Unit 5, Topic 5.4)",
+      "prompt": "This topic covers non-Mendelian genetics for AP Biology students (CED: IST-5.C, Unit 5, Topic 5.4). Students should understand inheritance patterns that deviate from simple Mendelian ratios: incomplete dominance (blended phenotype, 1:2:1 ratio), codominance (both alleles expressed, e.g., AB blood type), multiple alleles (e.g., ABO blood groups), polygenic inheritance (multiple genes affect one trait, producing continuous variation), pleiotropy (one gene affects multiple traits, e.g., sickle cell), and epistasis (one gene masks another). Sex-linked inheritance involves genes on X or Y chromosomes. Students must solve problems involving these patterns and recognize them from pedigrees and data. Connect to genetic diversity, evolution, and human genetic disorders. AP exam note: pedigree analysis and non-Mendelian crosses are common. Vocabulary: incomplete dominance, codominance, polygenic, pleiotropy, epistasis, sex-linked, X-linked, pedigree, carrier."
+    },
+    {
+      "skill": "SYI 5.5 Environmental Effects on Phenotype",
+      "ref": "SYI-5.A (Unit 5, Topic 5.5)",
+      "prompt": "This topic covers environmental effects on phenotype for AP Biology students (CED: SYI-5.A, Unit 5, Topic 5.5). Students should understand that phenotype results from the interaction between genotype and environment. Environmental factors such as temperature, nutrition, light, and chemical exposure can influence gene expression and phenotypic outcomes. Examples include temperature-sensitive coat color in Siamese cats, the effect of soil pH on hydrangea flower color, and height variation due to nutrition. Phenotypic plasticity describes an organism's ability to change phenotype in response to environment. Identical twins raised in different environments may show phenotypic differences despite identical genotypes. Students must distinguish genetic from environmental influences on phenotype. Connect to epigenetics, norms of reaction, and polygenic traits. AP exam note: questions may present twin studies or environmental manipulation data. Vocabulary: phenotypic plasticity, norm of reaction, epigenetics, multifactorial, gene-environment interaction."
+    },
+    {
+      "skill": "SYI 5.6 Chromosomal Inheritance",
+      "ref": "SYI-5.B (Unit 5, Topic 5.6)",
+      "prompt": "This topic covers chromosomal inheritance for AP Biology students (CED: SYI-5.B, Unit 5, Topic 5.6). Students should understand that genes located on the same chromosome tend to be inherited together (linked genes), unless separated by crossing over. Recombination frequency between linked genes can be used to map relative gene positions on chromosomes. Chromosomal abnormalities include nondisjunction (producing aneuploid gametes with extra or missing chromosomes, e.g., trisomy 21), deletions, duplications, inversions, and translocations. Sex determination in humans depends on X and Y chromosomes. Students must solve linkage mapping problems and predict outcomes of nondisjunction. Connect to meiotic errors, genetic disorders, and karyotype analysis. AP exam note: questions may involve interpreting karyotypes or calculating recombination frequencies. Vocabulary: linked genes, recombination frequency, nondisjunction, aneuploidy, trisomy, monosomy, deletion, translocation, karyotype."
+    }
+  ]
+}

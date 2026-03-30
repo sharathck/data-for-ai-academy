@@ -1,0 +1,66 @@
+{
+  "grade": "Grade 8",
+  "subject": "Science - Organisms and environments",
+  "skills": [
+    {
+      "skill": "Ecosystem dependencies: Investigate how organisms and populations in an ecosystem depend on and may compete for biotic factors such as food and abiotic factors such as quantity of light, water, range of temperatures, or soil composition",
+      "teks": "8.12(A)",
+      "teks_description": "Explain how disruptions impact energy transfer in food webs",
+      "prompt": "This topic covers ecosystem dependencies and competition for Grade 8 science students (TEKS 8.12(A)). Students investigate how organisms depend on and compete for biotic and abiotic factors. Key concepts include: biotic factors (food, mates, space), abiotic factors (light, water, temperature, soil), competition occurs when resources are limited, and population sizes depend on resource availability. Vocabulary: ecosystem, biotic, abiotic, competition, resource, population, depend, limit, carrying capacity. Common misconceptions: thinking only animals compete, ignoring abiotic factors, and not understanding carrying capacity. Practice should include ecosystem analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Ecosystem dependencies: Use food chains to predict changes in populations",
+      "teks": "8.12(A)",
+      "teks_description": "Explain how disruptions impact energy transfer in food webs",
+      "prompt": "This topic covers using food chains to predict population changes for Grade 8 science students (TEKS 8.12(A)). Students analyze how changes in one population affect others in a food chain. Key concepts include: removing a predator increases prey population, removing prey decreases predator population, producer changes affect all consumers, and cascading effects through the food chain. Vocabulary: food chain, population, predator, prey, producer, consumer, increase, decrease, cascade, disruption. Common misconceptions: thinking changes only affect adjacent levels, not understanding indirect effects, and assuming populations respond immediately. Practice should include population prediction scenarios appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Ecosystem dependencies: Classify symbiotic relationships",
+      "teks": "8.12(C)",
+      "teks_description": "Describe how biodiversity contributes to ecosystem stability",
+      "prompt": "This topic covers classifying symbiotic relationships for Grade 8 science students (TEKS 8.12(C)). Students identify and distinguish between three types of symbiosis. Key types: mutualism (both species benefit, e.g., bees and flowers), commensalism (one benefits, other unaffected, e.g., barnacles on whales), parasitism (one benefits, other harmed, e.g., ticks on dogs). Key concepts include: symbiosis means living together closely, each organism plays a specific role, and these relationships affect population dynamics. Vocabulary: symbiosis, mutualism, commensalism, parasitism, host, parasite, benefit, harm, relationship. Common misconceptions: confusing the three types, thinking all close relationships are mutualism, and not recognizing parasitism in nature. Practice should include classification exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Environmental changes: Explore how short- and long-term environmental changes affect organisms and traits in subsequent populations",
+      "teks": "8.13(C)",
+      "teks_description": "Describe how trait variations lead to adaptations affecting survival",
+      "prompt": "This topic covers how environmental changes affect organisms and traits for Grade 8 science students (TEKS 8.13(C)). Students explore both short-term (seasonal, weather events) and long-term (climate change, continental drift) environmental changes. Key concepts include: organisms respond to short-term changes through behavior, long-term changes drive natural selection and adaptation, populations with more genetic variation survive better, and extinction occurs when changes are too rapid for adaptation. Vocabulary: environmental change, short-term, long-term, adaptation, natural selection, trait, population, extinction, variation, survival. Common misconceptions: thinking organisms choose to adapt, confusing individual acclimation with population adaptation, and thinking evolution happens quickly. Practice should include scenario analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Environmental changes: How do genes and the environment affect plant growth?",
+      "teks": "8.13(B)",
+      "teks_description": "Describe function of genes in determining inherited traits",
+      "prompt": "This topic covers how genes and environment interact to affect plant growth for Grade 8 science students (TEKS 8.13(B)). Students investigate the interplay between genetic and environmental factors. Key concepts include: genes determine potential traits (maximum height, flower color), environment influences actual expression (sunlight, water, nutrients, soil), phenotype results from genotype-environment interaction, and identical plants in different environments may look different. Vocabulary: gene, environment, genotype, phenotype, interaction, growth, trait, expression, nature, nurture. Common misconceptions: thinking genes or environment alone determines traits and not understanding the interaction between the two. Practice should include experimental analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Environmental changes: Introduction to natural selection",
+      "teks": "8.13(C)",
+      "teks_description": "Describe how trait variations lead to adaptations affecting survival",
+      "prompt": "This topic covers the fundamentals of natural selection for Grade 8 science students (TEKS 8.13(C)). Students understand the basic mechanism of evolution by natural selection. Key concepts include: variation exists within populations, some variations improve survival and reproduction, organisms with favorable traits survive and reproduce more (survival of the fittest), and these traits become more common over generations. Vocabulary: natural selection, variation, survival, reproduction, adaptation, favorable trait, fitness, population, generation, evolution. Common misconceptions: thinking individuals evolve (populations do), that organisms choose to adapt, and that natural selection has a goal. Practice should include natural selection scenarios appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Environmental changes: Construct explanations of natural selection",
+      "teks": "8.13(C)",
+      "teks_description": "Describe how trait variations lead to adaptations affecting survival",
+      "prompt": "This topic covers constructing explanations of natural selection for Grade 8 science students (TEKS 8.13(C)). Students build logical, evidence-based explanations of how natural selection works in specific cases. Key concepts include: identifying the selective pressure, describing the variation in the population, explaining which variants have an advantage, predicting how the population changes over generations, and using evidence to support the explanation. Vocabulary: natural selection, selective pressure, variation, advantage, adaptation, evidence, explanation, population, trait, frequency. Common misconceptions: thinking natural selection is random, using Lamarckian reasoning (inheritance of acquired traits), and confusing natural selection with artificial selection. Practice should include constructing explanations from scenarios appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Human impact: Recognize human dependence on ocean systems and explain how human activities such as runoff, artificial reefs, or use of resources have modified these systems",
+      "teks": "8.11(B)",
+      "teks_description": "Use evidence to describe how human activities influence climate",
+      "prompt": "This topic covers human dependence on and impact on ocean systems for Grade 8 science students (TEKS 8.11(B)). Students recognize how humans rely on and affect marine environments. Key concepts include: oceans provide food (fishing), transportation, recreation, climate regulation, and oxygen production; human impacts include pollution, overfishing, habitat destruction, and ocean acidification; and solutions include marine protected areas and sustainable practices. Vocabulary: ocean system, marine, fishing, pollution, overfishing, ocean acidification, marine protected area, sustainable, runoff, artificial reef. Common misconceptions: thinking oceans are too large to be affected by humans and that pollution only impacts coastal areas. Practice should include impact analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Human impact: Coral reef biodiversity and human uses: explore a problem",
+      "teks": "8.11(B)",
+      "teks_description": "Use evidence to describe how human activities influence climate",
+      "prompt": "This topic covers exploring coral reef biodiversity problems for Grade 8 science students (TEKS 8.11(B)). Students investigate the challenges facing coral reef ecosystems and their biodiversity. Key concepts include: coral reefs as the most biodiverse marine ecosystems, threats (bleaching, ocean acidification, pollution, overfishing), human dependence on reef ecosystems, and the interconnection between reef health and species survival. Vocabulary: coral reef, biodiversity, bleaching, ocean acidification, pollution, overfishing, marine ecosystem, symbiosis. Common misconceptions: thinking corals are plants (they are animals) and not understanding the scope of human impact on reefs. Practice should include problem investigation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Human impact: Coral reef biodiversity and human uses: evaluate solutions",
+      "teks": "8.11(B)",
+      "teks_description": "Use evidence to describe how human activities influence climate",
+      "prompt": "This topic covers evaluating solutions for coral reef conservation for Grade 8 science students (TEKS 8.11(B)). Students analyze and evaluate proposed solutions to coral reef degradation. Key concepts include: marine protected areas, sustainable fishing practices, reducing pollution and runoff, coral restoration techniques, and evaluating trade-offs of different solutions. Vocabulary: conservation, marine protected area, sustainable, restoration, trade-off, evaluation, criteria, solution, reef, ecosystem management. Common misconceptions: thinking technology alone can solve reef problems and not considering economic trade-offs. Practice should include solution evaluation appropriate for 13-14 year olds."
+    }
+  ]
+}

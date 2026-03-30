@@ -1,0 +1,76 @@
+{
+  "grade": "Grade 8",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Number and operations - extend previous knowledge of sets and subsets using a visual representation to describe relationships between sets of real numbers",
+      "teks": "8.2(A)",
+      "prompt": "This topic covers classifying real numbers using sets and subsets for Grade 8 students (TEKS 8.2(A)). Students use Venn diagrams and other visual representations to show relationships among natural numbers, whole numbers, integers, rational numbers, and irrational numbers. Key concepts include: understanding that each number set is a subset of a larger set, identifying which sets a given number belongs to, and recognizing that rational and irrational numbers together form the real numbers. Vocabulary: natural numbers, whole numbers, integers, rational numbers, irrational numbers, real numbers, set, subset, Venn diagram. Common misconceptions: thinking all decimals are irrational, not recognizing repeating decimals as rational, and confusing the hierarchy. Practice should include classification exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Classify numbers",
+      "teks": "8.2(A)",
+      "prompt": "This topic covers classifying real numbers using sets and subsets for Grade 8 students (TEKS 8.2(A)). Students use Venn diagrams and other visual representations to show relationships among natural numbers, whole numbers, integers, rational numbers, and irrational numbers. Key concepts include: understanding that each number set is a subset of a larger set, identifying which sets a given number belongs to, and recognizing that rational and irrational numbers together form the real numbers. Vocabulary: natural numbers, whole numbers, integers, rational numbers, irrational numbers, real numbers, set, subset, Venn diagram. Common misconceptions: thinking all decimals are irrational, not recognizing repeating decimals as rational, and confusing the hierarchy. Practice should include classification exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - approximate the value of an irrational number, including π and square roots of numbers less than 225, and locate that rational number approximation on a number line",
+      "teks": "8.2(B)",
+      "prompt": "This topic covers approximating irrational numbers for Grade 8 students (TEKS 8.2(B)). Students approximate values of irrational numbers including pi and square roots less than 225, and locate them on number lines. Key concepts include: understanding that irrational numbers cannot be expressed as fractions, estimating square roots between consecutive integers, refining estimates using decimals, and placing approximations on number lines. Vocabulary: irrational number, pi, square root, approximate, estimate, number line, rational approximation. Common misconceptions: thinking pi equals exactly 3.14 and not understanding that irrational numbers have non-repeating, non-terminating decimals. Practice should include estimation and number line placement appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Estimate positive square roots",
+      "teks": "8.2(B)",
+      "prompt": "This topic covers estimating positive square roots for Grade 8 students (TEKS 8.2(B)). Students estimate square roots of non-perfect squares by identifying the two consecutive perfect squares the number falls between. Key concepts include: recognizing perfect squares (1, 4, 9, 16, 25, ..., 225), determining between which two integers a square root falls, refining estimates, and understanding the relationship between squaring and square roots. Vocabulary: square root, perfect square, estimate, consecutive integers, rational approximation. Common misconceptions: confusing squaring with doubling and thinking all square roots are irrational. Practice should include estimation exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Estimate positive and negative square roots",
+      "teks": "8.2(B)",
+      "prompt": "This topic covers estimating both positive and negative square roots for Grade 8 students (TEKS 8.2(B)). Students estimate square roots including negative results, understanding that every positive number has two square roots. Key concepts include: positive and negative square roots, the principal (positive) square root, estimating between consecutive integers, and understanding that negative numbers have no real square roots. Vocabulary: square root, positive, negative, principal square root, perfect square, estimate, real number. Common misconceptions: forgetting the negative square root, thinking negative numbers have real square roots, and confusing the negative of a square root with the square root of a negative. Practice should include estimation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Irrational numbers on number lines",
+      "teks": "8.2(B)",
+      "prompt": "This topic covers placing irrational numbers on number lines for Grade 8 students (TEKS 8.2(B)). Students approximate irrational numbers and locate them accurately on number lines. Key concepts include: estimating square roots and pi, determining approximate positions between integers, comparing and ordering irrational numbers with rational numbers, and understanding the density of real numbers. Vocabulary: irrational number, number line, approximate, estimate, square root, pi, position, between. Common misconceptions: placing irrational numbers at exact integer positions and not understanding the precision needed. Practice should include number line placement exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - convert between standard decimal notation and scientific notation",
+      "teks": "8.2(C)",
+      "prompt": "This topic covers converting between standard and scientific notation for Grade 8 students (TEKS 8.2(C)). Students express very large and very small numbers in scientific notation (a x 10^n where 1 <= a < 10). Key concepts include: moving the decimal point and adjusting the exponent, positive exponents for large numbers, negative exponents for small numbers, and understanding why scientific notation is useful. Vocabulary: scientific notation, standard notation, exponent, power of 10, coefficient, decimal point. Common misconceptions: not keeping the coefficient between 1 and 10, confusing direction of decimal movement with exponent sign, and errors with negative exponents. Practice should include both directions of conversion appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Convert between standard and scientific notation",
+      "teks": "8.2(C)",
+      "prompt": "This topic covers converting between standard and scientific notation for Grade 8 students (TEKS 8.2(C)). Students express very large and very small numbers in scientific notation (a x 10^n where 1 <= a < 10). Key concepts include: moving the decimal point and adjusting the exponent, positive exponents for large numbers, negative exponents for small numbers, and understanding why scientific notation is useful. Vocabulary: scientific notation, standard notation, exponent, power of 10, coefficient, decimal point. Common misconceptions: not keeping the coefficient between 1 and 10, confusing direction of decimal movement with exponent sign, and errors with negative exponents. Practice should include both directions of conversion appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Compare numbers written in scientific notation",
+      "teks": "8.2(C)",
+      "prompt": "This topic covers comparing numbers in scientific notation for Grade 8 students (TEKS 8.2(C)). Students compare and order numbers expressed in scientific notation. Key concepts include: first comparing exponents (larger exponent means larger number for positive coefficients), then comparing coefficients when exponents are equal, and handling negative exponents. Vocabulary: scientific notation, compare, order, exponent, coefficient, greater than, less than. Common misconceptions: comparing only coefficients without considering exponents and errors with negative exponents. Practice should include ordering sets of numbers in scientific notation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - order a set of real numbers arising from mathematical and real-world contexts",
+      "teks": "8.2(D)",
+      "prompt": "This topic covers ordering real numbers for Grade 8 students (TEKS 8.2(D)). Students compare and order sets of real numbers that include rational numbers (fractions, decimals, integers) and irrational numbers (square roots, pi). Key concepts include: converting all numbers to decimal approximations for comparison, placing numbers on a number line, and using inequality symbols. Vocabulary: real numbers, rational, irrational, compare, order, number line, inequality, approximate. Common misconceptions: not approximating irrational numbers before comparing and difficulty comparing fractions with square roots. Practice should include mixed sets of number types appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Compare and order rational and irrational numbers",
+      "teks": "8.2(D)",
+      "prompt": "This topic covers ordering real numbers for Grade 8 students (TEKS 8.2(D)). Students compare and order sets of real numbers that include rational numbers (fractions, decimals, integers) and irrational numbers (square roots, pi). Key concepts include: converting all numbers to decimal approximations for comparison, placing numbers on a number line, and using inequality symbols. Vocabulary: real numbers, rational, irrational, compare, order, number line, inequality, approximate. Common misconceptions: not approximating irrational numbers before comparing and difficulty comparing fractions with square roots. Practice should include mixed sets of number types appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Checkpoint: Classify real numbers",
+      "teks": "8.2(A)",
+      "prompt": "This topic is a checkpoint assessment on classifying real numbers for Grade 8 students (TEKS 8.2(A)). Students demonstrate mastery of organizing numbers into the real number system: natural numbers, whole numbers, integers, rational numbers, and irrational numbers. Key concepts include: using Venn diagrams, identifying number set membership, and understanding the subset relationships among number types. Vocabulary: natural, whole, integer, rational, irrational, real number, classify, subset, Venn diagram. Students should be able to explain their classification reasoning and identify multiple set memberships for individual numbers. Assessment should cover varied number types appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Checkpoint: Approximate irrational numbers",
+      "teks": "8.2(B)",
+      "prompt": "This topic is a checkpoint assessment on approximating irrational numbers for Grade 8 students (TEKS 8.2(B)). Students demonstrate mastery of estimating square roots and pi, locating them on number lines, and comparing with rational numbers. Key concepts include: identifying perfect squares to bound estimates, refining decimal approximations, and accurate number line placement. Vocabulary: irrational, approximate, square root, pi, number line, estimate, perfect square. Assessment should include estimation, placement, and comparison tasks appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Number and operations - Checkpoint: Scientific notation",
+      "teks": "8.2(C)",
+      "prompt": "This topic is a checkpoint assessment on scientific notation for Grade 8 students (TEKS 8.2(C)). Students demonstrate mastery of converting between standard and scientific notation, comparing numbers in scientific notation, and applying scientific notation in context. Key concepts include: proper coefficient range (1 <= a < 10), exponent rules, and ordering numbers in scientific notation. Vocabulary: scientific notation, standard notation, exponent, coefficient, power of 10, compare. Assessment should cover conversions, comparisons, and applications appropriate for 13-14 year olds."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "grade": "Computing",
+  "subject": "Intro to CS - Python",
+  "skills": [
+    {
+      "skill": "Basic Syntax and Data Types",
+      "teks": "§126.33.c.6(N)",
+      "teks_description": "Choose, identify, and use the appropriate data types for program variables",
+      "prompt": "This topic covers Python fundamentals for Intro to CS - Python students (TEKS §126.33.c.6N). Students should identify and use appropriate data types: int (whole numbers), float (decimal numbers), str (text strings), bool (True/False), and NoneType. Key concepts: type() function, type casting (int(), float(), str()), dynamic typing in Python, string vs. numeric types, and choosing the right type for the task (e.g., int for counting, float for measurement). Vocabulary: data type, integer, float, string, boolean, type casting, dynamic typing, literal, expression. Students should write syntactically correct Python including proper indentation, colons, and quotation marks. Common errors: mixing tabs and spaces, forgetting colons after if/for/def, type mismatch in operations (e.g., '5' + 3), and case sensitivity."
+    },
+    {
+      "skill": "Variables and Operators",
+      "teks": "§126.33.c.6(O)",
+      "teks_description": "Analyze the concept of a variable and use variables in programs",
+      "prompt": "This topic covers variables and operators for Intro to CS - Python students (TEKS §126.33.c.6O). Students should create meaningful variable names following Python conventions (snake_case), understand assignment (=) vs. equality (==), and use arithmetic (+, -, *, /, //, %, **), comparison (<, >, <=, >=, ==, !=), logical (and, or, not), and assignment operators (+=, -=, *=). Key concepts: variable as a named reference to a value, reassignment, multiple assignment, and operator precedence. Vocabulary: variable, assignment, operator, operand, expression, precedence, modulo, floor division, increment. Common errors: using = instead of ==, integer vs. float division confusion (/ vs. //), and uninitialized variable errors."
+    },
+    {
+      "skill": "Control Flow (if, else, loops)",
+      "teks": "§126.33.c.4(R)",
+      "teks_description": "Develop algorithms to decision-making problems using branching control structures",
+      "prompt": "This topic covers branching and looping for Intro to CS - Python students (TEKS §126.33.c.4R). Students should use if/elif/else for decision-making and for/while loops for repetition. Key concepts: boolean conditions, nested conditionals, comparison and logical operators in conditions, for loops with range() and iterables, while loops with sentinel values, break and continue statements, and avoiding infinite loops. Vocabulary: conditional, branch, loop, iteration, boolean, sentinel, accumulator, counter, infinite loop, nested. Students should trace through code predicting output. Common errors: incorrect indentation, off-by-one errors in range(), infinite while loops, and missing else/elif branches."
+    },
+    {
+      "skill": "Functions",
+      "teks": "§126.33.c.6(G)",
+      "teks_description": "Create subroutines that do not return values; §126.33.c.6(H) create subroutines that return typed values",
+      "prompt": "This topic covers defining and using functions for Intro to CS - Python students (TEKS §126.33.c.6G, §126.33.c.6H). Students should create functions using def, understand parameters vs. arguments, return values vs. printing, and scope (local vs. global variables). Key concepts: function definition, calling functions, positional and keyword arguments, default parameter values, return statement, None return (void functions), docstrings, and the DRY principle (Don't Repeat Yourself). Vocabulary: function, parameter, argument, return value, scope, local variable, global variable, call, define, docstring. Common errors: forgetting return (function returns None), modifying global variables unintentionally, and confusing print with return."
+    },
+    {
+      "skill": "Lists and Tuples",
+      "teks": "§126.33.c.6(Q)",
+      "teks_description": "Identify and use the structured data type of one-dimensional arrays",
+      "prompt": "This topic covers sequence data structures for Intro to CS - Python students (TEKS §126.33.c.6Q). Students should create and manipulate lists (mutable) and tuples (immutable). Key operations: indexing (0-based), slicing [start:stop:step], append(), insert(), remove(), pop(), len(), sort(), sorted(), and list comprehensions. Key concepts: mutability vs. immutability, iterating with for loops, nested lists, list methods vs. functions, and common patterns (accumulator, filter, map). Vocabulary: list, tuple, index, slice, mutable, immutable, append, iterate, comprehension, nested. Common errors: index out of range, modifying a list while iterating, confusing list methods with string methods, and off-by-one in slicing."
+    },
+    {
+      "skill": "Dictionaries",
+      "teks": "§126.33.c.6(Q)",
+      "teks_description": "Identify and use structured data types for organizing and accessing data",
+      "prompt": "This topic covers dictionary data structures for Intro to CS - Python students (TEKS §126.33.c.6Q). Students should create and use dictionaries (key-value pairs), access values by key, add/update/delete entries, and iterate over keys, values, and items. Key concepts: keys must be immutable (strings, numbers, tuples), values can be any type, dict methods (.get(), .keys(), .values(), .items()), checking membership with 'in', nested dictionaries, and dictionary comprehensions. Vocabulary: dictionary, key, value, key-value pair, mapping, hash, lookup, nested dictionary. Applications: frequency counting, lookup tables, JSON-like data. Common errors: KeyError from accessing nonexistent keys (use .get()), mutable keys, and confusing list indices with dictionary keys."
+    },
+    {
+      "skill": "String Manipulation",
+      "teks": "§126.33.c.6(P)",
+      "teks_description": "Represent and manipulate text data in programs",
+      "prompt": "This topic covers text processing for Intro to CS - Python students (TEKS §126.33.c.6P). Students should manipulate strings using indexing, slicing, concatenation (+), repetition (*), and string methods. Key methods: .upper(), .lower(), .strip(), .split(), .join(), .find(), .replace(), .startswith(), .endswith(), .format(), and f-strings. Key concepts: strings are immutable sequences, escape characters (\\n, \\t, \\\\), string formatting (f-strings and .format()), and iterating over characters. Vocabulary: string, immutable, concatenation, slice, escape character, f-string, method, format, parse. Common errors: treating strings as mutable, off-by-one in slicing, forgetting that methods return new strings, and escape character mistakes."
+    },
+    {
+      "skill": "File Input/Output",
+      "teks": "§126.33.c.3(A)",
+      "teks_description": "Create and properly label and display output; handle file-based input/output",
+      "prompt": "This topic covers file handling for Intro to CS - Python students (TEKS §126.33.c.3A). Students should read from and write to text files using open(), read(), readline(), readlines(), write(), and the 'with' statement for automatic file closing. Key concepts: file modes ('r', 'w', 'a', 'r+'), the with statement as a context manager, reading line by line vs. entire file, stripping newline characters, handling file paths, and CSV file basics. Vocabulary: file, open, close, read, write, append, context manager, mode, path, delimiter, CSV. Common errors: forgetting to close files (use 'with'), writing to a file opened in read mode, overwriting files with 'w' mode, and not stripping newlines."
+    },
+    {
+      "skill": "Introduction to Modules",
+      "teks": "§126.33.c.4(E)",
+      "teks_description": "Identify reusable components from existing code including modules and libraries",
+      "prompt": "This topic covers Python modules and imports for Intro to CS - Python students (TEKS §126.33.c.4E). Students should import and use standard library modules (math, random, os, sys, datetime) and understand module organization. Key concepts: import statements (import module, from module import function, import module as alias), the standard library, installing third-party packages with pip, creating your own modules, and the __name__ == '__main__' pattern. Vocabulary: module, package, import, library, standard library, pip, namespace, alias. Common errors: circular imports, name conflicts (shadowing built-in names), and importing everything with 'from module import *' (namespace pollution)."
+    },
+    {
+      "skill": "Debugging Techniques",
+      "teks": "§126.33.c.4(J)",
+      "teks_description": "Debug and solve problems using error messages",
+      "prompt": "This topic covers finding and fixing errors for Intro to CS - Python students (TEKS §126.33.c.4J). Students should identify and resolve syntax errors, runtime errors, and logic errors using error messages and debugging tools. Key concepts: reading traceback messages, common error types (SyntaxError, TypeError, NameError, IndexError, ValueError, KeyError), using print statements for debugging, Python debugger (pdb), breakpoints, and systematic debugging strategies (binary search, rubber duck). Vocabulary: bug, debug, syntax error, runtime error, logic error, traceback, exception, breakpoint, step through, stack trace. Common errors: ignoring error messages, fixing symptoms instead of root causes, and not testing edge cases."
+    },
+    {
+      "skill": "Basic Algorithms (e.g., searching, sorting)",
+      "teks": "§126.33.c.4(K)",
+      "teks_description": "Create and implement common algorithms including searching and sorting",
+      "prompt": "This topic covers fundamental algorithms for Intro to CS - Python students (TEKS §126.33.c.4K). Students should implement and analyze: linear search (O(n)), binary search (O(log n) on sorted data), bubble sort, selection sort, and insertion sort (all O(n^2)). Key concepts: algorithm efficiency (Big-O notation at introductory level), comparing search/sort approaches, when to use each algorithm, tracing through algorithms step by step, and understanding that Python's built-in sort uses Timsort (O(n log n)). Vocabulary: algorithm, search, sort, linear search, binary search, bubble sort, selection sort, insertion sort, efficiency, comparison. Common errors: applying binary search to unsorted data, off-by-one errors in search bounds, and infinite loops in sort implementations."
+    },
+    {
+      "skill": "Object-Oriented Programming Basics",
+      "teks": "§126.33.c.6(D)",
+      "teks_description": "Identify and use concepts of object-oriented design",
+      "prompt": "This topic covers OOP fundamentals for Intro to CS - Python students (TEKS §126.33.c.6D). Students should define classes with __init__, instance methods, and instance variables, create objects, and understand encapsulation. Key concepts: class as a blueprint, object as an instance, self parameter, constructor (__init__), instance variables vs. class variables, methods, encapsulation (bundling data and behavior), and basic inheritance. Vocabulary: class, object, instance, constructor, method, attribute, self, encapsulation, inheritance, instantiation. Common errors: forgetting self parameter, confusing class variables with instance variables, and not calling __init__ properly."
+    },
+    {
+      "skill": "Working with Libraries",
+      "teks": "§126.33.c.4(O)",
+      "teks_description": "Create program solutions to problems using available mathematics library and external libraries",
+      "prompt": "This topic covers using external libraries for Intro to CS - Python students (TEKS §126.33.c.4O). Students should use the math library (sqrt, pi, sin, cos, ceil, floor), random library (randint, choice, shuffle, random), and explore other libraries. Key concepts: importing specific functions vs. whole modules, reading library documentation, understanding function signatures, and leveraging libraries to avoid reinventing solutions. Vocabulary: library, module, function, documentation, API, dependency, install, pip, virtual environment. Students should solve problems using appropriate library functions rather than writing everything from scratch. Common errors: not importing before use, using wrong function names, and version compatibility issues."
+    },
+    {
+      "skill": "Error Handling",
+      "teks": "§126.33.c.4(L)",
+      "teks_description": "Create solutions addressing basic error handling",
+      "prompt": "This topic covers exception handling for Intro to CS - Python students (TEKS §126.33.c.4L). Students should use try/except blocks to handle runtime errors gracefully, use specific exception types, and understand the try/except/else/finally structure. Key concepts: common exceptions (ValueError, TypeError, FileNotFoundError, ZeroDivisionError, IndexError), catching specific vs. general exceptions, raising exceptions with raise, and designing programs that handle errors without crashing. Vocabulary: exception, try, except, finally, raise, catch, handle, graceful degradation, traceback. Common errors: catching too broad exceptions (bare except), swallowing errors silently, and using exceptions for normal flow control."
+    },
+    {
+      "skill": "Basic Data Structures",
+      "teks": "§126.33.c.6(Q)",
+      "teks_description": "Identify and use the structured data type of one-dimensional arrays and basic data structures",
+      "prompt": "This topic covers fundamental data structures for Intro to CS - Python students (TEKS §126.33.c.6Q). Students should understand and use lists, tuples, dictionaries, sets, and stacks/queues (using lists or collections.deque). Key concepts: choosing the right data structure for the task, time complexity of common operations (list access O(1), dict lookup O(1), list search O(n)), sets for unique elements and membership testing, and stack (LIFO) vs. queue (FIFO) behavior. Vocabulary: data structure, list, tuple, dictionary, set, stack, queue, LIFO, FIFO, deque, hash table. Common errors: using a list when a set would be more efficient, O(n) list operations in loops creating O(n^2), and unhashable type errors with sets."
+    },
+    {
+      "skill": "User Input",
+      "teks": "§126.33.c.3(B)",
+      "teks_description": "Create interactive input interfaces with relevant user prompts",
+      "prompt": "This topic covers interactive input handling for Intro to CS - Python students (TEKS §126.33.c.3B). Students should use input() to get user data, provide clear prompts, validate input, and convert input types appropriately. Key concepts: input() always returns a string, type conversion (int(), float()), input validation loops (keep asking until valid), providing meaningful prompts, and handling unexpected input gracefully with try/except. Vocabulary: input, prompt, validation, type conversion, interactive, user interface, command line, stdin. Common errors: forgetting to convert input from string, not validating user input (crashing on bad input), and assuming users will enter exactly what's expected."
+    },
+    {
+      "skill": "Simple Game Development",
+      "teks": "§126.33.c.4(F)",
+      "teks_description": "Design a solution to a problem; §126.33.c.4(G) code a solution from a program design",
+      "prompt": "This topic covers creating simple games for Intro to CS - Python students (TEKS §126.33.c.4F, §126.33.c.4G). Students should design and code text-based and simple graphical games using programming fundamentals. Key concepts: game loop (while running: get input, update state, display), state management with variables, random events, win/lose conditions, and user interaction. Projects: number guessing game, rock-paper-scissors, text adventure, tic-tac-toe, hangman. Vocabulary: game loop, state, event, condition, random, score, turn, player, animation, sprite. Common errors: game loop logic errors, not updating display after state changes, and missing edge cases in win conditions."
+    },
+    {
+      "skill": "Data Visualization Basics",
+      "teks": "§126.33.c.3(E)",
+      "teks_description": "Display simple vector graphics using lines, circles, and rectangles",
+      "prompt": "This topic covers creating visual representations of data for Intro to CS - Python students (TEKS §126.33.c.3E). Students should use libraries like matplotlib and turtle to create charts, graphs, and simple graphics. Key concepts: plotting with matplotlib (plt.plot(), plt.bar(), plt.scatter(), plt.hist()), labeling axes and titles, choosing appropriate chart types, turtle graphics for drawing shapes and patterns. Vocabulary: plot, chart, graph, axis, label, title, legend, bar chart, scatter plot, histogram, turtle graphics, pixel. Common errors: unlabeled axes, choosing inappropriate chart types, scale issues, and not calling plt.show()."
+    },
+    {
+      "skill": "Intro to Web Development with Python",
+      "teks": "§126.33.c.4(F)",
+      "teks_description": "Design a solution to a problem using appropriate programming constructs",
+      "prompt": "This topic covers basic web development concepts using Python for Intro to CS - Python students (TEKS §126.33.c.4F). Students should understand client-server architecture, create simple web applications using frameworks like Flask, and handle basic HTTP requests. Key concepts: HTML basics (tags, structure), HTTP request/response cycle, routes and URL mapping, templates, serving static content, and form handling. Vocabulary: web server, client, HTTP, GET, POST, route, template, HTML, URL, request, response, framework, Flask. Common errors: not understanding the request-response cycle, template syntax errors, and port conflicts when running local servers."
+    },
+    {
+      "skill": "Version Control Basics (Git)",
+      "teks": "§126.33.c.5(C)",
+      "teks_description": "Demonstrate proper digital etiquette, responsible use of software and version management",
+      "prompt": "This topic covers Git fundamentals for Intro to CS - Python students (TEKS §126.33.c.5C). Students should use Git for tracking code changes and collaborating. Key commands: git init, git add, git commit, git status, git log, git diff, git branch, git checkout, git merge, git clone, git push, git pull. Key concepts: repository, staging area, commits as snapshots, branches for parallel development, merging, resolving conflicts, and remote repositories (GitHub). Vocabulary: repository, commit, stage, branch, merge, clone, push, pull, remote, conflict, diff, log. Common errors: committing sensitive files, merge conflicts from not pulling first, and unclear commit messages."
+    }
+  ]
+}

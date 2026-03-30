@@ -1,0 +1,51 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Using Objects",
+  "skills": [
+    {
+      "skill": "2.1 Objects: Instances of Classes",
+      "ref": "MOD-1.A (Unit 2, Topic 2.1)",
+      "prompt": "This topic covers objects as instances of classes for AP CSA students (CED: MOD-1.A, Unit 2, Topic 2.1). Students should understand the relationship between classes and objects in object-oriented programming. Key concepts: a class is a blueprint or template that defines the attributes (instance variables) and behaviors (methods) of objects; an object is a specific instance of a class created at runtime; each object has its own state (values of instance variables) and behavior (methods it can execute). Students should distinguish between a class definition and object instantiation, understand that multiple objects can be created from the same class, and recognize that objects are reference types (variables store memory addresses, not the objects themselves). Vocabulary: class, object, instance, instantiation, state, behavior, attribute, instance variable, method, reference type, null."
+    },
+    {
+      "skill": "2.2 Creating and Storing Objects (Instantiation)",
+      "ref": "MOD-1.B (Unit 2, Topic 2.2)",
+      "prompt": "This topic covers creating and storing objects through instantiation for AP CSA students (CED: MOD-1.B, Unit 2, Topic 2.2). Students should understand how to create objects using the new keyword and constructors. Key concepts: the new operator allocates memory for a new object and calls its constructor; constructors initialize the object's state and have the same name as the class with no return type; constructors can be overloaded (multiple constructors with different parameter lists); a reference variable stores the address of the object in memory; if no object is assigned, a reference variable holds null. Students should write object creation statements like ClassName obj = new ClassName(args), understand constructor signatures, and trace object creation through constructor calls. Vocabulary: constructor, new keyword, instantiation, overloaded constructor, reference variable, null, memory allocation, parameter, argument."
+    },
+    {
+      "skill": "2.3 Calling a Void Method",
+      "ref": "MOD-1.C (Unit 2, Topic 2.3)",
+      "prompt": "This topic covers calling void methods for AP CSA students (CED: MOD-1.C, Unit 2, Topic 2.3). Students should understand that a void method performs an action but does not return a value. Key concepts: void methods are called using dot notation (objectName.methodName()); they can modify the object's internal state or produce side effects like printing output; void method calls are standalone statements, not part of expressions; the method signature includes the method name and parameter types. Students should trace method calls and understand that calling a method transfers control to that method's code, executes it, then returns control to the calling code. Distinguish void methods from non-void methods: void methods cannot be used in expressions or assigned to variables. Vocabulary: void method, dot notation, method call, side effect, state change, method signature, control flow."
+    },
+    {
+      "skill": "2.4 Calling a Void Method with Parameters",
+      "ref": "MOD-1.D (Unit 2, Topic 2.4)",
+      "prompt": "This topic covers calling void methods with parameters for AP CSA students (CED: MOD-1.D, Unit 2, Topic 2.4). Students should understand how to pass arguments to methods. Key concepts: parameters are variables declared in the method header that receive values when the method is called; arguments are the actual values passed during the method call; Java uses pass-by-value for both primitive and reference types; for primitives, a copy of the value is passed; for objects, a copy of the reference is passed (so the method can modify the object but cannot reassign the caller's variable). Students should match argument types to parameter types, understand that the order and type of arguments must match the method's parameter list, and trace how parameter values flow into method execution. Vocabulary: parameter, argument, pass-by-value, formal parameter, actual parameter, method header, overloading."
+    },
+    {
+      "skill": "2.5 Calling a Non-void Method",
+      "ref": "MOD-1.E (Unit 2, Topic 2.5)",
+      "prompt": "This topic covers calling non-void methods for AP CSA students (CED: MOD-1.E, Unit 2, Topic 2.5). Students should understand that non-void methods compute and return a value. Key concepts: non-void methods have a return type (int, double, boolean, String, or an object type) specified in the method header; the return value can be stored in a variable, used in an expression, or passed as an argument to another method; calling a non-void method without using its return value wastes the computation. Students should trace through method calls that return values, chain method calls, and use returned values in expressions and conditional statements. Important distinction: unlike void methods, non-void method calls are expressions that evaluate to a value. Vocabulary: return type, return value, non-void method, method chaining, expression, accessor method."
+    },
+    {
+      "skill": "2.6 String Objects: Concatenation, Literals, and More",
+      "ref": "VAR-1.F (Unit 2, Topic 2.6)",
+      "prompt": "This topic covers String objects including concatenation, literals, and more for AP CSA students (CED: VAR-1.F, Unit 2, Topic 2.6). Students should understand that String is a reference type (class), not a primitive, and String objects are immutable. Key concepts: String literals are enclosed in double quotes; the + operator concatenates Strings; when a String is concatenated with a primitive, the primitive is automatically converted to a String; concatenation is evaluated left to right; escape sequences (\\n, \\\\, \\\") allow special characters in Strings. Students should predict the output of complex concatenation expressions, understand that String concatenation with numbers follows left-to-right evaluation (\"a\" + 1 + 2 yields \"a12\" but 1 + 2 + \"a\" yields \"3a\"), and know that Strings are objects stored as references. Vocabulary: String, concatenation, literal, immutable, escape sequence, reference, null, empty string."
+    },
+    {
+      "skill": "2.7 String Methods",
+      "ref": "VAR-1.G (Unit 2, Topic 2.7)",
+      "prompt": "This topic covers String methods for AP CSA students (CED: VAR-1.G, Unit 2, Topic 2.7). Students should understand the key String methods tested on the AP exam. Key methods: length() returns the number of characters; substring(int from, int to) returns characters from index 'from' up to but not including index 'to'; substring(int from) returns from that index to the end; indexOf(String str) returns the index of the first occurrence of str or -1 if not found; equals(String other) compares content (not ==, which compares references); compareTo(String other) returns a negative, zero, or positive int for lexicographic ordering. Critical concept: String indices start at 0 and go to length()-1; StringIndexOutOfBoundsException occurs with invalid indices. Students must trace through String method calls and understand immutability means methods return new Strings. Vocabulary: index, substring, indexOf, equals, compareTo, length, zero-based indexing, lexicographic order, immutable."
+    },
+    {
+      "skill": "2.8 Wrapper Classes: Integer and Double",
+      "ref": "VAR-1.H (Unit 2, Topic 2.8)",
+      "prompt": "This topic covers wrapper classes Integer and Double for AP CSA students (CED: VAR-1.H, Unit 2, Topic 2.8). Students should understand that wrapper classes allow primitive values to be treated as objects. Key concepts: Integer wraps int and Double wraps double; autoboxing automatically converts a primitive to its wrapper object (Integer x = 5); unboxing automatically converts a wrapper object back to a primitive (int y = x); wrapper classes are needed when an object is required, such as in ArrayList<Integer>; Integer.MAX_VALUE and Integer.MIN_VALUE represent the range of int. Students should understand that wrapper objects are immutable and that == compares references for objects (use .equals() for value comparison, though autoboxing can make == appear to work for small integers due to caching). Vocabulary: wrapper class, autoboxing, unboxing, Integer, Double, immutable, object, primitive, caching."
+    },
+    {
+      "skill": "2.9 Using the Class Math",
+      "ref": "VAR-1.I (Unit 2, Topic 2.9)",
+      "prompt": "This topic covers using the Math class for AP CSA students (CED: VAR-1.I, Unit 2, Topic 2.9). Students should understand that Math is a utility class with static methods that do not require object instantiation. Key methods: Math.abs(x) returns the absolute value; Math.pow(base, exp) returns base raised to the exp power (returns double); Math.sqrt(x) returns the square root (returns double); Math.random() returns a random double in [0.0, 1.0). Critical pattern for generating random integers in a range: (int)(Math.random() * range) + min. For example, to get a random int from 1 to 6: (int)(Math.random() * 6) + 1. Students should understand that all Math methods are called using Math.methodName() (static methods), not on an object instance. Vocabulary: static method, Math class, absolute value, power, square root, random number generation, range, casting."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "College Algebra",
+  "skills": [
+    {
+      "skill": "Functions and Their Properties",
+      "teks": "2A.2(A)",
+      "teks_description": "Graph functions including square root, reciprocal, cubic, cube root, exponential, absolute value, and logarithmic",
+      "prompt": "This topic covers graphing and analyzing major function families for College Algebra students (TEKS 2A.2A). Students should graph square root, reciprocal, cubic, cube root, exponential, absolute value, and logarithmic functions. Key concepts: domain and range of each family, identifying key features (intercepts, asymptotes, extrema), continuity, end behavior, and relating algebraic form to graphical shape. Students should determine domain restrictions (square root requires non-negative radicand, log requires positive argument, reciprocal excludes zero denominator). Vocabulary: function family, parent function, domain, range, intercept, asymptote, end behavior, continuous, piecewise. Common errors: forgetting domain restrictions, misidentifying end behavior, and confusing function families."
+    },
+    {
+      "skill": "Polynomial and Rational Functions",
+      "teks": "2A.7(D)",
+      "teks_description": "Determine the linear factors of a polynomial function of degree three and four",
+      "prompt": "This topic covers analyzing polynomial functions of degree three and four for College Algebra students (TEKS 2A.7D). Students should find linear factors using Rational Root Theorem, synthetic division, and factoring techniques, then sketch graphs. Key concepts: Fundamental Theorem of Algebra, relationship between factors and zeros, multiplicity effects on graphs, end behavior from leading term, turning points (at most n-1 for degree n), and finding rational zeros. Vocabulary: polynomial, degree, zero, root, factor, multiplicity, turning point, Rational Root Theorem, Fundamental Theorem of Algebra, leading coefficient test. Common errors: missing zeros with multiplicity, incorrect end behavior, and not testing all rational root candidates."
+    },
+    {
+      "skill": "Exponential and Logarithmic Functions",
+      "teks": "2A.5(A)",
+      "teks_description": "Determine transformation effects on exponential and logarithmic graphs",
+      "prompt": "This topic covers transformation effects on exponential and logarithmic graphs for College Algebra students (TEKS 2A.5A). Students should graph f(x) = a*b^(x-h)+k and f(x) = a*log_b(x-h)+k, identifying transformations from parent functions. Key concepts: horizontal asymptote for exponential (y = k), vertical asymptote for logarithmic (x = h), domain/range relationships, reflections, stretches, and the inverse relationship between exponential and logarithmic functions. Vocabulary: exponential function, logarithmic function, asymptote, transformation, base, natural log, common log, inverse functions. Common errors: confusing domain of log with range, misplacing asymptotes after transformations, and forgetting that log is undefined for non-positive inputs."
+    },
+    {
+      "skill": "Systems of Equations (Linear and Nonlinear)",
+      "teks": "2A.3(C)",
+      "teks_description": "Solve algebraically systems of two equations consisting of a linear and a quadratic equation",
+      "prompt": "This topic covers solving systems of linear and nonlinear equations for College Algebra students (TEKS 2A.3C). Students should solve systems algebraically (substitution, elimination) and graphically, handling combinations of linear, quadratic, rational, and exponential equations. Key concepts: interpreting solutions as intersection points, 0/1/2/infinite solution cases, using matrices for linear systems, and nonlinear system strategies (substitution is primary). Vocabulary: system of equations, substitution, elimination, intersection, consistent, inconsistent, linear, nonlinear, solution set. Common errors: algebraic errors during substitution, forgetting to solve for all variables, and misinterpreting graphical intersections."
+    },
+    {
+      "skill": "Matrices and Determinants",
+      "teks": "2A.3(B)",
+      "teks_description": "Solve three-variable linear systems using Gaussian elimination, matrices, or substitution",
+      "prompt": "This topic covers matrix methods for solving systems for College Algebra students (TEKS 2A.3B). Students should solve 3-variable systems using Gaussian elimination, represent systems as augmented matrices, perform row operations, compute 2x2 and 3x3 determinants, and apply Cramer's rule. Key concepts: row echelon and reduced row echelon form, elementary row operations, matrix notation, singular vs. nonsingular matrices, and interpreting determinant = 0 as no unique solution. Vocabulary: matrix, augmented matrix, row echelon form, RREF, determinant, Gaussian elimination, Cramer's rule, pivot, singular. Common errors: row operation arithmetic mistakes, determinant cofactor expansion errors, and misapplying Cramer's rule to singular systems."
+    },
+    {
+      "skill": "Complex Numbers",
+      "teks": "2A.7(A)",
+      "teks_description": "Add, subtract, and multiply complex numbers",
+      "prompt": "This topic covers complex number operations for College Algebra students (TEKS 2A.7A). Students should add, subtract, and multiply complex numbers in the form a+bi, where i = sqrt(-1) and i^2 = -1. Key concepts: real and imaginary parts, complex conjugates, dividing by multiplying by the conjugate, plotting on the complex plane, modulus |a+bi| = sqrt(a^2+b^2), and connecting to quadratic equations with negative discriminant. Vocabulary: complex number, imaginary unit, real part, imaginary part, complex conjugate, modulus, complex plane, Argand diagram. Common errors: forgetting i^2 = -1 when multiplying, not rationalizing denominators, and treating i as a real variable."
+    },
+    {
+      "skill": "Sequences and Series",
+      "teks": "P.5(D)",
+      "teks_description": "Represent arithmetic and geometric series using sigma notation",
+      "prompt": "This topic covers arithmetic and geometric sequences and series for College Algebra students (TEKS P.5D). Students should write sequences in explicit and recursive form, express series in sigma notation, and compute partial sums. Key formulas: arithmetic sum S_n = n(a_1+a_n)/2, geometric sum S_n = a_1(1-r^n)/(1-r), infinite geometric sum S = a_1/(1-r) when |r| < 1. Key concepts: identifying common difference or ratio, finding specific terms, determining convergence of infinite geometric series. Vocabulary: sequence, series, sigma notation, arithmetic, geometric, common difference, common ratio, convergent, divergent, partial sum. Common errors: index errors, misapplying sum formulas, and not checking convergence conditions."
+    },
+    {
+      "skill": "Conic Sections",
+      "teks": "P.3(G)",
+      "teks_description": "Make connections between locus definition of conic sections and their equations in rectangular coordinates",
+      "prompt": "This topic covers equations and properties of conic sections for College Algebra students (TEKS P.3G). Students should identify, classify, and graph circles, ellipses, parabolas, and hyperbolas from their equations, convert between general and standard forms (completing the square), and connect the locus definition to algebraic equations. Key properties: circle (center, radius), ellipse (center, vertices, foci, major/minor axes), parabola (vertex, focus, directrix), hyperbola (center, vertices, foci, asymptotes). Vocabulary: conic section, locus, eccentricity, focus, directrix, vertex, center, major axis, minor axis, asymptote, degenerate conic. Common errors: misclassifying conics, completing the square errors, and confusing a and b in ellipse/hyperbola."
+    },
+    {
+      "skill": "Inequalities and Absolute Value",
+      "teks": "2A.6(F)",
+      "teks_description": "Solve absolute value linear inequalities",
+      "prompt": "This topic covers solving absolute value inequalities for College Algebra students (TEKS 2A.6F). Students should solve |ax+b| < c (compound inequality: -c < ax+b < c), |ax+b| > c (disjunction: ax+b < -c or ax+b > c), and graph solutions on number lines and in interval notation. Key concepts: absolute value as distance, equivalent compound inequalities, testing intervals for polynomial and rational inequalities, and sign analysis. Vocabulary: absolute value, inequality, compound inequality, conjunction, disjunction, interval notation, sign chart, test point, critical value. Common errors: forgetting to reverse inequality when multiplying by negative, wrong compound inequality direction, and not checking extraneous solutions."
+    },
+    {
+      "skill": "Binomial Theorem",
+      "teks": "P.5(F)",
+      "teks_description": "Apply the Binomial Theorem for expansion of (a+b)^n in powers of a and b",
+      "prompt": "This topic covers the Binomial Theorem for College Algebra students (TEKS P.5F). The theorem states (a+b)^n = sum_{k=0}^{n} C(n,k)*a^(n-k)*b^k. Students should expand binomials, find specific terms, and connect to Pascal's triangle. Key concepts: binomial coefficients C(n,k) = n!/(k!(n-k)!), Pascal's triangle patterns, finding the (r+1)th term, and applications. Vocabulary: Binomial Theorem, binomial coefficient, Pascal's triangle, expansion, factorial, combination, term. Common errors: off-by-one errors in term identification, forgetting to apply exponents to both coefficient and variable, and sign errors with subtraction (a-b)^n."
+    },
+    {
+      "skill": "Partial Fractions",
+      "teks": "2A.6(I)",
+      "teks_description": "Solve rational equations that have real solutions including partial fraction decomposition",
+      "prompt": "This topic covers partial fraction decomposition for College Algebra students (TEKS 2A.6I). Students should decompose rational expressions into simpler fractions: linear factors yield A/(ax+b), repeated linear factors yield A/(ax+b) + B/(ax+b)^2, and irreducible quadratic factors yield (Ax+B)/(ax^2+bx+c). Key concepts: proper vs. improper fractions (perform long division first if improper), setting up the decomposition based on denominator factoring, solving for coefficients using substitution or equating coefficients. Vocabulary: partial fraction, decomposition, proper fraction, improper fraction, linear factor, irreducible quadratic, coefficient. Common errors: incorrect factoring of denominator, missing repeated factor terms, and algebraic errors when solving for coefficients."
+    },
+    {
+      "skill": "Graphing Techniques and Transformations",
+      "teks": "2A.2(A)",
+      "teks_description": "Graph functions and analyze domain/range including transformations",
+      "prompt": "This topic covers function transformations for College Algebra students (TEKS 2A.2A). Students should apply vertical/horizontal shifts, reflections, stretches/compressions to all major function families. Key concepts: for y = af(b(x-h))+k, a controls vertical stretch/reflection, b controls horizontal stretch/reflection, h controls horizontal shift, k controls vertical shift. Students should write equations from transformed graphs and identify transformations from equations. Vocabulary: parent function, transformation, translation, reflection, stretch, compression, scale factor. Common errors: confusion about horizontal shift direction (f(x-h) shifts right), mixing up vertical and horizontal effects, and incorrect order of transformations."
+    },
+    {
+      "skill": "Inverse Functions",
+      "teks": "2A.2(B)",
+      "teks_description": "Graph and write the inverse of a function using notation such as f^-1(x)",
+      "prompt": "This topic covers inverse functions for College Algebra students (TEKS 2A.2B). Students should find inverses algebraically (swap x and y, solve for y), verify using composition (f(f^(-1)(x)) = x and f^(-1)(f(x)) = x), graph inverses as reflections over y = x, and determine when inverses exist. Key concepts: one-to-one functions (horizontal line test), domain restrictions for invertibility, inverse notation f^(-1)(x), and the relationship between domain/range of a function and its inverse. Vocabulary: inverse function, one-to-one, horizontal line test, composition, reflection, domain restriction. Common errors: confusing f^(-1)(x) with 1/f(x), not restricting domains, and algebraic errors when solving for y."
+    },
+    {
+      "skill": "Introduction to Limits",
+      "teks": "P.2(L)",
+      "teks_description": "Determine various types of discontinuities as they relate to functions",
+      "prompt": "This topic covers the concept of limits and continuity for College Algebra students (TEKS P.2L). Students should evaluate limits graphically and algebraically, identify types of discontinuities (removable, jump, infinite), and understand continuity requirements. Key concepts: limit exists when left-hand and right-hand limits agree, direct substitution for continuous functions, factoring and rationalizing to resolve 0/0 indeterminate forms, and limits at infinity for end behavior. Vocabulary: limit, continuity, discontinuity, removable, jump, infinite, one-sided limit, indeterminate form, end behavior. Common errors: confusing function value with limit, assuming limit equals function value at discontinuities, and not checking both sides."
+    },
+    {
+      "skill": "Operations on Functions",
+      "teks": "P.2(A)",
+      "teks_description": "Use the composition of two functions to model and solve real-world problems",
+      "prompt": "This topic covers function composition and combined operations for College Algebra students (TEKS P.2A). Students should perform (f+g)(x), (f-g)(x), (fg)(x), (f/g)(x), and (f o g)(x) = f(g(x)), determine domains of composite functions, and model real-world situations using composition. Key concepts: domain of f o g requires x in domain of g AND g(x) in domain of f, decomposing complex functions into compositions, and evaluating compositions numerically and algebraically. Vocabulary: composition, composite function, domain, operation, decompose, inner function, outer function. Common errors: evaluating composition in wrong order (f o g is not g o f), incorrect domain determination, and algebraic simplification errors."
+    },
+    {
+      "skill": "Higher Degree Polynomial Equations",
+      "teks": "P.5(J)",
+      "teks_description": "Solve polynomial equations with real coefficients by applying a variety of techniques",
+      "prompt": "This topic covers solving polynomial equations for College Algebra students (TEKS P.5J). Students should solve polynomial equations using factoring, Rational Root Theorem, synthetic division, grouping, substitution (for biquadratic equations like x^4-5x^2+4 = 0), and technology. Key concepts: Fundamental Theorem of Algebra, Descartes' Rule of Signs (counting positive/negative real roots), upper/lower bound theorems, and complex roots occur in conjugate pairs for real-coefficient polynomials. Vocabulary: polynomial equation, Rational Root Theorem, synthetic division, Descartes' Rule, conjugate pairs, depressed polynomial. Common errors: missing roots, forgetting complex conjugate pairs, and incorrect application of Descartes' Rule."
+    },
+    {
+      "skill": "Rational Root Theorem",
+      "teks": "2A.7(E)",
+      "teks_description": "Determine linear and quadratic factors including sum/difference of cubes and grouping",
+      "prompt": "This topic covers the Rational Root Theorem for College Algebra students (TEKS 2A.7E). If p/q (in lowest terms) is a rational root of a polynomial with integer coefficients, then p divides the constant term and q divides the leading coefficient. Key concepts: listing all possible rational roots, testing candidates using synthetic division, reducing the polynomial degree after finding roots, and recognizing when all rational candidates fail (irrational or complex roots). Vocabulary: Rational Root Theorem, possible rational roots, synthetic division, depressed polynomial, factor, zero. Students should combine with factoring by grouping and sum/difference of cubes. Common errors: missing negative candidates, not reducing p/q to lowest terms, and stopping after finding one root."
+    },
+    {
+      "skill": "Synthetic Division",
+      "teks": "2A.7(C)",
+      "teks_description": "Determine quotients of polynomials divided by linear or quadratic polynomials",
+      "prompt": "This topic covers synthetic division for College Algebra students (TEKS 2A.7C). Students should divide polynomials by (x-c) using synthetic division, interpret the remainder (Remainder Theorem: remainder = f(c)), and apply the Factor Theorem (if f(c) = 0, then (x-c) is a factor). Key concepts: setting up synthetic division correctly, including zero coefficients for missing terms, reading quotient coefficients, and using synthetic division iteratively to completely factor polynomials. Vocabulary: synthetic division, divisor, quotient, remainder, Remainder Theorem, Factor Theorem, depressed polynomial. Common errors: forgetting zero placeholders for missing degree terms, using the wrong sign for c, and misreading the quotient degree."
+    },
+    {
+      "skill": "Exponential Growth and Decay Models",
+      "teks": "2A.5(B)",
+      "teks_description": "Formulate exponential and logarithmic equations that model real-world situations",
+      "prompt": "This topic covers exponential and logarithmic modeling for College Algebra students (TEKS 2A.5B). Students should write and solve equations for exponential growth y = a*e^(kt) or y = a*b^t and decay, including compound interest A = P(1+r/n)^(nt), continuous growth/decay A = Pe^(rt), half-life, and doubling time. Key concepts: identifying growth (k>0, b>1) vs. decay (k<0, 0<b<1), using logarithms to solve for time, fitting exponential models to data, and comparing growth rates. Vocabulary: exponential growth, exponential decay, half-life, doubling time, continuous compounding, growth factor, decay factor, initial value. Common errors: confusing rate with factor, logarithm errors when solving for t, and not matching time units."
+    },
+    {
+      "skill": "Piecewise Functions",
+      "teks": "P.2(F)",
+      "teks_description": "Graph piecewise defined functions and analyze their properties",
+      "prompt": "This topic covers piecewise-defined functions for College Algebra students (TEKS P.2F). Students should graph piecewise functions, determine domain and range, evaluate at boundary and non-boundary points, and analyze continuity. Key concepts: each piece is defined on a specific interval, graphing with open/closed endpoints, determining if the function is continuous at boundaries (left limit = right limit = function value), and real-world applications (tax brackets, shipping costs, utility pricing). Vocabulary: piecewise function, interval, boundary point, continuous, discontinuous, open endpoint, closed endpoint, step function. Common errors: using wrong formula at boundaries, graphing incorrect endpoints, and missing discontinuities."
+    },
+    {
+      "skill": "Parametric Equations",
+      "teks": "P.3(A)",
+      "teks_description": "Graph a set of parametric equations",
+      "prompt": "This topic covers parametric equations for College Algebra students (TEKS P.3A). Students should graph sets of parametric equations x = f(t), y = g(t), eliminate the parameter to find rectangular equations, and understand the role of the parameter as a third variable (often time). Key concepts: plotting by creating a table of t, x, y values; eliminating t by solving one equation and substituting; direction of motion (orientation); and restricted domains in rectangular form. Vocabulary: parametric equations, parameter, eliminate, rectangular form, orientation, trajectory, curve. Common errors: losing domain restrictions when eliminating t, incorrect orientation, and algebra errors during elimination."
+    },
+    {
+      "skill": "Introduction to Vectors",
+      "teks": "P.4(I)",
+      "teks_description": "Use vectors to model situations involving magnitude and direction",
+      "prompt": "This topic covers vector fundamentals for College Algebra students (TEKS P.4I). Students should represent vectors in component form and as directed line segments, perform vector addition, scalar multiplication, and find magnitude and direction. Key concepts: magnitude ||v|| = sqrt(a^2+b^2), direction angle theta = arctan(b/a), unit vectors (v/||v||), standard unit vectors i and j, and applications to force and velocity. Vocabulary: vector, scalar, magnitude, direction, component form, unit vector, resultant, equilibrium. Common errors: confusing vectors with scalars, direction angle quadrant errors, and component sign mistakes."
+    },
+    {
+      "skill": "Introduction to Trigonometric Functions",
+      "teks": "P.4(E)",
+      "teks_description": "Determine the value of trigonometric ratios and solve problems involving trigonometric ratios",
+      "prompt": "This topic covers trigonometric functions as preparation for College Algebra students (TEKS P.4E). Students should evaluate all six trig functions using right triangles and the unit circle, solve basic trig equations, and understand periodicity. Key concepts: SOH-CAH-TOA, reciprocal relationships (csc = 1/sin, etc.), special angle values (30-45-60), reference angles, quadrant sign analysis, and inverse trig functions for finding angles. Vocabulary: sine, cosine, tangent, cosecant, secant, cotangent, unit circle, reference angle, period, inverse trig function. Common errors: calculator mode confusion (degrees vs. radians), mislabeling triangle sides, and not finding all solutions to equations."
+    },
+    {
+      "skill": "Modeling with Algebraic Functions",
+      "teks": "P.2(N)",
+      "teks_description": "Analyze situations modeled by functions to solve real-world problems",
+      "prompt": "This topic covers using functions to model real-world situations for College Algebra students (TEKS P.2N). Students should select appropriate function types (linear, quadratic, polynomial, rational, exponential, logarithmic), determine parameters from context, and use models for analysis and prediction. Key concepts: defining variables and constraints, evaluating model fit, domain restrictions from context, interpreting parameters and results, and understanding limitations of mathematical models. Vocabulary: model, parameter, constraint, domain restriction, prediction, interpolation, extrapolation, optimization. Common errors: choosing inappropriate function types, extrapolating beyond valid range, and ignoring contextual constraints."
+    },
+    {
+      "skill": "Applications and Problem Solving",
+      "teks": "A.1(A)",
+      "teks_description": "Apply mathematics to problems arising in everyday life, society, and the workplace",
+      "prompt": "This topic covers mathematical problem-solving strategies for College Algebra students (TEKS A.1A). Students should apply algebraic techniques to real-world problems including optimization, mixture problems, work problems, and financial mathematics. Key concepts: defining variables, writing equations from word descriptions, solving and interpreting in context, and checking reasonableness. Vocabulary: optimize, maximize, minimize, constraint, system, mixture, rate, work, investment, break-even. Students should communicate solutions clearly with appropriate units and contextual interpretation. Common errors: poorly defined variables, incorrect equation setup, and solutions that don't make sense in context."
+    },
+    {
+      "skill": "Polynomial Division",
+      "teks": "2A.7(C)",
+      "teks_description": "Determine quotients of polynomials divided by linear or quadratic polynomials",
+      "prompt": "This topic covers dividing polynomials for College Algebra students (TEKS 2A.7C). Students should perform long division and synthetic division of polynomials, interpret results using the Division Algorithm (dividend = divisor * quotient + remainder), and apply the Remainder and Factor Theorems. Key concepts: long division process mirrors numerical long division, synthetic division is efficient for divisors of the form (x-c), connecting division to factoring, and using division to reduce polynomial degree. Vocabulary: dividend, divisor, quotient, remainder, Division Algorithm, Remainder Theorem, Factor Theorem, synthetic division, long division. Common errors: zero-placeholder omission, subtraction sign errors in long division, and incorrect setup of synthetic division."
+    },
+    {
+      "skill": "Systems of Inequalities",
+      "teks": "2A.3(F)",
+      "teks_description": "Solve systems of two or more linear inequalities in two variables",
+      "prompt": "This topic covers solving systems of linear inequalities for College Algebra students (TEKS 2A.3F). Students should graph individual linear inequalities (dashed line for strict, solid for inclusive, shading test-point side), find the feasible region as the intersection of all constraint regions, and identify vertices. Key concepts: half-planes, feasible region, corner points (vertices), linear programming connection (optimal values occur at vertices), and bounded vs. unbounded regions. Vocabulary: system of inequalities, half-plane, feasible region, vertex, bounded, unbounded, constraint, linear programming, test point. Common errors: incorrect shading direction, using wrong line style, and missing intersection points."
+    }
+  ]
+}

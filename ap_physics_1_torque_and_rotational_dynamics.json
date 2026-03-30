@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Torque and Rotational Dynamics",
+  "skills": [
+    {
+      "skill": "Rotational Kinematics",
+      "ref": "Unit 5, Topic 5.1",
+      "prompt": "This topic covers rotational kinematics for AP Physics 1 students (CED: Unit 5, Topic 5.1). Students should understand the rotational analogs of linear kinematic quantities: angular displacement (theta, in radians), angular velocity (omega = delta-theta / delta-t, in rad/s), and angular acceleration (alpha = delta-omega / delta-t, in rad/s^2). The rotational kinematic equations for constant angular acceleration mirror the linear equations: omega = omega_0 + alpha*t, theta = omega_0*t + (1/2)*alpha*t^2, omega^2 = omega_0^2 + 2*alpha*theta. One complete revolution = 2*pi radians = 360 degrees. Students must solve rotational kinematics problems and interpret angular motion graphs. Connect to connecting linear and rotational motion, torque, and rotational dynamics. AP exam note: rotational kinematics parallels translational kinematics. Vocabulary: angular displacement, angular velocity, angular acceleration, radian, revolution, rotational kinematics."
+    },
+    {
+      "skill": "Connecting Linear and Rotational Motion",
+      "ref": "Unit 5, Topic 5.2",
+      "prompt": "This topic covers connecting linear and rotational motion for AP Physics 1 students (CED: Unit 5, Topic 5.2). Students should understand the relationships between linear and rotational quantities for a point on a rotating object: arc length s = r*theta, tangential velocity v = r*omega, tangential acceleration a_t = r*alpha, and centripetal acceleration a_c = omega^2*r = v^2/r. All points on a rigid rotating body share the same angular velocity and angular acceleration, but points at different radii have different linear velocities and accelerations. The period of rotation T = 2*pi/omega. Students must convert between linear and angular quantities and apply these relationships to pulleys, wheels, and rolling objects. Connect to rotational kinematics, torque, and rolling motion. AP exam note: converting between linear and angular quantities is essential. Vocabulary: tangential velocity, tangential acceleration, centripetal acceleration, radius, arc length, angular velocity, linear-rotational connection."
+    },
+    {
+      "skill": "Torque",
+      "ref": "Unit 5, Topic 5.3",
+      "prompt": "This topic covers torque for AP Physics 1 students (CED: Unit 5, Topic 5.3). Students should understand that torque is the rotational equivalent of force: tau = rF*sin(theta), where r is the distance from the axis of rotation to the point of force application, F is the force magnitude, and theta is the angle between r and F vectors. Alternatively, tau = r_perpendicular * F = r * F_perpendicular (lever arm method). Torque is a vector: positive for counterclockwise rotation, negative for clockwise (by convention). The unit is Newton-meter (N*m). The net torque determines the angular acceleration of the object. Students must calculate torque for various force-position configurations and determine net torque about a chosen axis. Connect to rotational equilibrium, Newton's second law for rotation, and levers. AP exam note: torque calculations using lever arms are frequently tested. Vocabulary: torque, lever arm, axis of rotation, perpendicular component, Newton-meter, net torque, moment."
+    },
+    {
+      "skill": "Rotational Inertia",
+      "ref": "Unit 5, Topic 5.4",
+      "prompt": "This topic covers rotational inertia for AP Physics 1 students (CED: Unit 5, Topic 5.4). Students should understand that rotational inertia (moment of inertia, I) is the rotational analog of mass, measuring resistance to angular acceleration. For a point mass: I = mr^2. For extended objects, I depends on the mass distribution relative to the axis of rotation: mass farther from the axis contributes more. Students should know I for common shapes (provided on formula sheet): solid cylinder I = (1/2)MR^2, solid sphere I = (2/5)MR^2, thin hoop I = MR^2, thin rod about center I = (1/12)ML^2. The parallel axis theorem allows calculation about different axes. Students must compare rotational inertias and explain how mass distribution affects rotational behavior. Connect to torque, rotational energy, and angular momentum. AP exam note: comparing moments of inertia for different mass distributions is tested. Vocabulary: rotational inertia, moment of inertia, mass distribution, axis of rotation, point mass, parallel axis theorem."
+    },
+    {
+      "skill": "Rotational Equilibrium and Newton’s First Law in Rotational Form",
+      "ref": "Unit 5, Topic 5.5",
+      "prompt": "This topic covers rotational equilibrium and Newton’s First Law in rotational form for AP Physics 1 students (CED: Unit 5, Topic 5.5). Students should understand that an object is in rotational equilibrium when the net torque about any axis is zero: sum of tau = 0. In this state, the object either is not rotating or is rotating at constant angular velocity (alpha = 0). For complete static equilibrium, both translational equilibrium (sum of F = 0) and rotational equilibrium (sum of tau = 0) must hold. Students must apply both conditions simultaneously to solve problems involving beams, bridges, and other rigid structures, choosing a convenient pivot point to simplify calculations. Connect to torque, center of mass, and structural analysis. AP exam note: static equilibrium problems requiring both force and torque balance are classic free-response questions. Vocabulary: rotational equilibrium, static equilibrium, net torque, pivot point, angular velocity, translational equilibrium, balanced."
+    },
+    {
+      "skill": "Newton’s Second Law in Rotational Form",
+      "ref": "Unit 5, Topic 5.6",
+      "prompt": "This topic covers Newton’s Second Law in rotational form for AP Physics 1 students (CED: Unit 5, Topic 5.6). Students should understand that the net torque on an object equals the product of its rotational inertia and angular acceleration: tau_net = I*alpha. This is the rotational analog of F_net = ma. For objects experiencing both translational and rotational motion (e.g., a pulley with mass, or a ball rolling down a ramp), both F_net = ma and tau_net = I*alpha must be applied simultaneously, often with a constraint relating linear and angular acceleration (a = r*alpha for rolling without slipping). Students must solve problems combining translational and rotational dynamics, such as Atwood machines with massive pulleys. Connect to rotational kinematics, energy, and angular momentum. AP exam note: problems combining F = ma and tau = I*alpha are challenging and heavily tested. Vocabulary: net torque, rotational inertia, angular acceleration, Newton’s second law rotational, rolling constraint, combined dynamics."
+    }
+  ]
+}

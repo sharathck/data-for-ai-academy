@@ -1,0 +1,66 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Analytical Applications of Differentiation",
+  "skills": [
+    {
+      "skill": "Analysis of Functions: Using the Mean Value Theorem",
+      "ref": "FUN-1.B",
+      "prompt": "This topic covers the Mean Value Theorem for AP Calculus BC (CED: FUN-1.B, Unit 5). MVT: if f is continuous on [a,b] and differentiable on (a,b), there exists c in (a,b) with f'(c) = [f(b)-f(a)]/(b-a). Geometrically: a tangent line parallels the secant line. Rolle's Theorem is the special case f(a) = f(b), giving f'(c) = 0. MVT applications: proving a function with zero derivative is constant, bounding function values, and justifying existence of particular derivative values. BC students apply MVT in similar contexts as AB but may encounter it with parametric or accumulation functions. AP exam note: free-response requires explicit verification of hypotheses (continuity on closed, differentiability on open interval) and a conclusion statement. Vocabulary: Mean Value Theorem, Rolle's Theorem, continuous, differentiable, secant, parallel tangent, existence."
+    },
+    {
+      "skill": "Analysis of Functions: Extreme Value Theorem, Global Versus Local Extrema, and Critical Points",
+      "ref": "FUN-1.C",
+      "prompt": "This topic covers the EVT, extrema classification, and critical points for AP Calculus BC (CED: FUN-1.C, Unit 5). EVT: continuous f on [a,b] attains global max and min. Critical points: f'(c) = 0 or f'(c) undefined (f(c) defined). Local extrema occur only at interior critical points; global extrema also at endpoints. BC students analyze extrema of parametric and vector-valued functions (e.g., maximum speed, extreme coordinates). The EVT provides theoretical foundation for the Candidates Test. AP exam note: BC students must distinguish local from global extrema and understand that not every critical point yields an extremum. Vocabulary: Extreme Value Theorem, critical point, local extremum, global extremum, endpoint, continuous, Candidates Test."
+    },
+    {
+      "skill": "Analysis of Functions: Determining Intervals on Which a Function Is Increasing or Decreasing",
+      "ref": "FUN-4.A",
+      "prompt": "This topic covers increasing/decreasing analysis for AP Calculus BC (CED: FUN-4.A, Unit 5). f' > 0 on an interval means f is increasing; f' < 0 means decreasing. Procedure: find critical points, create a sign chart for f', state intervals. BC students apply this analysis to accumulation functions (g(x) = integral from a to x of f(t)dt is increasing where f > 0), components of parametric/vector functions, and more complex function types. AP exam note: justification must reference the sign of f', not just a sign chart. BC free-response often requires connecting increasing/decreasing behavior of accumulation functions to the sign of the integrand. Vocabulary: increasing, decreasing, sign chart, critical point, first derivative, interval, accumulation function."
+    },
+    {
+      "skill": "Analysis of Functions: Using the First Derivative Test to Determine Relative (Local) Extrema",
+      "ref": "FUN-4.A",
+      "prompt": "This topic covers the First Derivative Test for AP Calculus BC (CED: FUN-4.A, Unit 5). If f' changes from + to - at c: relative max. If f' changes from - to +: relative min. If no sign change: not an extremum. This test works even when f''(c) = 0 or is undefined. BC students use the FDT for analyzing accumulation functions, parametric curve analysis, and optimization in complex contexts. AP exam note: justification must reference the sign change of f'. 'f'(c) = 0' alone is insufficient. Students should write: 'f has a relative maximum at x = c because f' changes from positive to negative at c.' Vocabulary: First Derivative Test, relative maximum, relative minimum, sign change, critical point, justification."
+    },
+    {
+      "skill": "Analysis of Functions: Using the Candidates Test to Determine Absolute (Global) Extrema",
+      "ref": "FUN-4.A",
+      "prompt": "This topic covers the Candidates Test for AP Calculus BC (CED: FUN-4.A, Unit 5). To find absolute extrema of continuous f on [a,b]: find critical points in (a,b), evaluate f at all critical points and both endpoints, compare values. The largest is the absolute max, smallest the absolute min. This method works because the EVT guarantees extrema exist. BC students apply this in optimization problems and when analyzing parametric curves over closed parameter intervals. AP exam note: students must evaluate f (not f') at all candidates, including both endpoints. Missing an endpoint or critical point is a common error. Vocabulary: Candidates Test, absolute maximum, absolute minimum, endpoint, critical point, evaluate, closed interval."
+    },
+    {
+      "skill": "Analysis of Functions: Determining Concavity of Functions over Their Domains",
+      "ref": "FUN-4.A",
+      "prompt": "This topic covers concavity for AP Calculus BC (CED: FUN-4.A, Unit 5). f'' > 0: concave up (tangent lines below curve); f'' < 0: concave down (tangent lines above). Inflection points occur where f'' changes sign. Procedure: find where f'' = 0 or undefined, test sign in each interval. f''(c) = 0 alone does not guarantee an inflection point (need sign change). BC students analyze concavity of accumulation functions (g'' = f', so g is concave up where f is increasing) and parametric curves (using d^2y/dx^2). AP exam note: concavity justification must reference f'' sign, and inflection points require a sign change. BC problems often involve concavity of parametric or accumulation functions. Vocabulary: concave up, concave down, inflection point, second derivative, sign change, parametric concavity."
+    },
+    {
+      "skill": "Analysis of Functions: Using the Second Derivative Test to Determine Extrema",
+      "ref": "FUN-4.A",
+      "prompt": "This topic covers the Second Derivative Test for AP Calculus BC (CED: FUN-4.A, Unit 5). If f'(c) = 0 and f''(c) > 0: relative min. If f'(c) = 0 and f''(c) < 0: relative max. If f''(c) = 0: inconclusive, use FDT. The test uses concavity at the critical point. BC students may apply this in optimization and when analyzing parametric/polar functions. The SDT is faster than the FDT when f'' is easy to compute, but fails when f''(c) = 0. AP exam note: both conditions (f'(c) = 0 AND f''(c) > 0 or < 0) must be stated. Students should know when to switch to the FDT. Vocabulary: Second Derivative Test, relative minimum, relative maximum, concavity, inconclusive, critical point."
+    },
+    {
+      "skill": "Analysis of Functions: Sketching Graphs of Functions and Their Derivatives",
+      "ref": "FUN-4.A",
+      "prompt": "This topic covers graph relationships between f, f', and f'' for AP Calculus BC (CED: FUN-4.A, Unit 5). Key connections: f increasing iff f' > 0; f has extremum where f' = 0 with sign change; f concave up iff f'' > 0 iff f' increasing; inflection points of f correspond to extrema of f'. Students should sketch f' given f's graph and vice versa. BC students apply these relationships to accumulation functions where g' = f (the integrand) and g'' = f'. This allows complete analysis of accumulation functions from the graph of f. AP exam note: graph-matching between f, f', and f'' is a common BC question type. Students should systematically verify correspondences (zeros, signs, extrema). Vocabulary: graph of derivative, sign correspondence, extrema, concavity, inflection point, accumulation function."
+    },
+    {
+      "skill": "Analysis of Functions: Connecting a Function, Its First Derivative, and Its Second Derivative",
+      "ref": "FUN-4.A",
+      "prompt": "This topic covers comprehensive f-f'-f'' connections for AP Calculus BC (CED: FUN-4.A, Unit 5). Students synthesize: f' determines increasing/decreasing and extrema of f; f'' determines concavity and inflection points of f and increasing/decreasing of f'. All three levels work together to provide complete function analysis. BC students apply this synthesis to more complex scenarios including accumulation functions, parametric curves, and functions defined by series. Students should create complete behavioral analyses using derivative information at all levels. AP exam note: multi-step reasoning connecting f, f', and f'' is a hallmark of BC free-response questions. Students should justify each conclusion with appropriate derivative evidence. Vocabulary: synthesis, first derivative analysis, second derivative analysis, complete analysis, justification, accumulation."
+    },
+    {
+      "skill": "Analysis of Functions: Introduction to Optimization Problems",
+      "ref": "FUN-4.B",
+      "prompt": "This topic introduces optimization for AP Calculus BC (CED: FUN-4.B, Unit 5). Optimization finds maximum or minimum values in applied contexts. Setup: (1) identify quantity to optimize; (2) write as function of one variable; (3) determine feasible domain; (4) find critical points and evaluate. BC students may encounter optimization in parametric or polar contexts (e.g., maximizing the distance from the origin on a polar curve, or optimizing a parameter in a vector-valued function). AP exam note: optimization is a major free-response topic. Students must define variables, state the objective function and domain, and justify the extremum. Vocabulary: optimization, maximize, minimize, constraint, objective function, feasible domain, applied context."
+    },
+    {
+      "skill": "Analysis of Functions: Solving Optimization Problems",
+      "ref": "FUN-4.C",
+      "prompt": "This topic covers solving optimization problems for AP Calculus BC (CED: FUN-4.C, Unit 5). After setup, find critical points, then justify the extremum using Candidates Test, FDT, or SDT. Common types: maximizing volume with fixed surface area, minimizing distance, optimizing economic functions. BC students handle more sophisticated problems potentially involving transcendental functions, parametric constraints, or series-approximated functions. Students must include units and verify answers are physically reasonable. AP exam note: full credit requires justified extremum identification, not just f'=0. BC problems may integrate optimization with other BC-specific topics. Vocabulary: optimization, critical point, justify, Candidates Test, First Derivative Test, Second Derivative Test, applied."
+    },
+    {
+      "skill": "Analysis of Functions: Exploring Behaviors of Implicit Relations",
+      "ref": "FUN-4.D, FUN-4.E",
+      "prompt": "This topic covers analyzing implicit relations for AP Calculus BC (CED: FUN-4.D, FUN-4.E, Unit 5). Using dy/dx from implicit differentiation, students find: tangent/normal lines, horizontal tangents (numerator of dy/dx = 0, denominator != 0), vertical tangents (denominator = 0, numerator != 0), and analyze increasing/decreasing behavior. Second implicit derivatives (d^2y/dx^2) determine concavity. BC students may encounter more complex implicit relations and should be comfortable with the algebra of implicit second derivatives (substituting dy/dx back in). AP exam note: implicit relation analysis appears in BC free-response. Students must carefully handle the algebra and use the original equation to find corresponding y-values. Vocabulary: implicit relation, horizontal tangent, vertical tangent, implicit second derivative, concavity, normal line."
+    }
+  ]
+}

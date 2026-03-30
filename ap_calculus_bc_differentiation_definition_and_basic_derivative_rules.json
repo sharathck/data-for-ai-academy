@@ -1,0 +1,56 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Differentiation: Definition and Basic Derivative Rules",
+  "skills": [
+    {
+      "skill": "Change: Defining Average and Instantaneous Rates of Change at a Point",
+      "ref": "CHA-2.A, CHA-2.B",
+      "prompt": "This topic covers average and instantaneous rates of change for AP Calculus BC (CED: CHA-2.A, CHA-2.B, Unit 2). The average rate of change of f on [a,b] is [f(b)-f(a)]/(b-a) (secant line slope). The instantaneous rate at x = a is lim[h->0] [f(a+h)-f(a)]/h (tangent line slope). Key concepts: secant lines approximate tangent lines as endpoints converge; the instantaneous rate is the derivative at a point; interpreting rates in context with units. BC students extend this to parametric and vector-valued contexts where rates of change have x- and y-components. Students should compute average rates from functions, tables, and graphs. AP exam note: interpretation with correct units is critical. BC free-response often involves parametric velocity components as rates of change. Vocabulary: average rate of change, instantaneous rate of change, secant line, tangent line, difference quotient, parametric rate."
+    },
+    {
+      "skill": "Analysis of Functions: Defining the Derivative of a Function and Using Derivative Notation",
+      "ref": "CHA-2.B, CHA-2.C",
+      "prompt": "This topic covers the limit definition of the derivative for AP Calculus BC (CED: CHA-2.B, CHA-2.C, Unit 2). f'(a) = lim[h->0] [f(a+h)-f(a)]/h = lim[x->a] [f(x)-f(a)]/(x-a). When this limit exists, it gives the instantaneous rate of change and the tangent line slope. Notation: f'(x), dy/dx, d/dx[f(x)], y'. The derivative function f'(x) applies the limit for general x. BC students use derivative notation extensively in parametric (dy/dx = (dy/dt)/(dx/dt)), polar, and vector contexts. Students should compute derivatives from the definition for simple functions and understand the derivative as the best linear approximation near a point. AP exam note: the limit definition may be tested directly or used to justify derivative formulas. Clear notation is essential in BC's multi-variable settings. Vocabulary: derivative, limit definition, difference quotient, Leibniz notation, prime notation, tangent line, instantaneous rate."
+    },
+    {
+      "skill": "Change: Estimating Derivatives of a Function at a Point",
+      "ref": "CHA-2.D",
+      "prompt": "This topic covers estimating derivatives from data for AP Calculus BC (CED: CHA-2.D, Unit 2). Students approximate f'(a) using secant line slopes from tables or graphs: [f(a+h)-f(a)]/h for small h, or the symmetric difference quotient [f(a+h)-f(a-h)]/(2h). From graphs, estimate the tangent line slope visually. Key concepts: smaller intervals give better estimates; the symmetric quotient is generally more accurate; choose nearby data points from tables. BC students apply this in parametric contexts, estimating dx/dt and dy/dt from tabular data to find dy/dx. AP exam note: free-response frequently provides tables and asks for derivative approximations with units and contextual interpretation. BC questions may involve estimating rates for vector-valued motion. Vocabulary: estimate, secant line, difference quotient, symmetric difference quotient, approximation, tabular data."
+    },
+    {
+      "skill": "Analysis of Functions: Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist",
+      "ref": "FUN-2.A",
+      "prompt": "This topic covers differentiability and continuity relationships for AP Calculus BC (CED: FUN-2.A, Unit 2). Key theorem: differentiability implies continuity, but continuity does not imply differentiability. A function fails to be differentiable at: corners/cusps (different left and right derivatives), vertical tangents (infinite slope), and discontinuities. For piecewise functions, check that left and right derivatives match at boundaries. BC students encounter differentiability issues with parametric curves (cusps where both dx/dt and dy/dt are zero) and polar curves. Students should identify non-differentiable points from graphs and algebraic analysis. AP exam note: BC questions may ask about differentiability of parametrically defined functions or accumulation functions. Students should clearly justify differentiability conclusions. Vocabulary: differentiable, continuous, corner, cusp, vertical tangent, piecewise, left-hand derivative, right-hand derivative."
+    },
+    {
+      "skill": "Analysis of Functions: Applying the Power Rule",
+      "ref": "FUN-3.A",
+      "prompt": "This topic covers the Power Rule for AP Calculus BC (CED: FUN-3.A, Unit 2). If f(x) = x^n, then f'(x) = n*x^(n-1) for any real n. This applies to integer, fractional, and negative exponents. Students should rewrite radicals (sqrt(x) = x^(1/2)) and reciprocals (1/x^2 = x^(-2)) before applying. Combined with sum/difference and constant multiple rules, the Power Rule handles all polynomials. BC students use the Power Rule within more complex differentiation scenarios (parametric, polar, implicit). Mastery is essential as it underlies most derivative computations throughout the course. AP exam note: the Power Rule is foundational and appears in virtually every derivative problem. Errors with negative and fractional exponents are common pitfalls. Vocabulary: Power Rule, exponent, polynomial, rational exponent, negative exponent, rewrite, derivative."
+    },
+    {
+      "skill": "Analysis of Functions: Derivative Rules: Constant, Sum, Difference, and Constant Multiple",
+      "ref": "FUN-3.A",
+      "prompt": "This topic covers basic derivative rules for AP Calculus BC (CED: FUN-3.A, Unit 2). Rules: d/dx[c] = 0, d/dx[cf(x)] = cf'(x), d/dx[f+g] = f'+g', d/dx[f-g] = f'-g'. Differentiation is linear: it preserves addition and scalar multiplication. These rules combined with the Power Rule differentiate any polynomial. BC students apply these rules within all differentiation contexts including parametric components (differentiating x(t) and y(t) separately), series term-by-term differentiation, and polar functions. AP exam note: these rules are used in every derivative computation. Fluency enables efficient work on the exam's more complex BC-specific problems. Vocabulary: constant rule, sum rule, difference rule, constant multiple rule, linearity, polynomial derivative."
+    },
+    {
+      "skill": "Analysis of Functions: Derivatives of cos x, sin x, e^x, and ln x",
+      "ref": "FUN-3.A, LIM-3.A",
+      "prompt": "This topic covers derivatives of transcendental functions for AP Calculus BC (CED: FUN-3.A, LIM-3.A, Unit 2). Key formulas: d/dx[sin x] = cos x, d/dx[cos x] = -sin x, d/dx[e^x] = e^x, d/dx[ln x] = 1/x. These are derived using limit definitions and foundational limits (lim[h->0] sin(h)/h = 1). BC students use these derivatives extensively combined with the Chain Rule in parametric (e.g., x(t) = e^(2t)), polar (r = sin(theta)), and series contexts (derivatives of Taylor series). The derivative of e^x equaling itself is the basis for exponential growth models and for the exponential series. AP exam note: these four derivatives appear throughout the entire BC exam. Students must apply them fluently with other rules. Vocabulary: transcendental function, sine, cosine, exponential, natural logarithm, derivative formula, Chain Rule."
+    },
+    {
+      "skill": "Analysis of Functions: The Product Rule",
+      "ref": "FUN-3.B",
+      "prompt": "This topic covers the Product Rule for AP Calculus BC (CED: FUN-3.B, Unit 2). If f and g are differentiable, d/dx[fg] = f'g + fg'. The derivative of a product is NOT the product of derivatives. BC students apply the Product Rule in complex settings: differentiating polar functions (x = r*cos(theta) requires the Product Rule), finding derivatives for integration by parts setup, and analyzing parametric equations. The Product Rule extends to products of three or more functions and can derive the Quotient Rule. AP exam note: the Product Rule is frequently combined with the Chain Rule in BC problems, especially in parametric and polar differentiation. Vocabulary: Product Rule, factors, derivative of a product, Leibniz notation, polar differentiation."
+    },
+    {
+      "skill": "Analysis of Functions: The Quotient Rule",
+      "ref": "FUN-3.B",
+      "prompt": "This topic covers the Quotient Rule for AP Calculus BC (CED: FUN-3.B, Unit 2). d/dx[f/g] = [f'g - fg']/g^2, provided g != 0. Memory aid: 'lo d-hi minus hi d-lo over lo squared.' The order matters (subtraction is not commutative). BC students use the Quotient Rule when computing dy/dx for parametric second derivatives and when simplifying expressions in polar differentiation. Sometimes rewriting with negative exponents and using the Product Rule is an alternative. AP exam note: Quotient Rule errors (sign, order) are common. The rule appears in computing second parametric derivatives d^2y/dx^2 = (d/dt[dy/dx])/(dx/dt). Vocabulary: Quotient Rule, numerator, denominator, rational function, lo-d-hi, parametric second derivative."
+    },
+    {
+      "skill": "Analysis of Functions: Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions (BC ONLY)",
+      "ref": "FUN-3.B",
+      "prompt": "This topic covers derivatives of tangent, cotangent, secant, and cosecant for AP Calculus BC (CED: FUN-3.B, Unit 2). Key formulas: d/dx[tan x] = sec^2 x, d/dx[cot x] = -csc^2 x, d/dx[sec x] = sec x tan x, d/dx[csc x] = -csc x cot x. These are derived using the Quotient Rule on sin/cos ratios. Pattern: co-function derivatives carry negative signs. While these appear in AB as well, BC students use them more extensively in integration (recognizing antiderivatives), polar differentiation, and series representations. The integrals of sec^2(x) and csc^2(x) yield tan(x) and -cot(x), which are important antiderivative formulas. AP exam note: BC students should know these derivatives for both differentiation and recognizing antiderivative forms in integration problems. Vocabulary: tangent, cotangent, secant, cosecant, Quotient Rule derivation, co-function, negative sign."
+    }
+  ]
+}

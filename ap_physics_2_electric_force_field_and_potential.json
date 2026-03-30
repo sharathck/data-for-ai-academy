@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Physics 2",
+  "subject": "Electric Force, Field, and Potential",
+  "skills": [
+    {
+      "skill": "Electric Charge and Electric Force",
+      "ref": "Unit 2, Topic 2.1",
+      "prompt": "This topic covers electric charge and electric force for AP Physics 2 students (CED: Unit 2, Topic 2.1). Students should understand that electric charge comes in two types (positive and negative), is quantized (in units of elementary charge e = 1.6 x 10^-19 C), and is conserved. Coulomb's law gives the electrostatic force between two point charges: F = kq1q2/r^2, where k = 8.99 x 10^9 N*m^2/C^2. The force is attractive between unlike charges and repulsive between like charges. The force is along the line connecting the charges and obeys Newton's third law. For multiple charges, the net force is the vector sum of individual Coulombic forces (superposition principle). Students must calculate forces and apply superposition in one and two dimensions. Connect to electric fields, potential energy, and conductors. AP exam note: Coulomb's law calculations and superposition are foundational. Vocabulary: electric charge, Coulomb's law, electrostatic force, elementary charge, superposition, point charge, attractive, repulsive."
+    },
+    {
+      "skill": "Conservation of Electric Charge and the Process of Charging",
+      "ref": "Unit 2, Topic 2.2",
+      "prompt": "This topic covers conservation of charge and charging processes for AP Physics 2 students (CED: Unit 2, Topic 2.2). Students should understand that electric charge is conserved in all processes: charge cannot be created or destroyed, only transferred. Charging methods include friction (triboelectric effect), conduction (direct contact transfers charge), and induction (charge redistribution without contact, using grounding). In conductors, excess charge resides on the surface and distributes to minimize repulsion. Insulators hold charge in place where deposited. Grounding connects an object to a large charge reservoir (Earth), neutralizing it. Polarization occurs when a charged object induces charge separation in a neutral object (explains attraction between charged and neutral objects). Students must explain charging processes and predict charge distributions. AP exam note: conceptual questions on charging methods and conductor behavior are common. Vocabulary: conservation of charge, conduction, induction, friction, grounding, polarization, conductor, insulator."
+    },
+    {
+      "skill": "Electric Fields",
+      "ref": "Unit 2, Topic 2.3",
+      "prompt": "This topic covers electric fields for AP Physics 2 students (CED: Unit 2, Topic 2.3). Students should understand that an electric field E is the force per unit positive test charge: E = F/q = kQ/r^2 for a point charge. Electric field is a vector quantity pointing away from positive charges and toward negative charges. Field lines represent the field: they start on positive charges, end on negative charges, never cross, and their density indicates field strength. For multiple charges, the net field is the vector sum of individual fields (superposition). A uniform electric field exists between parallel plates: E = V/d. The force on a charge in a field is F = qE. Students must calculate fields, draw field lines, and determine forces on charges in fields. Connect to electric potential, Gauss's law concepts, and capacitors. AP exam note: field line diagrams and field calculations are heavily tested. Vocabulary: electric field, field lines, superposition, point charge field, uniform field, force on charge, test charge."
+    },
+    {
+      "skill": "Electric Potential Energy",
+      "ref": "Unit 2, Topic 2.4",
+      "prompt": "This topic covers electric potential energy for AP Physics 2 students (CED: Unit 2, Topic 2.4). Students should understand that electric potential energy (U) is the energy stored in a configuration of charges: for two point charges, U = kq1q2/r. Positive U (like charges) means repulsive configuration (energy decreases as charges separate). Negative U (unlike charges) means attractive configuration (energy decreases as charges approach). For a charge in a uniform field: delta-U = qE*d (where d is displacement against the field). The work done by the electric force equals the negative change in potential energy: W = -delta-U. Conservation of energy applies: KE + U = constant for charges moving in electric fields. Students must calculate potential energy and apply energy conservation to charged particle motion. Connect to electric potential, work, and kinetic energy. AP exam note: energy conservation with electric PE is commonly tested. Vocabulary: electric potential energy, configuration, Coulomb potential energy, conservative force, work, energy conservation."
+    },
+    {
+      "skill": "Electric Potential",
+      "ref": "Unit 2, Topic 2.5",
+      "prompt": "This topic covers electric potential for AP Physics 2 students (CED: Unit 2, Topic 2.5). Students should understand that electric potential (V) is potential energy per unit charge: V = U/q = kQ/r for a point charge. Potential is a scalar quantity (no direction). The potential difference (voltage) between two points determines the work done per unit charge: delta-V = W/q = -integral of E*dr. Equipotential surfaces are perpendicular to field lines and connect points of equal potential. The electric field points from high to low potential: E = -dV/dx (field is the negative gradient of potential). In a uniform field: delta-V = -E*d. For multiple point charges, V_total = sum of individual potentials (scalar sum). Students must calculate potentials, relate V to E, and interpret equipotential maps. Connect to potential energy, capacitors, and circuits. AP exam note: relating field to potential is a key conceptual skill. Vocabulary: electric potential, voltage, potential difference, equipotential, volt, scalar, gradient."
+    },
+    {
+      "skill": "Capacitors",
+      "ref": "Unit 2, Topic 2.6",
+      "prompt": "This topic covers capacitors for AP Physics 2 students (CED: Unit 2, Topic 2.6). Students should understand that a capacitor stores charge and energy. Capacitance C = Q/V, measured in farads (F). For a parallel-plate capacitor: C = epsilon_0 * A/d, where A is plate area and d is plate separation. Inserting a dielectric (insulator) between plates increases capacitance by factor kappa: C = kappa * epsilon_0 * A/d. Energy stored: U = (1/2)CV^2 = (1/2)Q^2/C = (1/2)QV. Capacitors in parallel: C_total = C1 + C2 (same voltage, charge adds). Capacitors in series: 1/C_total = 1/C1 + 1/C2 (same charge, voltages add). Students must calculate capacitance, stored energy, and equivalent capacitance for series and parallel combinations. Connect to electric fields, circuits, and RC circuits. AP exam note: capacitor calculations and combinations are tested. Vocabulary: capacitor, capacitance, farad, dielectric, parallel plate, series, parallel, stored energy."
+    },
+    {
+      "skill": "Conservation of Electric Energy",
+      "ref": "Unit 2, Topic 2.7",
+      "prompt": "This topic covers conservation of electric energy for AP Physics 2 students (CED: Unit 2, Topic 2.7). Students should understand that total energy is conserved for charged particles moving in electric fields: KE_i + U_i = KE_f + U_f (when only electric forces act). A positive charge accelerates from high to low potential (loses PE, gains KE). A negative charge accelerates from low to high potential. The energy gained or lost by a charge moving through a potential difference: delta-KE = q*delta-V. The electron-volt (eV) is a convenient energy unit: 1 eV = 1.6 x 10^-19 J (energy gained by one elementary charge through 1 V). Students must apply energy conservation to determine speeds of charged particles after moving through potential differences. Connect to electric potential, kinetic energy, and particle accelerators. AP exam note: energy conservation calculations with charges in fields are common. Vocabulary: conservation of energy, potential difference, electron-volt, kinetic energy, electric potential energy, accelerating charge."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "grade": "AP - Precalculus",
+  "subject": "Trigonometric and Polar Functions",
+  "skills": [
+    {
+      "skill": "Periodic Phenomena",
+      "ref": "3.1.A",
+      "prompt": "This topic introduces periodic phenomena for AP Precalculus (CED: 3.1.A, Unit 3, Topic 3.1). A periodic function repeats its values at regular intervals: f(x+p) = f(x) for all x, where p is the period. Key concepts: period is the smallest positive p with this property; periodic phenomena include tides, seasons, sound waves, circular motion, and biological rhythms; amplitude is half the distance between maximum and minimum values; midline is the average of max and min. Students should identify periodic behavior from graphs, tables, and contextual descriptions. This topic motivates the study of trigonometric functions as mathematical models for periodicity. AP exam note: students should identify and describe periodicity in real-world contexts, including period, amplitude, and midline. Vocabulary: periodic function, period, amplitude, midline, cycle, repeating, frequency, oscillation."
+    },
+    {
+      "skill": "Sine, Cosine, and Tangent",
+      "ref": "3.2.A",
+      "prompt": "This topic covers the sine, cosine, and tangent functions for AP Precalculus (CED: 3.2.A, Unit 3, Topic 3.2). On the unit circle, for angle theta: cos(theta) is the x-coordinate, sin(theta) is the y-coordinate, and tan(theta) = sin(theta)/cos(theta) = y/x. Key concepts: the unit circle definition extends trig functions to all real numbers (not just acute angles); special angles (0, pi/6, pi/4, pi/3, pi/2 and multiples); reference angles for evaluating trig functions in all quadrants; the signs of sin, cos, tan in each quadrant (All Students Take Calculus). Students should evaluate trig functions at special angles without a calculator and understand the unit circle as the foundation. AP exam note: fluency with the unit circle and special angle values is essential for all subsequent trigonometric topics. Vocabulary: unit circle, sine, cosine, tangent, special angles, reference angle, quadrant, radian."
+    },
+    {
+      "skill": "Sine and Cosine Function Values",
+      "ref": "3.3.A",
+      "prompt": "This topic covers evaluating sine and cosine values for AP Precalculus (CED: 3.3.A, Unit 3, Topic 3.3). Students evaluate sin and cos at key angles using the unit circle. Key values: sin(0)=0, sin(pi/6)=1/2, sin(pi/4)=sqrt(2)/2, sin(pi/3)=sqrt(3)/2, sin(pi/2)=1, and corresponding cosine values. Symmetry properties: sin(-theta)=-sin(theta) (odd function), cos(-theta)=cos(theta) (even function). Cofunction identity: sin(pi/2-theta)=cos(theta). Students use reference angles and quadrant signs to evaluate at any angle. Periodicity: sin(theta+2pi)=sin(theta), cos(theta+2pi)=cos(theta). AP exam note: quick, accurate evaluation of trig values is foundational. Students should memorize the unit circle values and apply symmetry properties. Vocabulary: sine values, cosine values, unit circle, special angles, symmetry, odd function, even function, cofunction."
+    },
+    {
+      "skill": "Sine and Cosine Function Graphs",
+      "ref": "3.4.A",
+      "prompt": "This topic covers graphing sine and cosine functions for AP Precalculus (CED: 3.4.A, Unit 3, Topic 3.4). The parent graphs y = sin(x) and y = cos(x) have period 2pi, amplitude 1, midline y = 0, and range [-1,1]. Key features: sin(x) starts at (0,0) and increases; cos(x) starts at (0,1) and decreases; both are smooth, continuous, wave-shaped curves. The graphs are related by a horizontal shift: cos(x) = sin(x + pi/2). Students should identify key points: maximums, minimums, zeros, and midline crossings. Understanding these parent graphs is essential for analyzing transformations in later topics. AP exam note: students should sketch accurate graphs of sin and cos, label key features, and identify the relationship between the two functions. Vocabulary: sine graph, cosine graph, period, amplitude, midline, range, maximum, minimum, zero, wave."
+    },
+    {
+      "skill": "Sinusoidal Functions",
+      "ref": "3.5.A",
+      "prompt": "This topic covers sinusoidal functions for AP Precalculus (CED: 3.5.A, Unit 3, Topic 3.5). A sinusoidal function has the form f(x) = a*sin(b(x-c))+d or f(x) = a*cos(b(x-c))+d. Parameters: |a| = amplitude, 2pi/|b| = period, c = phase shift (horizontal), d = vertical shift (midline y = d). Key concepts: amplitude = (max-min)/2; period = (2pi)/|b|; midline = (max+min)/2 = d; the frequency = |b|/(2pi) gives cycles per unit. Students should determine parameters from graphs, tables, or contextual descriptions and write the equation of a sinusoidal function. If a < 0, the function is reflected. AP exam note: students must extract parameters from various representations and write sinusoidal equations. Vocabulary: sinusoidal, amplitude, period, phase shift, midline, frequency, vertical shift, parameters."
+    },
+    {
+      "skill": "Sinusoidal Function Transformations",
+      "ref": "3.6.A",
+      "prompt": "This topic covers transformations of sinusoidal functions for AP Precalculus (CED: 3.6.A, Unit 3, Topic 3.6). Transformations of y = sin(x) or y = cos(x): vertical stretch/compression changes amplitude (|a| in a*sin(x)); horizontal stretch/compression changes period (2pi/b in sin(bx)); horizontal shift (phase shift c in sin(x-c)); vertical shift (midline d in sin(x)+d). Key concepts: transformations combine multiplicatively and additively; the order of transformations matters for correct graphing; students should apply transformations to key points (max, min, zeros, midline crossings) to graph efficiently. Students should be able to both graph a given sinusoidal equation and write the equation from a graph. AP exam note: transformation questions test parameter identification and graphing skills. Students should be efficient with the key-points method. Vocabulary: transformation, amplitude, period, phase shift, vertical shift, key points, stretch, compression."
+    },
+    {
+      "skill": "Sinusoidal Function Context and Data Modeling",
+      "ref": "3.7.A",
+      "prompt": "This topic covers sinusoidal modeling for AP Precalculus (CED: 3.7.A, Unit 3, Topic 3.7). Students model periodic real-world phenomena with sinusoidal functions: temperature over a year, tidal heights, daylight hours, Ferris wheel height, alternating current. Key steps: (1) identify the period from the context; (2) find amplitude = (max-min)/2; (3) find midline = (max+min)/2; (4) determine phase shift from the starting condition; (5) choose sin or cos based on the initial behavior. Students use the model for predictions and interpret results in context. Limitations: real periodic phenomena may not be perfectly sinusoidal. AP exam note: constructing sinusoidal models from contextual descriptions is a core AP Precalculus skill. Students must justify parameter values and interpret predictions. Vocabulary: sinusoidal model, periodic, amplitude, period, midline, phase shift, prediction, context, limitation."
+    },
+    {
+      "skill": "The Tangent Function",
+      "ref": "3.8.A",
+      "prompt": "This topic covers the tangent function for AP Precalculus (CED: 3.8.A, Unit 3, Topic 3.8). tan(x) = sin(x)/cos(x), with domain all x except x = pi/2 + n*pi (where cos = 0). Key features: period pi (not 2pi); vertical asymptotes at x = pi/2 + n*pi; range is all reals; the function is increasing on each branch; passes through the origin with slope 1; tan(x) is an odd function (tan(-x) = -tan(x)). The graph consists of repeating branches between consecutive asymptotes. Transformations: a*tan(b(x-c))+d changes the vertical stretch, period (pi/|b|), phase shift, and vertical shift. Students should graph the tangent function and its transformations. AP exam note: students should understand tangent's properties and its relationship to sine and cosine. The period of tangent (pi) differs from sine and cosine (2pi). Vocabulary: tangent function, period pi, vertical asymptote, odd function, increasing, branch, domain restriction."
+    },
+    {
+      "skill": "Inverse Trigonometric Functions",
+      "ref": "3.9.A",
+      "prompt": "This topic covers inverse trigonometric functions for AP Precalculus (CED: 3.9.A, Unit 3, Topic 3.9). Since trig functions are periodic and not one-to-one, domains must be restricted for inverses: arcsin(x) (or sin^(-1)(x)) has domain [-1,1] and range [-pi/2, pi/2]; arccos(x) has domain [-1,1] and range [0, pi]; arctan(x) has domain all reals and range (-pi/2, pi/2). Key concepts: arcsin(x) answers 'what angle in [-pi/2, pi/2] has sine x?'; inverse trig functions return angles; f^(-1)(f(x)) = x only on the restricted domain; these functions are essential for solving trigonometric equations. Students should evaluate inverse trig at standard values and compose trig with inverse trig. AP exam note: students must respect the restricted ranges when evaluating inverse trig functions. Vocabulary: inverse trigonometric, arcsin, arccos, arctan, restricted domain, range, principal value."
+    },
+    {
+      "skill": "Trigonometric Equations and Inequalities",
+      "ref": "3.10.A",
+      "prompt": "This topic covers solving trigonometric equations and inequalities for AP Precalculus (CED: 3.10.A, Unit 3, Topic 3.10). To solve trig equations: (1) isolate the trig function; (2) find all solutions in one period using inverse trig and symmetry; (3) add multiples of the period for the general solution. Key concepts: equations like sin(x) = k have infinitely many solutions due to periodicity; the general solution uses n*2pi (for sin and cos) or n*pi (for tan); for equations with transformed arguments (sin(2x) = k), adjust the period accordingly. For inequalities, determine the intervals where the trig function satisfies the condition by analyzing the graph. AP exam note: students should find both specific solutions in an interval and general solutions. Common errors include missing solutions in the given interval. Vocabulary: trigonometric equation, general solution, specific solution, period, inverse trig, inequality, interval."
+    },
+    {
+      "skill": "The Secant, Cosecant, and Cotangent Functions",
+      "ref": "3.11.A",
+      "prompt": "This topic covers secant, cosecant, and cotangent for AP Precalculus (CED: 3.11.A, Unit 3, Topic 3.11). Defined as reciprocals: sec(x) = 1/cos(x), csc(x) = 1/sin(x), cot(x) = cos(x)/sin(x) = 1/tan(x). Key features: vertical asymptotes where the denominator is zero; range excludes (-1,1) for sec and csc; period is 2pi for sec and csc, pi for cot; sec and csc have U-shaped branches; cot is decreasing on each branch. Students should graph these functions and identify key features. Relationships: sec^2(x) = 1 + tan^2(x), csc^2(x) = 1 + cot^2(x) (Pythagorean identities). These functions appear less frequently but are important for trigonometric identities and calculus. AP exam note: students should know the graphs and key features of all six trig functions and their reciprocal relationships. Vocabulary: secant, cosecant, cotangent, reciprocal, vertical asymptote, Pythagorean identity, period."
+    },
+    {
+      "skill": "Equivalent Representations of Trigonometric Functions",
+      "ref": "3.12.A",
+      "prompt": "This topic covers trigonometric identities and equivalent representations for AP Precalculus (CED: 3.12.A, Unit 3, Topic 3.12). Key identities: Pythagorean (sin^2+cos^2=1, tan^2+1=sec^2, 1+cot^2=csc^2); reciprocal; quotient (tan=sin/cos); cofunction; even/odd; sum and difference formulas (sin(A+B), cos(A+B)); double angle formulas (sin(2A)=2sinAcosA, cos(2A)=cos^2A-sin^2A). Students use identities to simplify expressions, verify equivalences, and solve equations. Key skill: choosing the appropriate identity based on the expression's form. AP exam note: students should be able to verify identities by transforming one side to match the other and use identities to solve equations. Vocabulary: identity, Pythagorean identity, sum/difference formula, double angle, verify, simplify, equivalent."
+    },
+    {
+      "skill": "Trigonometry and Polar Coordinates",
+      "ref": "3.13.A",
+      "prompt": "This topic introduces polar coordinates for AP Precalculus (CED: 3.13.A, Unit 3, Topic 3.13). A point in polar coordinates (r, theta) has r = distance from origin and theta = angle from positive x-axis. Conversion: x = r*cos(theta), y = r*sin(theta); r = sqrt(x^2+y^2), theta = arctan(y/x) (adjusted for quadrant). Key concepts: multiple representations (r, theta), (r, theta+2pi), (-r, theta+pi) all represent the same point; the pole (origin) is (0, theta) for any theta; polar coordinates are natural for describing rotational symmetry, circular motion, and radial distances. Students should convert between rectangular and polar coordinates and plot points in polar. AP exam note: polar coordinate fluency is essential for graphing polar functions and computing polar areas (in calculus). Vocabulary: polar coordinates, radius, angle, conversion, rectangular, pole, radian, multiple representations."
+    },
+    {
+      "skill": "Polar Function Graphs",
+      "ref": "3.14.A",
+      "prompt": "This topic covers graphing polar functions for AP Precalculus (CED: 3.14.A, Unit 3, Topic 3.14). Polar curves r = f(theta) are graphed by computing r for various theta values and plotting (r, theta) points. Common curves: circles (r = a, r = a*cos(theta)), cardioids (r = a + a*cos(theta)), limacons (r = a + b*cos(theta)), roses (r = a*cos(n*theta) or a*sin(n*theta) with n petals for odd n, 2n for even n), spirals (r = a*theta). Key concepts: symmetry tests (about polar axis, about pi/2 line, about pole); finding where r = 0 (curve passes through pole); understanding how negative r values are plotted. Students should sketch polar curves by hand and with technology. AP exam note: students should identify curve types from equations and sketch accurate graphs. Vocabulary: polar curve, cardioid, limacon, rose, spiral, symmetry, petal, polar axis, negative r."
+    },
+    {
+      "skill": "Rates of Change in Polar Functions",
+      "ref": "3.15.A",
+      "prompt": "This topic covers rates of change in polar functions for AP Precalculus (CED: 3.15.A, Unit 3, Topic 3.15). For r = f(theta), dr/d(theta) represents the rate at which the distance from the origin changes with respect to the angle. Key concepts: dr/d(theta) > 0 means r is increasing (curve moves away from pole); dr/d(theta) < 0 means r is decreasing (curve moves toward pole); dr/d(theta) = 0 may correspond to maximum or minimum distance from the origin. Students analyze how the polar curve's distance from the origin changes as theta varies, connecting this to the shape of the curve. The average rate of change of r over an interval of theta can be computed from the function. AP exam note: students should interpret dr/d(theta) in the context of polar curve behavior and connect it to the visual shape of the graph. Vocabulary: rate of change, polar function, dr/dtheta, increasing, decreasing, distance from origin, maximum distance."
+    }
+  ]
+}

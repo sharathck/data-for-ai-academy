@@ -1,0 +1,26 @@
+{
+  "grade": "AP - Physics 2",
+  "subject": "Magnetism and Electromagnetism",
+  "skills": [
+    {
+      "skill": "Magnetic Fields",
+      "ref": "Unit 4, Topic 4.1",
+      "prompt": "This topic covers magnetic fields for AP Physics 2 students (CED: Unit 4, Topic 4.1). Students should understand that magnetic fields (B) are produced by moving charges, including current-carrying wires and permanent magnets. Magnetic field lines form closed loops: they exit the north pole and enter the south pole of a magnet. Unlike electric monopoles, magnetic monopoles have never been observed; magnetic poles always come in pairs. A long straight wire carrying current I produces a magnetic field: B = mu_0*I/(2*pi*r), with direction given by the right-hand rule (thumb along current, fingers curl in field direction). Inside a solenoid: B = mu_0*nI, where n is turns per unit length. Students must calculate magnetic fields and determine directions using the right-hand rule. Connect to forces on charges, electromagnetic induction, and Ampere's law concepts. AP exam note: right-hand rule applications are essential. Vocabulary: magnetic field, field lines, north pole, south pole, right-hand rule, tesla, mu_0, solenoid."
+    },
+    {
+      "skill": "Magnetism and Moving Charges",
+      "ref": "Unit 4, Topic 4.2",
+      "prompt": "This topic covers the magnetic force on moving charges for AP Physics 2 students (CED: Unit 4, Topic 4.2). Students should understand that a magnetic field exerts a force on a moving charge: F = qvB*sin(theta), where theta is the angle between v and B. The direction is given by the right-hand rule (for positive charges): point fingers in v direction, curl toward B, thumb points in F direction (reverse for negative charges). The magnetic force is always perpendicular to velocity, so it does no work and cannot change speed, only direction. A charge moving perpendicular to a uniform B field travels in a circle with radius r = mv/(qB). This principle underlies mass spectrometers, cyclotrons, and the aurora. Students must calculate forces, determine directions, and analyze circular motion of charges in fields. AP exam note: right-hand rule and circular motion in B fields are heavily tested. Vocabulary: magnetic force, Lorentz force, right-hand rule, circular motion, perpendicular, centripetal, mass spectrometer."
+    },
+    {
+      "skill": "Magnetism and Current-Carrying Wires",
+      "ref": "Unit 4, Topic 4.3",
+      "prompt": "This topic covers magnetism and current-carrying wires for AP Physics 2 students (CED: Unit 4, Topic 4.3). Students should understand that a current-carrying wire in a magnetic field experiences a force: F = BIL*sin(theta), where I is current, L is wire length in the field, and theta is the angle between the wire and B. The direction follows the right-hand rule (point fingers along current, curl toward B, thumb gives force direction). Two parallel wires carrying current exert forces on each other: same-direction currents attract, opposite-direction currents repel (each wire's field exerts a force on the other wire's current). The force per unit length between parallel wires: F/L = mu_0*I1*I2/(2*pi*d). This principle defines the ampere. Students must calculate forces on wires and determine directions. Connect to motors, torque on current loops, and electromagnetic induction. AP exam note: force on wires in fields is a core skill. Vocabulary: force on wire, current-carrying wire, right-hand rule, parallel wires, motor, torque, magnetic field."
+    },
+    {
+      "skill": "Electromagnetic Induction and Faraday’s Law",
+      "ref": "Unit 4, Topic 4.4",
+      "prompt": "This topic covers electromagnetic induction and Faraday’s law for AP Physics 2 students (CED: Unit 4, Topic 4.4). Students should understand that a changing magnetic flux through a conducting loop induces an emf (voltage): Faraday’s law states emf = -d(phi_B)/dt, where magnetic flux phi_B = BA*cos(theta). The negative sign reflects Lenz’s law: the induced current creates a magnetic field that opposes the change in flux that caused it (conservation of energy). Flux changes occur when B, A, or the angle theta changes. Applications include generators (rotating coils in magnetic fields), transformers, and eddy currents. For a coil with N turns: emf = -N*d(phi_B)/dt. Students must calculate induced emf, determine the direction of induced current using Lenz’s law, and analyze scenarios causing flux changes. Connect to magnetic fields, circuits, and energy conservation. AP exam note: Faraday’s law and Lenz’s law are heavily tested. Vocabulary: electromagnetic induction, Faraday’s law, magnetic flux, Lenz’s law, induced emf, induced current, generator, transformer."
+    }
+  ]
+}

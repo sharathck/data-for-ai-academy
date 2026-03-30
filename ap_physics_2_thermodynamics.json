@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Physics 2",
+  "subject": "Thermodynamics",
+  "skills": [
+    {
+      "skill": "Kinetic Theory of Temperature and Pressure",
+      "ref": "Unit 1, Topic 1.1",
+      "prompt": "This topic covers kinetic theory of temperature and pressure for AP Physics 2 students (CED: Unit 1, Topic 1.1). Students should understand that temperature is a measure of the average translational kinetic energy of particles: KE_avg = (3/2)*k_B*T, where k_B is Boltzmann's constant and T is absolute temperature in Kelvin. Pressure results from collisions of gas molecules with container walls. Higher temperature means faster particles and greater pressure (for a fixed volume). The root-mean-square speed relates to temperature: v_rms = sqrt(3*k_B*T/m). At the same temperature, lighter molecules move faster. Students must relate macroscopic quantities (P, T) to microscopic particle behavior and interpret Maxwell-Boltzmann distributions. Connect to ideal gas law, thermodynamic processes, and entropy. AP exam note: connecting microscopic and macroscopic descriptions is essential. Vocabulary: kinetic theory, temperature, average kinetic energy, Boltzmann constant, pressure, rms speed, Maxwell-Boltzmann distribution."
+    },
+    {
+      "skill": "The Ideal Gas Law",
+      "ref": "Unit 1, Topic 1.2",
+      "prompt": "This topic covers the ideal gas law for AP Physics 2 students (CED: Unit 1, Topic 1.2). Students should understand that PV = nRT = Nk_BT relates macroscopic state variables: pressure (P), volume (V), temperature (T), and amount of gas (n moles or N molecules). R is the universal gas constant and k_B is Boltzmann's constant. The ideal gas model assumes point particles with no intermolecular forces and perfectly elastic collisions. Students must apply the ideal gas law to calculate state variables, analyze changes of state, and use proportional reasoning (e.g., if V doubles at constant T and n, P halves). PV diagrams represent thermodynamic processes graphically. Connect to kinetic theory, thermodynamic processes, and real gas deviations. AP exam note: PV diagram interpretation is a core skill throughout thermodynamics. Vocabulary: ideal gas law, state variable, pressure, volume, temperature, moles, PV diagram, equation of state."
+    },
+    {
+      "skill": "Thermal Energy Transfer and Equilibrium",
+      "ref": "Unit 1, Topic 1.3",
+      "prompt": "This topic covers thermal energy transfer and equilibrium for AP Physics 2 students (CED: Unit 1, Topic 1.3). Students should understand that thermal energy transfers spontaneously from higher to lower temperature objects via conduction (direct contact, molecular collisions), convection (bulk fluid movement), and radiation (electromagnetic waves). Thermal equilibrium occurs when objects reach the same temperature and net heat flow ceases. The zeroth law of thermodynamics: if A is in thermal equilibrium with C, and B is in thermal equilibrium with C, then A and B are in thermal equilibrium. Heat (Q) flows until equilibrium: Q_lost = Q_gained (conservation of energy). Students must identify transfer mechanisms and calculate equilibrium temperatures. Connect to specific heat, first law, and entropy. AP exam note: identifying heat transfer mechanisms and applying conservation of energy are tested. Vocabulary: conduction, convection, radiation, thermal equilibrium, zeroth law, heat transfer, temperature difference, net heat flow."
+    },
+    {
+      "skill": "The First Law of Thermodynamics",
+      "ref": "Unit 1, Topic 1.4",
+      "prompt": "This topic covers the first law of thermodynamics for AP Physics 2 students (CED: Unit 1, Topic 1.4). Students should understand that the first law is conservation of energy applied to thermodynamic systems: delta-U = Q - W (or Q + W depending on sign convention), where delta-U is change in internal energy, Q is heat added to the system, and W is work done by the system. For an ideal gas, internal energy depends only on temperature: delta-U = nCv*delta-T. Work done by a gas: W = integral of P*dV = area under the curve on a PV diagram. Key processes: isothermal (delta-T = 0, delta-U = 0, Q = W), isobaric (constant P, W = P*delta-V), isochoric (constant V, W = 0, delta-U = Q), and adiabatic (Q = 0, delta-U = -W). Students must apply the first law to each process type and calculate W from PV diagrams. AP exam note: PV diagram analysis with the first law is heavily tested. Vocabulary: first law, internal energy, heat, work, isothermal, isobaric, isochoric, adiabatic, PV diagram."
+    },
+    {
+      "skill": "Specific Heat and Thermal Conductivity",
+      "ref": "Unit 1, Topic 1.5",
+      "prompt": "This topic covers specific heat and thermal conductivity for AP Physics 2 students (CED: Unit 1, Topic 1.5). Students should understand that specific heat capacity (c) determines how much heat is needed to change a substance's temperature: Q = mc*delta-T. Different substances have different specific heats (water has a high specific heat, metals generally have low values). Thermal conductivity (k or kappa) measures how well a material conducts heat: the rate of heat flow through a material is Q/t = kA*delta-T/L, where A is cross-sectional area, delta-T is temperature difference, and L is thickness. Good thermal conductors (metals) have high k; good insulators (wood, foam) have low k. Students must calculate heat transfer and compare thermal properties. Connect to calorimetry, energy transfer, and thermodynamic processes. AP exam note: calorimetry calculations using Q = mc*delta-T are commonly tested. Vocabulary: specific heat capacity, thermal conductivity, heat transfer rate, insulator, conductor, calorimetry, temperature change."
+    },
+    {
+      "skill": "Entropy and the Second Law of Thermodynamics",
+      "ref": "Unit 1, Topic 1.6",
+      "prompt": "This topic covers entropy and the second law of thermodynamics for AP Physics 2 students (CED: Unit 1, Topic 1.6). Students should understand that entropy (S) measures the number of microstates available to a system (disorder or energy dispersal). The second law states that the total entropy of an isolated system never decreases: delta-S_universe >= 0. For reversible processes, delta-S = Q/T. Heat flows spontaneously from hot to cold because this increases total entropy. Heat engines convert thermal energy to work with efficiency limited by the Carnot efficiency: e_max = 1 - Tc/Th. No engine can be 100 percent efficient. Refrigerators and heat pumps require work input to move heat from cold to hot. Students must calculate entropy changes, engine efficiency, and apply the second law. Connect to thermodynamic processes, free energy, and spontaneity. AP exam note: entropy concepts and efficiency calculations are tested. Vocabulary: entropy, second law, irreversible, reversible, Carnot efficiency, heat engine, microstate, spontaneous."
+    }
+  ]
+}

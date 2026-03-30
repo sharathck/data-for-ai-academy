@@ -1,0 +1,86 @@
+{
+  "grade": "High School - Algebra II",
+  "subject": "Mathematics - Exponential and logarithmic functions and equations",
+  "skills": [
+    {
+      "skill": "Determine the effects on the key attributes on the graphs of f(x) = b to the x power and f(x) = logb (x) where b is 2, 10, and e when f(x) is replaced by af(x), f(x) + d, and f(x - c) for specific positive and negative real values of a, c, and d;",
+      "teks": "2A.5(A)",
+      "prompt": "This topic covers analyzing transformations of exponential and logarithmic functions for Algebra II students (TEKS 2A.5(A)). Explore how af(x), f(x)+d, and f(x-c) affect f(x)=b^x and f(x)=log_b(x) for b=2,10,e. Effects: a stretches/reflects vertically, d shifts vertically (moves asymptote), c shifts horizontally. Key vocabulary: transformation, asymptote, stretch, compression, reflection, shift. Common errors: confusing shift directions, not tracking asymptote changes, and applying shifts in wrong direction for f(x-c)."
+    },
+    {
+      "skill": "Match exponential functions and graphs",
+      "teks": "2A.5(A)",
+      "prompt": "This topic covers matching exponential functions to their graphs for Algebra II students (TEKS 2A.5(A)). Students analyze key features: y-intercept f(0), growth vs decay (b>1 or 0<b<1), horizontal asymptote, and transformation effects. For f(x)=ab^x+d: asymptote is y=d, y-intercept is a+d. Bases 2, 10, and e are emphasized. Key vocabulary: exponential, base, growth, decay, asymptote, transformation. Common errors: not computing y-intercepts, confusing transformations, and misidentifying asymptotes."
+    },
+    {
+      "skill": "Formulate exponential and logarithmic equations that model real-world situations, including exponential relationships written in recursive notation;",
+      "teks": "2A.5(B)",
+      "prompt": "This topic covers formulating exponential and logarithmic equations for real-world situations for Algebra II students (TEKS 2A.5(B)). Students write models using f(t)=a*b^t or f(t)=a*e^(kt) for growth/decay. Recursive notation: a_(n+1) = r*a_n. Key vocabulary: exponential model, recursive notation, growth factor, decay rate, initial value, continuous growth. Common errors: confusing discrete and continuous models, using wrong base, and misidentifying rates."
+    },
+    {
+      "skill": "Write exponential functions: word problems",
+      "teks": "2A.5(B)",
+      "prompt": "This topic covers writing exponential functions from word problems for Algebra II students (TEKS 2A.5(B)). Students identify initial value a and growth/decay factor b from context and write f(x) = ab^x. For percentage growth r, b = 1+r; for decay, b = 1-r. Process: identify initial amount, determine rate, classify as growth or decay, write equation, make predictions. Common contexts: population, investment, depreciation, bacterial growth. Vocabulary: exponential function, initial value, growth factor, decay factor, model. Common errors: writing linear instead of exponential models, confusing rate with factor, and not defining variables."
+    },
+    {
+      "skill": "Exponential growth and decay: word problems",
+      "teks": "2A.5(B)",
+      "prompt": "This topic covers exponential growth and decay word problems for Algebra II students (TEKS 2A.5(B)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+    },
+    {
+      "skill": "Compound interest: word problems",
+      "teks": "2A.5(B)",
+      "prompt": "This topic covers compound interest word problems for Algebra II students (TEKS 2A.5(B)). Formula: A=P(1+r/n)^(nt) where P=principal, r=annual rate, n=compounding frequency, t=years. Common periods: annually(1), quarterly(4), monthly(12), daily(365). Key vocabulary: principal, compound interest, compounding period, future value. Common errors: not converting rate to decimal, incorrect n, and confusing A with interest earned."
+    },
+    {
+      "skill": "Continuously compounded interest: word problems",
+      "teks": "2A.5(B)",
+      "prompt": "This topic covers continuously compounded interest for Algebra II students (TEKS 2A.5(B)). Formula: A=Pe^(rt). Solving for t requires ln: t=ln(A/P)/r. This represents the limit of discrete compounding. Key vocabulary: continuous compounding, e, natural logarithm, principal. Common errors: confusing with discrete formula, not using ln for t, and calculator errors with e."
+    },
+    {
+      "skill": "Rewrite exponential equations as their corresponding logarithmic equations and logarithmic equations as their corresponding exponential equations;",
+      "teks": "2A.5(C)",
+      "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The key relationship: b^x = y is equivalent to log_b(y) = x. Students convert fluently in both directions. Understanding this equivalence is foundational for solving both types of equations. Key vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing positions of exponent and argument, and not recognizing ln as log base e."
+    },
+    {
+      "skill": "Convert between exponential and logarithmic form: rational bases",
+      "teks": "2A.5(C)",
+      "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The fundamental relationship: b^x = y is equivalent to log_b(y) = x. Students practice converting in both directions with various bases including 2, 10, e, and rational bases. Remember: log (no base) means log_10 (common) and ln means log_e (natural). Vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing the position of exponent and argument, and not recognizing special notation for bases 10 and e."
+    },
+    {
+      "skill": "Convert between natural exponential and logarithmic form",
+      "teks": "2A.5(C)",
+      "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The fundamental relationship: b^x = y is equivalent to log_b(y) = x. Students practice converting in both directions with various bases including 2, 10, e, and rational bases. Remember: log (no base) means log_10 (common) and ln means log_e (natural). Vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing the position of exponent and argument, and not recognizing special notation for bases 10 and e."
+    },
+    {
+      "skill": "Convert between exponential and logarithmic form: all bases",
+      "teks": "2A.5(C)",
+      "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The fundamental relationship: b^x = y is equivalent to log_b(y) = x. Students practice converting in both directions with various bases including 2, 10, e, and rational bases. Remember: log (no base) means log_10 (common) and ln means log_e (natural). Vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing the position of exponent and argument, and not recognizing special notation for bases 10 and e."
+    },
+    {
+      "skill": "Solve exponential equations by rewriting the base",
+      "teks": "2A.5(D)",
+      "prompt": "This topic covers solving exponential equations by rewriting bases for Algebra II students (TEKS 2A.5(D)). When both sides can share a base, set exponents equal. Example: 8^x=32 becomes (2^3)^x=2^5, so 3x=5, x=5/3. Key vocabulary: common base, exponent equality. Students must know powers of common bases. Common errors: not finding a common base, exponent arithmetic errors, and not recognizing applicability."
+    },
+    {
+      "skill": "Solve exponential equations using common logarithms",
+      "teks": "2A.5(D)",
+      "prompt": "This topic covers solving exponential equations using common logarithms for Algebra II students (TEKS 2A.5(D)). When bases cannot be made equal, take log of both sides. Example: 3^x = 20 gives x*log(3) = log(20), so x = log(20)/log(3). Steps: isolate the exponential, take log_10 of both sides, apply power rule log(a^n) = n*log(a), solve. Vocabulary: common logarithm, log base 10, power rule. Students use calculators to evaluate. Common errors: not isolating the exponential first, forgetting the power rule, and rounding too early."
+    },
+    {
+      "skill": "Solve exponential equations using natural logarithms",
+      "teks": "2A.5(D)",
+      "prompt": "This topic covers solving exponential equations using natural logarithms for Algebra II students (TEKS 2A.5(D)). Especially useful for equations involving e. Take ln of both sides: for ae^(bx) = c, isolate e^(bx), then bx = ln(c/a). For non-base-e: a^x = b gives x = ln(b)/ln(a). Vocabulary: natural logarithm, ln, base e, exponential equation, solve. Common errors: not isolating the exponential before taking ln, logarithm property errors, and calculator errors."
+    },
+    {
+      "skill": "Solve logarithmic equations I",
+      "teks": "2A.5(D)",
+      "prompt": "This topic covers solving logarithmic equations for Algebra II students (TEKS 2A.5(D)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+    },
+    {
+      "skill": "Determine the reasonableness of a solution to a logarithmic equation.",
+      "teks": "2A.5(E)",
+      "prompt": "This topic covers determining reasonableness of solutions to logarithmic equations for Algebra II students (TEKS 2A.5(E)). After solving, verify that all logarithmic arguments remain positive (log is only defined for positive arguments). Substitute solutions back to check: if any argument is negative or zero, the solution is extraneous. Vocabulary: extraneous solution, domain restriction, argument, verify, reasonable. Common errors: accepting solutions without checking, not checking all logarithmic arguments, and arithmetic errors during verification."
+    }
+  ]
+}

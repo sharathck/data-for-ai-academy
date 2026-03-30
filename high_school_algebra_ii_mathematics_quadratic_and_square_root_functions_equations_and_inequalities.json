@@ -1,0 +1,116 @@
+{
+  "grade": "High School - Algebra II",
+  "subject": "Mathematics - Quadratic and square root functions, equations, and inequalities",
+  "skills": [
+    {
+      "skill": "Write the quadratic function given three specified points in the plane;",
+      "teks": "2A.4(A)",
+      "prompt": "This topic covers writing the quadratic function through three given points for Algebra II students (TEKS 2A.4(A)). Substitute each point into y = ax^2 + bx + c to create a 3x3 system, then solve for a, b, c. Key vocabulary: quadratic, standard form, system of equations. Students verify the equation passes through all three points. Common errors: setup errors, arithmetic in the 3x3 system, and not verifying."
+    },
+    {
+      "skill": "Write a quadratic function from three points",
+      "teks": "2A.4(A)",
+      "prompt": "This topic covers writing a quadratic function through three given points for Algebra II students (TEKS 2A.4(A)). Since y = ax^2 + bx + c has three parameters, three points determine a unique quadratic. Substitute each point to create a system of three equations in a, b, c, then solve using elimination, substitution, or matrices. Vocabulary: quadratic function, standard form, system of equations, parameter. Students verify by checking all three points satisfy the equation. Common errors: setup errors when substituting, arithmetic in the 3x3 system, and not verifying the answer."
+    },
+    {
+      "skill": "Write a quadratic function from its vertex and another point",
+      "teks": "2A.4(B)",
+      "prompt": "This topic covers writing quadratic functions given a vertex and another point for Algebra II students (TEKS 2A.4(B)). Use vertex form f(x) = a(x-h)^2 + k where (h, k) is the vertex. Substitute the other point for x and f(x) to solve for a. The value of a determines width and direction: a > 0 opens up, a < 0 opens down, larger |a| means narrower. Example: vertex (2,-3), point (4,5) gives 5 = a(4-2)^2 - 3, so a = 2. Vocabulary: vertex form, vertex, parameter a, parabola. Common errors: sign mistakes with (x-h) when h is negative, arithmetic errors solving for a, and forgetting to write the complete equation."
+    },
+    {
+      "skill": "Write a quadratic function from its x-intercepts and another point",
+      "teks": "2A.4(B)",
+      "prompt": "This topic covers writing quadratic functions from x-intercepts and another point for Algebra II students (TEKS 2A.4(B)). Use factored form f(x) = a(x-r)(x-s) where r and s are x-intercepts. Substitute the additional point to find a. Students may leave in factored form or expand to standard form. Vocabulary: x-intercept, zero, root, factored form, parameter a. The x-intercepts are where f(x) = 0, and the extra point determines the stretch factor a. Common errors: sign errors in factors (intercept r gives factor (x-r)), arithmetic errors solving for a, and incorrect expansion."
+    },
+    {
+      "skill": "Write equations of parabolas in vertex form from graphs",
+      "teks": "2A.4(B)",
+      "prompt": "This topic covers write equations of parabolas in vertex form from graphs for Algebra II students (TEKS 2A.4(B)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Write equations of parabolas in vertex form using properties",
+      "teks": "2A.4(B)",
+      "prompt": "This topic covers write equations of parabolas in vertex form using properties for Algebra II students (TEKS 2A.4(B)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Graph square root functions",
+      "teks": "2A.4(C)",
+      "prompt": "This topic covers graphing square root functions for Algebra II students (TEKS 2A.4(C)). For f(x) = a*sqrt(x-h)+k: starting point is (h,k), domain is [h, inf). Plot starting point, use table of values, connect with smooth curve. The function is the inverse of a quadratic (restricted domain). Key vocabulary: square root function, starting point, domain, range, transformation. Common errors: graphing left of starting point, not recognizing transformations, and plotting incorrect points."
+    },
+    {
+      "skill": "Convert equations of parabolas from general to vertex form",
+      "teks": "2A.4(D)",
+      "prompt": "This topic covers convert equations of parabolas from general to vertex form for Algebra II students (TEKS 2A.4(D)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Find properties of a parabola from equations in general form",
+      "teks": "2A.4(D)",
+      "prompt": "This topic covers find properties of a parabola from equations in general form for Algebra II students (TEKS 2A.4(D)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Formulate quadratic and square root equations using technology given a table of data;",
+      "teks": "2A.4(E)",
+      "prompt": "This topic covers using technology to formulate equations from data tables for Algebra II students (TEKS 2A.4(E)). Students enter data, run quadratic or power regression, interpret the equation and R^2 value. Compare models to select the best fit. Key vocabulary: regression, quadratic model, coefficient of determination, residual. Common errors: wrong regression type, misinterpreting R^2, and extrapolating beyond data range."
+    },
+    {
+      "skill": "Solve quadratic and square root equations;",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving quadratic equations using square roots for Algebra II students (TEKS 2A.4(F)). This method works when the equation has the form (expression)^2 = k. Steps: isolate the squared term, take square root of both sides (remember +/-), solve. If k > 0: two real solutions. If k = 0: one solution. If k < 0: no real solutions (or complex in Algebra II). Example: (x-3)^2 = 16 gives x-3 = +/-4, so x = 7 or x = -1. Vocabulary: square root, principal root, plus or minus. Common errors: forgetting +/-, not isolating the squared term first, and arithmetic mistakes."
+    },
+    {
+      "skill": "Solve a quadratic equation using square roots",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving quadratic equations using square roots for Algebra II students (TEKS 2A.4(F)). This method works when the equation has the form (expression)^2 = k. Steps: isolate the squared term, take square root of both sides (remember +/-), solve. If k > 0: two real solutions. If k = 0: one solution. If k < 0: no real solutions (or complex in Algebra II). Example: (x-3)^2 = 16 gives x-3 = +/-4, so x = 7 or x = -1. Vocabulary: square root, principal root, plus or minus. Common errors: forgetting +/-, not isolating the squared term first, and arithmetic mistakes."
+    },
+    {
+      "skill": "Solve a quadratic equation using the zero product property",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving quadratic equations using the zero product property for Algebra II students (TEKS 2A.4(F)). The zero product property states: if ab = 0, then a = 0 or b = 0. When the equation is in factored form (x-r)(x-s) = 0, set each factor to zero and solve. The solutions are the x-intercepts. Students must ensure the equation equals zero and is factored. Vocabulary: zero product property, factor, root, zero, solution, x-intercept. Verify solutions by substituting back. Common errors: forgetting to set the equation equal to zero, sign errors when finding solutions from factors, and not factoring completely."
+    },
+    {
+      "skill": "Solve a quadratic equation by factoring",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving quadratic equations by factoring for Algebra II students (TEKS 2A.4(F)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+    },
+    {
+      "skill": "Solve a quadratic equation by completing the square",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving quadratic equations by completing the square for Algebra II students (TEKS 2A.4(F)). Steps: move constant to right, divide by a if needed, add (b/2)^2 to both sides, factor left as perfect square, take square root of both sides (+/-), solve. Example: x^2 + 6x = 7 becomes (x+3)^2 = 16, x+3 = +/-4, giving x = 1 or x = -7. This method always works, even when factoring does not. Vocabulary: completing the square, perfect square trinomial. Common errors: forgetting to add to both sides, errors dividing by a, and sign mistakes with +/-."
+    },
+    {
+      "skill": "Solve a quadratic equation using the quadratic formula",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving quadratic equations using the quadratic formula for Algebra II students (TEKS 2A.4(F)). Formula: x = (-b +/- sqrt(b^2 - 4ac))/(2a) for ax^2 + bx + c = 0. The discriminant D = b^2 - 4ac determines solution type: D > 0 gives 2 real solutions, D = 0 gives 1 repeated, D < 0 gives no real solutions (complex in Algebra II). Students identify a, b, c from standard form and substitute carefully. Vocabulary: quadratic formula, discriminant, standard form. Common errors: sign errors with negative b, forgetting 2a divides the entire numerator, and discriminant computation errors."
+    },
+    {
+      "skill": "Solve quadratic equations: word problems",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving quadratic equations in word problem contexts for Algebra II students (TEKS 2A.4(F)). Common contexts: projectile motion (h = -16t^2 + v0t + h0), area problems, revenue optimization, and falling objects. Steps: define variables, write the quadratic equation, solve using any method, interpret solutions in context (reject negative time, unreasonable dimensions). Vocabulary: projectile, maximum height, time of flight, area, optimization. Common errors: not rejecting extraneous solutions, setting up equations incorrectly, and misinterpreting context."
+    },
+    {
+      "skill": "Solve radical equations",
+      "teks": "2A.4(F)",
+      "prompt": "This topic covers solving radical equations for Algebra II students (TEKS 2A.4(F)). Steps: isolate the radical, raise both sides to appropriate power, solve, CHECK for extraneous solutions. Squaring can introduce extraneous solutions. Some equations require squaring twice. Example: sqrt(x+3) = x-1; square both sides: x+3 = (x-1)^2; solve and verify. Vocabulary: radical equation, extraneous solution, isolate, verify. Common errors: forgetting to check, not isolating first, and squaring errors."
+    },
+    {
+      "skill": "Identify extraneous solutions of square root equations;",
+      "teks": "2A.4(G)",
+      "prompt": "This topic covers identifying extraneous solutions of square root equations for Algebra II students (TEKS 2A.4(G)). Extraneous solutions arise when squaring both sides (a non-reversible operation). Students must substitute all solutions back into the original equation to verify. Key vocabulary: extraneous solution, verify, square root equation, valid solution. Common errors: accepting all algebraic solutions without checking, and errors during verification."
+    },
+    {
+      "skill": "Solve quadratic inequalities.",
+      "teks": "2A.4(H)",
+      "prompt": "This topic covers solving quadratic inequalities for Algebra II students (TEKS 2A.4(H)). Steps: write in standard form, find zeros by factoring or quadratic formula, test intervals, determine which satisfy the inequality, write in interval notation. The solution depends on parabola direction and zeros. Graphically, solutions correspond to where the parabola is above or below the x-axis. Include/exclude endpoints based on strict or non-strict inequality. Vocabulary: quadratic inequality, zeros, test intervals, interval notation, sign chart. Common errors: incorrect interval testing, forgetting endpoint inclusion/exclusion, and factoring mistakes."
+    },
+    {
+      "skill": "Graph solutions to quadratic inequalities",
+      "teks": "2A.4(H)",
+      "prompt": "This topic covers solving quadratic inequalities for Algebra II students (TEKS 2A.4(H)). Steps: write in standard form, find zeros by factoring or quadratic formula, test intervals, determine which satisfy the inequality, write in interval notation. The solution depends on parabola direction and zeros. Graphically, solutions correspond to where the parabola is above or below the x-axis. Include/exclude endpoints based on strict or non-strict inequality. Vocabulary: quadratic inequality, zeros, test intervals, interval notation, sign chart. Common errors: incorrect interval testing, forgetting endpoint inclusion/exclusion, and factoring mistakes."
+    },
+    {
+      "skill": "Solve quadratic inequalities",
+      "teks": "2A.4(H)",
+      "prompt": "This topic covers solving quadratic inequalities for Algebra II students (TEKS 2A.4(H)). Steps: write in standard form, find zeros by factoring or quadratic formula, test intervals, determine which satisfy the inequality, write in interval notation. The solution depends on parabola direction and zeros. Graphically, solutions correspond to where the parabola is above or below the x-axis. Include/exclude endpoints based on strict or non-strict inequality. Vocabulary: quadratic inequality, zeros, test intervals, interval notation, sign chart. Common errors: incorrect interval testing, forgetting endpoint inclusion/exclusion, and factoring mistakes."
+    }
+  ]
+}

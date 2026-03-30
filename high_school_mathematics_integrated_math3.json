@@ -1,0 +1,162 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Integrated Math-3",
+  "skills": [
+    {
+      "skill": "Polynomial Functions and Equations",
+      "teks": "2A.7(D)",
+      "teks_description": "Determine the linear factors of a polynomial function of degree three and four",
+      "prompt": "This topic covers factoring and analyzing polynomial functions of degree three and four for Integrated Math-3 students (TEKS 2A.7D). Students should determine linear factors using synthetic division, Rational Root Theorem, and factoring by grouping. Key concepts: Fundamental Theorem of Algebra, relationship between factors and zeros, end behavior, multiplicity. Vocabulary: polynomial, degree, leading coefficient, zero, root, factor, multiplicity, end behavior, turning point, Rational Root Theorem. Common errors: missing complex roots, forgetting to check all possible rational roots, and misidentifying end behavior."
+    },
+    {
+      "skill": "Rational Functions and Asymptotes",
+      "teks": "2A.6(K)",
+      "teks_description": "Determine asymptotic restrictions and represent domain/range using notation and set theory",
+      "prompt": "This topic covers analyzing rational functions for Integrated Math-3 students (TEKS 2A.6K). Students should determine vertical asymptotes, horizontal asymptotes, holes, and express domain/range using interval notation. Key concepts: comparing degrees for HA rules, holes from common factors, oblique asymptotes. Vocabulary: rational function, vertical asymptote, horizontal asymptote, oblique asymptote, hole, discontinuity, domain, range, interval notation. Common errors: confusing holes and vertical asymptotes, misidentifying HA rules, and forgetting domain restrictions."
+    },
+    {
+      "skill": "Exponential and Logarithmic Functions",
+      "teks": "P.5(H)",
+      "teks_description": "Generate and solve logarithmic equations in mathematical and real-world problems",
+      "prompt": "This topic covers solving logarithmic equations for Integrated Math-3 students (TEKS P.5H). Key properties: log_b(MN) = log_b(M)+log_b(N), log_b(M/N) = log_b(M)-log_b(N), log_b(M^p) = p*log_b(M), change of base formula. Key concepts: converting between forms, checking for extraneous solutions, real-world applications (pH, decibels, Richter scale). Vocabulary: logarithm, common log, natural log, exponential equation, extraneous solution, change of base. Common errors: applying log rules to sums, forgetting domain restrictions, and extraneous solutions."
+    },
+    {
+      "skill": "Trigonometric Functions and Graphs",
+      "teks": "P.2(G)",
+      "teks_description": "Graph functions including sine, cosine, rational, polynomial and their transformations",
+      "prompt": "This topic covers graphing trigonometric functions for Integrated Math-3 students (TEKS P.2G). Students should graph sine, cosine, tangent, and reciprocal functions with transformations. Key concepts: amplitude, period, phase shift, vertical shift, asymptotes for tan/cot/sec/csc. Vocabulary: amplitude, period, frequency, phase shift, midline, asymptote, sinusoidal, reciprocal function. Common errors: incorrect period calculation, misplacing asymptotes, confusing amplitude with vertical shift."
+    },
+    {
+      "skill": "Trigonometric Identities and Equations",
+      "teks": "P.5(M)",
+      "teks_description": "Use trigonometric identities: reciprocal, quotient, Pythagorean, cofunctions, even/odd, sum/difference",
+      "prompt": "This topic covers proving and using trigonometric identities for Integrated Math-3 students (TEKS P.5M). Key identities: reciprocal, quotient, Pythagorean, cofunction, even/odd, sum/difference formulas. Key concepts: proving identities by transforming one side, strategic substitutions. Vocabulary: identity, reciprocal, quotient, Pythagorean identity, cofunction, even function, odd function, verify. Common errors: treating identities as equations to solve, working both sides simultaneously, and algebraic mistakes."
+    },
+    {
+      "skill": "Sequences and Series",
+      "teks": "P.5(D)",
+      "teks_description": "Represent arithmetic series and geometric series using sigma notation",
+      "prompt": "This topic covers sigma notation and series for Integrated Math-3 students (TEKS P.5D). Key formulas: arithmetic S_n = n/2(a_1+a_n), geometric S_n = a_1(1-r^n)/(1-r), infinite geometric S = a_1/(1-r) when |r|<1. Key concepts: index of summation, convergence of infinite geometric series. Vocabulary: series, sigma notation, partial sum, infinite series, convergent, divergent, arithmetic series, geometric series. Common errors: index errors, misapplying formulas, and confusing convergence conditions."
+    },
+    {
+      "skill": "Functions and Their Inverses",
+      "teks": "P.2(E)",
+      "teks_description": "Determine an inverse function when it exists for a given function over its domain",
+      "prompt": "This topic covers finding inverse functions for Integrated Math-3 students (TEKS P.2E). Key concepts: horizontal line test, restricting domains, graphing as reflections over y = x, inverse of polynomial/exponential/logarithmic functions. Vocabulary: inverse function, one-to-one, horizontal line test, domain restriction, composition, reflection. Common errors: not restricting domains, confusing inverse with reciprocal, and algebraic solving errors."
+    },
+    {
+      "skill": "Conic Sections (Ellipses and Hyperbolas)",
+      "teks": "P.3(H)",
+      "teks_description": "Use the characteristics of an ellipse to write the equation with center (h,k)",
+      "prompt": "This topic covers ellipses and hyperbolas for Integrated Math-3 students (TEKS P.3H). Ellipse: (x-h)^2/a^2 + (y-k)^2/b^2 = 1. Hyperbola: (x-h)^2/a^2 - (y-k)^2/b^2 = 1. Key concepts: vertices, foci, eccentricity, axes, asymptotes for hyperbolas, c^2 = a^2-b^2 (ellipse) and c^2 = a^2+b^2 (hyperbola). Vocabulary: ellipse, hyperbola, focus, vertex, eccentricity, asymptote, transverse axis, conjugate axis. Common errors: confusing a and b, wrong c^2 relationship, and misidentifying orientation."
+    },
+    {
+      "skill": "Vectors and Parametric Equations",
+      "teks": "P.4(I)",
+      "teks_description": "Use vectors to model situations involving magnitude and direction",
+      "prompt": "This topic covers vectors and parametric equations for Integrated Math-3 students (TEKS P.4I). Key concepts: component form, magnitude, vector addition, scalar multiplication, direction angles, parametric equations x = f(t), y = g(t), converting between forms. Vocabulary: vector, magnitude, direction, component form, unit vector, dot product, parametric equation, parameter. Common errors: confusing position and direction vectors, sign errors, and incorrect parametric elimination."
+    },
+    {
+      "skill": "Complex Numbers and De Moivre's Theorem",
+      "teks": "2A.7(A)",
+      "teks_description": "Add, subtract, and multiply complex numbers including polar and trigonometric form",
+      "prompt": "This topic covers complex numbers in polar form for Integrated Math-3 students (TEKS 2A.7A). Key concepts: converting between a+bi and r(cos theta + i sin theta), De Moivre's Theorem for powers and nth roots, modulus and argument. Vocabulary: modulus, argument, polar form, trigonometric form, De Moivre's Theorem, nth root, root of unity. Common errors: incorrect argument quadrant, forgetting all n distinct nth roots, and arithmetic errors."
+    },
+    {
+      "skill": "Introduction to Limits and Continuity",
+      "teks": "P.2(L)",
+      "teks_description": "Determine various types of discontinuities as they relate to functions",
+      "prompt": "This topic covers discontinuities and limits for Integrated Math-3 students (TEKS P.2L). Key concepts: types of discontinuities (removable, jump, infinite), intuitive limits, one-sided limits, continuity at a point, Intermediate Value Theorem. Vocabulary: limit, continuity, discontinuity, removable, jump, infinite, one-sided limit, Intermediate Value Theorem. Common errors: confusing function value with limit, not checking both sides, and misidentifying discontinuity type."
+    },
+    {
+      "skill": "Introduction to Derivatives",
+      "teks": "P.2(J)",
+      "teks_description": "Analyze and describe end behavior of functions using infinity notation",
+      "prompt": "This topic covers end behavior and rates of change for Integrated Math-3 students (TEKS P.2J). Key concepts: end behavior using infinity notation, average rate of change as secant line slope, difference quotient [f(x+h)-f(x)]/h approaching instantaneous rate. Vocabulary: end behavior, infinity, secant line, average rate of change, difference quotient, instantaneous rate. Common errors: confusing end behavior of even vs. odd degree polynomials and difference quotient algebra errors."
+    },
+    {
+      "skill": "Probability Distributions and Expected Value",
+      "teks": "S.5(C)",
+      "teks_description": "Construct a distribution based on technology-generated simulation for a discrete random variable",
+      "prompt": "This topic covers constructing probability distributions for Integrated Math-3 students (TEKS S.5C). Key concepts: discrete probability distributions, expected value E(X) = sum x*P(x), variance and standard deviation. Vocabulary: random variable, probability distribution, expected value, variance, standard deviation, simulation, discrete. Common errors: probabilities not summing to 1, confusing expected value with most likely outcome, and miscounting outcomes."
+    },
+    {
+      "skill": "Statistical Inferences and Conclusions",
+      "teks": "S.6(F)",
+      "teks_description": "Describe how sample statistics serve as evidence contradicting claims about population parameters",
+      "prompt": "This topic covers using sample statistics to evaluate claims for Integrated Math-3 students (TEKS S.6F). Key concepts: null and alternative hypotheses, sampling variability, p-values, significance level, Type I and Type II errors. Vocabulary: population parameter, sample statistic, null hypothesis, alternative hypothesis, p-value, significance level, statistically significant. Common errors: interpreting p-value as probability null is true, confusing statistical and practical significance."
+    },
+    {
+      "skill": "Modeling with Functions",
+      "teks": "P.2(N)",
+      "teks_description": "Analyze situations modeled by functions to solve real-world problems",
+      "prompt": "This topic covers analyzing real-world situations with functions for Integrated Math-3 students (TEKS P.2N). Key concepts: selecting appropriate function types, interpreting parameters, evaluating model fit, domain restrictions from context. Vocabulary: mathematical model, parameter, domain restriction, prediction, interpolation, extrapolation, residual. Common errors: choosing inappropriate function types, extrapolating beyond reasonable bounds, and ignoring contextual constraints."
+    },
+    {
+      "skill": "Piecewise and Step Functions",
+      "teks": "P.2(F)",
+      "teks_description": "Graph piecewise defined functions and analyze their behavior",
+      "prompt": "This topic covers graphing and analyzing piecewise functions for Integrated Math-3 students (TEKS P.2F). Key concepts: defining rules for different intervals, open/closed endpoints, greatest integer function, real-world applications. Vocabulary: piecewise function, step function, greatest integer function, floor function, continuous, discontinuous, boundary point. Common errors: evaluating with wrong piece at boundary values, inconsistent endpoints, and missing discontinuities."
+    },
+    {
+      "skill": "Transformations of Functions",
+      "teks": "P.2(G)",
+      "teks_description": "Graph functions and their transformations including translations, reflections, and stretches",
+      "prompt": "This topic covers graphing transformed functions for Integrated Math-3 students (TEKS P.2G). Key concepts: translations, reflections, stretches/compressions applied to all parent function families, combining multiple transformations. Vocabulary: parent function, transformation, translation, reflection, stretch, compression, vertical, horizontal, image. Common errors: order of transformations affecting results, horizontal vs. vertical confusion, and sign errors in horizontal shifts."
+    },
+    {
+      "skill": "Solving Nonlinear Systems of Equations",
+      "teks": "2A.3(C)",
+      "teks_description": "Solve algebraically systems of two equations consisting of a linear and a quadratic equation",
+      "prompt": "This topic covers solving systems with linear and quadratic equations for Integrated Math-3 students (TEKS 2A.3C). Key concepts: substitution, graphical interpretation, 0/1/2 solution cases, discriminant connection. Vocabulary: nonlinear system, substitution, intersection, tangent, secant, discriminant, solution set. Common errors: algebraic errors, forgetting to find both coordinates, and misinterpreting no-solution cases."
+    },
+    {
+      "skill": "Polar Coordinates and Graphs",
+      "teks": "P.3(D)",
+      "teks_description": "Graph points in the polar coordinate system and convert between rectangular and polar coordinates",
+      "prompt": "This topic covers the polar coordinate system for Integrated Math-3 students (TEKS P.3D). Key concepts: converting between rectangular and polar, graphing polar equations (circles, cardioids, rose curves, limacons, lemniscates). Vocabulary: polar coordinates, pole, polar axis, radial distance, angular coordinate, cardioid, rose curve, limacon, lemniscate. Common errors: incorrect quadrant for theta, confusing (r,theta) with (x,y), and not accounting for negative r values."
+    },
+    {
+      "skill": "Matrices and Determinants",
+      "teks": "2A.3(B)",
+      "teks_description": "Solve three-variable linear systems using Gaussian elimination, matrices, or substitution",
+      "prompt": "This topic covers solving systems using matrices for Integrated Math-3 students (TEKS 2A.3B). Key concepts: Gaussian elimination, row operations, 2x2 and 3x3 determinants, matrix operations, inverse matrices, Cramer's rule. Vocabulary: matrix, augmented matrix, row echelon form, determinant, Gaussian elimination, pivot, inverse matrix, Cramer's rule. Common errors: row operation errors, determinant sign pattern mistakes, and confusing matrix multiplication order."
+    },
+    {
+      "skill": "Solving Equations with Rational Exponents",
+      "teks": "2A.7(H)",
+      "teks_description": "Solve equations involving rational exponents",
+      "prompt": "This topic covers equations involving rational exponents for Integrated Math-3 students (TEKS 2A.7H). Key concepts: converting between radical and rational exponent form, isolating the term, raising to reciprocal power, checking for extraneous solutions, domain restrictions. Vocabulary: rational exponent, radical, index, radicand, extraneous solution, domain restriction. Common errors: forgetting to check for extraneous solutions, sign errors with even/odd roots, and incorrect reciprocal exponents."
+    },
+    {
+      "skill": "Graphical Analysis of Functions",
+      "teks": "P.2(I)",
+      "teks_description": "Determine and analyze key features including domain, range, symmetry, zeros, asymptotes",
+      "prompt": "This topic covers determining key features of functions for Integrated Math-3 students (TEKS P.2I). Key features: domain, range, intercepts, zeros, symmetry, asymptotes, intervals of increase/decrease, extrema, end behavior. Vocabulary: domain, range, zero, intercept, asymptote, increasing, decreasing, maximum, minimum, extremum, inflection point, concavity. Common errors: confusing relative and absolute extrema, misidentifying intervals, and missing asymptotic behavior."
+    },
+    {
+      "skill": "Data Analysis and Statistical Reasoning",
+      "teks": "S.4(F)",
+      "teks_description": "Analyze categorical data including marginal and conditional distributions using two-way tables",
+      "prompt": "This topic covers analyzing categorical data with two-way tables for Integrated Math-3 students (TEKS S.4F). Key concepts: marginal distributions, conditional distributions, joint distributions, segmented bar graphs, Simpson's paradox. Vocabulary: categorical data, two-way table, marginal distribution, conditional distribution, joint distribution, segmented bar graph, association, independence, Simpson's paradox. Common errors: confusing marginal and conditional distributions, computing percentages from wrong totals."
+    },
+    {
+      "skill": "Introduction to Series and Sigma Notation",
+      "teks": "P.5(A)",
+      "teks_description": "Evaluate finite sums and geometric series written in sigma notation",
+      "prompt": "This topic covers evaluating finite sums in sigma notation for Integrated Math-3 students (TEKS P.5A). Key formulas: arithmetic sum, geometric sum, common summation formulas. Key concepts: index variable, limits, linearity of summation, telescoping series. Vocabulary: sigma notation, summation, index, series, partial sum, telescoping, closed form. Common errors: incorrect index bounds, misapplying formulas, and forgetting to adjust for non-standard starting indices."
+    },
+    {
+      "skill": "Modeling Periodic Phenomena",
+      "teks": "P.2(O)",
+      "teks_description": "Develop and use a sinusoidal function that models a situation",
+      "prompt": "This topic covers sinusoidal modeling for Integrated Math-3 students (TEKS P.2O). Key concepts: constructing y = A*sin(B(x-C))+D from data, determining amplitude, period, phase shift, vertical shift. Applications: tides, temperatures, Ferris wheels, daylight hours. Vocabulary: sinusoidal, amplitude, period, frequency, phase shift, midline, periodic, cycle, harmonic. Common errors: wrong period-to-B conversion (B = 2pi/period), incorrect phase shift, and misidentifying amplitude vs. range."
+    },
+    {
+      "skill": "Law of Sines and Cosines",
+      "teks": "P.4(G)",
+      "teks_description": "Use the Law of Sines in mathematical and real-world problems; P.4(H) Law of Cosines",
+      "prompt": "This topic covers solving oblique triangles for Integrated Math-3 students (TEKS P.4G, P.4H). Law of Sines: a/sin(A) = b/sin(B) = c/sin(C). Law of Cosines: c^2 = a^2+b^2-2ab*cos(C). Key concepts: choosing which law, ambiguous case (SSA), area formula A = (1/2)ab*sin(C). Vocabulary: oblique triangle, Law of Sines, Law of Cosines, ambiguous case, included angle. Common errors: forgetting the ambiguous case, using the wrong law, and calculator mode errors."
+    }
+  ]
+}

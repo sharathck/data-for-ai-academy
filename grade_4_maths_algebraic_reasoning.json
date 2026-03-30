@@ -1,0 +1,151 @@
+{
+  "grade": "Grade 4",
+  "subject": "Maths - Algebraic reasoning",
+  "skills": [
+    {
+      "skill": "Write equations to represent word problems",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers writing equations to represent word problems for Grade 4 students (TEKS 4.5(A)). Students should understand how to translate verbal descriptions into mathematical equations. Key concepts: identify the unknown quantity and represent it with a variable or symbol; determine the operation(s) described in the problem; write an equation that models the situation; use key words to determine operations (total/sum for addition, difference/less for subtraction, product/times for multiplication, quotient/divided for division). Students should solve multi-step word problems by writing and solving equations. Vocabulary: equation, variable, expression, operation, solve, unknown, represent, translate, model, equal, sum, difference, product, quotient. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Use equations to solve multi-step addition and subtraction word problems",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers writing equations to represent word problems for Grade 4 students (TEKS 4.5(A)). Students should understand how to translate verbal descriptions into mathematical equations. Key concepts: identify the unknown quantity and represent it with a variable or symbol; determine the operation(s) described in the problem; write an equation that models the situation; use key words to determine operations (total/sum for addition, difference/less for subtraction, product/times for multiplication, quotient/divided for division). Students should solve multi-step word problems by writing and solving equations. Vocabulary: equation, variable, expression, operation, solve, unknown, represent, translate, model, equal, sum, difference, product, quotient. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multi-step word problems with strip diagrams",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers using strip diagrams to solve word problems for Grade 4 students (TEKS 4.5(A)). Students should understand how to use strip diagrams (bar models or tape diagrams) as visual tools to represent and solve word problems. Key concepts: strip diagrams show relationships between quantities using rectangular bars; the whole bar represents the total; parts of the bar represent known and unknown quantities; diagrams help students visualize addition, subtraction, multiplication, and comparison relationships; students should draw strip diagrams and use them to set up equations. Vocabulary: strip diagram, bar model, tape diagram, whole, part, total, unknown, represent, compare, equal parts, relationship, visual model. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Use strip diagrams to represent and solve multi-step word problems",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers using strip diagrams to solve word problems for Grade 4 students (TEKS 4.5(A)). Students should understand how to use strip diagrams (bar models or tape diagrams) as visual tools to represent and solve word problems. Key concepts: strip diagrams show relationships between quantities using rectangular bars; the whole bar represents the total; parts of the bar represent known and unknown quantities; diagrams help students visualize addition, subtraction, multiplication, and comparison relationships; students should draw strip diagrams and use them to set up equations. Vocabulary: strip diagram, bar model, tape diagram, whole, part, total, unknown, represent, compare, equal parts, relationship, visual model. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Write variable expressions",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers writing variable expressions for Grade 4 students (TEKS 4.5(A)). Students should understand how to represent real-world situations and mathematical relationships using expressions with variables. Key concepts: a variable is a letter or symbol that represents an unknown number; expressions combine variables, numbers, and operations; translating words to expressions requires identifying operations (added to, less than, times, divided by); expressions do not have an equal sign (unlike equations). Vocabulary: variable, expression, operation, coefficient, constant, term, translate, represent, algebraic, evaluate, simplify. Problems should include translating verbal phrases and real-world scenarios into expressions, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Write variable expressions: word problems",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers writing variable expressions for Grade 4 students (TEKS 4.5(A)). Students should understand how to represent real-world situations and mathematical relationships using expressions with variables. Key concepts: a variable is a letter or symbol that represents an unknown number; expressions combine variables, numbers, and operations; translating words to expressions requires identifying operations (added to, less than, times, divided by); expressions do not have an equal sign (unlike equations). Vocabulary: variable, expression, operation, coefficient, constant, term, translate, represent, algebraic, evaluate, simplify. Problems should include translating verbal phrases and real-world scenarios into expressions, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multi-step addition word problems",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers multi-step word problems for Grade 4 students (TEKS 4.5(A)). Students should understand how to solve word problems that require two or more operations. Key concepts: read carefully to identify what is being asked; determine the operations needed and their order; use estimation to check if answers are reasonable; strip diagrams and equations can help organize thinking; problems may involve all four operations and may include whole numbers, fractions, or decimals. Vocabulary: multi-step, operation, equation, variable, estimate, reasonable, strategy, sum, difference, product, quotient, solve, interpret, remainder. Problems should involve realistic scenarios appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multi-step word problems involving subtraction",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers multi-step word problems for Grade 4 students (TEKS 4.5(A)). Students should understand how to solve word problems that require two or more operations. Key concepts: read carefully to identify what is being asked; determine the operations needed and their order; use estimation to check if answers are reasonable; strip diagrams and equations can help organize thinking; problems may involve all four operations and may include whole numbers, fractions, or decimals. Vocabulary: multi-step, operation, equation, variable, estimate, reasonable, strategy, sum, difference, product, quotient, solve, interpret, remainder. Problems should involve realistic scenarios appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify mistakes in number patterns",
+      "teks": "4.5(B)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 4 students (TEKS 4.5(B)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiplication input/output tables",
+      "teks": "4.5(B)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 4 students (TEKS 4.5(B)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Input/output tables with addition, subtraction, multiplication, and division",
+      "teks": "4.5(B)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 4 students (TEKS 4.5(B)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Complete the input/output table",
+      "teks": "4.5(B)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 4 students (TEKS 4.5(B)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Write the rule for an input/output table",
+      "teks": "4.5(B)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 4 students (TEKS 4.5(B)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Perimeter of polygons",
+      "teks": "4.5(C)",
+      "prompt": "This topic covers Perimeter of polygons for Grade 4 students (TEKS 4.5(C)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 9-10 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Perimeter: find the missing side length",
+      "teks": "4.5(C)",
+      "prompt": "This topic covers finding missing side lengths from a given perimeter for Grade 4 students (TEKS 4.5(C)). Students should understand how to work backward from a known perimeter to find an unknown side length. Key concepts: perimeter is the sum of all side lengths; if the perimeter and some side lengths are known, subtract the known sides from the perimeter to find the missing side(s); for rectangles, opposite sides are equal, so knowing one pair of dimensions helps find the other; setting up and solving equations based on the perimeter formula. Vocabulary: perimeter, missing side, unknown, equation, subtract, solve, rectangle, polygon, length, width, sum. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Find the perimeter of rectangles using formulas",
+      "teks": "4.5(C)",
+      "prompt": "This topic covers finding perimeter using formulas for Grade 4 students (TEKS 4.5(C)). Students should understand that perimeter is the total distance around a polygon and can be calculated using formulas. Key concepts: for any polygon, perimeter = sum of all side lengths; for rectangles, P = 2l + 2w or P = 2(l + w); for squares, P = 4s; students should substitute known values into formulas and solve for unknown sides when the perimeter is given. Vocabulary: perimeter, formula, length, width, side, polygon, rectangle, square, distance, sum, substitute, solve, units. Problems should involve both finding perimeter and working backward to find missing side lengths, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Find the area of rectangles using formulas",
+      "teks": "4.5(C)",
+      "prompt": "This topic covers finding area of rectangles using formulas for Grade 4 students (TEKS 4.5(C)). Students should understand that area measures the space inside a 2D figure in square units. Key concepts: area of a rectangle = length x width (A = lw); area of a square = side x side (A = s^2); square units include square centimeters, square inches, square feet, etc.; students should apply the formula and also find a missing dimension when the area and one dimension are known. Vocabulary: area, length, width, rectangle, square, formula, square units, multiply, space, dimension, coverage. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Find the area or missing side length of a rectangle",
+      "teks": "4.5(C)",
+      "prompt": "This topic covers Find the area or missing side length of a rectangle for Grade 4 students (TEKS 4.5(C)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 9-10 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Understanding area and perimeter of rectangles",
+      "teks": "4.5(C)",
+      "prompt": "This topic covers Understanding area and perimeter of rectangles for Grade 4 students (TEKS 4.5(C)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 9-10 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Perimeter: find the missing side length (2)",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers finding missing side lengths from a given perimeter for Grade 4 students (TEKS 4.5(D)). Students should understand how to work backward from a known perimeter to find an unknown side length. Key concepts: perimeter is the sum of all side lengths; if the perimeter and some side lengths are known, subtract the known sides from the perimeter to find the missing side(s); for rectangles, opposite sides are equal, so knowing one pair of dimensions helps find the other; setting up and solving equations based on the perimeter formula. Vocabulary: perimeter, missing side, unknown, equation, subtract, solve, rectangle, polygon, length, width, sum. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Perimeter: word problems",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers perimeter word problems for Grade 4 students (TEKS 4.5(D)). Students should apply their understanding of perimeter to solve real-world problems. Key concepts: identify the shape and its dimensions from the problem context; apply the appropriate perimeter formula or add all side lengths; answer the question asked (which may involve finding perimeter, a missing side, or the amount of material needed); multi-step problems may require additional operations. Vocabulary: perimeter, distance around, fence, border, frame, edge, length, width, side, total, formula, units. Problems should involve realistic contexts like fencing a yard, framing a picture, or walking around a field, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Create rectangles with a given area",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers Create rectangles with a given area for Grade 4 students (TEKS 4.5(D)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 9-10 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Area: word problems",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers area word problems for Grade 4 students (TEKS 4.5(D)). Students should apply their understanding of area formulas to solve real-world problems. Key concepts: identify the shape and dimensions from the problem; apply the appropriate area formula; answer the question (finding area, a missing dimension, or the amount of material needed); multi-step problems may combine area with other operations. Vocabulary: area, square units, cover, surface, length, width, formula, dimension, space, carpet, tile, paint, garden. Problems should involve realistic contexts like covering a floor with tiles, painting a wall, or planting a garden, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Area of complex figures",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers area of complex (compound) figures for Grade 4 students (TEKS 4.5(D)). Students should understand how to find the area of shapes that combine multiple rectangles or other simple figures. Key concepts: decompose the complex figure into non-overlapping simple shapes (usually rectangles); find the area of each simple shape using the appropriate formula; add the individual areas to find the total area; alternatively, enclose the figure in a larger rectangle and subtract unused regions. Vocabulary: complex figure, compound figure, decompose, area, rectangle, subtract, add, total, strategy, non-overlapping, composite. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Relationship between area and perimeter",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers the relationship between area and perimeter for Grade 4 students (TEKS 4.5(D)). Students should understand that rectangles with the same area can have different perimeters, and rectangles with the same perimeter can have different areas. Key concepts: area measures the space inside (square units) while perimeter measures the distance around (linear units); changing dimensions affects area and perimeter differently; for a fixed area, the rectangle closest to a square has the smallest perimeter; for a fixed perimeter, the rectangle closest to a square has the largest area. Vocabulary: area, perimeter, rectangle, dimensions, relationship, square units, linear units, length, width, compare, maximize, minimize. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Area and perimeter: word problems",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers perimeter word problems for Grade 4 students (TEKS 4.5(D)). Students should apply their understanding of perimeter to solve real-world problems. Key concepts: identify the shape and its dimensions from the problem context; apply the appropriate perimeter formula or add all side lengths; answer the question asked (which may involve finding perimeter, a missing side, or the amount of material needed); multi-step problems may require additional operations. Vocabulary: perimeter, distance around, fence, border, frame, edge, length, width, side, total, formula, units. Problems should involve realistic contexts like fencing a yard, framing a picture, or walking around a field, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Rectangles: relationship between perimeter and area word problems",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers perimeter word problems for Grade 4 students (TEKS 4.5(D)). Students should apply their understanding of perimeter to solve real-world problems. Key concepts: identify the shape and its dimensions from the problem context; apply the appropriate perimeter formula or add all side lengths; answer the question asked (which may involve finding perimeter, a missing side, or the amount of material needed); multi-step problems may require additional operations. Vocabulary: perimeter, distance around, fence, border, frame, edge, length, width, side, total, formula, units. Problems should involve realistic contexts like fencing a yard, framing a picture, or walking around a field, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Use area and perimeter to determine cost",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers using area and perimeter to determine cost for Grade 4 students (TEKS 4.5(D)). Students should apply area and perimeter calculations to solve real-world cost problems. Key concepts: when buying material to cover a surface (carpet, paint, tiles), calculate the area; when buying material to go around a border (fencing, trim, edging), calculate the perimeter; multiply the area or perimeter by the unit cost to find the total cost; multi-step problems may require finding both area and perimeter. Vocabulary: cost, area, perimeter, unit cost, price per unit, total cost, square units, linear units, multiply, budget, material. Problems should involve realistic shopping and home improvement scenarios appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Understanding area and perimeter of rectangles (2)",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers Understanding area and perimeter of rectangles (2) for Grade 4 students (TEKS 4.5(D)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 9-10 year olds and aligned with Texas TEKS standards."
+    }
+  ]
+}

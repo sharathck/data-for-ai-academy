@@ -1,0 +1,46 @@
+{
+  "grade": "Grade 6",
+  "subject": "Maths - Personal financial literacy",
+  "skills": [
+    {
+      "skill": "Compare checking accounts",
+      "teks": "6.14(A)",
+      "prompt": "This topic covers comparing checking accounts for Grade 6 students (TEKS 6.14(A)). Students should understand what checking accounts are and how to compare different account options. Key concepts: a checking account is a bank account used for everyday transactions like paying bills and making purchases; different accounts may have different features including monthly fees, minimum balance requirements, ATM access, online banking, and overdraft protection; some accounts earn interest while others do not; students should evaluate which account best fits a person's needs based on their financial situation. Vocabulary: checking account, monthly fee, minimum balance, overdraft, ATM, debit card, direct deposit, online banking, transaction, compare, evaluate, financial institution. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Debit cards and credit cards",
+      "teks": "6.14(B)",
+      "prompt": "This topic covers debit cards and credit cards for Grade 6 students (TEKS 6.14(B)). Students should understand how debit and credit cards work and the key differences between them. Key concepts: debit cards withdraw money directly from a linked bank account; credit cards borrow money from a credit card company that must be repaid; credit cards charge interest on unpaid balances; responsible credit card use involves paying the full balance each month; debit cards help control spending since you can only spend what you have; credit cards can build credit history but also lead to debt if misused. Vocabulary: debit card, credit card, interest, balance, minimum payment, credit limit, annual fee, PIN, transaction, debt, credit history, billing cycle. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Check registers",
+      "teks": "6.14(C)",
+      "prompt": "This topic covers check registers for Grade 6 students (TEKS 6.14(C)). Students should understand how to use a check register to track deposits, withdrawals, and account balances. Key concepts: a check register is a record of all transactions in a checking account; each entry includes the date, description, amount, and running balance; deposits increase the balance while withdrawals, checks, and debit card purchases decrease it; the running balance shows how much money is in the account at any given time; keeping an accurate register helps avoid overdrawing the account. Vocabulary: check register, deposit, withdrawal, balance, transaction, date, description, amount, running balance, overdraft, reconcile, debit, credit. Students should practice recording transactions and calculating running balances. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Credit reports",
+      "teks": "6.14(D)",
+      "prompt": "This topic covers credit reports for Grade 6 students (TEKS 6.14(D)). Students should understand what credit reports are and why they matter for financial health. Key concepts: a credit report is a record of a person's borrowing and repayment history; it includes information about loans, credit cards, and payment history; lenders use credit reports to decide whether to approve loans and at what interest rate; a good credit history (paying bills on time, keeping balances low) leads to better borrowing terms; a poor credit history can make it harder and more expensive to borrow money. Vocabulary: credit report, credit score, credit history, lender, borrower, loan, interest rate, payment history, debt, responsible, identity, financial health. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Credit reports",
+      "teks": "6.14(E)",
+      "prompt": "This topic covers credit reports for Grade 6 students (TEKS 6.14(E)). Students should understand what credit reports are and why they matter for financial health. Key concepts: a credit report is a record of a person's borrowing and repayment history; it includes information about loans, credit cards, and payment history; lenders use credit reports to decide whether to approve loans and at what interest rate; a good credit history (paying bills on time, keeping balances low) leads to better borrowing terms; a poor credit history can make it harder and more expensive to borrow money. Vocabulary: credit report, credit score, credit history, lender, borrower, loan, interest rate, payment history, debt, responsible, identity, financial health. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Credit reports",
+      "teks": "6.14(F)",
+      "prompt": "This topic covers credit reports for Grade 6 students (TEKS 6.14(F)). Students should understand what credit reports are and why they matter for financial health. Key concepts: a credit report is a record of a person's borrowing and repayment history; it includes information about loans, credit cards, and payment history; lenders use credit reports to decide whether to approve loans and at what interest rate; a good credit history (paying bills on time, keeping balances low) leads to better borrowing terms; a poor credit history can make it harder and more expensive to borrow money. Vocabulary: credit report, credit score, credit history, lender, borrower, loan, interest rate, payment history, debt, responsible, identity, financial health. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Paying for college",
+      "teks": "6.14(G)",
+      "prompt": "This topic covers paying for college for Grade 6 students (TEKS 6.14(G)). Students should understand the various ways to fund higher education and the importance of planning ahead. Key concepts: college costs include tuition, fees, room and board, books, and supplies; funding sources include savings, scholarships (merit-based and need-based), grants (usually need-based and do not need to be repaid), student loans (must be repaid with interest), and work-study programs; starting to save early makes college more affordable; understanding the difference between types of financial aid helps students make informed decisions about their education. Vocabulary: tuition, scholarship, grant, student loan, financial aid, savings, interest, room and board, FAFSA, merit-based, need-based, work-study. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Occupations, education, and income",
+      "teks": "6.14(H)",
+      "prompt": "This topic covers occupations, education, and income for Grade 6 students (TEKS 6.14(H)). Students should understand the relationship between education, career choices, and earning potential. Key concepts: different occupations require different levels of education and training; generally, higher levels of education lead to higher earning potential; career options include jobs requiring a high school diploma, technical certifications, associate degrees, bachelor's degrees, and advanced degrees; income varies by occupation, location, experience, and education level. Students should explore various career paths and understand the investment of time and money in education relative to potential earnings. Vocabulary: occupation, career, education, income, salary, wages, degree, certification, training, earning potential, job market, skills. Problems should be appropriate for 11-12 year olds."
+    }
+  ]
+}

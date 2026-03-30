@@ -1,0 +1,51 @@
+{
+  "grade": "Grade 3",
+  "subject": "Maths - Data analysis",
+  "skills": [
+    {
+      "skill": "Create scaled bar graphs",
+      "teks": "3.8(A)",
+      "prompt": "This topic covers Create scaled bar graphs for Grade 3 students (TEKS 3.8(A)). Students create or verify bar graphs. Key concepts include drawing and labeling axes, choosing scales, drawing bars to correct heights, and adding titles. Vocabulary: bar graph, axis, scale, bar, height, label, title, category, horizontal, vertical. Common misconceptions include not starting at zero and inconsistent bar widths. Activities should include data collection, graph creation, and accuracy checking appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Create scaled picture graphs",
+      "teks": "3.8(A)",
+      "prompt": "This topic covers Create scaled picture graphs for Grade 3 students (TEKS 3.8(A)). Students create or verify picture graphs where symbols represent data. Key concepts include choosing symbols, using keys (especially for scaled graphs where each symbol represents >1), organizing data in rows/columns, and ensuring accuracy. Vocabulary: picture graph, pictograph, symbol, key, data, category, represent, title, label, scale. Common misconceptions include forgetting the key and miscounting. Activities should include collecting data, creating graphs, and evaluating correctness appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Create line plots",
+      "teks": "3.8(A)",
+      "prompt": "This topic covers Create line plots for Grade 3 students (TEKS 3.8(A)). Line plots display data along a number line with marks above each value. Key concepts include equal spacing, one mark per data point, reading frequency, and analyzing distribution. Vocabulary: line plot, number line, data point, frequency, mark, cluster, gap, range. Common misconceptions include unequal spacing and miscounting marks. Activities should include collecting measurement data, creating and interpreting line plots appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Interpret tally charts",
+      "teks": "3.8(B)",
+      "prompt": "This topic covers Interpret tally charts for Grade 3 students (TEKS 3.8(B)). Students create, read, and interpret tally charts. Every five tallies are bundled with a diagonal slash. Key concepts include systematic recording, counting bundles of five, and comparing categories. Vocabulary: tally, tally mark, bundle, five, count, data, category, record, total. Common misconceptions include not bundling in fives and miscounting groups. Activities should include data collection with tallies, converting to numbers, and using tally data to make graphs appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Interpret scaled bar graphs",
+      "teks": "3.8(B)",
+      "prompt": "This topic covers Interpret scaled bar graphs for Grade 3 students (TEKS 3.8(B)). Students read bar graphs to answer questions. Key concepts include reading the scale, comparing bar heights, computing differences and totals, and reading both horizontal and vertical formats. Vocabulary: bar graph, scale, axis, category, value, compare, total, difference. Common misconceptions include misreading non-1 scales and confusing axes. Activities should include answering questions, comparing data, and multi-step problem solving appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Use bar graphs to solve problems",
+      "teks": "3.8(B)",
+      "prompt": "This topic covers Use bar graphs to solve problems for Grade 3 students (TEKS 3.8(B)). Students use information from bar graphs to solve mathematical problems, going beyond simple reading to apply operations. Key concepts include extracting multiple values, performing addition/subtraction with graph data, and answering 'how many more/fewer' and 'how many altogether' questions. Vocabulary: bar graph, solve, total, difference, compare, data, problem. Common misconceptions include misreading values and not performing all required steps. Activities should include multi-step graph problems and creating questions from graphs appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Interpret scaled picture graphs",
+      "teks": "3.8(B)",
+      "prompt": "This topic covers Interpret scaled picture graphs for Grade 3 students (TEKS 3.8(B)). Students read picture graphs to answer questions. Key concepts include using the key, counting/multiplying symbols, comparing categories, and computing totals and differences. Vocabulary: picture graph, key, symbol, data, most, least, more, fewer, total, difference. Common misconceptions include ignoring the key for scaled graphs and confusing 'how many more' with 'how many.' Activities should include reading pre-made graphs, answering multi-step questions, and creating peer questions appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys."
+    },
+    {
+      "skill": "Interpret line plots",
+      "teks": "3.8(B)",
+      "prompt": "This topic covers Interpret line plots for Grade 3 students (TEKS 3.8(B)). Line plots display data along a number line with marks above each value. Key concepts include equal spacing, one mark per data point, reading frequency, and analyzing distribution. Vocabulary: line plot, number line, data point, frequency, mark, cluster, gap, range. Common misconceptions include unequal spacing and miscounting marks. Activities should include collecting measurement data, creating and interpreting line plots appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    },
+    {
+      "skill": "Read a table",
+      "teks": "3.8(B)",
+      "prompt": "This topic covers Read a table for Grade 3 students (TEKS 3.8(B)). Students organize, read, and interpret data in tables. Key concepts include using row and column headers, locating values, comparing across categories, and answering questions from table data. Vocabulary: table, row, column, header, data, category, value, organize, compare. Common misconceptions include reading wrong rows/columns. Activities should include reading tables, collecting data, and converting table data to graphs appropriate for ages 8-9. When creating content for this topic, use data sets that are meaningful to 8-9-year-olds, such as favorite foods, weather observations, or classroom surveys. Encourage students to formulate questions that data can answer, collect and organize information systematically, and draw evidence-based conclusions."
+    }
+  ]
+}

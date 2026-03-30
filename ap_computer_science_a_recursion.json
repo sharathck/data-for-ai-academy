@@ -1,0 +1,16 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Recursion",
+  "skills": [
+    {
+      "skill": "10.1 Recursion",
+      "ref": "CON-2.H (Unit 10, Topic 10.1)",
+      "prompt": "This topic covers recursion for AP CSA students (CED: CON-2.H, Unit 10, Topic 10.1). Students should understand that recursion is a technique where a method calls itself to solve a problem by breaking it into smaller, similar subproblems. Key concepts: every recursive method must have a base case (stopping condition) that returns a value without making another recursive call; the recursive case reduces the problem toward the base case; each recursive call creates a new stack frame with its own local variables and parameters. Students should trace through recursive calls using a call stack diagram, determine return values, and identify base cases. Classic examples: factorial (n! = n * (n-1)!), Fibonacci numbers, summing digits, computing powers. Common error: missing or incorrect base case leads to StackOverflowError (infinite recursion). Vocabulary: recursion, base case, recursive case, call stack, stack frame, StackOverflowError, self-similar, reduction."
+    },
+    {
+      "skill": "10.2 Recursive Searching and Sorting",
+      "ref": "CON-2.I (Unit 10, Topic 10.2)",
+      "prompt": "This topic covers recursive searching and sorting for AP CSA students (CED: CON-2.I, Unit 10, Topic 10.2). Students should understand how recursion can be applied to searching and sorting algorithms. Key concepts: recursive binary search divides the search space in half by passing updated low and high bounds in each recursive call; merge sort recursively divides an array into halves, sorts each half, then merges them back together; merge sort achieves O(n log n) time complexity, significantly better than O(n^2) selection/insertion sort for large datasets. Students should trace through recursive binary search calls, understand merge sort's divide-and-conquer strategy, and compare recursive vs. iterative approaches. AP exam note: students should be able to trace merge sort and binary search but may not need to implement them from scratch. Vocabulary: recursive binary search, merge sort, divide and conquer, merge, base case, efficiency, O(n log n), call tree."
+    }
+  ]
+}

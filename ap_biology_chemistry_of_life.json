@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Biology",
+  "subject": "Chemistry of Life",
+  "skills": [
+    {
+      "skill": "SYI 1.1 Structure of Water and Hydrogen Bonding",
+      "ref": "SYI-1.A (Unit 1, Topic 1.1)",
+      "prompt": "This topic covers the structure of water and hydrogen bonding for AP Biology students (CED: SYI-1.A, Unit 1, Topic 1.1). Students should understand that water's polarity arises from the unequal sharing of electrons between oxygen and hydrogen, creating partial charges that enable hydrogen bonding. Key properties of water include high specific heat, high heat of vaporization, cohesion, adhesion, surface tension, and its role as a versatile solvent for polar and ionic substances. Water's density anomaly (ice floats) is biologically critical for aquatic ecosystems. Students must explain how hydrogen bonds, though individually weak, collectively create emergent properties essential for life. Connect to membrane transport, enzyme function, and temperature regulation in organisms. AP exam note: expect questions linking water's molecular properties to biological phenomena such as transpiration, thermoregulation, and buffer systems. Vocabulary: polarity, hydrogen bond, cohesion, adhesion, specific heat, heat of vaporization, solvent, hydrophilic, hydrophobic."
+    },
+    {
+      "skill": "ENE Elements of Life",
+      "ref": "ENE-1.A (Unit 1, Topic 1.2)",
+      "prompt": "This topic covers the elements essential for life for AP Biology students (CED: ENE-1.A, Unit 1, Topic 1.2). Students should understand that living organisms are composed primarily of carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur (CHONPS). Carbon's ability to form four covalent bonds makes it the backbone of organic molecules. Trace elements such as iron, magnesium, and zinc play critical roles as cofactors in enzymatic reactions. Students must recognize that the properties of elements arise from their atomic structure and electronegativity, which determine bonding behavior and molecular shape. Connect to biological macromolecules, energy transfer via ATP (phosphorus), and protein structure (sulfur in disulfide bonds). AP exam note: questions may ask students to explain why carbon is central to life's chemistry or to identify the role of specific elements in biological processes. Vocabulary: organic molecule, covalent bond, electronegativity, trace element, cofactor, functional group."
+    },
+    {
+      "skill": "SYI Introduction to Biological Macromolecules",
+      "ref": "SYI-1.B (Unit 1, Topic 1.3)",
+      "prompt": "This topic introduces biological macromolecules for AP Biology students (CED: SYI-1.B, Unit 1, Topic 1.3). Students should understand that macromolecules are polymers built from monomers through dehydration synthesis (condensation) reactions and broken apart by hydrolysis. The four classes are carbohydrates (monosaccharides), proteins (amino acids), nucleic acids (nucleotides), and lipids (which are not true polymers but include fatty acids and glycerol). Each class has distinct monomers, bonding patterns, and functional roles. Students must be able to identify monomers and describe how polymerization and hydrolysis involve the removal or addition of water. Connect to enzyme-catalyzed reactions in digestion and biosynthesis, and to energy storage and structural roles. AP exam note: free-response questions frequently ask students to compare and contrast macromolecule classes. Vocabulary: monomer, polymer, dehydration synthesis, hydrolysis, carbohydrate, protein, nucleic acid, lipid."
+    },
+    {
+      "skill": "SYI 1.4 Properties of Biological Macromolecules",
+      "ref": "SYI-1.C (Unit 1, Topic 1.4)",
+      "prompt": "This topic covers properties of biological macromolecules for AP Biology students (CED: SYI-1.C, Unit 1, Topic 1.4). Students should understand how the structure of each macromolecule class determines its properties and functions. Carbohydrates serve as energy sources (glucose, starch, glycogen) and structural components (cellulose, chitin). Lipids function in long-term energy storage, membrane structure (phospholipids), and signaling (steroids). Proteins have diverse roles including catalysis, transport, defense, and structure. Nucleic acids store and transmit genetic information. Students must explain how R-group interactions in amino acids determine protein folding and function. Connect to how changes in pH, temperature, or environment can disrupt macromolecule structure (denaturation). AP exam note: questions often require interpreting molecular diagrams and predicting function from structure. Vocabulary: saturated, unsaturated, phospholipid, amino acid, R-group, polypeptide, denaturation."
+    },
+    {
+      "skill": "SYI 1.5 Structure and Function of Biological Macromolecules",
+      "ref": "SYI-1.D (Unit 1, Topic 1.5)",
+      "prompt": "This topic covers the structure-function relationship of biological macromolecules for AP Biology students (CED: SYI-1.D, Unit 1, Topic 1.5). Students should understand the four levels of protein structure: primary (amino acid sequence), secondary (alpha helices and beta sheets from hydrogen bonds), tertiary (3D folding from R-group interactions), and quaternary (multiple polypeptide subunits). The sequence of amino acids determines the shape, and shape determines function. Students must understand that changes in amino acid sequence (mutations) can alter protein shape and function, as seen in sickle cell disease. Carbohydrate structure (alpha vs. beta glycosidic linkages) determines digestibility and function (starch vs. cellulose). Connect to enzyme specificity, membrane proteins, and gene expression. AP exam note: expect questions on how environmental changes denature proteins. Vocabulary: primary through quaternary structure, alpha helix, beta sheet, disulfide bond, glycosidic linkage, substrate specificity."
+    },
+    {
+      "skill": "IST 1.6 Nucleic Acids",
+      "ref": "IST-1.A (Unit 1, Topic 1.6)",
+      "prompt": "This topic covers nucleic acids for AP Biology students (CED: IST-1.A, Unit 1, Topic 1.6). Students should understand the structure and function of DNA and RNA. Nucleotides consist of a phosphate group, a five-carbon sugar (deoxyribose in DNA, ribose in RNA), and a nitrogenous base. DNA uses adenine, thymine, guanine, and cytosine; RNA replaces thymine with uracil. DNA forms a double helix with antiparallel strands joined by complementary base pairing (A-T with 2 hydrogen bonds, G-C with 3). RNA is typically single-stranded and exists as mRNA, tRNA, and rRNA. Students must explain how the structure of DNA enables replication and information storage. Connect to gene expression (transcription and translation), mutations, and biotechnology. AP exam note: questions may require comparing DNA and RNA or explaining how nucleic acid structure relates to function. Vocabulary: nucleotide, phosphodiester bond, complementary base pairing, antiparallel, double helix, purine, pyrimidine."
+    }
+  ]
+}

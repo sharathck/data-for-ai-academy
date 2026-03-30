@@ -1,0 +1,166 @@
+{
+  "grade": "High School - Geometry",
+  "subject": "Geometry - Similarity, proof, and trigonometry",
+  "skills": [
+    {
+      "skill": "Similar figures - apply the definition of similarity in terms of a dilation to identify similar figures and their proportional sides and the congruent corresponding angles;",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (apply the definition of similarity in terms of a dilation to identify similar figures and their proportional sides and the congruent corresponding angles;) for Geometry students (TEKS G.7(A)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, CPCTC, congruent, corresponding parts, dilation, proportional, rigid motion, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar figures - Ratios in similar figures",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (ratios in similar figures) for Geometry students (TEKS G.7(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar figures - Similarity statements",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (similarity statements) for Geometry students (TEKS G.7(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar figures - Identify similar figures",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (identify similar figures) for Geometry students (TEKS G.7(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar figures - Side lengths and angle measures in similar figures",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (side lengths and angle measures in similar figures) for Geometry students (TEKS G.7(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar figures - Similar triangles and similarity transformations",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (similar triangles and similarity transformations) for Geometry students (TEKS G.7(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, coordinate notation, dilation, image, pre-image, proportional, rigid motion, scale factor, similar, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar figures - Similarity of circles",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (similarity of circles) for Geometry students (TEKS G.7(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, arc, center, chord, circle, dilation, proportional, radius, scale factor, secant, similar, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar figures - Similar solids: find the missing length",
+      "teks": "G.7(A)",
+      "prompt": "This topic covers similar figures (similar solids: find the missing length) for Geometry students (TEKS G.7(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar triangles - apply the Angle-Angle criterion to verify similar triangles and apply the proportionality of the corresponding sides to solve problems.",
+      "teks": "G.7(B)",
+      "prompt": "This topic covers similar triangles (apply the angle-angle criterion to verify similar triangles and apply the proportionality of the corresponding sides to solve problems.) for Geometry students (TEKS G.7(B)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: AA criterion, dilation, given, postulate, proof, proportional, reason, scale factor, similar, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar triangles - Similar triangles and indirect measurement",
+      "teks": "G.7(B)",
+      "prompt": "This topic covers similar triangles (similar triangles and indirect measurement) for Geometry students (TEKS G.7(B)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Similar triangles - Checkpoint: Similarity transformations",
+      "teks": "G.7(B)",
+      "prompt": "This topic covers similar triangles (checkpoint: similarity transformations) for Geometry students (TEKS G.7(B)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, coordinate notation, dilation, image, pre-image, proportional, rigid motion, scale factor, similar, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about similar triangles - prove theorems about similar triangles, including the Triangle Proportionality theorem, and apply these theorems to solve problems;",
+      "teks": "G.8(A)",
+      "prompt": "This topic covers theorems about similar triangles (prove theorems about similar triangles, including the triangle proportionality theorem, and apply these theorems to solve problems;) for Geometry students (TEKS G.8(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: AA criterion, dilation, given, postulate, proof, proportional, reason, scale factor, similar, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about similar triangles - Similarity rules for triangles",
+      "teks": "G.8(A)",
+      "prompt": "This topic covers theorems about similar triangles (similarity rules for triangles) for Geometry students (TEKS G.8(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about similar triangles - Triangle Proportionality Theorem",
+      "teks": "G.8(A)",
+      "prompt": "This topic covers theorems about similar triangles (triangle proportionality theorem) for Geometry students (TEKS G.8(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key vocabulary includes: AA criterion, dilation, proportional, scale factor, similar. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about similar triangles - Prove similarity statements",
+      "teks": "G.8(A)",
+      "prompt": "This topic covers theorems about similar triangles (prove similarity statements) for Geometry students (TEKS G.8(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: AA criterion, dilation, given, postulate, proof, proportional, reason, scale factor, similar, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about similar triangles - Prove proportions or angle congruences using similarity",
+      "teks": "G.8(A)",
+      "prompt": "This topic covers theorems about similar triangles (prove proportions or angle congruences using similarity) for Geometry students (TEKS G.8(A)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: AA criterion, CPCTC, congruent, corresponding parts, dilation, given, postulate, proof, proportional, reason, rigid motion, scale factor, similar, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about similar triangles - Proofs involving similarity in right triangles",
+      "teks": "G.8(A)",
+      "prompt": "This topic covers theorems about similar triangles (proofs involving similarity in right triangles) for Geometry students (TEKS G.8(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: AA criterion, dilation, given, postulate, proof, proportional, reason, scale factor, similar, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about similar triangles - Proofs involving triangles II",
+      "teks": "G.8(A)",
+      "prompt": "This topic covers theorems about similar triangles (proofs involving triangles ii) for Geometry students (TEKS G.8(A)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: AA criterion, dilation, given, postulate, proof, proportional, reason, scale factor, similar, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Altitudes in right triangles - identify and apply the relationships that exist when an altitude is drawn to the hypotenuse of a right triangle, including the geometric mean, to solve problems.",
+      "teks": "G.8(B)",
+      "prompt": "This topic covers altitudes in right triangles (identify and apply the relationships that exist when an altitude is drawn to the hypotenuse of a right triangle, including the geometric mean, to solve problems.) for Geometry students (TEKS G.8(B)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: altitude, angle sum, interior angles, median, midsegment, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Altitudes in right triangles - Similarity and altitudes in right triangles",
+      "teks": "G.8(B)",
+      "prompt": "This topic covers altitudes in right triangles (similarity and altitudes in right triangles) for Geometry students (TEKS G.8(B)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: AA criterion, altitude, angle sum, dilation, interior angles, median, midsegment, proportional, scale factor, similar, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Altitudes in right triangles - Proofs involving similarity in right triangles",
+      "teks": "G.8(B)",
+      "prompt": "This topic covers altitudes in right triangles (proofs involving similarity in right triangles) for Geometry students (TEKS G.8(B)). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: AA criterion, altitude, angle sum, dilation, given, interior angles, median, midsegment, postulate, proof, proportional, reason, scale factor, similar, statement, theorem, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Altitudes in right triangles - Checkpoint: Triangle similarity and congruence",
+      "teks": "G.8(B)",
+      "prompt": "This topic covers altitudes in right triangles (checkpoint: triangle similarity and congruence) for Geometry students (TEKS G.8(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Similar figures have the same shape with proportional sides and congruent corresponding angles; AA criterion proves triangle similarity. Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: AA criterion, CPCTC, altitude, angle sum, congruent, corresponding parts, dilation, interior angles, median, midsegment, proportional, rigid motion, scale factor, similar, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Trigonometric ratios - determine the lengths of sides and measures of angles in a right triangle by applying the trigonometric ratios sine, cosine, and tangent to solve problems;",
+      "teks": "G.9(A)",
+      "prompt": "This topic covers trigonometric ratios (determine the lengths of sides and measures of angles in a right triangle by applying the trigonometric ratios sine, cosine, and tangent to solve problems;) for Geometry students (TEKS G.9(A)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Key vocabulary includes: SOHCAHTOA, adjacent, cosine, hypotenuse, opposite, sine, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Trigonometric ratios - Trigonometric ratios: sin, cos, and tan",
+      "teks": "G.9(A)",
+      "prompt": "This topic covers trigonometric ratios (trigonometric ratios: sin, cos, and tan) for Geometry students (TEKS G.9(A)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Key vocabulary includes: SOHCAHTOA, adjacent, cosine, hypotenuse, opposite, sine, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Trigonometric ratios - Trigonometric ratios with radicals: sin, cos, and tan",
+      "teks": "G.9(A)",
+      "prompt": "This topic covers trigonometric ratios (trigonometric ratios with radicals: sin, cos, and tan) for Geometry students (TEKS G.9(A)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Key vocabulary includes: SOHCAHTOA, adjacent, cosine, hypotenuse, opposite, sine, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Trigonometric ratios - Trigonometric ratios: find a side length",
+      "teks": "G.9(A)",
+      "prompt": "This topic covers trigonometric ratios (trigonometric ratios: find a side length) for Geometry students (TEKS G.9(A)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Key vocabulary includes: SOHCAHTOA, adjacent, cosine, hypotenuse, opposite, sine, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Trigonometric ratios - Trigonometric ratios: find an angle measure",
+      "teks": "G.9(A)",
+      "prompt": "This topic covers trigonometric ratios (trigonometric ratios: find an angle measure) for Geometry students (TEKS G.9(A)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Key vocabulary includes: SOHCAHTOA, adjacent, cosine, hypotenuse, opposite, sine, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Special right triangles - apply the relationships in special right triangles 30°-60°-90° and 45°-45°-90° and the Pythagorean theorem, including Pythagorean triples, to solve problems.",
+      "teks": "G.9(B)",
+      "prompt": "This topic covers special right triangles (apply the relationships in special right triangles 30°-60°-90° and 45°-45°-90° and the pythagorean theorem, including pythagorean triples, to solve problems.) for Geometry students (TEKS G.9(B)). Special right triangles: 45-45-90 has sides in ratio 1:1:sqrt(2); 30-60-90 has sides in ratio 1:sqrt(3):2. Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: 30-60-90, 45-45-90, Pythagorean theorem, altitude, angle sum, interior angles, median, midsegment, special right triangles, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Special right triangles - Pythagorean theorem",
+      "teks": "G.9(B)",
+      "prompt": "This topic covers special right triangles (pythagorean theorem) for Geometry students (TEKS G.9(B)). Special right triangles: 45-45-90 has sides in ratio 1:1:sqrt(2); 30-60-90 has sides in ratio 1:sqrt(3):2. Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: 30-60-90, 45-45-90, Pythagorean theorem, altitude, angle sum, interior angles, median, midsegment, special right triangles, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Special right triangles - Special right triangles",
+      "teks": "G.9(B)",
+      "prompt": "This topic covers special right triangles (special right triangles) for Geometry students (TEKS G.9(B)). Special right triangles: 45-45-90 has sides in ratio 1:1:sqrt(2); 30-60-90 has sides in ratio 1:sqrt(3):2. Key vocabulary includes: 30-60-90, 45-45-90, Pythagorean theorem, special right triangles. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Special right triangles - Find trigonometric functions of special angles",
+      "teks": "G.9(B)",
+      "prompt": "This topic covers special right triangles (find trigonometric functions of special angles) for Geometry students (TEKS G.9(B)). Special right triangles: 45-45-90 has sides in ratio 1:1:sqrt(2); 30-60-90 has sides in ratio 1:sqrt(3):2. Key vocabulary includes: 30-60-90, 45-45-90, Pythagorean theorem, special right triangles. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Special right triangles - Checkpoint: Right triangle trigonometry",
+      "teks": "G.9(B)",
+      "prompt": "This topic covers special right triangles (checkpoint: right triangle trigonometry) for Geometry students (TEKS G.9(B)). Special right triangles: 45-45-90 has sides in ratio 1:1:sqrt(2); 30-60-90 has sides in ratio 1:sqrt(3):2. Key vocabulary includes: 30-60-90, 45-45-90, Pythagorean theorem, special right triangles. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

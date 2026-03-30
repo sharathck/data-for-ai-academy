@@ -1,0 +1,106 @@
+{
+  "grade": "Grade 5",
+  "subject": "Maths - Miscellaneous",
+  "skills": [
+    {
+      "skill": "Decimal operations (addition, subtraction, multiplication, division)",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Advanced fraction operations (addition, subtraction, multiplication, division)",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers advanced fraction operations for Grade 5 students (TEKS 5.3(K)). Students should demonstrate fluency with all four operations involving fractions, mixed numbers, and their combinations. Key concepts: add and subtract fractions with unlike denominators by finding common denominators; multiply fractions by multiplying numerators and denominators; divide fractions using the reciprocal; convert between mixed numbers and improper fractions; simplify results; apply all operations in word problem contexts. Vocabulary: fraction, mixed number, add, subtract, multiply, divide, common denominator, reciprocal, improper, simplify, operation, fluency. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Converting decimals and fractions",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers converting between fractions and decimals for Grade 5 students (TEKS 5.2(A)). Students should understand that fractions and decimals are two ways to represent the same value. Key concepts: to convert a fraction to a decimal, divide the numerator by the denominator; fractions with denominators of 10, 100, or 1000 convert directly to tenths, hundredths, or thousandths; to convert a decimal to a fraction, use the place value as the denominator and simplify; some fractions produce repeating decimals. Vocabulary: fraction, decimal, convert, numerator, denominator, divide, tenths, hundredths, thousandths, equivalent, simplify, repeating decimal, terminating decimal. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Fractions vs decimals",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers converting between fractions and decimals for Grade 5 students (TEKS 5.2(A)). Students should understand that fractions and decimals are two ways to represent the same value. Key concepts: to convert a fraction to a decimal, divide the numerator by the denominator; fractions with denominators of 10, 100, or 1000 convert directly to tenths, hundredths, or thousandths; to convert a decimal to a fraction, use the place value as the denominator and simplify; some fractions produce repeating decimals. Vocabulary: fraction, decimal, convert, numerator, denominator, divide, tenths, hundredths, thousandths, equivalent, simplify, repeating decimal, terminating decimal. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Mixed operations with whole numbers",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers mixed operations with whole numbers for Grade 5 students (TEKS 5.3(K)). Students should demonstrate fluency with all four operations and understand when to apply each one. Key concepts: addition combines quantities; subtraction finds differences; multiplication finds totals of equal groups; division separates into equal groups or finds how many groups; real-world problems require identifying which operation to use; multi-step problems may require multiple operations in sequence. Vocabulary: add, subtract, multiply, divide, operation, sum, difference, product, quotient, solve, strategy, estimate, word problem, multi-step. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Volume and geometry",
+      "teks": "5.4(G)",
+      "prompt": "This topic covers volume and geometry concepts for Grade 5 students (TEKS 5.4(G)). Students should understand three-dimensional measurement and geometric properties. Key concepts: volume measures the space inside a 3D figure in cubic units; volume of a rectangular prism = length x width x height; volume can be found by counting unit cubes or by formula; understanding the difference between 2D measurements (area, perimeter) and 3D measurements (volume); decomposing irregular figures into rectangular prisms. Vocabulary: volume, cubic units, rectangular prism, length, width, height, formula, three-dimensional, unit cube, decompose, space. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Order of operations",
+      "teks": "5.4(F)",
+      "prompt": "This topic covers order of operations for Grade 5 students (TEKS 5.4(F)). Students should understand the standard order in which mathematical operations must be performed. Key concepts: PEMDAS - Parentheses first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); without following this order, the same expression could yield different answers; grouping symbols (parentheses, brackets) override the standard order; students should evaluate multi-step expressions accurately. Vocabulary: order of operations, PEMDAS, parentheses, brackets, evaluate, expression, operation, left to right, exponent, simplify, grouping symbols. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Powers of ten",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers powers of ten for Grade 5 students (TEKS 5.3(E)). Students should understand how multiplying and dividing by powers of 10 affects numbers. Key concepts: powers of 10 include 10, 100, 1000, etc. (10^1, 10^2, 10^3); multiplying by a power of 10 shifts the decimal point to the right; dividing by a power of 10 shifts the decimal point to the left; each shift represents one place value change; these patterns connect to the base-ten structure of our number system. Vocabulary: power of ten, exponent, base, multiply, divide, decimal point, shift, place value, pattern, 10, 100, 1000, base ten. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Exponents",
+      "teks": "5.4(F)",
+      "prompt": "This topic covers exponents for Grade 5 students (TEKS 5.4(F)). Students should understand that an exponent indicates repeated multiplication of a base number. Key concepts: in b^n, b is the base and n is the exponent; the exponent tells how many times to multiply the base by itself; any number to the power of 1 equals itself; any nonzero number to the power of 0 equals 1; students should evaluate expressions with exponents and write repeated multiplication using exponential notation. Vocabulary: exponent, base, power, squared, cubed, repeated multiplication, evaluate, expression, notation, exponential. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Pattern analysis",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers pattern analysis for Grade 5 students (TEKS 5.4(C)). Students should understand how to identify, describe, and extend numerical and geometric patterns. Key concepts: identify the rule governing a pattern (additive, multiplicative, or other); use the rule to predict future terms; represent patterns using tables, graphs, and equations; compare two related patterns by examining corresponding terms; patterns can be linear (constant change) or nonlinear. Vocabulary: pattern, rule, term, sequence, extend, predict, table, graph, equation, corresponding, linear, relationship, analyze, generate. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Integers (introduction to negative numbers)",
+      "teks": "5.2(B)",
+      "prompt": "This topic covers introduction to integers and negative numbers for Grade 5 students (TEKS 5.2(B)). Students should understand that negative numbers extend the number line below zero and are used in many real-world contexts. Key concepts: integers include positive numbers, negative numbers, and zero; negative numbers are less than zero; on a number line, negative numbers are to the left of zero; real-world contexts include temperature below zero, below sea level, debt, and loss; opposite integers are equidistant from zero on opposite sides. Vocabulary: integer, positive, negative, zero, opposite, number line, below zero, debt, sea level, temperature, sign, distance. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Metric and customary measurements",
+      "teks": "5.7(A)",
+      "prompt": "This topic covers metric and customary measurement conversions for Grade 5 students (TEKS 5.7(A)). Students should understand both measurement systems and convert within each. Key concepts: customary units include inches, feet, yards, miles (length), ounces, pounds, tons (weight), and cups, pints, quarts, gallons (capacity); metric units include millimeters, centimeters, meters, kilometers (length), grams, kilograms (mass), and milliliters, liters (volume); metric conversions use powers of 10; customary conversions use specific ratios. Vocabulary: metric, customary, convert, length, weight, mass, capacity, volume, unit, equivalent, multiply, divide, conversion factor. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Coordinate planes",
+      "teks": "5.8(A)",
+      "prompt": "This topic covers the coordinate plane for Grade 5 students (TEKS 5.8(A)). Students should understand how to use the coordinate system with all four quadrants. Key concepts: the coordinate plane has a horizontal x-axis and vertical y-axis intersecting at the origin (0,0); four quadrants are numbered I through IV counterclockwise from the upper right; points are identified by ordered pairs (x, y); the x-coordinate indicates horizontal position and the y-coordinate indicates vertical position; points can have positive or negative coordinates. Vocabulary: coordinate plane, x-axis, y-axis, origin, quadrant, ordered pair, positive, negative, plot, graph, horizontal, vertical. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Numerical expressions",
+      "teks": "5.4(E)",
+      "prompt": "This topic covers writing and evaluating numerical expressions for Grade 5 students (TEKS 5.4(E)). Students should understand how to translate verbal descriptions into mathematical expressions and evaluate them. Key concepts: translate words like 'the sum of,' 'the product of,' 'divided by,' and 'the difference between' into mathematical notation; use parentheses to indicate which operations to perform first; evaluate expressions step by step following the order of operations; expressions differ from equations because they do not contain an equal sign. Vocabulary: expression, numerical, evaluate, parentheses, operation, translate, verbal, sum, product, difference, quotient, order of operations. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiplying and dividing by powers of ten",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers powers of ten for Grade 5 students (TEKS 5.3(E)). Students should understand how multiplying and dividing by powers of 10 affects numbers. Key concepts: powers of 10 include 10, 100, 1000, etc. (10^1, 10^2, 10^3); multiplying by a power of 10 shifts the decimal point to the right; dividing by a power of 10 shifts the decimal point to the left; each shift represents one place value change; these patterns connect to the base-ten structure of our number system. Vocabulary: power of ten, exponent, base, multiply, divide, decimal point, shift, place value, pattern, 10, 100, 1000, base ten. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiplying and dividing large numbers",
+      "teks": "5.3(B)",
+      "prompt": "This topic covers multiplying and dividing large multi-digit numbers for Grade 5 students (TEKS 5.3(B)). Students should demonstrate fluency with multiplication and division of larger numbers. Key concepts: the standard multiplication algorithm extends to multi-digit factors; long division handles multi-digit dividends and divisors; estimation helps place the first digit and check reasonableness; partial products and partial quotients are alternative strategies; understanding place value is critical for accurate computation. Vocabulary: multiply, divide, multi-digit, algorithm, partial product, partial quotient, estimate, place value, factor, dividend, divisor, quotient, product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Rectangular arrays",
+      "teks": "5.3(B)",
+      "prompt": "This topic covers rectangular arrays for Grade 5 students (TEKS 5.3(B)). Students should understand how arrays model multiplication and division. Key concepts: an array is an arrangement of objects in equal rows and columns; the total number of objects equals rows x columns; arrays illustrate the commutative property (3x4 = 4x3); arrays connect multiplication to area; division can be modeled by arranging objects into equal rows. Vocabulary: array, row, column, multiply, divide, factor, product, commutative, equal groups, area, arrange, model. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Word problems with fractions and decimals",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers solving word problems for Grade 5 students (TEKS 5.3(K)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Factors, multiples and divisibility",
+      "teks": "5.4(A)",
+      "prompt": "This topic covers factors and multiples for Grade 5 students (TEKS 5.4(A)). Students should understand the relationship between factors, multiples, and divisibility. Key concepts: a factor of a number divides it evenly (no remainder); a multiple of a number is the product of that number and any whole number; factor pairs multiply to give the original number; the GCF (greatest common factor) is the largest factor shared by two numbers; the LCM (least common multiple) is the smallest multiple shared by two numbers; divisibility rules help identify factors quickly. Vocabulary: factor, multiple, divisible, GCF, LCM, factor pair, product, remainder, divisibility rule, prime, composite. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Data and graphing",
+      "teks": "5.9(A)",
+      "prompt": "This topic covers data representation and graphing for Grade 5 students (TEKS 5.9(A)). Students should understand how to organize, display, and interpret data using various types of graphs and tables. Key concepts: different types of displays include bar graphs, line plots, pictographs, tables, and frequency charts; choose the display that best represents the data type; all displays need titles, labels, and appropriate scales; students should create displays from data sets and interpret existing displays to answer questions. Vocabulary: data, graph, table, bar graph, line plot, frequency, title, label, scale, axis, interpret, display, organize, represent. Problems should be appropriate for 10-11 year olds."
+    }
+  ]
+}

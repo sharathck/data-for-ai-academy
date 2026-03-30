@@ -1,0 +1,26 @@
+{
+  "grade": "AP - Computer Science Principles",
+  "subject": "Data",
+  "skills": [
+    {
+      "skill": "2.1 Binary Numbers",
+      "ref": "DAT-1.A (Unit 2, Topic 2.1)",
+      "prompt": "This topic covers binary numbers for AP CSP students (CED: DAT-1.A, Unit 2, Topic 2.1). Students should understand how computers represent all data using binary (base-2) number systems. Key concepts: binary uses only 0 and 1 (bits); converting between binary and decimal; n bits can represent 2^n different values; a byte is 8 bits; numbers, text (ASCII/Unicode), images (pixels with RGB values), and sound are all represented in binary. Students should convert between binary, decimal, and hexadecimal; calculate the number of bits needed to represent a given number of values; understand that all digital data is ultimately stored as sequences of bits. Overflow occurs when a value needs more bits than available. Analog data must be digitized (sampled and quantized) for computer processing, which involves approximation. Vocabulary: binary, bit, byte, decimal, hexadecimal, ASCII, Unicode, RGB, digitization, overflow, base-2, sampling."
+    },
+    {
+      "skill": "2.2 Data Compression",
+      "ref": "DAT-1.D (Unit 2, Topic 2.2)",
+      "prompt": "This topic covers data compression for AP CSP students (CED: DAT-1.D, Unit 2, Topic 2.2). Students should understand why and how data is compressed to reduce storage space and transmission time. Key concepts: lossless compression reduces file size without losing any information and is perfectly reversible (e.g., ZIP, PNG); lossy compression permanently removes some data to achieve greater compression ratios, and the original cannot be fully restored (e.g., JPEG, MP3); the trade-off between file size and quality. Students should understand run-length encoding as a simple lossless technique, recognize when lossy vs. lossless compression is appropriate (lossy for media, lossless for text and code), and calculate compression ratios. The choice of compression method depends on the use case: medical images need lossless, streaming music can use lossy. Vocabulary: compression, lossless, lossy, compression ratio, run-length encoding, redundancy, file size, quality, decompression."
+    },
+    {
+      "skill": "2.3 Extracting Information from Data",
+      "ref": "DAT-2.A (Unit 2, Topic 2.3)",
+      "prompt": "This topic covers extracting information from data for AP CSP students (CED: DAT-2.A, Unit 2, Topic 2.3). Students should understand how large datasets are processed to discover patterns, trends, and insights. Key concepts: data is collected, cleaned, and analyzed to extract meaningful information; metadata is data about data (e.g., photo timestamp, file size); large datasets enable discovery of patterns that small samples cannot reveal; correlation does not imply causation; data can be filtered, sorted, and visualized to reveal trends. Students should understand challenges with large datasets: incomplete data, invalid entries, bias in collection methods, and privacy concerns. Tools for analysis include spreadsheets, databases, and programming. Visualizations (charts, graphs, maps) communicate findings effectively but can be misleading if scales or representations are manipulated. Vocabulary: data, information, metadata, correlation, causation, filtering, sorting, trend, pattern, bias, visualization, cleaning."
+    },
+    {
+      "skill": "2.4 Using Programs with Data",
+      "ref": "DAT-2.D (Unit 2, Topic 2.4)",
+      "prompt": "This topic covers using programs with data for AP CSP students (CED: DAT-2.D, Unit 2, Topic 2.4). Students should understand how programs can be used to process, transform, and analyze datasets. Key concepts: programs can automate data processing tasks that would be impractical to do manually; programs can compute statistics (mean, median, mode, standard deviation), search and filter records, and generate visualizations; using programs to analyze data enables answering questions and making predictions. Students should understand that programs can process data from files, APIs, and databases; that data must often be cleaned and transformed before analysis; and that the results of data analysis depend on the quality and completeness of the source data. Iterative refinement of analysis often leads to better questions and deeper insights. Vocabulary: data processing, automation, statistics, dataset, query, transformation, analysis, API, database, prediction, refinement."
+    }
+  ]
+}

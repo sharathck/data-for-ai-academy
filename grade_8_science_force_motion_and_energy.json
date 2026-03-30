@@ -1,0 +1,96 @@
+{
+  "grade": "Grade 8",
+  "subject": "Science - Force, motion, and energy",
+  "skills": [
+    {
+      "skill": "Forces and motion: Demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass using Newton's Second Law",
+      "prompt": "This topic covers how unbalanced forces change motion for Grade 8 science students (TEKS 8.7(A)). Students demonstrate and calculate force effects on objects. Key concepts include: Newton's Second Law (F = ma), unbalanced forces cause acceleration, balanced forces cause no change in motion, net force calculation, and connecting force to real-world applications. Vocabulary: unbalanced force, acceleration, net force, Newton's Second Law, mass, speed, direction, balanced force. Common misconceptions: thinking objects need force to keep moving and confusing mass with weight. Practice should include force calculation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Forces and motion: How does mass affect force and acceleration?",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass using Newton's Second Law",
+      "prompt": "This topic covers the relationship between mass, force, and acceleration for Grade 8 science students (TEKS 8.7(A)). Students investigate how mass affects the force needed to accelerate an object. Key concepts include: Newton's Second Law (F = ma), greater mass requires greater force for the same acceleration, the same force produces less acceleration on more massive objects, and inverse proportionality between mass and acceleration at constant force. Vocabulary: mass, force, acceleration, Newton's Second Law, proportional, inverse, relationship, kilogram, Newton. Common misconceptions: confusing mass with weight, thinking heavier objects always move slower, and not understanding the proportional relationships. Practice should include quantitative analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Forces and motion: Balanced and unbalanced forces",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass using Newton's Second Law",
+      "prompt": "This topic covers balanced and unbalanced forces for Grade 8 science students (TEKS 8.7(A)). Students distinguish between balanced forces (net force = 0) and unbalanced forces (net force not 0). Key concepts include: balanced forces result in no change in motion (object at rest stays at rest, moving object continues at same speed), unbalanced forces cause acceleration (speeding up, slowing down, or changing direction), calculating net force, and real-world examples. Vocabulary: balanced force, unbalanced force, net force, acceleration, equilibrium, friction, gravity, Newton. Common misconceptions: thinking balanced forces mean no forces are acting and that objects need constant force to move. Practice should include force analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Speed, velocity, and acceleration: Differentiate between speed, velocity, and acceleration",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers speed, velocity, and acceleration for Grade 8 science students (TEKS 8.7(A)). Students distinguish between these three related but distinct concepts. Key concepts include: speed = distance/time (scalar), velocity = displacement/time with direction (vector), acceleration = change in velocity/time, positive acceleration means speeding up, negative acceleration (deceleration) means slowing down. Vocabulary: speed, velocity, acceleration, scalar, vector, direction, distance, displacement, time, rate. Common misconceptions: using speed and velocity interchangeably, thinking acceleration always means speeding up, and not including direction for velocity. Practice should include differentiation exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Speed, velocity, and acceleration: Calculate velocity from time and distance",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers calculating velocity from time and distance for Grade 8 science students (TEKS 8.7(A)). Students use the formula v = d/t to calculate velocity. Key concepts include: velocity includes both speed and direction, using consistent units, solving word problems, and interpreting results. Vocabulary: velocity, distance, time, speed, formula, units, meters per second, direction. Common misconceptions: confusing speed with velocity, using inconsistent units, and not including direction. Practice should include calculation problems appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Speed, velocity, and acceleration: Calculate distance from velocity and time",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers calculating distance from velocity and time for Grade 8 science students (TEKS 8.7(A)). Students rearrange the velocity formula to d = vt to find distance. Key concepts include: using the formula d = v x t, ensuring consistent units, solving word problems, and interpreting results in context. Vocabulary: distance, velocity, time, formula, units, meters, seconds, calculate. Common misconceptions: using wrong units, confusing distance with displacement, and rearranging the formula incorrectly. Practice should include distance calculation problems appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Speed, velocity, and acceleration: Calculate time from velocity and distance",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers calculating time from velocity and distance for Grade 8 science students (TEKS 8.7(A)). Students rearrange the velocity formula to t = d/v to find time. Key concepts include: using the formula t = d/v, ensuring consistent units, solving word problems, and interpreting results. Vocabulary: time, distance, velocity, formula, units, seconds, minutes, hours. Common misconceptions: dividing in wrong order and not converting units. Practice should include time calculation problems appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Speed, velocity, and acceleration: Calculate velocity, distance, and time I",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers calculating velocity, distance, and time using the v = d/t relationship for Grade 8 science students (TEKS 8.7(A)). Students solve for any variable given the other two. Key concepts include: v = d/t, d = vt, t = d/v, choosing the correct formula, unit consistency, and applying to real-world situations. Vocabulary: velocity, distance, time, formula, units, rearrange, solve, speed. Common misconceptions: choosing the wrong formula, unit inconsistencies, and confusing which variable to solve for. Practice should include mixed calculation problems appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Speed, velocity, and acceleration: Calculate velocity, distance, and time II",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers calculating velocity, distance, and time using the v = d/t relationship for Grade 8 science students (TEKS 8.7(A)). Students solve for any variable given the other two. Key concepts include: v = d/t, d = vt, t = d/v, choosing the correct formula, unit consistency, and applying to real-world situations. Vocabulary: velocity, distance, time, formula, units, rearrange, solve, speed. Common misconceptions: choosing the wrong formula, unit inconsistencies, and confusing which variable to solve for. Practice should include mixed calculation problems appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Speed, velocity, and acceleration: Identify whether objects are accelerating",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers identifying whether objects are accelerating for Grade 8 science students (TEKS 8.7(A)). Students determine if objects are accelerating based on changes in speed or direction. Key concepts include: acceleration is any change in velocity (speed or direction), constant speed in a straight line = no acceleration, speeding up or slowing down = acceleration, changing direction at constant speed = acceleration. Vocabulary: acceleration, velocity, speed, direction, constant, change, deceleration. Common misconceptions: thinking only speeding up is acceleration, not recognizing direction change as acceleration, and confusing constant speed with zero acceleration. Practice should include motion analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Newton's laws: Investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+      "teks": "8.7(B)",
+      "teks_description": "Investigate how Newton's three laws act simultaneously in systems",
+      "prompt": "This topic covers applications of Newton's three laws of motion for Grade 8 science students (TEKS 8.7(B)). Students apply all three laws to real-world situations. Key concepts include: First Law (inertia - objects resist changes in motion), Second Law (F = ma - force equals mass times acceleration), Third Law (action-reaction - every force has an equal and opposite reaction), and applications in vehicle restraints, sports, amusement rides, tectonics, and rockets. Vocabulary: Newton's laws, inertia, force, mass, acceleration, action, reaction, motion, equilibrium. Common misconceptions: thinking action-reaction forces cancel out, confusing inertia with laziness, and not connecting laws to everyday life. Practice should include application analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Newton's laws: How does mass affect force and acceleration?",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass using Newton's Second Law",
+      "prompt": "This topic covers the relationship between mass, force, and acceleration for Grade 8 science students (TEKS 8.7(A)). Students investigate how mass affects the force needed to accelerate an object. Key concepts include: Newton's Second Law (F = ma), greater mass requires greater force for the same acceleration, the same force produces less acceleration on more massive objects, and inverse proportionality between mass and acceleration at constant force. Vocabulary: mass, force, acceleration, Newton's Second Law, proportional, inverse, relationship, kilogram, Newton. Common misconceptions: confusing mass with weight, thinking heavier objects always move slower, and not understanding the proportional relationships. Practice should include quantitative analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Newton's laws: Predict forces using Newton's third law",
+      "teks": "8.7(B)",
+      "teks_description": "Investigate how Newton's three laws act simultaneously in systems",
+      "prompt": "This topic covers predicting forces using Newton's Third Law for Grade 8 science students (TEKS 8.7(B)). Students apply the principle that every action has an equal and opposite reaction. Key concepts include: action and reaction forces are equal in magnitude but opposite in direction, they act on different objects, they occur simultaneously, and real-world examples (walking, swimming, rocket propulsion). Vocabulary: action force, reaction force, Newton's Third Law, equal, opposite, interaction, pair. Common misconceptions: thinking action-reaction forces cancel out (they act on different objects), that one force causes the other, and that the larger object exerts more force. Practice should include force pair identification appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Newton's laws: Balanced and unbalanced forces",
+      "teks": "8.7(A)",
+      "teks_description": "Calculate how acceleration depends on net force and mass",
+      "prompt": "This topic covers balanced and unbalanced forces for Grade 8 science students (TEKS 8.7(A)). Students distinguish between balanced forces (net force = 0) and unbalanced forces (net force not 0). Key concepts include: balanced forces result in no change in motion (object at rest stays at rest, moving object continues at same speed), unbalanced forces cause acceleration (speeding up, slowing down, or changing direction), calculating net force, and real-world examples. Vocabulary: balanced force, unbalanced force, net force, acceleration, equilibrium, friction, gravity, Newton. Common misconceptions: thinking balanced forces mean no forces are acting and that objects need constant force to move. Practice should include force analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Newton's laws: Collisions and car safety features",
+      "teks": "8.7(B)",
+      "teks_description": "Investigate how Newton's three laws act simultaneously in systems",
+      "prompt": "This topic covers collisions and car safety features for Grade 8 science students (TEKS 8.7(B)). Students connect Newton's laws to vehicle safety design. Key concepts include: inertia causes occupants to continue moving during a crash (First Law), force = mass x acceleration explains injury severity (Second Law), crumple zones increase collision time thereby reducing force, seatbelts and airbags distribute force and increase stopping time, and Third Law in collision interactions. Vocabulary: collision, inertia, force, acceleration, crumple zone, seatbelt, airbag, momentum, impulse, safety. Common misconceptions: thinking seatbelts increase danger, not understanding how crumple zones reduce force, and confusing mass with size in collisions. Practice should include safety analysis appropriate for 13-14 year olds."
+    }
+  ]
+}

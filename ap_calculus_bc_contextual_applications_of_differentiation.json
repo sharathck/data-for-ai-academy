@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Contextual Applications of Differentiation",
+  "skills": [
+    {
+      "skill": "Change: Interpreting the Meaning of the Derivative in Context",
+      "ref": "CHA-3.A",
+      "prompt": "This topic covers interpreting derivatives in context for AP Calculus BC (CED: CHA-3.A, Unit 4). When f(t) represents a quantity, f'(t) is its instantaneous rate of change. Students must state what f'(t) means in context, include units (units of f / units of t), and interpret the sign. BC students apply this to parametric contexts: x'(t) is the rate of change of horizontal position, y'(t) of vertical position. Speed = sqrt([x'(t)]^2 + [y'(t)]^2) gives the rate of change of distance along the path. AP exam note: contextual interpretation with units appears on nearly every BC free-response exam. Students should write complete sentences interpreting derivatives in the given scenario. Vocabulary: rate of change, context, units, interpretation, increasing, decreasing, parametric velocity."
+    },
+    {
+      "skill": "Change: Straight-Line Motion: Connecting Position, Velocity, and Acceleration",
+      "ref": "CHA-3.B",
+      "prompt": "This topic covers rectilinear motion for AP Calculus BC (CED: CHA-3.B, Unit 4). s'(t) = v(t) (velocity), v'(t) = a(t) (acceleration), speed = |v(t)|. Particle changes direction when v changes sign. Speeding up: v and a same sign; slowing down: opposite signs. BC students extend this to planar motion using vector-valued functions r(t) = <x(t), y(t)>, where v(t) = <x'(t), y'(t)> and speed = |v(t)| = sqrt([x']^2+[y']^2). Displacement vs. total distance: displacement = integral of v(t)dt; total distance = integral of |v(t)|dt (1D) or integral of |v(t)|dt = integral of speed dt (2D). AP exam note: BC motion problems frequently involve 2D parametric/vector contexts. Students must distinguish displacement from distance and velocity from speed. Vocabulary: position, velocity, acceleration, speed, displacement, distance, direction change, vector, component."
+    },
+    {
+      "skill": "Change: Rates of Change in Applied Contexts Other Than Motion",
+      "ref": "CHA-3.C",
+      "prompt": "This topic covers applied rates of change beyond motion for AP Calculus BC (CED: CHA-3.C, Unit 4). Students interpret derivatives in contexts like population growth (dP/dt), temperature change (dT/dt), economic functions (marginal cost/revenue), and volume/area change. Key skills: identify independent and dependent variables, compute rates using differentiation, interpret sign and magnitude with units. BC students may encounter rates involving parametrically defined quantities or rates that lead to differential equations with logistic or exponential solutions. Students should connect derivative values to the function's behavior in context. AP exam note: contextual interpretation with correct units is essential. BC free-response may combine rates of change with series approximations or parametric analysis. Vocabulary: applied rate, marginal cost, interpretation, units, context, independent variable, dependent variable."
+    },
+    {
+      "skill": "Change: Introduction to Related Rates",
+      "ref": "CHA-3.D",
+      "prompt": "This topic introduces related rates for AP Calculus BC (CED: CHA-3.D, Unit 4). Related rates involve quantities changing over time connected by an equation. Differentiate with respect to t using implicit differentiation and the Chain Rule to relate the rates. Steps: (1) draw diagram, identify variables; (2) write relating equation; (3) differentiate with respect to t; (4) substitute known values, solve for unknown rate. BC students may encounter related rates in parametric or polar contexts. Common geometric relationships: Pythagorean theorem, volume/surface area formulas, similar triangles, trigonometry. AP exam note: related rates is a classic free-response topic. Students must differentiate first, then substitute (never substitute before differentiating). Vocabulary: related rates, implicit differentiation, time, rate of change, variables, geometric relationship, Chain Rule."
+    },
+    {
+      "skill": "Change: Solving Related Rates Problems",
+      "ref": "CHA-3.E",
+      "prompt": "This topic covers solving related rates problems for AP Calculus BC (CED: CHA-3.E, Unit 4). Building on the setup, students solve complex problems: expanding spheres/circles, filling cones/cylinders, ladder problems (Pythagorean), shadow problems (similar triangles), angle of elevation (trigonometry). Key strategies: choose the equation directly relating known and unknown rates; eliminate extra variables using constraints before differentiating; track signs (negative for decreasing quantities). BC students should handle problems involving more sophisticated geometric relationships. AP exam note: common errors include substituting before differentiating and using wrong geometric formulas. Final answers must include units and contextual interpretation. Vocabulary: related rates, Pythagorean theorem, similar triangles, volume, surface area, geometric constraints, solve."
+    },
+    {
+      "skill": "Change: Approximating Values of a Function Using Local Linearity and Linearization",
+      "ref": "CHA-3.F",
+      "prompt": "This topic covers linearization for AP Calculus BC (CED: CHA-3.F, Unit 4). The tangent line approximation L(x) = f(a) + f'(a)(x-a) approximates f(x) near x = a. Differentiable functions are locally linear. Key concepts: better approximation for x closer to a; concavity determines over/underestimate (f'' > 0: underestimate; f'' < 0: overestimate). BC students connect linearization to Taylor polynomials: the linearization is the first-degree Taylor polynomial. Higher-degree Taylor polynomials provide better approximations (Unit 10). The differential dy = f'(x)dx approximates change in f. AP exam note: BC students should connect linearization to the broader Taylor polynomial framework and justify over/underestimates using concavity. Vocabulary: linearization, tangent line approximation, local linearity, overestimate, underestimate, Taylor polynomial, differential."
+    },
+    {
+      "skill": "Limits: Using L’Hospital’s Rule for Determining Limits of Indeterminate Forms",
+      "ref": "LIM-4.A",
+      "prompt": "This topic covers L'Hopital's Rule for AP Calculus BC (CED: LIM-4.A, Unit 4). If lim[x->c] f(x)/g(x) gives 0/0 or infinity/infinity, and f, g are differentiable with g' != 0 near c, then lim f(x)/g(x) = lim f'(x)/g'(x) (if the latter exists). The rule can be applied repeatedly. Other indeterminate forms (0*infinity, infinity-infinity, 0^0, 1^infinity, infinity^0) must be rewritten first. BC students use L'Hopital's Rule in evaluating limits for convergence tests, improper integrals, and analyzing series convergence. Example: lim[x->0] (e^x - 1)/x = lim e^x/1 = 1. AP exam note: always verify the indeterminate form before applying. BC students should be adept at using L'Hopital's Rule in series contexts like the Ratio Test. Vocabulary: L'Hopital's Rule, indeterminate form, 0/0, infinity/infinity, verify, convergence, Ratio Test."
+    }
+  ]
+}

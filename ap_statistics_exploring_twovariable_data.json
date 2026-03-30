@@ -1,0 +1,51 @@
+{
+  "grade": "AP - Statistics",
+  "subject": "Exploring Two-Variable Data",
+  "skills": [
+    {
+      "skill": "2.1 Introducing Statistics: Are Variables Related?",
+      "ref": "VAR-1.D",
+      "prompt": "This topic introduces the study of relationships between variables for AP Statistics (CED: VAR-1.D, Unit 2, Topic 2.1). When two variables are measured on the same individuals, we investigate whether and how they are related. Key concepts: association does not imply causation; lurking (confounding) variables may explain an apparent relationship; relationships can be positive (both increase), negative (one increases as the other decreases), or show no clear pattern. For two categorical variables, we examine two-way tables; for two quantitative variables, we use scatterplots. Students should formulate questions about relationships and understand the difference between association and causation. AP exam note: students must always consider alternative explanations for observed associations and avoid causal claims from observational data. Vocabulary: relationship, association, causation, lurking variable, confounding, positive association, negative association."
+    },
+    {
+      "skill": "2.2 Representing Two Categorical Variables",
+      "ref": "UNC-1.P",
+      "prompt": "This topic covers two-way tables for AP Statistics (CED: UNC-1.P, Unit 2, Topic 2.2). A two-way table displays counts for two categorical variables simultaneously. Key concepts: rows represent one variable's categories, columns the other; joint frequencies are cell counts; marginal frequencies are row/column totals; the table allows examination of the relationship between the two variables. Students should construct two-way tables from data and read information from them. The table serves as the basis for computing conditional and joint probabilities, and for chi-square tests later in the course. AP exam note: students should be able to read and construct two-way tables, identifying joint and marginal frequencies accurately. Vocabulary: two-way table, joint frequency, marginal frequency, row variable, column variable, cell, total."
+    },
+    {
+      "skill": "2.3 Statistics for Two Categorical Variables",
+      "ref": "UNC-1.Q, UNC-1.R",
+      "prompt": "This topic covers conditional distributions and association for AP Statistics (CED: UNC-1.Q, UNC-1.R, Unit 2, Topic 2.3). Conditional relative frequencies show the distribution of one variable given a specific category of the other: divide cell counts by the appropriate row or column total. Key concepts: if conditional distributions differ across categories, the variables are associated; if conditional distributions are the same, the variables are independent; compare conditional percentages (not raw counts) to assess association. Students should compute and display conditional distributions using segmented bar charts. Simpson's Paradox can occur when an association reverses when data is aggregated. AP exam note: students must compare conditional distributions (not marginal) to assess association. Vocabulary: conditional distribution, conditional relative frequency, association, independence, segmented bar chart, Simpson's Paradox."
+    },
+    {
+      "skill": "2.4 Representing the Relationship Between Two Quantitative Variables",
+      "ref": "UNC-1.S, DAT-1.A",
+      "prompt": "This topic covers scatterplots for AP Statistics (CED: UNC-1.S, DAT-1.A, Unit 2, Topic 2.4). A scatterplot displays the relationship between two quantitative variables, with the explanatory variable on the x-axis and the response variable on the y-axis. Students describe scatterplots using DOFS: Direction (positive/negative), Outliers (unusual points), Form (linear/nonlinear/clusters), and Strength (weak/moderate/strong). Key concepts: each point represents one individual; look for overall patterns and deviations; the explanatory variable potentially influences the response variable; context is essential in descriptions. AP exam note: scatterplot descriptions must address direction, form, strength, outliers, and context. Students should distinguish between the variables' roles (explanatory vs. response). Vocabulary: scatterplot, explanatory variable, response variable, direction, form, strength, outlier, linear, nonlinear."
+    },
+    {
+      "skill": "2.5 Correlation",
+      "ref": "DAT-1.B, DAT-1.C",
+      "prompt": "This topic covers the correlation coefficient for AP Statistics (CED: DAT-1.B, DAT-1.C, Unit 2, Topic 2.5). The correlation r measures the strength and direction of a linear relationship between two quantitative variables. Properties: -1 <= r <= 1; r > 0 indicates positive association, r < 0 negative; |r| close to 1 means strong linear relationship, close to 0 means weak; r = +/-1 means perfect linear relationship; r has no units and is not affected by changes in units or which variable is x or y. Key concepts: r measures only linear relationships (a strong curved pattern can have r near 0); r is sensitive to outliers; r^2 gives the proportion of variability in y explained by the linear relationship with x. Students should interpret r in context. AP exam note: students must interpret r and r^2 in context and understand r's limitations (linear only, sensitive to outliers). Vocabulary: correlation, r, linear, strength, direction, r-squared, proportion of variation, outlier sensitive, unitless."
+    },
+    {
+      "skill": "2.6 Linear Regression Models",
+      "ref": "DAT-1.D, DAT-1.E",
+      "prompt": "This topic covers linear regression for AP Statistics (CED: DAT-1.D, DAT-1.E, Unit 2, Topic 2.6). The least-squares regression line (LSRL) y-hat = a + bx minimizes the sum of squared residuals. Slope b = r(s_y/s_x) represents the predicted change in y for a one-unit increase in x. Intercept a = y-bar - b*x-bar is the predicted y when x = 0. Key concepts: the LSRL always passes through (x-bar, y-bar); b has units of y per x; the intercept may or may not have contextual meaning; use the regression equation for predictions within the range of data (interpolation, not extrapolation). Students should compute, interpret, and use regression equations. AP exam note: slope interpretation must include 'predicted,' units, and context: 'For each additional year, the predicted salary increases by $2,500.' Vocabulary: regression, LSRL, slope, intercept, prediction, least squares, residual, interpolation, extrapolation."
+    },
+    {
+      "skill": "2.7 Residuals",
+      "ref": "DAT-1.F, DAT-1.G",
+      "prompt": "This topic covers residuals for AP Statistics (CED: DAT-1.F, DAT-1.G, Unit 2, Topic 2.7). A residual is the difference between the observed y-value and the predicted y-value: residual = y - y-hat. Positive residual means the model underestimates; negative means overestimate. Key concepts: the sum of residuals for the LSRL is always zero; residual plots (residuals vs. x or y-hat) help assess model fit; a good linear model shows a random scatter of residuals with no pattern; curved patterns in the residual plot suggest a nonlinear relationship; increasing spread suggests the variability is not constant (heteroscedasticity). Students should calculate residuals, construct residual plots, and interpret them. AP exam note: residual plot analysis is essential for assessing model appropriateness. Students must describe patterns or lack thereof in residual plots. Vocabulary: residual, observed, predicted, residual plot, pattern, random scatter, model fit, heteroscedasticity."
+    },
+    {
+      "skill": "2.8 Least Squares Regression",
+      "ref": "DAT-1.H, DAT-1.I",
+      "prompt": "This topic covers properties of least squares regression for AP Statistics (CED: DAT-1.H, DAT-1.I, Unit 2, Topic 2.8). The LSRL minimizes the sum of squared residuals (SSE). Key properties: r^2 (coefficient of determination) gives the proportion of variation in y explained by the linear model with x (e.g., 'r^2 = 0.85 means 85% of the variability in y is explained by the linear relationship with x'); the standard deviation of residuals (s) measures typical prediction error; influential points (points with extreme x-values) can substantially change the regression line; outliers in the y-direction have large residuals but may not be influential. Students should interpret r^2 and s in context and understand the influence of individual points on the regression. AP exam note: interpretation of r^2 and s must be in context. Students should assess the impact of influential points. Vocabulary: least squares, r-squared, coefficient of determination, standard deviation of residuals, influential point, outlier, SSE."
+    },
+    {
+      "skill": "2.9 Analyzing Departures from Linearity",
+      "ref": "DAT-1.J",
+      "prompt": "This topic covers departures from linearity for AP Statistics (CED: DAT-1.J, Unit 2, Topic 2.9). When the relationship between two quantitative variables is not linear, transformations can linearize the data. Common transformations: logarithmic (log y vs. x for exponential data), power (log y vs. log x for power data), square root, or reciprocal. Key concepts: residual plots reveal nonlinearity (curved patterns); applying an appropriate transformation can produce a linear relationship in the transformed variables; the regression equation in transformed variables can be back-transformed for predictions in the original scale. Students should identify nonlinear patterns, select appropriate transformations, and interpret the transformed model. AP exam note: students should be able to use residual plots to identify nonlinearity and apply transformations to achieve linearity. Vocabulary: nonlinear, transformation, logarithmic, power, residual plot, linearize, back-transform, exponential model."
+    }
+  ]
+}

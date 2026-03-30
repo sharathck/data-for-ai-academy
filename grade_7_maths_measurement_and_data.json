@@ -1,0 +1,126 @@
+{
+  "grade": "Grade 7",
+  "subject": "Maths - Measurement and data",
+  "skills": [
+    {
+      "skill": "Volume of rectangular prisms and pyramids",
+      "teks": "7.9(A)",
+      "prompt": "This topic covers volume of rectangular prisms and pyramids for Grade 7 students (TEKS 7.9(A)). Students calculate volume using V = lwh for prisms and V = (1/3)Bh for pyramids. Key concepts include: volume as 3D space, identifying dimensions, and the 1/3 prism-pyramid relationship. Vocabulary: volume, rectangular prism, pyramid, base area, length, width, height, cubic units. Common misconceptions: forgetting 1/3 for pyramids and confusing height with slant height. Practice should include computation and word problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Surface area of rectangular prisms and pyramids",
+      "teks": "7.9(D)",
+      "prompt": "This topic covers surface area of rectangular prisms and pyramids for Grade 7 students (TEKS 7.9(D)). Students find total surface area by summing all face areas. Key concepts include: identifying all faces, using nets, calculating rectangle and triangle areas, and summing. Vocabulary: surface area, face, net, rectangular prism, pyramid, base, lateral face, slant height, square units. Common misconceptions: missing faces, confusing slant and vertical height, and confusing surface area with volume. Practice should include net-based and formula problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Relationship between volume of prisms and pyramids",
+      "teks": "7.8(A)",
+      "prompt": "This topic covers the relationship between prism and pyramid volumes for Grade 7 students (TEKS 7.8(A)). Students understand that a pyramid's volume is one-third that of a prism with the same base and height. Key concepts include: comparing V = Bh with V = (1/3)Bh, exploring through models, and applying the relationship. Vocabulary: volume, prism, pyramid, base area, height, one-third, relationship. Common misconceptions: thinking the ratio is one-half and not requiring same base and height. Practice should include exploration and computation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Circumference and area of circles",
+      "teks": "7.9(B)",
+      "prompt": "This topic covers circumference and area of circles for Grade 7 students (TEKS 7.9(B)). Students use C = 2*pi*r or C = pi*d for circumference and A = pi*r^2 for area. Key concepts include: pi as circumference/diameter ratio (~3.14), radius-diameter relationship, and applying formulas. Vocabulary: circle, circumference, area, radius, diameter, pi, formula. Common misconceptions: confusing formulas, using diameter in area without halving, and forgetting to square the radius. Practice should include computation and real-world problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Area of composite figures",
+      "teks": "7.9(C)",
+      "prompt": "This topic covers area of composite figures for Grade 7 students (TEKS 7.9(C)). Students decompose irregular shapes into familiar shapes and sum or subtract their areas. Key concepts include: identifying component shapes, calculating each area, determining add vs. subtract, and handling circular parts. Vocabulary: composite figure, decompose, area, rectangle, triangle, semicircle. Common misconceptions: not identifying all components and confusing add vs. subtract. Practice should include floor plans and design problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Comparing data using box plots and dot plots",
+      "teks": "7.12(A)",
+      "prompt": "This topic covers comparing data using box plots and dot plots for Grade 7 students (TEKS 7.12(A)). Students analyze and compare data sets displayed as box plots or dot plots. Key concepts include: five-number summary (min, Q1, median, Q3, max), clusters/gaps/outliers in dot plots, and comparing center, spread, and shape. Vocabulary: box plot, dot plot, median, quartile, range, interquartile range, outlier, distribution. Common misconceptions: misreading quartiles and confusing frequency with value. Practice should include side-by-side comparisons appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Inference from random samples",
+      "teks": "7.12(B)",
+      "prompt": "This topic covers making inferences from random samples for Grade 7 students (TEKS 7.12(B)). Students use sample data to draw inferences about populations. Key concepts include: representative samples, using sample statistics to estimate population parameters, sampling variability, and sample size effects. Vocabulary: random sample, population, inference, representative, sample size, estimate, parameter, statistic. Common misconceptions: thinking one sample perfectly represents the population and confusing biased with random samples. Practice should include survey scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Comparing populations based on random samples",
+      "teks": "7.12(C)",
+      "prompt": "This topic covers comparing populations based on random samples for Grade 7 students (TEKS 7.12(C)). Students compare two populations by analyzing random samples. Key concepts include: using measures of center and variability to compare, making informal inferences, and understanding distribution overlap. Vocabulary: population, random sample, compare, mean, median, variability, range, MAD, IQR, overlap. Common misconceptions: comparing only centers without variability and drawing conclusions from non-random samples. Practice should include comparative analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Measures of central tendency and variability",
+      "teks": "7.12(A)",
+      "prompt": "This topic covers measures of central tendency and variability for Grade 7 students (TEKS 7.12(A)). Students calculate and interpret mean, median, mode, range, and other measures. Key concepts include: mean as balance point, median as middle value, mode as most frequent, range, choosing appropriate measures, and outlier effects. Vocabulary: mean, median, mode, range, central tendency, variability, outlier, distribution. Common misconceptions: always using mean, not ordering data for median, and thinking range measures center. Practice should include data analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Volume of cubes and prisms",
+      "teks": "7.9(A)",
+      "prompt": "This topic covers volume of cubes and rectangular prisms for Grade 7 students (TEKS 7.9(A)). Students calculate volume using V = lwh for rectangular prisms and V = s^3 for cubes. Key concepts include: volume as the number of unit cubes that fill a space, the relationship between a cube (special prism) and general rectangular prism, and using appropriate formulas. Vocabulary: volume, cube, rectangular prism, length, width, height, edge, cubic units. Common misconceptions: confusing area and volume formulas and not cubing the edge for cubes. Practice should include computation and real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Volume of cubes and rectangular prisms: word problems",
+      "teks": "7.9(A)",
+      "prompt": "This topic covers word problems involving volume of cubes and rectangular prisms for Grade 7 students (TEKS 7.9(A)). Students apply volume formulas to solve real-world problems. Key contexts include: filling containers, packing boxes, aquariums, and room dimensions. Key concepts include: identifying dimensions from context, choosing the correct formula, computing, and interpreting units. Vocabulary: volume, cube, rectangular prism, length, width, height, cubic units, capacity. Common misconceptions: using wrong dimensions, confusing surface area with volume, and not using cubic units. Practice should include practical scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Volume of pyramids",
+      "teks": "7.9(A)",
+      "prompt": "This topic covers volume of pyramids for Grade 7 students (TEKS 7.9(A)). Students calculate pyramid volume using V = (1/3)Bh where B is the base area and h is the height. Key concepts include: identifying the base shape, calculating base area, using the perpendicular height (not slant height), and applying the 1/3 factor. Vocabulary: pyramid, volume, base area, height, slant height, one-third, cubic units. Common misconceptions: forgetting the 1/3 factor, using slant height instead of perpendicular height, and errors calculating the base area for non-square bases. Practice should include various pyramid types appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Parts of a circle",
+      "teks": "7.8(C)",
+      "prompt": "This topic covers parts of a circle for Grade 7 students (TEKS 7.8(C)). Students identify and describe the key components of a circle. Key parts include: center, radius, diameter, chord, arc, circumference, semicircle, and sector. Key relationships: diameter = 2 x radius, circumference = pi x diameter. Vocabulary: center, radius, diameter, chord, arc, circumference, semicircle, sector, tangent. Common misconceptions: confusing radius and diameter, thinking a chord must pass through the center, and not understanding that diameter is a special chord. Practice should include identification and labeling activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Circumference of circles",
+      "teks": "7.9(B)",
+      "prompt": "This topic covers circumference of circles for Grade 7 students (TEKS 7.9(B)). Students calculate the distance around a circle using C = pi*d or C = 2*pi*r. Key concepts include: understanding circumference as the perimeter of a circle, the relationship between radius and diameter, using pi (~3.14 or 22/7), and solving for circumference, radius, or diameter. Vocabulary: circumference, circle, radius, diameter, pi, perimeter. Common misconceptions: confusing circumference with area and using radius when diameter is given (or vice versa). Practice should include computation and real-world problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Area of circles",
+      "teks": "7.9(B)",
+      "prompt": "This topic covers area of circles for Grade 7 students (TEKS 7.9(B)). Students calculate the area enclosed by a circle using A = pi*r^2. Key concepts include: understanding why the radius is squared, estimating area before computing, solving for area given radius or diameter, and solving for radius given area. Vocabulary: area, circle, radius, diameter, pi, squared, square units. Common misconceptions: forgetting to square the radius, using diameter instead of radius, and confusing area with circumference. Practice should include computation and real-world problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Circles: word problems",
+      "teks": "7.9(B)",
+      "prompt": "This topic covers circle word problems for Grade 7 students (TEKS 7.9(B)). Students apply circumference and area formulas to solve real-world problems involving circular shapes. Key contexts include: gardens, pizza, wheels, pools, and tracks. Key concepts include: choosing between circumference and area, extracting radius or diameter from context, computing, and interpreting results. Vocabulary: circle, circumference, area, radius, diameter, pi, real-world. Common misconceptions: choosing the wrong formula for the situation and not halving the diameter to get the radius. Practice should include practical applications appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Semicircles: calculate area, perimeter, radius, and diameter",
+      "teks": "7.9(B)",
+      "prompt": "This topic covers semicircle calculations for Grade 7 students (TEKS 7.9(B)). Students calculate area, perimeter, radius, and diameter of semicircles. Key concepts include: area of a semicircle = (1/2)*pi*r^2, perimeter includes the curved part (pi*r) plus the diameter, and the relationship between semicircle and full circle measurements. Vocabulary: semicircle, area, perimeter, radius, diameter, pi, half circle, curved part, straight edge. Common misconceptions: forgetting to include the straight edge in perimeter, not halving the area formula, and confusing curved perimeter with full circumference. Practice should include computation and real-world problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Quarter circles: calculate area, perimeter, and radius",
+      "teks": "7.9(B)",
+      "prompt": "This topic covers quarter circle calculations for Grade 7 students (TEKS 7.9(B)). Students calculate area, perimeter, and radius of quarter circles. Key concepts include: area = (1/4)*pi*r^2, perimeter includes the curved part (pi*r/2) plus two radii, and the relationship between quarter circle and full circle measurements. Vocabulary: quarter circle, area, perimeter, radius, pi, one-fourth, arc length, right angle. Common misconceptions: forgetting to include both straight edges in perimeter, not dividing by 4 for area, and confusing with semicircle formulas. Practice should include computation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Area of compound figures with triangles",
+      "teks": "7.9(C)",
+      "prompt": "This topic covers area of compound figures with triangles for Grade 7 students (TEKS 7.9(C)). Students decompose complex shapes into rectangles and triangles to find total area. Key concepts include: identifying component shapes, calculating each area using A = lw for rectangles and A = 1/2 bh for triangles, determining whether to add or subtract, and computing accurately. Vocabulary: compound figure, decompose, triangle, rectangle, area, base, height. Common misconceptions: using wrong dimensions for triangle base/height, not identifying all components, and confusing add/subtract. Practice should include figure analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Area of compound figures with triangles, semicircles, and quarter circles",
+      "teks": "7.9(C)",
+      "prompt": "This topic covers semicircle calculations for Grade 7 students (TEKS 7.9(C)). Students calculate area, perimeter, radius, and diameter of semicircles. Key concepts include: area of a semicircle = (1/2)*pi*r^2, perimeter includes the curved part (pi*r) plus the diameter, and the relationship between semicircle and full circle measurements. Vocabulary: semicircle, area, perimeter, radius, diameter, pi, half circle, curved part, straight edge. Common misconceptions: forgetting to include the straight edge in perimeter, not halving the area formula, and confusing curved perimeter with full circumference. Practice should include computation and real-world problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Nets of prisms and pyramids",
+      "teks": "7.9(D)",
+      "prompt": "This topic covers nets of prisms and pyramids for Grade 7 students (TEKS 7.9(D)). Students identify, draw, and analyze two-dimensional nets that fold into three-dimensional prisms and pyramids. Key concepts include: understanding that a net shows all faces of a 3D figure laid flat, identifying which nets fold into specific solids, matching faces and edges, and using nets to calculate surface area. Vocabulary: net, face, edge, prism, pyramid, fold, three-dimensional, two-dimensional, surface area. Common misconceptions: not recognizing valid nets, confusing which edges connect when folded, and miscounting faces. Practice should include drawing and identifying nets appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Surface area of cubes and prisms",
+      "teks": "7.9(D)",
+      "prompt": "This topic covers surface area of cubes and prisms for Grade 7 students (TEKS 7.9(D)). Students calculate total surface area by finding and summing the areas of all faces. Key concepts include: identifying all faces (rectangles for prisms, squares for cubes), using SA = 2lw + 2lh + 2wh for rectangular prisms and SA = 6s^2 for cubes, and using nets to organize calculations. Vocabulary: surface area, face, cube, rectangular prism, net, square units, length, width, height. Common misconceptions: missing faces (especially opposite pairs), confusing surface area with volume, and using cubic instead of square units. Practice should include computation and word problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Surface area of pyramids",
+      "teks": "7.9(D)",
+      "prompt": "This topic covers surface area of pyramids for Grade 7 students (TEKS 7.9(D)). Students calculate total surface area by finding the base area plus the areas of all triangular lateral faces. Key concepts include: SA = base area + (1/2) x perimeter x slant height for regular pyramids, identifying the base shape, computing triangular face areas using A = 1/2 bh where h is the slant height, and summing all face areas. Vocabulary: surface area, pyramid, base, lateral face, slant height, triangle, square units. Common misconceptions: using perpendicular height instead of slant height, forgetting the base, and errors with non-square bases. Practice should include various pyramid types appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Lateral area of prisms and pyramids",
+      "teks": "7.9(D)",
+      "prompt": "This topic covers lateral area of prisms and pyramids for Grade 7 students (TEKS 7.9(D)). Students calculate the lateral surface area (area of the sides only, excluding bases). Key concepts include: lateral area of prisms = perimeter of base x height, lateral area of pyramids = (1/2) x perimeter of base x slant height, distinguishing lateral area from total surface area, and applying to real-world contexts (painting walls, wrapping). Vocabulary: lateral area, surface area, prism, pyramid, perimeter, height, slant height, base. Common misconceptions: including the base in lateral area, using wrong height measurement, and confusing lateral with total surface area. Practice should include computation and application problems appropriate for 12-13 year olds."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "grade": "High School - Algebra I",
+  "subject": "Mathematics - Quadratic functions and equations",
+  "skills": [
+    {
+      "skill": "Domain and range of quadratics: Domain and range of quadratic functions: graphs",
+      "teks": "A.6(A)",
+      "prompt": "This topic covers domain and range of quadratic functions from graphs for Algebra I students (TEKS A.6(A)). The domain of any quadratic function is all real numbers. The range depends on direction: if the parabola opens up (a > 0), range is [vertex y-value, infinity); if down (a < 0), range is (-infinity, vertex y-value]. Students identify the vertex as the minimum or maximum point on the graph and read its coordinates carefully. They express answers in interval notation, inequality notation, or set-builder notation. Vocabulary: parabola, vertex, minimum, maximum, domain, range, opens up, opens down. Common errors: stating range as all real numbers, confusing minimum with maximum, using parentheses instead of brackets at the vertex, and misreading vertex coordinates."
+    },
+    {
+      "skill": "Domain and range of quadratics: Domain and range of quadratic functions: equations",
+      "teks": "A.6(A)",
+      "prompt": "This topic covers domain and range of quadratic functions from equations for Algebra I students (TEKS A.6(A)). Given f(x) = ax^2 + bx + c or vertex form f(x) = a(x-h)^2 + k, domain is always all real numbers. For range: find the vertex. In vertex form, vertex is (h, k). In standard form, x-vertex = -b/(2a), then compute y. If a > 0, range is [k, infinity); if a < 0, range is (-infinity, k]. Vocabulary: vertex, axis of symmetry, parabola, minimum, maximum. Common errors: miscalculating the vertex, forgetting domain is always all real numbers, and using the wrong inequality direction for range."
+    },
+    {
+      "skill": "Writing quadratic functions in vertex form: Write a quadratic function from its vertex and another point",
+      "teks": "A.6(B)",
+      "prompt": "This topic covers writing quadratic functions given a vertex and another point for Algebra I students (TEKS A.6(B)). Use vertex form f(x) = a(x-h)^2 + k where (h, k) is the vertex. Substitute the other point for x and f(x) to solve for a. The value of a determines width and direction: a > 0 opens up, a < 0 opens down, larger |a| means narrower. Example: vertex (2,-3), point (4,5) gives 5 = a(4-2)^2 - 3, so a = 2. Vocabulary: vertex form, vertex, parameter a, parabola. Common errors: sign mistakes with (x-h) when h is negative, arithmetic errors solving for a, and forgetting to write the complete equation."
+    },
+    {
+      "skill": "Writing quadratic functions from solutions: Match quadratic functions and graphs",
+      "teks": "A.6(C)",
+      "prompt": "This topic covers matching quadratic functions with their graphs for Algebra I students (TEKS A.6(C)). Students analyze key features: direction of opening (sign of a), vertex location, y-intercept (c in standard form or plug x=0), x-intercepts (zeros/roots). For vertex form, read vertex directly as (h, k). Compare width using |a|. Vocabulary: parabola, vertex, axis of symmetry, x-intercept, y-intercept, opens up, opens down, stretch, compression. Students systematically eliminate choices. Common errors: confusing the sign of h in vertex form, ignoring the stretch factor, and not checking the y-intercept."
+    },
+    {
+      "skill": "Writing quadratic functions from solutions: Write a quadratic function from its x-intercepts and another point",
+      "teks": "A.6(C)",
+      "prompt": "This topic covers writing quadratic functions from x-intercepts and another point for Algebra I students (TEKS A.6(C)). Use factored form f(x) = a(x-r)(x-s) where r and s are x-intercepts. Substitute the additional point to find a. Students may leave in factored form or expand to standard form. Vocabulary: x-intercept, zero, root, factored form, parameter a. The x-intercepts are where f(x) = 0, and the extra point determines the stretch factor a. Common errors: sign errors in factors (intercept r gives factor (x-r)), arithmetic errors solving for a, and incorrect expansion."
+    },
+    {
+      "skill": "Graphing quadratic functions: Characteristics of quadratic functions: graphs",
+      "teks": "A.7(A)",
+      "prompt": "This topic covers identifying characteristics of quadratic functions from graphs for Algebra I students (TEKS A.7(A)). Students identify: vertex (min/max point), axis of symmetry (vertical line through vertex), direction of opening, y-intercept, x-intercepts/zeros (0, 1, or 2), domain/range, and intervals of increase/decrease. The parabola is symmetric about its axis of symmetry. Vocabulary: parabola, vertex, axis of symmetry, maximum, minimum, zero, increasing, decreasing. Common errors: confusing maximum and minimum, misreading coordinates, and forgetting that the axis of symmetry passes through the vertex."
+    },
+    {
+      "skill": "Graphing quadratic functions: Characteristics of quadratic functions: equations",
+      "teks": "A.7(A)",
+      "prompt": "This topic covers identifying characteristics of quadratic functions from graphs for Algebra I students (TEKS A.7(A)). Students identify: vertex (min/max point), axis of symmetry (vertical line through vertex), direction of opening, y-intercept, x-intercepts/zeros (0, 1, or 2), domain/range, and intervals of increase/decrease. The parabola is symmetric about its axis of symmetry. Vocabulary: parabola, vertex, axis of symmetry, maximum, minimum, zero, increasing, decreasing. Common errors: confusing maximum and minimum, misreading coordinates, and forgetting that the axis of symmetry passes through the vertex."
+    },
+    {
+      "skill": "Graphing quadratic functions: Graph quadratic functions in vertex form",
+      "teks": "A.7(A)",
+      "prompt": "This topic covers graphing quadratic functions in vertex form for Algebra I students (TEKS A.7(A)). Vertex form: f(x) = a(x-h)^2 + k. Steps: plot vertex (h,k), draw axis of symmetry x = h, determine direction (up if a > 0, down if a < 0), plot additional points using symmetry. The value |a| affects width: |a| > 1 narrower, 0 < |a| < 1 wider than y = x^2. Vocabulary: vertex form, vertex, axis of symmetry, parabola, stretch, compression. Plot at least 5 points for accuracy. Common errors: plotting vertex at (-h,k) instead of (h,k), misinterpreting a's effect on width, and not using symmetry."
+    },
+    {
+      "skill": "Graphing quadratic functions: Graph quadratic functions in standard form",
+      "teks": "A.7(A)",
+      "prompt": "This topic covers graphing quadratic functions in standard form for Algebra I students (TEKS A.7(A)). Standard form: f(x) = ax^2 + bx + c. Steps: find vertex using x = -b/(2a) and compute y, plot y-intercept (0, c), find x-intercepts by solving ax^2 + bx + c = 0, draw axis of symmetry, plot symmetric points. Key features from equation: c is y-intercept, sign of a is direction. Vocabulary: standard form, vertex, axis of symmetry, y-intercept, x-intercept. Common errors: computing vertex incorrectly, forgetting to find the y-value of vertex, and not plotting enough points."
+    },
+    {
+      "skill": "Graphing quadratic functions: Match quadratic functions and graphs",
+      "teks": "A.7(A)",
+      "prompt": "This topic covers matching quadratic functions with their graphs for Algebra I students (TEKS A.7(A)). Students analyze key features: direction of opening (sign of a), vertex location, y-intercept (c in standard form or plug x=0), x-intercepts (zeros/roots). For vertex form, read vertex directly as (h, k). Compare width using |a|. Vocabulary: parabola, vertex, axis of symmetry, x-intercept, y-intercept, opens up, opens down, stretch, compression. Students systematically eliminate choices. Common errors: confusing the sign of h in vertex form, ignoring the stretch factor, and not checking the y-intercept."
+    },
+    {
+      "skill": "Linear factors and zeros: Solve a quadratic equation using the zero product property",
+      "teks": "A.7(B)",
+      "prompt": "This topic covers solving quadratic equations using the zero product property for Algebra I students (TEKS A.7(B)). The zero product property states: if ab = 0, then a = 0 or b = 0. When the equation is in factored form (x-r)(x-s) = 0, set each factor to zero and solve. The solutions are the x-intercepts. Students must ensure the equation equals zero and is factored. Vocabulary: zero product property, factor, root, zero, solution, x-intercept. Verify solutions by substituting back. Common errors: forgetting to set the equation equal to zero, sign errors when finding solutions from factors, and not factoring completely."
+    },
+    {
+      "skill": "Transformations of quadratics: Transformations of quadratic functions",
+      "teks": "A.7(C)",
+      "prompt": "This topic covers transformations of quadratic functions for Algebra I students (TEKS A.7(C)). Starting from f(x) = x^2, students apply: vertical shift f(x) + d, horizontal shift f(x-c), vertical stretch/compression af(x), and reflection -f(x). In vertex form a(x-h)^2 + k: h is horizontal shift, k is vertical shift, a is stretch/reflection. Key understanding: c > 0 shifts right (counterintuitive), d > 0 shifts up, |a| > 1 stretches, 0 < |a| < 1 compresses. Vocabulary: transformation, translation, reflection, stretch, compression, parent function. Common errors: confusing horizontal shift direction, mixing up stretch and compression, and applying transformations in wrong order."
+    },
+    {
+      "skill": "Solving quadratic equations: Solve a quadratic equation using square roots",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers solving quadratic equations using square roots for Algebra I students (TEKS A.8(A)). This method works when the equation has the form (expression)^2 = k. Steps: isolate the squared term, take square root of both sides (remember +/-), solve. If k > 0: two real solutions. If k = 0: one solution. If k < 0: no real solutions (or complex in Algebra II). Example: (x-3)^2 = 16 gives x-3 = +/-4, so x = 7 or x = -1. Vocabulary: square root, principal root, plus or minus. Common errors: forgetting +/-, not isolating the squared term first, and arithmetic mistakes."
+    },
+    {
+      "skill": "Solving quadratic equations: Solve a quadratic equation using the zero product property",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers solving quadratic equations using the zero product property for Algebra I students (TEKS A.8(A)). The zero product property states: if ab = 0, then a = 0 or b = 0. When the equation is in factored form (x-r)(x-s) = 0, set each factor to zero and solve. The solutions are the x-intercepts. Students must ensure the equation equals zero and is factored. Vocabulary: zero product property, factor, root, zero, solution, x-intercept. Verify solutions by substituting back. Common errors: forgetting to set the equation equal to zero, sign errors when finding solutions from factors, and not factoring completely."
+    },
+    {
+      "skill": "Solving quadratic equations: Solve a quadratic equation by factoring",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.8(A)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+    },
+    {
+      "skill": "Solving quadratic equations: Complete the square",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers completing the square for Algebra I students (TEKS A.8(A)). Completing the square transforms ax^2 + bx + c into a(x-h)^2 + k form. For x^2 + bx: take half of b, square it, add and subtract (b/2)^2. This creates a perfect square trinomial. For ax^2 + bx + c with a not equal to 1: factor out a first. This technique converts standard form to vertex form, revealing the vertex. Vocabulary: completing the square, perfect square trinomial, vertex form. Common errors: forgetting to balance the equation, errors when a is not 1, and arithmetic with fractions."
+    },
+    {
+      "skill": "Solving quadratic equations: Solve a quadratic equation by completing the square",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers solving quadratic equations by completing the square for Algebra I students (TEKS A.8(A)). Steps: move constant to right, divide by a if needed, add (b/2)^2 to both sides, factor left as perfect square, take square root of both sides (+/-), solve. Example: x^2 + 6x = 7 becomes (x+3)^2 = 16, x+3 = +/-4, giving x = 1 or x = -7. This method always works, even when factoring does not. Vocabulary: completing the square, perfect square trinomial. Common errors: forgetting to add to both sides, errors dividing by a, and sign mistakes with +/-."
+    },
+    {
+      "skill": "Solving quadratic equations: Solve a quadratic equation using the quadratic formula",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers solving quadratic equations using the quadratic formula for Algebra I students (TEKS A.8(A)). Formula: x = (-b +/- sqrt(b^2 - 4ac))/(2a) for ax^2 + bx + c = 0. The discriminant D = b^2 - 4ac determines solution type: D > 0 gives 2 real solutions, D = 0 gives 1 repeated, D < 0 gives no real solutions (complex in Algebra II). Students identify a, b, c from standard form and substitute carefully. Vocabulary: quadratic formula, discriminant, standard form. Common errors: sign errors with negative b, forgetting 2a divides the entire numerator, and discriminant computation errors."
+    },
+    {
+      "skill": "Solving quadratic equations: Solve quadratic equations: word problems",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers solving quadratic equations in word problem contexts for Algebra I students (TEKS A.8(A)). Common contexts: projectile motion (h = -16t^2 + v0t + h0), area problems, revenue optimization, and falling objects. Steps: define variables, write the quadratic equation, solve using any method, interpret solutions in context (reject negative time, unreasonable dimensions). Vocabulary: projectile, maximum height, time of flight, area, optimization. Common errors: not rejecting extraneous solutions, setting up equations incorrectly, and misinterpreting context."
+    },
+    {
+      "skill": "Solving quadratic equations: Using the discriminant",
+      "teks": "A.8(A)",
+      "prompt": "This topic covers using the discriminant for Algebra I students (TEKS A.8(A)). The discriminant D = b^2 - 4ac determines the number and type of solutions: D > 0 means two distinct real solutions, D = 0 means one repeated real solution, D < 0 means no real solutions. If D is a perfect square, solutions are rational. Vocabulary: discriminant, real solutions, repeated root, rational, irrational. Students use the discriminant to predict graph behavior. Common errors: computing b^2-4ac incorrectly, confusing discriminant with the full quadratic formula, and misinterpreting D = 0."
+    }
+  ]
+}

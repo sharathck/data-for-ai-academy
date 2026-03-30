@@ -1,0 +1,61 @@
+{
+  "grade": "AP - Chemistry",
+  "subject": "Acids and Bases",
+  "skills": [
+    {
+      "skill": "8.1 Introduction to Acids and Bases",
+      "ref": "SAP-9.A (Unit 8, Topic 8.1)",
+      "prompt": "This topic introduces acids and bases for AP Chemistry students (CED: SAP-9.A, Unit 8, Topic 8.1). Students should understand three acid-base definitions: Arrhenius (acids produce H+, bases produce OH- in water), Bronsted-Lowry (acids donate protons, bases accept protons), and Lewis (acids accept electron pairs, bases donate electron pairs). Water autoionizes: 2H2O <-> H3O+ + OH-, with Kw = [H3O+][OH-] = 1.0 x 10^-14 at 25 degrees C. In any aqueous solution, the product of [H3O+] and [OH-] equals Kw. Strong acids and bases dissociate completely; weak acids and bases partially dissociate. Students must identify acids, bases, and conjugate pairs using each definition. Connect to pH, equilibrium, buffers, and titration. AP exam note: applying all three definitions and understanding Kw is essential. Vocabulary: Arrhenius, Bronsted-Lowry, Lewis, conjugate pair, autoionization, Kw, amphoteric, hydronium, hydroxide."
+    },
+    {
+      "skill": "8.2 pH and pOH of Strong Acids and Bases",
+      "ref": "SAP-9.B (Unit 8, Topic 8.2)",
+      "prompt": "This topic covers pH and pOH of strong acids and bases for AP Chemistry students (CED: SAP-9.B, Unit 8, Topic 8.2). Students should understand that pH = -log[H3O+], pOH = -log[OH-], and pH + pOH = 14 at 25 degrees C. Strong acids (HCl, HBr, HI, HNO3, H2SO4, HClO4) completely dissociate, so [H3O+] equals the acid concentration. Strong bases (Group 1 and heavy Group 2 hydroxides) completely dissociate, so [OH-] equals the base concentration (or twice for Ba(OH)2, Ca(OH)2). pH < 7 is acidic, pH = 7 is neutral, pH > 7 is basic. Students must calculate pH and pOH from strong acid/base concentrations and vice versa, and work with the logarithmic pH scale. Connect to weak acid/base equilibria, buffers, and titration. AP exam note: pH calculations for strong acids and bases are foundational. Vocabulary: pH, pOH, strong acid, strong base, complete dissociation, logarithmic scale, hydronium concentration, hydroxide concentration."
+    },
+    {
+      "skill": "8.3 Weak Acid and Base Equilibria",
+      "ref": "SAP-9.C (Unit 8, Topic 8.3)",
+      "prompt": "This topic covers weak acid and base equilibria for AP Chemistry students (CED: SAP-9.C, Unit 8, Topic 8.3). Students should understand that weak acids partially dissociate in water with equilibrium constant Ka, and weak bases partially react with water with equilibrium constant Kb. For HA <-> H+ + A-, Ka = [H+][A-]/[HA]. Larger Ka means stronger weak acid. For conjugate acid-base pairs, Ka x Kb = Kw. ICE tables are used to calculate [H+], pH, and percent dissociation from Ka and initial concentration. The small-x approximation is valid when Ka is very small relative to initial concentration. Percent ionization increases as concentration decreases. Students must perform equilibrium calculations for weak acids and bases. Connect to pH, buffers, Henderson-Hasselbalch, and titration. AP exam note: ICE table calculations for weak acids and bases are heavily tested. Vocabulary: weak acid, weak base, Ka, Kb, percent ionization, conjugate pair, ICE table, partial dissociation, equilibrium."
+    },
+    {
+      "skill": "8.4 Acid-Base Reactions and Buffers",
+      "ref": "SAP-9.D (Unit 8, Topic 8.4)",
+      "prompt": "This topic covers acid-base reactions and buffers for AP Chemistry students (CED: SAP-9.D, Unit 8, Topic 8.4). Students should understand that when a strong acid reacts with a strong base, the net ionic equation is H+ + OH- -> H2O, and the equivalence point has pH 7. When a weak acid reacts with a strong base (or vice versa), the conjugate base (or acid) formed affects the pH at equivalence. Buffers resist pH changes and consist of a weak acid and its conjugate base (or weak base and conjugate acid). Buffers work by neutralizing small additions of acid or base through equilibrium shifts. Students must predict the pH at equivalence for different acid-base combinations and explain buffer action. Connect to Henderson-Hasselbalch equation, titration curves, and buffer capacity. AP exam note: understanding buffer composition and action is essential. Vocabulary: buffer, conjugate pair, buffer action, neutralization, equivalence point, strong-weak combination, salt hydrolysis."
+    },
+    {
+      "skill": "8.5 Acid-Base Titrations",
+      "ref": "SAP-9.E (Unit 8, Topic 8.5)",
+      "prompt": "This topic covers acid-base titrations for AP Chemistry students (CED: SAP-9.E, Unit 8, Topic 8.5). Students should understand the shapes of titration curves for strong acid-strong base (sharp equivalence at pH 7), weak acid-strong base (equivalence pH > 7 due to conjugate base hydrolysis), and strong acid-weak base (equivalence pH < 7). Key points on a titration curve: initial pH, buffer region, half-equivalence point (pH = pKa for weak acid titrations), equivalence point, and post-equivalence region. At the half-equivalence point, [HA] = [A-] and pH = pKa. Students must interpret titration curves, identify equivalence points, select appropriate indicators, and calculate pH at various points. Connect to buffers, Henderson-Hasselbalch, and Ka/Kb calculations. AP exam note: titration curve analysis is one of the most tested topics. Vocabulary: titration curve, equivalence point, half-equivalence point, buffer region, indicator, inflection point, endpoint."
+    },
+    {
+      "skill": "8.6 Molecular Structure of Acids and Bases",
+      "ref": "SAP-9.F (Unit 8, Topic 8.6)",
+      "prompt": "This topic covers molecular structure of acids and bases for AP Chemistry students (CED: SAP-9.F, Unit 8, Topic 8.6). Students should understand how molecular structure affects acid and base strength. For binary acids (HX): acid strength increases with decreasing bond strength (going down a group, e.g., HF < HCl < HBr < HI) because weaker bonds release H+ more easily. For oxyacids: acid strength increases with more electronegative atoms or more oxygen atoms bonded to the central atom, as these stabilize the conjugate base by delocalizing the negative charge. Stronger acids have more stable conjugate bases. For bases, stronger bases have weaker conjugate acids. Students must predict and explain relative acid strengths from molecular structure. Connect to electronegativity, bond polarity, and resonance stabilization. AP exam note: ranking acid strength from structure is a key analytical skill. Vocabulary: binary acid, oxyacid, bond strength, electronegativity, resonance stabilization, conjugate base stability, acid strength."
+    },
+    {
+      "skill": "8.7 pH and pKa",
+      "ref": "SAP-10.A (Unit 8, Topic 8.7)",
+      "prompt": "This topic covers pH and pKa for AP Chemistry students (CED: SAP-10.A, Unit 8, Topic 8.7). Students should understand that pKa = -log(Ka) and a lower pKa indicates a stronger acid. The relationship between pH and pKa determines the dominant form of a weak acid in solution: when pH < pKa, the protonated form (HA) dominates; when pH > pKa, the deprotonated form (A-) dominates; when pH = pKa, both forms are present in equal concentrations. This is the basis of the Henderson-Hasselbalch equation. Students must use pKa values to compare acid strengths and predict the predominant species at a given pH. Connect to buffers, titration curves, and biological systems where pH controls molecular form. AP exam note: using pKa to determine dominant species is a commonly tested skill. Vocabulary: pKa, acid strength, dominant species, protonated form, deprotonated form, Henderson-Hasselbalch, conjugate pair."
+    },
+    {
+      "skill": "8.8 Properties of Buffers",
+      "ref": "SAP-10.B (Unit 8, Topic 8.8)",
+      "prompt": "This topic covers properties of buffers for AP Chemistry students (CED: SAP-10.B, Unit 8, Topic 8.8). Students should understand that a buffer is a solution containing a weak acid and its conjugate base (or a weak base and its conjugate acid) in significant concentrations. Buffers maintain relatively constant pH by neutralizing added acid (the conjugate base reacts with H+) or added base (the weak acid donates H+ to OH-). Effective buffers have a pH within one unit of the pKa and roughly equal concentrations of the weak acid and conjugate base. The buffer range is typically pKa plus or minus 1. Students must identify buffer solutions, explain how they resist pH changes, and predict the effect of adding acid or base. Connect to Henderson-Hasselbalch equation, titration, and biological buffer systems. AP exam note: identifying buffers and explaining their mechanism is essential. Vocabulary: buffer, conjugate pair, buffer range, buffer action, weak acid, conjugate base, pH stability."
+    },
+    {
+      "skill": "8.9 Henderson-Hasselbalch Equation",
+      "ref": "SAP-10.C (Unit 8, Topic 8.9)",
+      "prompt": "This topic covers the Henderson-Hasselbalch equation for AP Chemistry students (CED: SAP-10.C, Unit 8, Topic 8.9). Students should understand that the Henderson-Hasselbalch equation pH = pKa + log([A-]/[HA]) allows direct calculation of buffer pH from the concentrations of the weak acid and conjugate base. When [A-] = [HA], pH = pKa. When the ratio [A-]/[HA] increases, pH increases; when it decreases, pH decreases. This equation can also be used to determine the ratio needed for a target pH. Students must calculate buffer pH, determine required ratios for desired pH, and apply the equation at the half-equivalence point of a titration. The equation assumes the small-x approximation is valid. Connect to buffer properties, titration curves, and biological pH control. AP exam note: Henderson-Hasselbalch calculations appear frequently. Vocabulary: Henderson-Hasselbalch equation, pKa, conjugate acid-base ratio, buffer pH, half-equivalence point, logarithmic relationship."
+    },
+    {
+      "skill": "8.10 Buffer Capacity",
+      "ref": "SAP-10.D (Unit 8, Topic 8.10)",
+      "prompt": "This topic covers buffer capacity for AP Chemistry students (CED: SAP-10.D, Unit 8, Topic 8.10). Students should understand that buffer capacity is the amount of strong acid or base a buffer can neutralize before a significant pH change occurs. Buffer capacity increases with higher concentrations of the weak acid and conjugate base components. A buffer is most effective when [HA] is approximately equal to [A-] (pH approximately equal to pKa). When one component is consumed, the buffer is exhausted and pH changes rapidly. Students must calculate how much acid or base a buffer can absorb, predict when a buffer will fail, and compare the capacities of different buffer solutions. Connect to Henderson-Hasselbalch equation, titration equivalence, and laboratory buffer preparation. AP exam note: questions may ask students to compare buffer capacities or predict buffer failure. Vocabulary: buffer capacity, buffer exhaustion, moles of acid/base neutralized, concentration effect, effective buffer range."
+    },
+    {
+      "skill": "8.11 pH and Solubility",
+      "ref": "SPQ-5.C (Unit 8, Topic 8.11)",
+      "prompt": "This topic covers the relationship between pH and solubility for AP Chemistry students (CED: SPQ-5.C, Unit 8, Topic 8.11). Students should understand that pH affects the solubility of salts containing basic anions. For example, metal hydroxides, carbonates, sulfides, and phosphates are more soluble in acidic solutions because H+ reacts with the basic anion, removing it from the Ksp equilibrium and shifting it toward dissolution. Adding acid to a solution of Ca(OH)2 neutralizes OH-, increasing solubility. Salts of strong acid anions (Cl-, NO3-) are generally unaffected by pH because these anions do not react with H+. Students must predict how pH changes affect solubility and explain using Le Chatelier's principle and Ksp. Connect to solubility equilibria, common-ion effect, and acid-base chemistry. AP exam note: predicting pH effects on solubility is tested. Vocabulary: solubility, Ksp, basic anion, acidic solution, Le Chatelier's principle, dissolution, pH dependence."
+    }
+  ]
+}

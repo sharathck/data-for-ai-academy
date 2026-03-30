@@ -1,0 +1,171 @@
+{
+  "grade": "Grade 7",
+  "subject": "Maths - Proportionality",
+  "skills": [
+    {
+      "skill": "Write equations for proportional relationships from tables",
+      "teks": "7.4(C)",
+      "prompt": "This topic covers writing equations for proportional relationships from tables for Grade 7 students (TEKS 7.4(C)). Students analyze tables to identify proportional relationships and write equations in y = kx form. Key concepts include: calculating k by dividing y by x for each row, verifying consistency, and writing the equation. Vocabulary: proportional relationship, constant of proportionality, ratio, table, equation, y = kx. Common misconceptions: confusing additive and multiplicative relationships, not checking all rows, and computing x/y instead of y/x. Practice should include tables from real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Identify proportional relationships by graphing",
+      "teks": "7.4(A)",
+      "prompt": "This topic covers identifying proportional relationships by graphing for Grade 7 students (TEKS 7.4(A)). Students determine whether a relationship is proportional by examining its graph. Key concepts include: proportional relationships produce straight lines through the origin (0,0), non-proportional linear relationships have y-intercepts other than zero, and recognizing proportionality from plotted points. Vocabulary: proportional, graph, origin, straight line, linear, y-intercept, coordinate plane. Common misconceptions: thinking any straight line is proportional (must pass through origin) and confusing linear with proportional. Practice should include graphing data sets appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Write equations for proportional relationships from graphs",
+      "teks": "7.4(C)",
+      "prompt": "This topic covers writing equations for proportional relationships from graphs for Grade 7 students (TEKS 7.4(C)). Students read graphs and write equations in y = kx form. Key concepts include: verifying the graph passes through the origin, finding k by choosing a point and computing y/x, and writing the equation. Vocabulary: proportional relationship, constant of proportionality, graph, origin, slope, y = kx. Common misconceptions: reading coordinates incorrectly and using x/y instead of y/x. Practice should include various graph interpretations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Identify proportional relationships from graphs and equations",
+      "teks": "7.4(A)",
+      "prompt": "This topic covers identifying proportional relationships from graphs and equations for Grade 7 students (TEKS 7.4(A)). Students determine whether given graphs or equations represent proportional relationships. Key criteria: graphs must be straight lines through the origin; equations must be y = kx with no added constant. Key concepts include: distinguishing y = kx from y = mx + b where b is not 0. Vocabulary: proportional, equation, graph, origin, y = kx, y-intercept, linear. Common misconceptions: thinking y = 2x + 1 is proportional and not checking for the origin. Practice should include classifying multiple representations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Interpret graphs of proportional relationships",
+      "teks": "7.4(A)",
+      "prompt": "This topic covers interpreting graphs of proportional relationships for Grade 7 students (TEKS 7.4(A)). Students analyze graphs to extract meaning in context. Key concepts include: identifying the constant of proportionality, understanding specific points (including the unit rate at x=1), comparing proportional relationships on the same graph, and connecting to real-world meaning. Vocabulary: proportional, graph, constant of proportionality, unit rate, origin, slope. Common misconceptions: misreading scale, confusing axis meanings, and not connecting to real-world context. Practice should include contextual graph interpretation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Write and solve equations for proportional relationships",
+      "teks": "7.4(C)",
+      "prompt": "This topic covers writing and solving equations for proportional relationships for Grade 7 students (TEKS 7.4(C)). Students write equations in y = kx form and solve for unknown values. Key concepts include: determining k from given information, writing the equation, substituting to find unknowns, and interpreting solutions. Vocabulary: proportional relationship, constant of proportionality, equation, y = kx, solve, substitute. Common misconceptions: using incorrect k, confusing which variable to solve for, and not interpreting solutions in context. Practice should include real-world proportional scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Constant rate of change: tables",
+      "teks": "7.4(A)",
+      "prompt": "This topic covers identifying constant rate of change from tables for Grade 7 students (TEKS 7.4(A)). Students analyze tables to determine whether the rate of change between consecutive entries is constant. Key concepts include: calculating change in y divided by change in x, verifying consistency, and connecting to proportional relationships. Vocabulary: rate of change, constant, table, ratio, proportional. Common misconceptions: only checking one pair and confusing rate of change with y-values. Practice should include real-world tables appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Constant rate of change: graphs",
+      "teks": "7.4(A)",
+      "prompt": "This topic covers identifying constant rate of change from graphs for Grade 7 students (TEKS 7.4(A)). Students analyze graphs to determine whether the rate of change is constant (straight line). Key concepts include: recognizing straight lines have constant rate of change, computing rise over run, and connecting to slope. Vocabulary: rate of change, constant, graph, linear, slope, rise, run. Common misconceptions: assuming all graphs have constant rates of confusing steepness with constancy. Practice should include linear and non-linear graphs appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Calculate unit rates from rates in mathematical and real-world problems",
+      "teks": "7.4(B)",
+      "prompt": "This topic covers calculating unit rates from given rates for Grade 7 students (TEKS 7.4(B)). Students convert rates to unit rates by dividing to find the quantity per one unit. Key concepts include: understanding unit rate has a denominator of 1, dividing both parts of a rate, comparing unit rates, and applying in context. Vocabulary: rate, unit rate, ratio, per, divide, compare. Common misconceptions: dividing in the wrong order and confusing rate with ratio. Practice should include speed, price, and productivity contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Unit rates",
+      "teks": "7.4(B)",
+      "prompt": "This topic covers unit rates for Grade 7 students (TEKS 7.4(B)). Students find and interpret rates expressed per single unit. Key concepts include: dividing to create unit rates, comparing unit rates to make decisions, and understanding unit rates in various contexts (speed, price, efficiency). Vocabulary: unit rate, rate, ratio, per, divide, compare, unit. Common misconceptions: dividing in the wrong order and not labeling units. Practice should include speed, price, and productivity contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Calculate unit rates with fractions",
+      "teks": "7.4(B)",
+      "prompt": "This topic covers calculating unit rates with fractions for Grade 7 students (TEKS 7.4(B)). Students compute unit rates where quantities involve fractions, such as miles per hour given fractional distances and times. Key concepts include: dividing fractions to find a unit rate, interpreting complex fractions as division, and applying results. Vocabulary: unit rate, fraction, complex fraction, per, ratio, divide. Common misconceptions: not recognizing complex fractions as division and errors in fraction division. Practice should include real-world rate problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find the constant of proportionality from a table",
+      "teks": "7.4(C)",
+      "prompt": "This topic covers finding the constant of proportionality from a table for Grade 7 students (TEKS 7.4(C)). Students calculate k in y = kx by dividing y-values by corresponding x-values. Key concepts include: computing y/x for each row, verifying consistency, understanding k as the unit rate, and writing the equation. Vocabulary: constant of proportionality, table, ratio, y = kx, unit rate. Common misconceptions: computing x/y instead of y/x, not checking all rows, and confusing additive with multiplicative patterns. Practice should include real-world tables appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Unit prices",
+      "teks": "7.4(B)",
+      "prompt": "This topic covers calculating unit prices for Grade 7 students (TEKS 7.4(B)). Students find the cost per single unit by dividing total price by quantity. Key concepts include: setting up the division, comparing unit prices for better value, and applying to shopping decisions. Vocabulary: unit price, cost, total price, quantity, compare, value, per unit, best deal. Common misconceptions: dividing in the wrong order and not comparing when package sizes differ. Practice should include grocery and consumer scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Unit prices with unit conversions",
+      "teks": "7.4(E)",
+      "prompt": "This topic covers unit prices with unit conversions for Grade 7 students (TEKS 7.4(E)). Students compare unit prices when items use different measurement units. Key concepts include: converting between units first, calculating unit prices after conversion, and comparing to find the better deal. Vocabulary: unit price, unit conversion, compare, per unit, equivalent, measurement. Common misconceptions: comparing prices without converting to the same unit first. Practice should include consumer comparison shopping appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Determine the constant of proportionality within mathematical and real-world problems",
+      "teks": "7.4(C)",
+      "prompt": "This topic covers determining the constant of proportionality from various representations for Grade 7 students (TEKS 7.4(C)). Students find k in y = kx from tables, graphs, equations, and verbal descriptions. Key concepts include: identifying the two quantities, computing k as y/x, interpreting k in context, and using k for predictions. Vocabulary: constant of proportionality, proportional relationship, ratio, unit rate, y = kx. Common misconceptions: confusing which quantity is y and which is x. Practice should include multi-representation problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find the constant of proportionality from a graph",
+      "teks": "7.4(C)",
+      "prompt": "This topic covers finding the constant of proportionality from a graph for Grade 7 students (TEKS 7.4(C)). Students determine k in y = kx by reading a point from the graph and computing y/x. Key concepts include: choosing clear points, computing k = y/x, understanding k as slope through the origin, and using the unit rate point (1, k). Vocabulary: constant of proportionality, graph, slope, origin, unit rate, y = kx. Common misconceptions: reading coordinates incorrectly, using x/y, and selecting points not on the line. Practice should include graphs with various scales appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Solve problems involving ratios, rates, and percents, including multi-step problems involving percent increase and percent decrease",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers solving problems with ratios, rates, and percents for Grade 7 students (TEKS 7.4(D)). Students solve multi-step real-world problems including percent increase and decrease. Key concepts include: setting up proportions, converting between fractions/decimals/percents, calculating percent change, and applying in consumer and scientific contexts. Vocabulary: ratio, rate, percent, proportion, percent increase, percent decrease. Common misconceptions: confusing percent of with percent change and using the wrong base. Practice should include varied real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Compare ratios: word problems",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers comparing ratios through word problems for Grade 7 students (TEKS 7.4(D)). Students compare two or more ratios to determine which represents a greater or lesser rate. Key concepts include: writing ratios from context, finding equivalent ratios or unit rates for comparison, and interpreting results. Vocabulary: ratio, compare, unit rate, equivalent ratio, greater, lesser, proportion. Common misconceptions: comparing without finding common terms and setting up ratios with quantities reversed. Practice should include comparison shopping and rate problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Solve word problems using unit rates",
+      "teks": "7.4(B)",
+      "prompt": "This topic covers solving word problems using unit rates for Grade 7 students (TEKS 7.4(B)). Students apply unit rates to solve real-world problems. Key concepts include: calculating unit rates by dividing, using unit rates to find totals through multiplication, comparing unit rates, and interpreting results. Vocabulary: unit rate, per, ratio, total, multiply, divide, compare, best value. Common misconceptions: dividing in the wrong order and forgetting to multiply. Practice should include speed, pricing, and productivity problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Percents of numbers: word problems",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers percents of numbers in word problems for Grade 7 students (TEKS 7.4(D)). Students find a given percent of a number in real-world contexts. Key concepts include: converting percents to decimals, multiplying, understanding percent as per hundred, and interpreting results (tax, tip, discount, commission). Vocabulary: percent, of, decimal, fraction, multiply, tax, tip, discount, commission. Common misconceptions: not converting percent to decimal and confusing percent of with percent increase. Practice should include consumer math appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Solve percent equations: word problems",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers solving percent equations through word problems for Grade 7 students (TEKS 7.4(D)). Students solve for the part, whole, or percent in real-world contexts. Key concepts include: the percent equation (part = percent x whole), solving for each variable, and converting between forms. Vocabulary: percent, part, whole, equation, is, of, solve, convert. Common misconceptions: confusing part and whole and not converting percent to decimal. Practice should include tax, discount, and data contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Percent of change",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers Percent of change for Grade 7 students (TEKS 7.4(D)). This aligns with TEKS standard 7.4(D). Students at this level should develop proficiency in this skill, building on prior knowledge and connecting to grade-level expectations. Key concepts include: understanding the underlying mathematical principles, applying appropriate procedures and strategies, solving both computational and contextual problems, and justifying solutions using mathematical reasoning. Students should represent the concept using multiple representations (numerical, graphical, verbal, algebraic) and make connections to real-world applications. Vocabulary and notation specific to this topic should be used precisely. Common misconceptions should be addressed through careful instruction and varied practice. Problems and explanations should be appropriate for 12-13 year olds at the Grade 7 level, progressing from concrete to abstract understanding."
+    },
+    {
+      "skill": "Percent of change: word problems",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers percent of change word problems for Grade 7 students (TEKS 7.4(D)). Students solve real-world problems involving percent increase and decrease. Key concepts include: identifying original and new amounts, calculating the change, dividing by the original, and interpreting the result. Vocabulary: percent change, increase, decrease, original, new, growth, decline. Common misconceptions: using the wrong base for division and confusing percent change with actual change. Practice should include sales, population, and measurement contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Percent of change: find the original amount word problems",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers finding the original amount from percent of change for Grade 7 students (TEKS 7.4(D)). Students work backward from a percent change and new amount to find the original. Key concept: new = original x (1 + p/100) for increase, or original x (1 - p/100) for decrease. Solve by dividing. Vocabulary: original amount, percent change, increase, decrease, solve, reverse. Common misconceptions: simply subtracting the percent and dividing by percent instead of (1 +/- p/100). Practice should include discount and markup problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Percent error: word problems",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers percent error for Grade 7 students (TEKS 7.4(D)). Students calculate how far a measured value deviates from the actual value. Formula: percent error = (|measured - actual| / actual) x 100. Key concepts include: using absolute value, dividing by the actual value, and interpreting in scientific contexts. Vocabulary: percent error, actual value, measured value, absolute value, accuracy, deviation. Common misconceptions: dividing by measured instead of actual and forgetting absolute value. Practice should include science and estimation contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Unit prices: find the total price",
+      "teks": "7.4(B)",
+      "prompt": "This topic covers finding total prices from unit prices for Grade 7 students (TEKS 7.4(B)). Students use unit prices to calculate total costs by multiplying unit price by quantity. Key concepts include: understanding unit price as cost per item, setting up proportions, and comparing total costs. Vocabulary: unit price, total price, proportion, cost per unit, multiply, quantity. Common misconceptions: confusing unit and total price. Practice should include consumer math appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Percent of a number: tax, discount, and more",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers calculating tax, discount, and related percent applications for Grade 7 students (TEKS 7.4(D)). Students find a percent of a number in contexts like sales tax, discounts, tips, markups, and commissions. Key concepts include: converting percent to decimal, multiplying by the base amount, adding tax or subtracting discount, and computing final prices. Vocabulary: percent, tax, discount, tip, markup, commission, original price, sale price, total cost. Common misconceptions: adding the percent itself instead of the calculated amount and confusing tax (added) with discount (subtracted). Practice should include consumer math scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Which is the better coupon?",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers comparing coupons to find the better deal for Grade 7 students (TEKS 7.4(D)). Students compare percent-off coupons with dollar-off coupons. Key concepts include: calculating dollar value of a percent discount, comparing savings, understanding that the better coupon depends on purchase price, and analyzing each type. Vocabulary: coupon, discount, percent off, dollar off, savings, compare, better deal. Common misconceptions: assuming higher percent is always better without calculating. Practice should include shopping comparison scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find the percent: tax, discount, and more",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers finding the percent in tax, discount, and related scenarios for Grade 7 students (TEKS 7.4(D)). Students determine the percent when given the part and whole in consumer contexts. Key concepts include: percent = (part/whole) x 100, identifying part and whole, and interpreting in context. Vocabulary: percent, part, whole, tax rate, discount rate, tip percent, original price, amount saved. Common misconceptions: dividing in wrong order, confusing part and whole, and not multiplying by 100. Practice should include consumer math appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Sale prices: find the original price",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers finding the original price from a sale price for Grade 7 students (TEKS 7.4(D)). Students work backward from a discounted price and discount percent. Key concept: sale price = original x (1 - d/100), so original = sale price / (1 - d/100). Vocabulary: original price, sale price, discount, percent off, solve, work backward. Common misconceptions: simply adding the discount percent to the sale price and dividing by percent instead of (1 - d/100). Practice should include realistic shopping scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multi-step problems with percents",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers multi-step problems with percents for Grade 7 students (TEKS 7.4(D)). Students solve complex problems requiring multiple percent calculations, such as discount then tax, or successive percent changes. Key concepts include: performing calculations in correct order, understanding successive changes are not additive, and tracking intermediate values. Vocabulary: percent, multi-step, discount, tax, tip, markup, successive change, compound. Common misconceptions: adding successive percents, wrong order of operations, and using wrong base. Practice should include layered consumer math appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Estimate tips",
+      "teks": "7.4(D)",
+      "prompt": "This topic covers estimating tips for Grade 7 students (TEKS 7.4(D)). Students estimate tip amounts mentally using benchmark percents. Key concepts include: finding 10% by moving the decimal one place, using 10% as basis for 15% and 20%, rounding for mental math, and adding tip to find total. Vocabulary: tip, estimate, percent, benchmark, mental math, total, round. Common misconceptions: moving decimal wrong direction and confusing tip with total bill. Practice should include restaurant scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Convert between customary and metric systems",
+      "teks": "7.4(E)",
+      "prompt": "This topic covers converting between customary and metric systems for Grade 7 students (TEKS 7.4(E)). Students use conversion factors to convert measurements between U.S. customary and metric units. Key conversions: inches/centimeters, miles/kilometers, pounds/kilograms, gallons/liters. Key concepts include: using conversion factors as ratios, setting up proportions, and approximate equivalences. Vocabulary: customary, metric, convert, conversion factor, proportion, approximate. Common misconceptions: multiplying when dividing is needed and memorizing conversions incorrectly. Practice should include measurement and comparison problems appropriate for 12-13 year olds."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "grade": "Grade 3",
+  "subject": "Maths - Algebraic reasoning",
+  "skills": [
+    {
+      "skill": "Add two numbers up to three digits: word problems",
+      "teks": "3.5(A)",
+      "prompt": "This topic covers Add two numbers up to three digits: word problems for Grade 3 students (TEKS 3.5(A)). This algebraic reasoning skill develops pattern recognition, operational relationships, and equation solving. Key concepts include translating problems to equations, finding unknowns, recognizing patterns, and applying properties. Vocabulary should include operation terms and problem-solving language. Activities should include modeling, equation work, and age-appropriate contexts for 8-9-year-olds. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Subtract numbers up to three digits: word problems",
+      "teks": "3.5(A)",
+      "prompt": "This topic covers Subtract numbers up to three digits: word problems for Grade 3 students (TEKS 3.5(A)). This algebraic reasoning skill develops pattern recognition, operational relationships, and equation solving. Key concepts include translating problems to equations, finding unknowns, recognizing patterns, and applying properties. Vocabulary should include operation terms and problem-solving language. Activities should include modeling, equation work, and age-appropriate contexts for 8-9-year-olds. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Addition and subtraction word problems",
+      "teks": "3.5(A)",
+      "prompt": "This topic covers Addition and subtraction word problems for Grade 3 students (TEKS 3.5(A)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Two-step addition and subtraction word problems",
+      "teks": "3.5(A)",
+      "prompt": "This topic covers Two-step addition and subtraction word problems for Grade 3 students (TEKS 3.5(A)). Students solve addition word problems, identifying joining/combining situations, writing equations, and computing sums. Vocabulary: add, sum, total, altogether, equation, model. Common misconceptions include choosing the wrong operation and not checking reasonableness. Activities should include modeling, equation writing, and varied contexts appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Multiplication word problems with factors up to 10",
+      "teks": "3.5(B)",
+      "prompt": "This topic covers Multiplication word problems with factors up to 10 for Grade 3 students (TEKS 3.5(B)). Students solve multiplication word problems by identifying equal groups or arrays. Key concepts include recognizing multiplication situations, writing factor x factor = product equations, and interpreting answers. Vocabulary: multiply, factor, product, equal groups, times, each. Common misconceptions include confusing factors and not recognizing equal-group structures. Activities should include modeling, equation writing, and age-appropriate contexts for 8-9-year-olds. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Division word problems",
+      "teks": "3.5(B)",
+      "prompt": "This topic covers Division word problems for Grade 3 students (TEKS 3.5(B)). Students solve division word problems in sharing and grouping contexts. Key concepts include identifying what is divided, writing division equations, using think-multiplication, and interpreting answers. Vocabulary: divide, share equally, groups, quotient, dividend, divisor. Common misconceptions include confusing which number to divide and difficulty with remainders. Activities should include sharing scenarios, drawing models, and varied contexts appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Two-step multiplication and division word problems",
+      "teks": "3.5(B)",
+      "prompt": "This topic covers Two-step multiplication and division word problems for Grade 3 students (TEKS 3.5(B)). Two-step problems require two operations. Key concepts include identifying both steps, determining order, tracking intermediate results, and checking reasonableness. Vocabulary: step, first, then, intermediate, total, remaining. Common misconceptions include solving only one step and wrong operation order. Activities should include annotating problems and drawing multi-step diagrams appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Compare numbers using multiplication",
+      "teks": "3.5(C)",
+      "prompt": "This topic covers Compare numbers using multiplication for Grade 3 students (TEKS 3.5(C)). Students express multiplicative comparisons: 'A is 3 times as many as B.' Key concepts include distinguishing from additive comparisons, setting up equations, and solving. Vocabulary: times as many, multiply, multiplicative comparison, scaling factor. Common misconceptions include confusing with 'more than.' Activities should include modeling, bar diagrams, and varied problems appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Compare numbers using multiplication: word problems",
+      "teks": "3.5(C)",
+      "prompt": "This topic covers Compare numbers using multiplication: word problems for Grade 3 students (TEKS 3.5(C)). Students express multiplicative comparisons: 'A is 3 times as many as B.' Key concepts include distinguishing from additive comparisons, setting up equations, and solving. Vocabulary: times as many, multiply, multiplicative comparison, scaling factor. Common misconceptions include confusing with 'more than.' Activities should include modeling, bar diagrams, and varied problems appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Comparison word problems: addition or multiplication?",
+      "teks": "3.5(C)",
+      "prompt": "This topic covers Comparison word problems: addition or multiplication? for Grade 3 students (TEKS 3.5(C)). Students determine whether comparisons use addition ('how many more') or multiplication ('how many times as many'). Key concepts include reading comparison language carefully and choosing the correct operation. Vocabulary: additive comparison, multiplicative comparison, more than, times as many. Common misconceptions include defaulting to one type. Activities should include sorting and comparing both types appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Multiplication facts up to 10: find the missing factor",
+      "teks": "3.5(D)",
+      "prompt": "This topic covers Multiplication facts up to 10: find the missing factor for Grade 3 students (TEKS 3.5(D)). Students find unknowns in multiplication/division equations using inverse relationships. For __ x 6 = 42, think 42/6=7. Vocabulary: missing factor, unknown, inverse, solve, equation. Common misconceptions include not knowing which operation to use. Activities should include fact family triangles and varied-position unknowns appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Multiplication facts up to 12: find the missing factor",
+      "teks": "3.5(D)",
+      "prompt": "This topic covers Multiplication facts up to 12: find the missing factor for Grade 3 students (TEKS 3.5(D)). Students find unknowns in multiplication/division equations using inverse relationships. For __ x 6 = 42, think 42/6=7. Vocabulary: missing factor, unknown, inverse, solve, equation. Common misconceptions include not knowing which operation to use. Activities should include fact family triangles and varied-position unknowns appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Multiplication facts up to 12: select the missing factors",
+      "teks": "3.5(D)",
+      "prompt": "This topic covers Multiplication facts up to 12: select the missing factors for Grade 3 students (TEKS 3.5(D)). Students find unknowns in multiplication/division equations using inverse relationships. For __ x 6 = 42, think 42/6=7. Vocabulary: missing factor, unknown, inverse, solve, equation. Common misconceptions include not knowing which operation to use. Activities should include fact family triangles and varied-position unknowns appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Division facts up to 10: find the missing number",
+      "teks": "3.5(D)",
+      "prompt": "This topic covers Division facts up to 10: find the missing number for Grade 3 students (TEKS 3.5(D)). Students find unknowns in multiplication/division equations using inverse relationships. For __ x 6 = 42, think 42/6=7. Vocabulary: missing factor, unknown, inverse, solve, equation. Common misconceptions include not knowing which operation to use. Activities should include fact family triangles and varied-position unknowns appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Division facts up to 12: find the missing number",
+      "teks": "3.5(D)",
+      "prompt": "This topic covers Division facts up to 12: find the missing number for Grade 3 students (TEKS 3.5(D)). Students find unknowns in multiplication/division equations using inverse relationships. For __ x 6 = 42, think 42/6=7. Vocabulary: missing factor, unknown, inverse, solve, equation. Common misconceptions include not knowing which operation to use. Activities should include fact family triangles and varied-position unknowns appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Solve for the unknown number: multiplication and division only",
+      "teks": "3.5(D)",
+      "prompt": "This topic covers Solve for the unknown number: multiplication and division only for Grade 3 students (TEKS 3.5(D)). Students find unknowns in multiplication/division equations using inverse relationships. For __ x 6 = 42, think 42/6=7. Vocabulary: missing factor, unknown, inverse, solve, equation. Common misconceptions include not knowing which operation to use. Activities should include fact family triangles and varied-position unknowns appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds. Encourage flexible thinking by asking students to solve problems in multiple ways and explain their reasoning. Build connections between different operations and representations."
+    },
+    {
+      "skill": "Multiplication input/output tables",
+      "teks": "3.5(E)",
+      "prompt": "This topic covers Multiplication input/output tables for Grade 3 students (TEKS 3.5(E)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Multiplication input/output tables: find the rule",
+      "teks": "3.5(E)",
+      "prompt": "This topic covers Multiplication input/output tables: find the rule for Grade 3 students (TEKS 3.5(E)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Addition input/output tables: up to three digits",
+      "teks": "3.5(E)",
+      "prompt": "This topic covers Addition input/output tables: up to three digits for Grade 3 students (TEKS 3.5(E)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Subtraction input/output tables: up to three digits",
+      "teks": "3.5(E)",
+      "prompt": "This topic covers Subtraction input/output tables: up to three digits for Grade 3 students (TEKS 3.5(E)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Division input/output tables",
+      "teks": "3.5(E)",
+      "prompt": "This topic covers Division input/output tables for Grade 3 students (TEKS 3.5(E)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    },
+    {
+      "skill": "Division input/output tables: find the rule",
+      "teks": "3.5(E)",
+      "prompt": "This topic covers Division input/output tables: find the rule for Grade 3 students (TEKS 3.5(E)). Input/output tables show number pairs related by a consistent rule. Students identify rules and find missing values. Key concepts include consistent operation application, analyzing multiple pairs, and extending patterns. Vocabulary: input, output, rule, pattern, function, table, operation. Common misconceptions include inconsistent rule application and confusing direction. Activities should include completing tables, finding rules, and creating original tables appropriate for ages 8-9. When creating content, help students see patterns and relationships in numbers and operations. Use visual models like bar diagrams, number lines, and tables to make abstract concepts concrete for 8-9-year-olds."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "grade": "Grade 3",
+  "subject": "Maths - Miscellaneous",
+  "skills": [
+    {
+      "skill": "Single Digit to Single Digit Multiplications",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Single Digit to Single Digit Multiplications for Grade 3 students (TEKS 3.4(F)). Students build multiplication understanding and fact fluency. Key concepts include repeated groups/arrays, fact knowledge, properties (commutative, associative, distributive, identity, zero), and problem solving. Vocabulary: multiply, factor, product, times, array, property, fluency. Common misconceptions include confusing facts and not applying properties. Activities should include systematic practice, strategy instruction, and real-world problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Multiplication facts (0-10)",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication facts (0-10) for Grade 3 students (TEKS 3.4(F)). Students build multiplication understanding and fact fluency. Key concepts include repeated groups/arrays, fact knowledge, properties (commutative, associative, distributive, identity, zero), and problem solving. Vocabulary: multiply, factor, product, times, array, property, fluency. Common misconceptions include confusing facts and not applying properties. Activities should include systematic practice, strategy instruction, and real-world problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Division concepts",
+      "teks": "3.4(H)",
+      "prompt": "This topic covers Division concepts for Grade 3 students (TEKS 3.4(H)). Students understand division as equal sharing/grouping and build fact fluency. Key concepts include multiplication-division relationship, think-multiplication strategy, interpreting remainders. Vocabulary: divide, dividend, divisor, quotient, remainder, equal groups, inverse, fact family. Common misconceptions include not connecting to multiplication. Activities should include sharing, arrays, fact families, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Division facts (0-10)",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division facts (0-10) for Grade 3 students (TEKS 3.4(F)). Students understand division as equal sharing/grouping and build fact fluency. Key concepts include multiplication-division relationship, think-multiplication strategy, interpreting remainders. Vocabulary: divide, dividend, divisor, quotient, remainder, equal groups, inverse, fact family. Common misconceptions include not connecting to multiplication. Activities should include sharing, arrays, fact families, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Multiplication and division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Multiplication and division word problems for Grade 3 students (TEKS 3.4(K)). Students solve real-world problems by identifying operations, writing equations, and computing. Key concepts include reading comprehension, choosing operations, modeling, and checking reasonableness. Vocabulary: word problem, solve, equation, operation, strategy, model, reasonable. Common misconceptions include keyword reliance and not checking answers. Activities should include modeling, acting out, writing original problems, and strategy discussions appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Four-digit numbers",
+      "teks": "3.2(A)",
+      "prompt": "This topic covers Four-digit numbers for Grade 3 students (TEKS 3.2(A)). Students explore multi-digit numbers, understanding their structure through place value and performing operations. Vocabulary: digit, place value, hundreds, thousands, expanded form, standard form. Common misconceptions include difficulty with zero as placeholder. Activities should include building with blocks, reading/writing, and operations appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Addition and subtraction with regrouping",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Addition and subtraction with regrouping for Grade 3 students (TEKS 3.4(A)). Students add and subtract multi-digit numbers with regrouping (carrying/borrowing). Key concepts include when regrouping is needed, recording correctly, and place value alignment. Vocabulary: regroup, carry, borrow, algorithm, place value. Common misconceptions include forgetting carried digits and subtracting smaller from larger regardless of position. Activities should include base-ten block modeling and algorithm practice appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Introduction to fractions",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Introduction to fractions for Grade 3 students (TEKS 3.3(A)). Students develop foundational fraction understanding: equal parts, numerator/denominator, unit fractions, models, number lines, comparing, and equivalence. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, equivalent, compare. Common misconceptions include unequal parts and larger denominator meaning larger fraction. Activities should include hands-on partitioning, strips, number lines, and real-world fractions appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Equivalent fractions",
+      "teks": "3.3(F)",
+      "prompt": "This topic covers Equivalent fractions for Grade 3 students (TEKS 3.3(F)). Students develop foundational fraction understanding: equal parts, numerator/denominator, unit fractions, models, number lines, comparing, and equivalence. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, equivalent, compare. Common misconceptions include unequal parts and larger denominator meaning larger fraction. Activities should include hands-on partitioning, strips, number lines, and real-world fractions appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Comparing fractions",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Comparing fractions for Grade 3 students (TEKS 3.3(H)). Students develop foundational fraction understanding: equal parts, numerator/denominator, unit fractions, models, number lines, comparing, and equivalence. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, equivalent, compare. Common misconceptions include unequal parts and larger denominator meaning larger fraction. Activities should include hands-on partitioning, strips, number lines, and real-world fractions appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Area and perimeter",
+      "teks": "3.6(C)",
+      "prompt": "This topic covers Area and perimeter for Grade 3 students (TEKS 3.6(C)). Area (space inside, square units) and perimeter (distance around, linear units) are different measurements of shapes. Key concepts include formulas for rectangles, same area can have different perimeters, and real-world applications. Vocabulary: area, perimeter, square unit, linear unit, length, width, formula. Common misconceptions include confusing the two. Activities should include computing both for same shapes and finding different shapes with same area appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Data analysis and graphs",
+      "teks": "3.8(A)",
+      "prompt": "This topic covers Data analysis and graphs for Grade 3 students (TEKS 3.8(A)). Students collect, organize, display, and interpret data. Key concepts include choosing display types, creating accurate displays, reading/interpreting, and drawing conclusions. Vocabulary: data, graph, chart, table, bar graph, picture graph, line plot, label, scale. Common misconceptions include misreading scales and incomplete labeling. Activities should include real data collection, multiple display types, and multi-step data questions appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Measurement of time, liquid volume, and mass",
+      "teks": "3.7(C)",
+      "prompt": "This topic covers Measurement of time, liquid volume, and mass for Grade 3 students (TEKS 3.7(C)). Students read clocks and understand time measurement. Key concepts include hour/minute hands, digital reading, A.M./P.M., elapsed time, and relationships between time units. Vocabulary: hour, minute, analog, digital, A.M., P.M., elapsed time, duration. Common misconceptions include confusing hands and treating time as base-10. Activities should include clock practice, schedule reading, and elapsed time work appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Basic geometry: shapes and their properties",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Basic geometry: shapes and their properties for Grade 3 students (TEKS 3.6(A)). Students learn geometric shapes and properties, building spatial reasoning. Key concepts include identifying/naming shapes, describing by attributes, classifying, and understanding relationships. Vocabulary: shape, polygon, side, vertex, angle, parallel, classify, attribute. Common misconceptions include identifying by appearance only. Activities should include sorting, drawing, real-world identification, and comparing attributes appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Lines and polygons",
+      "teks": "3.6(A)",
+      "prompt": "This topic covers Lines and polygons for Grade 3 students (TEKS 3.6(A)). Students learn about lines and polygons. Polygons are closed shapes with straight sides, classified by side count. Vocabulary: line, line segment, polygon, closed, straight, triangle, quadrilateral, pentagon, hexagon. Common misconceptions include thinking circles are polygons. Activities should include drawing, sorting, and creating polygon art appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Scaled pictographs",
+      "teks": "3.8(A)",
+      "prompt": "This topic covers Scaled pictographs for Grade 3 students (TEKS 3.8(A)). Students collect, organize, display, and interpret data. Key concepts include choosing display types, creating accurate displays, reading/interpreting, and drawing conclusions. Vocabulary: data, graph, chart, table, bar graph, picture graph, line plot, label, scale. Common misconceptions include misreading scales and incomplete labeling. Activities should include real data collection, multiple display types, and multi-step data questions appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Problem-solving strategies",
+      "teks": "3.1(B)",
+      "prompt": "This topic covers Problem-solving strategies for Grade 3 students (TEKS 3.1(B)). Students develop systematic problem-solving approaches: understand, plan, solve, check. Strategies include drawing pictures, making lists, finding patterns, working backward, and guess-and-check. Vocabulary: strategy, solve, plan, understand, check, reasonable, model, diagram, pattern. Common misconceptions include jumping to computation and using only one strategy. Activities should include multi-step problems, strategy sharing, and comparing approaches appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Number patterns",
+      "teks": "3.5(E)",
+      "prompt": "This topic covers Number patterns for Grade 3 students (TEKS 3.5(E)). Students identify, describe, extend, and create patterns. Key concepts include repeating and growing patterns, determining rules, predicting elements, and connecting to operations. Vocabulary: pattern, rule, sequence, repeat, extend, predict, grow, term. Common misconceptions include incomplete repeating units and confusing pattern types. Activities should include building with manipulatives, extending number sequences, and creating original patterns appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Place value",
+      "teks": "3.2(A)",
+      "prompt": "This topic covers Place value for Grade 3 students (TEKS 3.2(A)). Place value means a digit's position determines its value. Key concepts include decomposing numbers, relationships between adjacent places (each 10x the one right), and representing in multiple forms. Vocabulary: place value, digit, ones, tens, hundreds, thousands, expanded form, standard form. Common misconceptions include confusing face and place value. Activities should include base-ten blocks, charts, and conversion exercises appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Rounding numbers",
+      "teks": "3.2(C)",
+      "prompt": "This topic covers Rounding numbers for Grade 3 students (TEKS 3.2(C)). Students round numbers to specified places to simplify computation. Rules: look at the digit to the right; 5+ rounds up, <5 rounds down. Vocabulary: round, nearest, estimate, benchmark, approximately, number line. Common misconceptions include rounding to wrong place and not understanding when rounding is useful. Activities should include number line rounding, estimation practice, and real-world applications appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    }
+  ]
+}

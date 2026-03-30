@@ -1,0 +1,46 @@
+{
+  "grade": "AP - Chemistry",
+  "subject": "Atomic Structure and Properties",
+  "skills": [
+    {
+      "skill": "1.1 Moles and Molar Mass",
+      "ref": "SPQ-1.A (Unit 1, Topic 1.1)",
+      "prompt": "This topic covers moles and molar mass for AP Chemistry students (CED: SPQ-1.A, Unit 1, Topic 1.1). Students should understand that the mole is the SI unit for amount of substance, defined as exactly 6.022 x 10^23 representative particles (Avogadro's number). Molar mass (g/mol) equals the atomic or molecular mass in amu and serves as the conversion factor between grams and moles. Students must convert fluently between mass, moles, and number of particles. Dimensional analysis is the essential problem-solving approach. Connect to stoichiometry, empirical and molecular formulas, and solution concentration. AP exam note: mole conversions appear in nearly every unit and are foundational for all quantitative chemistry. Vocabulary: mole, molar mass, Avogadro's number, representative particle, dimensional analysis, formula mass, molecular mass."
+    },
+    {
+      "skill": "1.2 Mass Spectra of Elements",
+      "ref": "SPQ-1.B (Unit 1, Topic 1.2)",
+      "prompt": "This topic covers mass spectra of elements for AP Chemistry students (CED: SPQ-1.B, Unit 1, Topic 1.2). Students should understand that a mass spectrometer separates isotopes by mass-to-charge ratio, producing a mass spectrum where peak positions indicate isotope masses and peak heights (or areas) indicate relative abundances. The weighted average of isotope masses gives the average atomic mass on the periodic table. Students must calculate average atomic mass from isotopic data and interpret mass spectra to determine isotopic composition. Connect to atomic structure, nuclear chemistry, and how elemental identity is defined by proton number while mass varies with neutron number. AP exam note: interpreting mass spectra and calculating average atomic mass are commonly tested skills. Vocabulary: isotope, mass spectrum, mass-to-charge ratio, relative abundance, weighted average, atomic mass unit."
+    },
+    {
+      "skill": "1.3 Elemental Composition of Pure Substances",
+      "ref": "SPQ-2.A (Unit 1, Topic 1.3)",
+      "prompt": "This topic covers elemental composition of pure substances for AP Chemistry students (CED: SPQ-2.A, Unit 1, Topic 1.3). Students should understand how to determine empirical and molecular formulas from percent composition or combustion analysis data. The empirical formula gives the simplest whole-number ratio of atoms; the molecular formula gives the actual number of atoms and is a whole-number multiple of the empirical formula. To find the empirical formula: convert percent to grams, then to moles, then divide by the smallest mole value. Students must also calculate percent composition from a chemical formula. Connect to molar mass determination, stoichiometry, and molecular structure. AP exam note: empirical and molecular formula calculations are classic free-response problems. Vocabulary: empirical formula, molecular formula, percent composition, combustion analysis, mole ratio."
+    },
+    {
+      "skill": "1.4 Composition of Mixtures",
+      "ref": "SPQ-2.B (Unit 1, Topic 1.4)",
+      "prompt": "This topic covers composition of mixtures for AP Chemistry students (CED: SPQ-2.B, Unit 1, Topic 1.4). Students should understand that mixtures contain two or more substances that retain their individual properties and can be separated by physical means. The composition of a mixture can be determined using elemental analysis, where the mass or mole fraction of each component is calculated. Students must distinguish between pure substances and mixtures, and between homogeneous (solutions) and heterogeneous mixtures. Analytical techniques such as gravimetric and volumetric analysis can determine mixture composition quantitatively. Connect to solution chemistry, separation techniques, and stoichiometry of reactions involving impure samples. AP exam note: questions may involve calculating the percent purity of a sample or determining composition from reaction data. Vocabulary: mixture, pure substance, homogeneous, heterogeneous, mass percent, mole fraction, gravimetric analysis."
+    },
+    {
+      "skill": "1.5 Atomic Structure and Electron Configuration",
+      "ref": "SAP-1.A (Unit 1, Topic 1.5)",
+      "prompt": "This topic covers atomic structure and electron configuration for AP Chemistry students (CED: SAP-1.A, Unit 1, Topic 1.5). Students should understand the quantum mechanical model of the atom: electrons occupy orbitals (s, p, d, f) organized into energy levels and sublevels. Electron configurations follow the Aufbau principle (fill lowest energy first), Hund's rule (maximize unpaired electrons in degenerate orbitals), and the Pauli exclusion principle (max 2 electrons per orbital with opposite spins). Students must write full and condensed electron configurations, identify valence electrons, and relate configuration to an element's position on the periodic table. Ions form by losing or gaining electrons, and transition metals may have irregular configurations (Cr, Cu). Connect to periodic trends, chemical bonding, and reactivity. AP exam note: electron configuration and its relationship to properties are foundational. Vocabulary: orbital, electron configuration, quantum number, Aufbau principle, Hund's rule, Pauli exclusion, valence electron, core electron."
+    },
+    {
+      "skill": "1.6 Photoelectron Spectroscopy",
+      "ref": "SAP-1.B (Unit 1, Topic 1.6)",
+      "prompt": "This topic covers photoelectron spectroscopy (PES) for AP Chemistry students (CED: SAP-1.B, Unit 1, Topic 1.6). Students should understand that PES uses high-energy photons to eject electrons from atoms, measuring their kinetic energies to determine binding energies. A PES spectrum shows peaks at different binding energies: peaks farther left (higher binding energy) represent core electrons closer to the nucleus, while peaks farther right represent valence electrons. Peak height (relative signal) indicates the number of electrons in that sublevel. Students must interpret PES spectra to confirm electron configurations and identify elements. The relationship is: photon energy = binding energy + kinetic energy. Connect to electron configuration, atomic structure, and periodic trends. AP exam note: PES spectrum interpretation is a distinctive AP Chemistry skill. Vocabulary: photoelectron spectroscopy, binding energy, kinetic energy, ionization energy, sublevel, core electrons, valence electrons."
+    },
+    {
+      "skill": "1.7 Periodic Trends",
+      "ref": "SAP-2.A (Unit 1, Topic 1.7)",
+      "prompt": "This topic covers periodic trends for AP Chemistry students (CED: SAP-2.A, Unit 1, Topic 1.7). Students should understand the major periodic trends and their underlying causes based on effective nuclear charge (Zeff) and electron shielding. Ionization energy, electronegativity, and electron affinity generally increase across a period (increasing Zeff) and decrease down a group (increasing atomic radius and shielding). Atomic radius decreases across a period and increases down a group. Ionic radius follows specific patterns: cations are smaller than parent atoms, anions are larger. Students must explain trends using Coulomb's law and the concept of effective nuclear charge. Connect to chemical bonding, reactivity, and compound properties. AP exam note: explaining trends with reference to Zeff and shielding is essential. Vocabulary: ionization energy, electronegativity, atomic radius, ionic radius, effective nuclear charge, electron shielding, Coulomb's law."
+    },
+    {
+      "skill": "1.8 Valence Electrons and Ionic Compounds",
+      "ref": "SAP-2.B (Unit 1, Topic 1.8)",
+      "prompt": "This topic covers valence electrons and ionic compounds for AP Chemistry students (CED: SAP-2.B, Unit 1, Topic 1.8). Students should understand that ionic compounds form when metals transfer valence electrons to nonmetals, creating cations and anions held together by electrostatic attraction (ionic bonds). The resulting crystal lattice maximizes attractive forces between oppositely charged ions while minimizing repulsion. Lattice energy depends on ion charge and size (Coulomb's law): higher charges and smaller ions produce stronger lattice energy. Students must predict ionic compound formulas from ion charges and relate physical properties (high melting points, brittleness, conductivity when dissolved or molten) to ionic bonding. Connect to periodic trends, electron configuration, and energy changes in bond formation. AP exam note: relating ionic compound properties to Coulombic interactions is key. Vocabulary: ionic bond, lattice energy, crystal lattice, cation, anion, electrostatic attraction, Coulomb's law, valence electron."
+    }
+  ]
+}

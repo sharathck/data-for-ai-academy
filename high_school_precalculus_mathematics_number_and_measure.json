@@ -1,0 +1,246 @@
+{
+  "grade": "High School - Precalculus",
+  "subject": "Mathematics - Number and measure",
+  "skills": [
+    {
+      "skill": "A: determine the relationship between the unit circle and the definition of a periodic function to evaluate trigonometric functions in mathematical and real-world problems",
+      "teks": "P.4(A)",
+      "prompt": "This topic covers evaluating functions using function notation for Precalculus students (TEKS P.4(A)). f(x) names the function (f) and input (x). To evaluate f(a), substitute a for x and simplify. Example: f(x) = 3x^2 - 2x + 1, f(4) = 41. Students evaluate for numbers, variables, and expressions like f(a+1). Vocabulary: function notation, evaluate, substitute, input, output. Common errors: confusing f(x) with multiplication, not substituting into all x instances, and order of operations errors."
+    },
+    {
+      "skill": "A: Find trigonometric ratios using the unit circle",
+      "teks": "P.4(A)",
+      "prompt": "This topic covers find trigonometric ratios using the unit circle for Precalculus students (TEKS P.4(A)). The unit circle has radius 1 centered at origin. Point at angle theta has coordinates (cos(theta), sin(theta)). Students memorize special angles: 0, pi/6, pi/4, pi/3, pi/2 and their multiples. Key vocabulary includes: coordinate, periodic, quadrant, reference angle, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "B: describe the relationship between degree and radian measure on the unit circle",
+      "teks": "P.4(B)",
+      "prompt": "This topic covers describe the relationship between degree and radian measure on the unit circle for Precalculus students (TEKS P.4(B)). The unit circle has radius 1 centered at origin. Point at angle theta has coordinates (cos(theta), sin(theta)). Students memorize special angles: 0, pi/6, pi/4, pi/3, pi/2 and their multiples. Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, coordinate, degree, periodic, quadrant, radian, reference angle, sector, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "B: Convert between radians and degrees",
+      "teks": "P.4(B)",
+      "prompt": "This topic covers convert between radians and degrees for Precalculus students (TEKS P.4(B)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "C: represent angles in radians or degrees based on the concept of rotation and find the measure of reference angles and angles in standard position",
+      "teks": "P.4(C)",
+      "prompt": "This topic covers represent angles in radians or degrees based on the concept of rotation and find the measure of reference angles and angles in standard position for Precalculus students (TEKS P.4(C)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Coterminal angles differ by multiples of 360 degrees (or 2*pi). Reference angle is the acute angle to the x-axis, used to evaluate trig functions in any quadrant. Key vocabulary includes: arc length, conversion, coterminal, degree, quadrant, radian, reference angle, sector, standard position, terminal side. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "C: Radians and arc length",
+      "teks": "P.4(C)",
+      "prompt": "This topic covers radians and arc length for Precalculus students (TEKS P.4(C)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "C: Quadrants",
+      "teks": "P.4(C)",
+      "prompt": "This topic covers quadrants for Precalculus students (TEKS P.4(C)). The coordinate plane has four quadrants. In trig: Q1 all positive, Q2 sin positive, Q3 tan positive, Q4 cos positive (ASTC rule). Key vocabulary includes: quadrant, coordinate plane, ASTC, sign, trigonometric function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "C: Coterminal and reference angles",
+      "teks": "P.4(C)",
+      "prompt": "This topic covers coterminal and reference angles for Precalculus students (TEKS P.4(C)). Coterminal angles differ by multiples of 360 degrees (or 2*pi). Reference angle is the acute angle to the x-axis, used to evaluate trig functions in any quadrant. Key vocabulary includes: coterminal, quadrant, reference angle, standard position, terminal side. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "D: represent angles in radians or degrees based on the concept of rotation in mathematical and real-world problems, including linear and angular velocity",
+      "teks": "P.4(D)",
+      "prompt": "This topic covers represent angles in radians or degrees based on the concept of rotation in mathematical and real-world problems, including linear and angular velocity for Precalculus students (TEKS P.4(D)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "D: Radians and arc length",
+      "teks": "P.4(D)",
+      "prompt": "This topic covers radians and arc length for Precalculus students (TEKS P.4(D)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: determine the value of trigonometric ratios of angles and solve problems involving trigonometric ratios in mathematical and real-world problems",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers determine the value of trigonometric ratios of angles and solve problems involving trigonometric ratios in mathematical and real-world problems for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Isolate the trig function, find reference angle using inverse trig, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: trigonometric equation, reference angle, unit circle, period, general solution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "E: Find trigonometric ratios using right triangles",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers find trigonometric ratios using right triangles for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. In right triangles: sin = opp/hyp, cos = adj/hyp, tan = opp/adj. Given two sides or one side and an angle, find remaining parts. Key vocabulary includes: right triangle, sine, cosine, tangent, SOHCAHTOA. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "E: Find trigonometric ratios using the unit circle",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers find trigonometric ratios using the unit circle for Precalculus students (TEKS P.4(E)). The unit circle has radius 1 centered at origin. Point at angle theta has coordinates (cos(theta), sin(theta)). Students memorize special angles: 0, pi/6, pi/4, pi/3, pi/2 and their multiples. Key vocabulary includes: coordinate, periodic, quadrant, reference angle, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: Find trigonometric ratios using reference angles",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers find trigonometric ratios using reference angles for Precalculus students (TEKS P.4(E)). Coterminal angles differ by multiples of 360 degrees (or 2*pi). Reference angle is the acute angle to the x-axis, used to evaluate trig functions in any quadrant. Key vocabulary includes: coterminal, quadrant, reference angle, standard position, terminal side. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: Inverses of trigonometric functions",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers inverses of trigonometric functions for Precalculus students (TEKS P.4(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: Inverses of trigonometric functions using a calculator",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers inverses of trigonometric functions using a calculator for Precalculus students (TEKS P.4(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: Solve trigonometric equations",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers solve trigonometric equations for Precalculus students (TEKS P.4(E)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: Trigonometric ratios: find a side length",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers trigonometric ratios (find a side length) for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Use the trig ratio that relates the known angle and side to the unknown side. Set up the equation and solve. Key vocabulary includes: trigonometric ratio, right triangle, sine, cosine, tangent, solve. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "E: Trigonometric ratios: find an angle measure",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers trigonometric ratios (find an angle measure) for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Use inverse trig functions (arcsin, arccos, arctan) to find angles from known side ratios. Key vocabulary includes: inverse trigonometric function, arcsin, arccos, arctan, angle measure. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "E: Solve a right triangle",
+      "teks": "P.4(E)",
+      "prompt": "This topic covers solve a right triangle for Precalculus students (TEKS P.4(E)). Finding all unknown sides and angles. For right triangles: use trig ratios and Pythagorean theorem. For oblique: use Law of Sines (AAS/ASA/SSA) and Law of Cosines (SAS/SSS). Key vocabulary includes: solve a triangle, Law of Sines, Law of Cosines, right triangle, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "F: use trigonometry in mathematical and real-world problems, including directional bearing",
+      "teks": "P.4(F)",
+      "prompt": "This topic covers applying trigonometry to real-world problems including directional bearing for Precalculus students (TEKS P.4(F)). Students solve triangles, compute areas, and apply bearing angles (measured clockwise from north). Use Law of Sines, Law of Cosines, and right triangle trig. Key vocabulary: bearing, direction, navigation, Law of Sines, Law of Cosines, area. Common errors: confusing bearing conventions, and not converting between bearing and standard angle."
+    },
+    {
+      "skill": "F: Solve a triangle",
+      "teks": "P.4(F)",
+      "prompt": "This topic covers solve a triangle for Precalculus students (TEKS P.4(F)). Solving a triangle means finding all unknown sides and angles. Use Law of Sines for AAS/ASA/SSA cases and Law of Cosines for SAS/SSS cases. Key vocabulary includes: Law of Cosines, Law of Sines, angles, sides, solve a triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "F: Area of a triangle: sine formula",
+      "teks": "P.4(F)",
+      "prompt": "This topic covers area of a triangle (sine formula) for Precalculus students (TEKS P.4(F)). Triangle area using sine: A = (1/2)*a*b*sin(C), where a and b are two sides and C is the included angle. Key vocabulary includes: area, included angle, sine formula, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "F: Area of a triangle: Heron's formula",
+      "teks": "P.4(F)",
+      "prompt": "This topic covers area of a triangle (heron's formula) for Precalculus students (TEKS P.4(F)). Heron's formula: A = sqrt(s(s-a)(s-b)(s-c)) where s = (a+b+c)/2 is the semi-perimeter. Works when all three sides are known. Key vocabulary includes: Heron's formula, area, semi-perimeter, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: use the Law of Sines in mathematical and real-world problems",
+      "teks": "P.4(G)",
+      "prompt": "This topic covers use the law of sines in mathematical and real-world problems for Precalculus students (TEKS P.4(G)). Law of Sines: a/sin(A) = b/sin(B) = c/sin(C). Used for ASA, AAS cases. The ambiguous case (SSA) may yield 0, 1, or 2 triangles. Key vocabulary includes: AAS, ASA, Law of Sines, ambiguous case, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: Law of Sines",
+      "teks": "P.4(G)",
+      "prompt": "This topic covers law of sines for Precalculus students (TEKS P.4(G)). Law of Sines: a/sin(A) = b/sin(B) = c/sin(C). Used for ASA, AAS cases. The ambiguous case (SSA) may yield 0, 1, or 2 triangles. Key vocabulary includes: AAS, ASA, Law of Sines, ambiguous case, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: Solve a triangle",
+      "teks": "P.4(G)",
+      "prompt": "This topic covers solve a triangle for Precalculus students (TEKS P.4(G)). Solving a triangle means finding all unknown sides and angles. Use Law of Sines for AAS/ASA/SSA cases and Law of Cosines for SAS/SSS cases. Key vocabulary includes: Law of Cosines, Law of Sines, angles, sides, solve a triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "H: use the Law of Cosines in mathematical and real-world problems",
+      "teks": "P.4(H)",
+      "prompt": "This topic covers use the law of cosines in mathematical and real-world problems for Precalculus students (TEKS P.4(H)). Law of Cosines: c^2 = a^2 + b^2 - 2ab*cos(C). Used for SAS and SSS cases. Generalizes the Pythagorean theorem. Key vocabulary includes: Law of Cosines, SAS, SSS, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "H: Law of Cosines",
+      "teks": "P.4(H)",
+      "prompt": "This topic covers law of cosines for Precalculus students (TEKS P.4(H)). Law of Cosines: c^2 = a^2 + b^2 - 2ab*cos(C). Used for SAS and SSS cases. Generalizes the Pythagorean theorem. Key vocabulary includes: Law of Cosines, SAS, SSS, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "H: Solve a triangle",
+      "teks": "P.4(H)",
+      "prompt": "This topic covers solve a triangle for Precalculus students (TEKS P.4(H)). Solving a triangle means finding all unknown sides and angles. Use Law of Sines for AAS/ASA/SSA cases and Law of Cosines for SAS/SSS cases. Key vocabulary includes: Law of Cosines, Law of Sines, angles, sides, solve a triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: use vectors to model situations involving magnitude and direction",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers use vectors to model situations involving magnitude and direction for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Find the magnitude of a vector",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers find the magnitude of a vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Find the component form of a vector",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers find the component form of a vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Find the direction angle of a vector",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers find the direction angle of a vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Find the component form of a vector from its magnitude and direction angle",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers find the component form of a vector from its magnitude and direction angle for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Find the magnitude and direction of a vector sum",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers find the magnitude and direction of a vector sum for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Find resultant vector by adding components, then compute its magnitude and direction angle. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Find the magnitude of a vector scalar multiple",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers find the magnitude of a vector scalar multiple for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Determine the direction of a vector scalar multiple",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers determine the direction of a vector scalar multiple for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "I: Find a unit vector",
+      "teks": "P.4(I)",
+      "prompt": "This topic covers find a unit vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. A unit vector has magnitude 1. Find it by dividing the vector by its magnitude: u = v/|v|. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "J: represent the addition of vectors and the multiplication of a vector by a scalar geometrically and symbolically",
+      "teks": "P.4(J)",
+      "prompt": "This topic covers represent the addition of vectors and the multiplication of a vector by a scalar geometrically and symbolically for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Vector addition: add corresponding components, or use triangle/parallelogram method graphically. <a,b> + <c,d> = <a+c, b+d>. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "J: Graph a resultant vector using the triangle method",
+      "teks": "P.4(J)",
+      "prompt": "This topic covers graph a resultant vector using the triangle method for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "J: Graph a resultant vector using the parallelogram method",
+      "teks": "P.4(J)",
+      "prompt": "This topic covers graph a resultant vector using the parallelogram method for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "J: Add vectors",
+      "teks": "P.4(J)",
+      "prompt": "This topic covers add vectors for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Vector addition: add corresponding components, or use triangle/parallelogram method graphically. <a,b> + <c,d> = <a+c, b+d>. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "J: Multiply a vector by a scalar",
+      "teks": "P.4(J)",
+      "prompt": "This topic covers multiply a vector by a scalar for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "J: Find the magnitude of a vector scalar multiple",
+      "teks": "P.4(J)",
+      "prompt": "This topic covers find the magnitude of a vector scalar multiple for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "J: Determine the direction of a vector scalar multiple",
+      "teks": "P.4(J)",
+      "prompt": "This topic covers determine the direction of a vector scalar multiple for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "K: apply vector addition and multiplication of a vector by a scalar in mathematical and real-world problems",
+      "teks": "P.4(K)",
+      "prompt": "This topic covers apply vector addition and multiplication of a vector by a scalar in mathematical and real-world problems for Precalculus students (TEKS P.4(K)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Vector addition: add corresponding components, or use triangle/parallelogram method graphically. <a,b> + <c,d> = <a+c, b+d>. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "K: Linear combinations of vectors",
+      "teks": "P.4(K)",
+      "prompt": "This topic covers linear combinations of vectors for Precalculus students (TEKS P.4(K)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

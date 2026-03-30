@@ -1,0 +1,56 @@
+{
+  "grade": "AP - Statistics",
+  "subject": "Inference for Quantitative Data: Means",
+  "skills": [
+    {
+      "skill": "7.1 Introducing Statistics: Should I Worry About Error?",
+      "ref": "VAR-1.I",
+      "prompt": "This topic introduces inference for means for AP Statistics (CED: VAR-1.I, Unit 7, Topic 7.1). When the population standard deviation sigma is unknown (typical in practice), we use the sample standard deviation s and the t-distribution instead of the z-distribution. Key concepts: the t-distribution is similar to the normal but has heavier tails (more probability in the extremes), reflecting the additional uncertainty from estimating sigma; as the sample size increases, the t-distribution approaches the normal; degrees of freedom (df = n-1 for one-sample) determine which t-distribution to use. This topic motivates why t-procedures replace z-procedures for means. AP exam note: students should understand the conceptual difference between z- and t-procedures and when each is appropriate (z for proportions, t for means). Vocabulary: t-distribution, degrees of freedom, sample standard deviation, heavier tails, uncertainty, z vs. t, inference."
+    },
+    {
+      "skill": "7.2 Constructing a Confidence Interval for a Population Mean",
+      "ref": "UNC-4.K, UNC-4.L, UNC-4.M",
+      "prompt": "This topic covers one-sample t-intervals for AP Statistics (CED: UNC-4.K, UNC-4.L, UNC-4.M, Unit 7, Topic 7.2). The CI for mu is x-bar +/- t* * (s/sqrt(n)) with df = n-1. Conditions: random sample, Normal/Large Sample (population normal or n >= 30 by CLT; for 15 < n < 30, check for strong skewness/outliers), 10% condition. Key concepts: t* is the critical value from the t-distribution with df = n-1; the margin of error is t* * s/sqrt(n); wider intervals mean more confidence but less precision. Students should construct and interpret CIs in context. AP exam note: interpretation: 'We are C% confident that the true mean [context] is between [lower] and [upper].' Check conditions explicitly, especially normality via graph inspection. Vocabulary: t-interval, margin of error, critical value, degrees of freedom, confidence level, conditions, interpret."
+    },
+    {
+      "skill": "7.3 Justifying a Claim About a Population Mean Based on a Confidence Interval",
+      "ref": "UNC-4.N",
+      "prompt": "This topic covers using t-intervals to justify claims about population means for AP Statistics (CED: UNC-4.N, Unit 7, Topic 7.3). If the claimed value mu0 is within the CI, the data is consistent with the claim; if outside, there is evidence against it. Key concepts: a CI provides a range of plausible values for the parameter; values outside the CI are implausible at the given confidence level; this connects CIs to hypothesis tests (if mu0 is not in the 95% CI, a two-sided test at alpha = 0.05 would reject H0: mu = mu0). Students should use CIs to evaluate claims and articulate their reasoning. AP exam note: students should clearly state whether the claimed value falls inside or outside the interval and draw the appropriate conclusion in context. Vocabulary: confidence interval, claim, plausible, implausible, evidence, hypothesis test connection, justification."
+    },
+    {
+      "skill": "7.4 Setting Up a Test for a Population Mean",
+      "ref": "VAR-7.A, VAR-7.B",
+      "prompt": "This topic covers setting up a one-sample t-test for AP Statistics (CED: VAR-7.A, VAR-7.B, Unit 7, Topic 7.4). Steps: (1) hypotheses: H0: mu = mu0 vs. Ha: mu < mu0, mu > mu0, or mu != mu0; (2) conditions: random, Normal/Large Sample, 10%; (3) identify as a one-sample t-test. The test statistic: t = (x-bar - mu0)/(s/sqrt(n)) with df = n-1. Key concepts: hypotheses use mu (not x-bar); one-sided vs. two-sided Ha depends on the research question; conditions must be checked before computing. Students should set up the complete test framework from contextual descriptions. AP exam note: hypotheses must be stated in terms of the parameter mu with context. Conditions should be verified with justification (e.g., describing graph shape for normality). Vocabulary: one-sample t-test, null hypothesis, alternative hypothesis, test statistic, degrees of freedom, conditions."
+    },
+    {
+      "skill": "7.5 Carrying Out a Test for a Population Mean",
+      "ref": "VAR-7.C, DAT-3.E",
+      "prompt": "This topic covers carrying out a one-sample t-test for AP Statistics (CED: VAR-7.C, DAT-3.E, Unit 7, Topic 7.5). After setup: compute t = (x-bar - mu0)/(s/sqrt(n)), find the p-value from the t-distribution with df = n-1, compare to alpha, and conclude in context. Key concepts: the t-distribution accounts for using s instead of sigma; for one-sided Ha: p-value = P(T >= |t|) or P(T <= -|t|); for two-sided Ha: p-value = 2*P(T >= |t|). Conclusion template: 'Since p-value [<= or >] alpha, we [reject/fail to reject] H0. There is [convincing/not convincing] evidence that [Ha in context].' AP exam note: all four components (hypotheses, conditions, calculations, conclusion) must be present. Use the t-distribution, not z, for means. Vocabulary: t-test, test statistic, p-value, t-distribution, degrees of freedom, conclude, reject, fail to reject."
+    },
+    {
+      "skill": "7.6 Confidence Intervals for the Difference of Two Means",
+      "ref": "UNC-4.O, UNC-4.P, UNC-4.Q, UNC-4.R",
+      "prompt": "This topic covers two-sample t-intervals for AP Statistics (CED: UNC-4.O, UNC-4.P, UNC-4.Q, UNC-4.R, Unit 7, Topic 7.6). The CI for mu1-mu2 is (x-bar_1-x-bar_2) +/- t* * sqrt(s_1^2/n_1 + s_2^2/n_2) using the t-distribution (df from technology or conservative df = min(n_1,n_2)-1). Conditions: random for both, Normal/Large Sample for both, 10% for both, independent groups. Key concepts: this CI estimates the true difference in means; if 0 is not in the interval, the means are significantly different. AP exam note: interpretation references the difference: 'We are 95% confident that the true difference in mean [context] is between [lower] and [upper].' Check all conditions for both groups. Vocabulary: two-sample t-interval, difference in means, degrees of freedom, standard error, conditions, independent."
+    },
+    {
+      "skill": "7.7 Justifying a Claim About the Difference of Two Means Based on a Confidence Interval",
+      "ref": "UNC-4.S, UNC-4.T",
+      "prompt": "This topic covers using two-sample t-intervals to justify claims for AP Statistics (CED: UNC-4.S, UNC-4.T, Unit 7, Topic 7.7). If the CI for mu1-mu2 contains 0: no convincing evidence of a difference. If entirely positive: evidence mu1 > mu2. If entirely negative: evidence mu1 < mu2. Key concepts: the CI gives both the direction and magnitude of the difference; this provides more information than a hypothesis test alone. Students should interpret two-sample CIs in context and use them to evaluate claims about differences in population means. AP exam note: clearly state whether 0 is in the interval and what this implies about the relationship between the two population means. Vocabulary: confidence interval, difference in means, contains zero, direction, magnitude, evidence, claim."
+    },
+    {
+      "skill": "7.8 Setting Up a Test for the Difference of Two Population Means",
+      "ref": "VAR-7.D, VAR-7.E, VAR-7.F",
+      "prompt": "This topic covers setting up a two-sample t-test for AP Statistics (CED: VAR-7.D, VAR-7.E, VAR-7.F, Unit 7, Topic 7.8). Hypotheses: H0: mu1 = mu2 (or mu1-mu2 = 0) vs. Ha: mu1 < mu2, mu1 > mu2, or mu1 != mu2. Conditions: random for both samples, Normal/Large Sample for both, 10% for both, independent groups. Test statistic: t = (x-bar_1-x-bar_2-0)/sqrt(s_1^2/n_1+s_2^2/n_2) with df from technology or conservative estimate. Key concepts: this compares two independent groups; do NOT pool standard deviations (unlike two-proportion tests). Students should write hypotheses with parameters and check all conditions. AP exam note: hypotheses use mu1 and mu2, not x-bar. Conditions must be checked for each sample. Vocabulary: two-sample t-test, null, alternative, conditions, independent groups, test statistic, degrees of freedom."
+    },
+    {
+      "skill": "7.9 Carrying Out a Test for the Difference of Two Population Means",
+      "ref": "VAR-7.G, VAR-7.H, VAR-7.I, DAT-3.F",
+      "prompt": "This topic covers carrying out a two-sample t-test for AP Statistics (CED: VAR-7.G, VAR-7.H, VAR-7.I, DAT-3.F, Unit 7, Topic 7.9). Compute the test statistic t and p-value using the t-distribution with appropriate df. Compare p-value to alpha and conclude in context. Key concepts: use technology for exact df (Welch's approximation) or conservative df = min(n1,n2)-1; the p-value reflects how extreme the observed difference is under H0. Conclusion: 'Since p-value [<=/>] alpha, we [reject/fail to reject] H0. There is [convincing/not convincing] evidence that [Ha in context].' Students should present the complete four-step procedure. AP exam note: all four steps required for full credit. Technology output should be referenced with parameters clearly stated. Vocabulary: two-sample t-test, Welch's df, p-value, conclusion, reject, fail to reject, context, convincing evidence."
+    },
+    {
+      "skill": "7.10 Skills Focus: Selecting, Implementing, and Communicating Inference Procedures",
+      "ref": "DAT-3.G, DAT-3.H",
+      "prompt": "This topic covers selecting appropriate inference procedures for AP Statistics (CED: DAT-3.G, DAT-3.H, Unit 7, Topic 7.10). Students must choose the correct procedure based on the research question and data type: one-sample vs. two-sample, proportions vs. means, CI vs. test. Key decision factors: number of groups (one or two), variable type (categorical = proportion, quantitative = mean), parameter of interest, and whether estimating (CI) or testing a claim (hypothesis test). Students should communicate statistical findings clearly: state the procedure, check conditions, show calculations, and interpret results in context. AP exam note: the investigative task (FRQ #6) often requires selecting and justifying a procedure. Students must explain why the chosen procedure is appropriate and present a complete analysis. Vocabulary: procedure selection, one-sample, two-sample, proportion, mean, confidence interval, hypothesis test, communication."
+    }
+  ]
+}

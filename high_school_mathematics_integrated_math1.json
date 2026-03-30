@@ -1,0 +1,156 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Integrated Math-1",
+  "skills": [
+    {
+      "skill": "Solving Linear Equations and Inequalities",
+      "teks": "A.5(A)",
+      "teks_description": "Solve linear equations in one variable including distributive property and variables on both sides",
+      "prompt": "This topic covers solving linear equations in one variable for Integrated Math-1 students (TEKS A.5A). Students should master isolating variables using inverse operations, applying the distributive property to clear parentheses, and collecting like terms when variables appear on both sides. Key concepts: addition/subtraction property of equality, multiplication/division property of equality, combining like terms, and checking solutions by substitution. Students must understand that multiplying or dividing both sides of an inequality by a negative number reverses the inequality sign. Vocabulary: coefficient, constant, solution set, equivalent equations, identity, contradiction, no solution. Common errors: sign mistakes when distributing negatives, forgetting to flip the inequality sign with negative multipliers, and arithmetic errors with fractions. Students should be able to translate word problems into equations and verify solutions in context."
+    },
+    {
+      "skill": "Functions and Their Representations",
+      "teks": "A.12(A)",
+      "teks_description": "Decide whether relations represented verbally, tabularly, graphically, and symbolically define a function",
+      "prompt": "This topic covers determining whether a relation is a function for Integrated Math-1 students (TEKS A.12A). Students should understand that a function assigns exactly one output to each input. Key representations: verbal descriptions, tables of values, graphs (vertical line test), mapping diagrams, and algebraic equations. Vocabulary: domain, range, input, output, relation, function, vertical line test, independent variable, dependent variable. Students should identify domain and range from each representation and express them using set notation or inequalities. Key concepts: a table defines a function if no x-value repeats with different y-values; a graph defines a function if every vertical line crosses it at most once. Common errors: confusing domain with range, believing all equations are functions, and misapplying the vertical line test to horizontal lines."
+    },
+    {
+      "skill": "Linear Functions and Graphs",
+      "teks": "A.3(C)",
+      "teks_description": "Graph linear functions and identify key features including intercepts, zeros, and slope",
+      "prompt": "This topic covers graphing linear functions and identifying key features for Integrated Math-1 students (TEKS A.3C). Students should graph lines using slope-intercept form (y = mx + b), point-slope form, and standard form (Ax + By = C). Key features: x-intercept (where y = 0), y-intercept (where x = 0), slope (rise over run), and zeros. Vocabulary: slope, y-intercept, x-intercept, zero of a function, positive/negative slope, horizontal line, vertical line, linear function. Students must calculate slope from two points using m = (y2 - y1)/(x2 - x1), convert between forms, and interpret slope as rate of change in context. Common errors: reversing rise and run, sign errors in slope calculation, confusing x- and y-intercepts, and incorrectly graphing negative slopes."
+    },
+    {
+      "skill": "Systems of Linear Equations and Inequalities",
+      "teks": "A.5(C)",
+      "teks_description": "Solve systems of two linear equations with two variables",
+      "prompt": "This topic covers solving systems of two linear equations with two variables for Integrated Math-1 students (TEKS A.5C). Students should solve systems using graphing, substitution, and elimination methods. Key concepts: a solution is an ordered pair satisfying both equations simultaneously; systems can have one solution (intersecting lines), no solution (parallel lines), or infinitely many solutions (same line). Vocabulary: system of equations, consistent, inconsistent, dependent, independent, elimination, substitution, intersection point. Students should recognize how slopes and intercepts determine the number of solutions, verify solutions by substituting into both equations, and interpret solutions in real-world contexts. Common errors: arithmetic mistakes during elimination, forgetting to solve for the second variable, and misidentifying parallel lines."
+    },
+    {
+      "skill": "Properties of Exponents",
+      "teks": "A.11(B)",
+      "teks_description": "Simplify numeric and algebraic expressions using laws of exponents with integral and rational exponents",
+      "prompt": "This topic covers simplifying expressions using laws of exponents for Integrated Math-1 students (TEKS A.11B). Students should master: product rule (a^m * a^n = a^(m+n)), quotient rule (a^m / a^n = a^(m-n)), power rule ((a^m)^n = a^(mn)), zero exponent (a^0 = 1 for a not 0), negative exponent (a^(-n) = 1/a^n), and power of a product ((ab)^n = a^n * b^n). Vocabulary: base, exponent, power, scientific notation, exponential expression. Students should simplify numeric and algebraic expressions combining multiple rules and express results with positive exponents. Common errors: adding exponents when bases differ, applying the product rule to addition, confusing negative exponents with negative numbers, and mishandling coefficients."
+    },
+    {
+      "skill": "Introduction to Sequences",
+      "teks": "A.12(C)",
+      "teks_description": "Identify terms of arithmetic and geometric sequences given in function form using recursive processes",
+      "prompt": "This topic covers arithmetic and geometric sequences for Integrated Math-1 students (TEKS A.12C). Students should identify terms of sequences given in function form and use recursive definitions. Arithmetic sequences have a constant difference (d): a_n = a_1 + (n-1)d. Geometric sequences have a constant ratio (r): a_n = a_1 * r^(n-1). Key concepts: common difference, common ratio, recursive formula, explicit formula, and connecting sequences to linear (arithmetic) or exponential (geometric) functions. Vocabulary: sequence, term, recursive, explicit, common difference, common ratio, nth term. Common errors: confusing arithmetic and geometric sequences, off-by-one errors in the index, and misidentifying the first term."
+    },
+    {
+      "skill": "Introduction to Statistics and Data Analysis",
+      "teks": "A.4(A)",
+      "teks_description": "Calculate correlation coefficient between quantitative variables using technology",
+      "prompt": "This topic covers calculating and interpreting the correlation coefficient for Integrated Math-1 students (TEKS A.4A). Students should use technology to compute the correlation coefficient r for bivariate quantitative data. Key concepts: r ranges from -1 to 1; values near 1 indicate strong positive linear association, near -1 strong negative linear association, and near 0 weak or no linear association. Vocabulary: correlation coefficient, bivariate data, scatter plot, linear association, positive correlation, negative correlation, strength of association. Students should distinguish between correlation and causation, interpret r in context, and understand that outliers can significantly affect r. Common errors: assuming correlation implies causation, misinterpreting the sign of r, and confusing r with r-squared."
+    },
+    {
+      "skill": "Measures of Central Tendency and Variability",
+      "teks": "S.4(E)",
+      "teks_description": "Compare and contrast meaningful information derived from summary statistics",
+      "prompt": "This topic covers summary statistics for Integrated Math-1 students (TEKS S.4E). Students should calculate and compare mean, median, and mode as measures of center, and range, interquartile range (IQR), and standard deviation as measures of spread. Key concepts: mean is sensitive to outliers while median is resistant; IQR measures spread of the middle 50%; standard deviation measures typical distance from the mean. Vocabulary: mean, median, mode, range, quartile, IQR, standard deviation, outlier, five-number summary, box plot. Students should compare distributions using these statistics and justify which measure is most appropriate for skewed vs. symmetric data. Common errors: confusing mean and median for skewed distributions, miscalculating quartiles, and not recognizing the effect of outliers."
+    },
+    {
+      "skill": "Analyzing Linear Models",
+      "teks": "A.4(C)",
+      "teks_description": "Write linear functions providing reasonable fit to data for estimating and predicting outcomes",
+      "prompt": "This topic covers writing linear functions that fit data for Integrated Math-1 students (TEKS A.4C). Students should use technology to find a line of best fit (least-squares regression), interpret slope and y-intercept in context, and use the model for estimation and prediction. Key concepts: regression line equation y = mx + b, interpolation (predicting within data range), extrapolation (predicting beyond data range and its risks), residuals (observed - predicted). Vocabulary: line of best fit, regression, slope, y-intercept, residual, interpolation, extrapolation, prediction. Students should evaluate model appropriateness using residual plots and r-values. Common errors: extrapolating far beyond data, confusing slope units, and treating the regression line as passing through every data point."
+    },
+    {
+      "skill": "Introduction to Geometric Transformations",
+      "teks": "G.3(A)",
+      "teks_description": "Describe and perform transformations using coordinate notation",
+      "prompt": "This topic covers describing and performing transformations for Integrated Math-1 students (TEKS G.3A). Students should use coordinate notation to describe translations (x,y) -> (x+a, y+b), reflections across axes and lines, rotations (90, 180, 270 degrees about the origin), and dilations. Key concepts: rigid motions (translations, reflections, rotations) preserve congruence; dilations change size but preserve shape (similarity). Vocabulary: transformation, pre-image, image, translation, reflection, rotation, dilation, rigid motion, isometry, congruence, similarity. Students should describe sequences of transformations and express them algebraically. Common errors: confusing rotation direction, reflection rule errors, and applying transformation rules in the wrong order."
+    },
+    {
+      "skill": "Congruence and Similarity",
+      "teks": "G.7(A)",
+      "teks_description": "Apply similarity definitions using dilations to identify similar figures with proportional sides",
+      "prompt": "This topic covers similarity and dilations for Integrated Math-1 students (TEKS G.7A). Students should understand that similar figures have the same shape but potentially different sizes, with proportional corresponding sides and congruent corresponding angles. Key concepts: scale factor, ratio of corresponding sides, AA similarity criterion, setting up and solving proportions, and applying similarity to indirect measurement problems. Vocabulary: congruent, similar, corresponding parts, scale factor, proportion, dilation, ratio. Students should distinguish between congruence and similarity. Common errors: setting up proportions incorrectly, confusing congruence with similarity, and scale factor direction errors."
+    },
+    {
+      "skill": "Introduction to Geometry Proofs",
+      "teks": "G.4(A)",
+      "teks_description": "Distinguish between undefined terms, definitions, postulates, conjectures, and theorems",
+      "prompt": "This topic covers foundational proof concepts for Integrated Math-1 students (TEKS G.4A). Students should distinguish between undefined terms (point, line, plane), defined terms, postulates (accepted truths), conjectures (unproven statements), and theorems (proven statements). Key concepts: logical reasoning, deductive vs. inductive reasoning, two-column proofs, paragraph proofs, and flow proofs. Vocabulary: undefined term, definition, postulate, axiom, conjecture, theorem, proof, counterexample, conditional statement, converse, inverse, contrapositive. Students should write simple proofs and understand that a single counterexample disproves a conjecture. Common errors: assuming a pattern proves a statement, circular reasoning, and missing proof steps."
+    },
+    {
+      "skill": "Modeling with Mathematics",
+      "teks": "A.1(A)",
+      "teks_description": "Apply mathematics to problems arising in everyday life, society, and the workplace",
+      "prompt": "This topic covers applying mathematics to real-world problems for Integrated Math-1 students (TEKS A.1A). Students should formulate mathematical models from everyday situations, choose appropriate representations (equations, tables, graphs), solve the model, and interpret results in context. Key concepts: defining variables, writing equations or inequalities from verbal descriptions, checking reasonableness of solutions, and understanding model limitations. Vocabulary: mathematical model, variable, constraint, assumption, reasonable solution, interpret. Students should recognize which type of function best models a given scenario and communicate their reasoning clearly. Common errors: defining variables unclearly, forgetting units, not checking if solutions make sense in context, and over-generalizing."
+    },
+    {
+      "skill": "Introduction to Probability",
+      "teks": "G.13(C)",
+      "teks_description": "Identify independence of events and compute joint probabilities",
+      "prompt": "This topic covers basic probability and independence for Integrated Math-1 students (TEKS G.13C). Students should calculate probabilities of simple events as P(E) = favorable outcomes / total outcomes, understand sample spaces, and determine whether events are independent. Key concepts: independent events (P(A and B) = P(A) * P(B)), dependent events, complementary events (P(not A) = 1 - P(A)), and joint probability. Vocabulary: probability, sample space, event, outcome, independent, dependent, complementary, mutually exclusive, joint probability. Students should use tree diagrams, two-way tables, and area models. Common errors: confusing independent and mutually exclusive events, adding probabilities when multiplication is required, and probability values outside [0,1]."
+    },
+    {
+      "skill": "Solving Absolute Value Equations and Inequalities",
+      "teks": "2A.6(E)",
+      "teks_description": "Solve absolute value linear equations",
+      "prompt": "This topic covers solving absolute value equations for Integrated Math-1 students (TEKS 2A.6E). Students should understand that |x| represents the distance from x to zero, so |expression| = k (k > 0) yields two cases: expression = k or expression = -k. Key concepts: writing and solving the two equivalent equations, checking for extraneous solutions, and solving absolute value inequalities (|x| < k means -k < x < k; |x| > k means x < -k or x > k). Vocabulary: absolute value, distance, extraneous solution, compound inequality, conjunction, disjunction. Students should graph solution sets on number lines. Common errors: forgetting the second case, not checking for extraneous solutions, and mishandling the inequality direction."
+    },
+    {
+      "skill": "Introduction to Quadratic Functions",
+      "teks": "A.6(A)",
+      "teks_description": "Determine domain and range of quadratic functions and represent using inequalities",
+      "prompt": "This topic covers domain and range of quadratic functions for Integrated Math-1 students (TEKS A.6A). Students should recognize the standard form y = ax^2 + bx + c and vertex form y = a(x-h)^2 + k of quadratic functions. Key concepts: the graph is a parabola; domain is all real numbers; range depends on whether the parabola opens up (a > 0, range: y >= k) or down (a < 0, range: y <= k); vertex (h,k) is the minimum or maximum point. Vocabulary: quadratic function, parabola, vertex, axis of symmetry, minimum, maximum, domain, range. Common errors: confusing domain and range, sign errors when reading vertex form, and incorrectly stating range for downward-opening parabolas."
+    },
+    {
+      "skill": "Growth and Decay in Context",
+      "teks": "A.9(B)",
+      "teks_description": "Interpret meaning of values a and b in exponential functions in real-world problems",
+      "prompt": "This topic covers interpreting exponential functions in real-world problems for Integrated Math-1 students (TEKS A.9B). Students should interpret f(x) = a * b^x where a is the initial value and b is the growth/decay factor. Key concepts: if b > 1, the function models growth; if 0 < b < 1, it models decay; the growth/decay rate is |b - 1| expressed as a percentage. Vocabulary: exponential growth, exponential decay, initial value, growth factor, decay factor, growth rate, half-life, doubling time. Students should distinguish between linear and exponential growth. Common errors: confusing rate with factor, misidentifying growth vs. decay, and applying linear reasoning to exponential situations."
+    },
+    {
+      "skill": "Exploring Data: Frequency Tables and Histograms",
+      "teks": "S.4(B)",
+      "teks_description": "Represent and summarize data and justify the representation",
+      "prompt": "This topic covers representing and summarizing data for Integrated Math-1 students (TEKS S.4B). Students should construct frequency tables, relative frequency tables, and histograms to display quantitative data. Key concepts: choosing appropriate bin widths, interpreting shape (symmetric, skewed left/right, uniform, bimodal), identifying clusters and gaps, and calculating relative frequencies. Vocabulary: frequency, relative frequency, histogram, bin, class interval, distribution, skewed, symmetric, bimodal, uniform, outlier. Common errors: using unequal bin widths, confusing bar graphs with histograms, miscounting frequencies, and misidentifying distribution shape."
+    },
+    {
+      "skill": "Compound Interest",
+      "teks": "A.9(C)",
+      "teks_description": "Write exponential functions describing growth including compound interest",
+      "prompt": "This topic covers writing exponential functions for compound interest for Integrated Math-1 students (TEKS A.9C). Students should use the formula A = P(1 + r/n)^(nt) where P is principal, r is annual interest rate, n is compounding frequency, and t is time in years. Key concepts: simple vs. compound interest, effect of compounding frequency, continuous compounding A = Pe^(rt), and comparing investment options. Vocabulary: principal, interest rate, compound interest, simple interest, compounding period, future value, present value. Common errors: forgetting to convert percentage to decimal, confusing n and t, misapplying the formula for continuous compounding, and not matching time units."
+    },
+    {
+      "skill": "Linear Piecewise Functions",
+      "teks": "A.2(A)",
+      "teks_description": "Determine domain and range of linear functions; represent piecewise functions",
+      "prompt": "This topic covers piecewise-defined linear functions for Integrated Math-1 students (TEKS A.2A). Students should understand that piecewise functions use different formulas on different intervals of the domain. Key concepts: writing piecewise function rules, graphing each piece on its specified interval, determining domain and range, evaluating piecewise functions, and identifying continuity at boundary points. Vocabulary: piecewise function, interval, domain restriction, open/closed circle, step function, absolute value as piecewise function. Real-world connections: tax brackets, shipping costs, parking rates. Common errors: using wrong formula for a given input value, incorrectly graphing open vs. closed endpoints, and overlooking domain restrictions."
+    },
+    {
+      "skill": "Geometric Constructions",
+      "teks": "G.5(B)",
+      "teks_description": "Construct congruent segments, angles, bisectors, perpendicular lines, and parallel lines",
+      "prompt": "This topic covers compass and straightedge constructions for Integrated Math-1 students (TEKS G.5B). Students should construct congruent segments, congruent angles, angle bisectors, segment bisectors, perpendicular lines, and parallel lines. Key concepts: using only a compass and straightedge (no measuring), understanding why constructions work based on circle properties and congruence, and connecting constructions to geometric theorems. Vocabulary: compass, straightedge, construction, bisector, perpendicular bisector, midpoint, arc, congruent. Common errors: using a ruler to measure instead of constructing, inaccurate compass arcs, and confusing angle bisector with perpendicular bisector."
+    },
+    {
+      "skill": "Introduction to Scatter Plots and Correlation",
+      "teks": "A.4(A)",
+      "teks_description": "Calculate correlation coefficient and interpret strength of linear association",
+      "prompt": "This topic covers scatter plots and interpreting correlation for Integrated Math-1 students (TEKS A.4A). Students should create scatter plots from bivariate data, describe direction (positive/negative), form (linear/nonlinear), and strength (strong/weak) of associations. Key concepts: correlation coefficient r, distinguishing correlation from causation, and identifying outliers that affect correlation. Vocabulary: scatter plot, bivariate data, positive association, negative association, linear, nonlinear, correlation coefficient, outlier, lurking variable. Common errors: assuming correlation proves causation, ignoring outliers, describing nonlinear patterns as having no association, and misinterpreting r values."
+    },
+    {
+      "skill": "Problem Solving and Mathematical Practices",
+      "teks": "A.1(B)",
+      "teks_description": "Use problem-solving model incorporating analyzing information, formulating a plan, determining a solution",
+      "prompt": "This topic covers the problem-solving process for Integrated Math-1 students (TEKS A.1B). Students should apply a structured model: understand the problem, devise a plan, carry out the plan, and look back to check reasonableness. Key concepts: analyzing given information, identifying relevant quantities, selecting strategies, formulating equations, and verifying solutions in context. Vocabulary: analyze, formulate, determine, justify, evaluate, reasonable, strategy, constraint. Students should communicate mathematical ideas clearly using precise language. Common errors: rushing to compute without understanding, not checking answers for reasonableness, and failing to consider all constraints."
+    },
+    {
+      "skill": "Properties of Real Numbers",
+      "teks": "A.10(D)",
+      "teks_description": "Rewrite polynomial expressions using distributive property",
+      "prompt": "This topic covers rewriting polynomial expressions using the distributive property for Integrated Math-1 students (TEKS A.10D). Students should apply the distributive property a(b + c) = ab + ac to expand expressions, factor out the GCF, and simplify by combining like terms. Key concepts: commutative, associative, distributive, identity, and inverse properties. Vocabulary: distributive property, commutative, associative, identity, inverse, GCF, like terms, coefficient, polynomial. Students should justify algebraic steps using named properties. Common errors: distributing only to the first term, sign errors with negative factors, and confusing commutative with associative properties."
+    },
+    {
+      "skill": "Simplifying Algebraic Expressions",
+      "teks": "A.10(A)",
+      "teks_description": "Add and subtract polynomials of degree one and two",
+      "prompt": "This topic covers adding and subtracting polynomials for Integrated Math-1 students (TEKS A.10A). Students should combine like terms (same variable and exponent) by adding or subtracting coefficients. Key concepts: identifying like terms, using the distributive property to remove parentheses (especially with subtraction), organizing terms by degree, and classifying polynomials. Vocabulary: polynomial, monomial, binomial, trinomial, like terms, coefficient, degree, constant term, standard form. Students should write results in standard form. Common errors: combining unlike terms, sign errors when subtracting polynomials, and misidentifying the degree of a polynomial."
+    }
+  ]
+}

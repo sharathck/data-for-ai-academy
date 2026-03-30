@@ -1,0 +1,411 @@
+{
+  "grade": "Grade 6",
+  "subject": "Maths - Expressions, equations, and relationships",
+  "skills": [
+    {
+      "skill": "Identify independent and dependent variables in tables and graphs",
+      "teks": "6.6(A)",
+      "prompt": "This topic covers independent and dependent variables for Grade 6 students (TEKS 6.6(A)). Students should understand that in a relationship between two quantities, one variable (independent) affects the other (dependent). Key concepts: the independent variable is the input or cause (what you change); the dependent variable is the output or effect (what you measure or observe); in tables, the independent variable is typically in the left column; in graphs, it is on the x-axis; identifying these variables helps set up equations and understand cause-effect relationships. Vocabulary: independent variable, dependent variable, input, output, cause, effect, relationship, table, graph, x-axis, y-axis, equation, change, respond. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify independent and dependent variables: word problems",
+      "teks": "6.6(A)",
+      "prompt": "This topic covers independent and dependent variables for Grade 6 students (TEKS 6.6(A)). Students should understand that in a relationship between two quantities, one variable (independent) affects the other (dependent). Key concepts: the independent variable is the input or cause (what you change); the dependent variable is the output or effect (what you measure or observe); in tables, the independent variable is typically in the left column; in graphs, it is on the x-axis; identifying these variables helps set up equations and understand cause-effect relationships. Vocabulary: independent variable, dependent variable, input, output, cause, effect, relationship, table, graph, x-axis, y-axis, equation, change, respond. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write a two-variable equation from a table",
+      "teks": "6.6(B)",
+      "prompt": "This topic covers two-variable relationships using tables, equations, and graphs for Grade 6 students (TEKS 6.6(B)). Students should understand how to represent relationships between two quantities in multiple forms. Key concepts: an equation like y = 2x + 1 describes the rule; a table shows input-output pairs; a graph plots the ordered pairs on a coordinate plane; students should convert fluently between these representations; linear relationships form straight lines on a graph. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, relationship, input, output, rule, linear, plot, x-axis, y-axis. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write an equation from a graph using a table",
+      "teks": "6.6(B)",
+      "prompt": "This topic covers Write an equation from a graph using a table for Grade 6 students (TEKS 6.6(B)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Solve word problems by finding two-variable equations",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers two-variable relationships using tables, equations, and graphs for Grade 6 students (TEKS 6.6(C)). Students should understand how to represent relationships between two quantities in multiple forms. Key concepts: an equation like y = 2x + 1 describes the rule; a table shows input-output pairs; a graph plots the ordered pairs on a coordinate plane; students should convert fluently between these representations; linear relationships form straight lines on a graph. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, relationship, input, output, rule, linear, plot, x-axis, y-axis. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Complete a table for a two-variable relationship",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers two-variable relationships using tables, equations, and graphs for Grade 6 students (TEKS 6.6(C)). Students should understand how to represent relationships between two quantities in multiple forms. Key concepts: an equation like y = 2x + 1 describes the rule; a table shows input-output pairs; a graph plots the ordered pairs on a coordinate plane; students should convert fluently between these representations; linear relationships form straight lines on a graph. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, relationship, input, output, rule, linear, plot, x-axis, y-axis. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write a two-variable equation",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers two-variable relationships using tables, equations, and graphs for Grade 6 students (TEKS 6.6(C)). Students should understand how to represent relationships between two quantities in multiple forms. Key concepts: an equation like y = 2x + 1 describes the rule; a table shows input-output pairs; a graph plots the ordered pairs on a coordinate plane; students should convert fluently between these representations; linear relationships form straight lines on a graph. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, relationship, input, output, rule, linear, plot, x-axis, y-axis. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify the graph of an equation",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers Identify the graph of an equation for Grade 6 students (TEKS 6.6(C)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Complete a table and graph a two-variable equation",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers two-variable relationships using tables, equations, and graphs for Grade 6 students (TEKS 6.6(C)). Students should understand how to represent relationships between two quantities in multiple forms. Key concepts: an equation like y = 2x + 1 describes the rule; a table shows input-output pairs; a graph plots the ordered pairs on a coordinate plane; students should convert fluently between these representations; linear relationships form straight lines on a graph. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, relationship, input, output, rule, linear, plot, x-axis, y-axis. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Graph a two-variable equation",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers two-variable relationships using tables, equations, and graphs for Grade 6 students (TEKS 6.6(C)). Students should understand how to represent relationships between two quantities in multiple forms. Key concepts: an equation like y = 2x + 1 describes the rule; a table shows input-output pairs; a graph plots the ordered pairs on a coordinate plane; students should convert fluently between these representations; linear relationships form straight lines on a graph. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, relationship, input, output, rule, linear, plot, x-axis, y-axis. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Complete a table and make a graph: word problems",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers Complete a table and make a graph: word problems for Grade 6 students (TEKS 6.6(C)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Write multiplication expressions using exponents",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers exponents and powers for Grade 6 students (TEKS 6.7(A)). Students should understand that exponents represent repeated multiplication. Key concepts: in the expression b^n, b is the base and n is the exponent; the exponent tells how many times to multiply the base by itself; powers of 10 are especially important (10^1=10, 10^2=100, 10^3=1000); any number to the power of 0 equals 1; any number to the power of 1 equals itself. Students should write repeated multiplication using exponents and evaluate expressions with exponents. Vocabulary: exponent, base, power, squared, cubed, repeated multiplication, evaluate, expression, notation, factor. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write powers of ten with exponents",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers exponents and powers for Grade 6 students (TEKS 6.7(A)). Students should understand that exponents represent repeated multiplication. Key concepts: in the expression b^n, b is the base and n is the exponent; the exponent tells how many times to multiply the base by itself; powers of 10 are especially important (10^1=10, 10^2=100, 10^3=1000); any number to the power of 0 equals 1; any number to the power of 1 equals itself. Students should write repeated multiplication using exponents and evaluate expressions with exponents. Vocabulary: exponent, base, power, squared, cubed, repeated multiplication, evaluate, expression, notation, factor. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions involving whole numbers",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers evaluating expressions using order of operations for Grade 6 students (TEKS 6.7(A)). Students should understand how to correctly evaluate numerical and algebraic expressions following the standard order of operations. Key concepts: PEMDAS - Parentheses first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); grouping symbols override the default order; students should show their work step by step. Vocabulary: order of operations, evaluate, expression, parentheses, brackets, exponent, operation, simplify, PEMDAS, grouping symbols, numerical, algebraic, left to right. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify mistakes involving the order of operations",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers evaluating expressions using order of operations for Grade 6 students (TEKS 6.7(A)). Students should understand how to correctly evaluate numerical and algebraic expressions following the standard order of operations. Key concepts: PEMDAS - Parentheses first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); grouping symbols override the default order; students should show their work step by step. Vocabulary: order of operations, evaluate, expression, parentheses, brackets, exponent, operation, simplify, PEMDAS, grouping symbols, numerical, algebraic, left to right. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Prime factorization",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers prime factorization for Grade 6 students (TEKS 6.7(A)). Students should understand how to express a composite number as a product of its prime factors. Key concepts: every composite number can be written as a unique product of prime numbers (Fundamental Theorem of Arithmetic); use a factor tree to break down a number into prime factors; prime factorization can be written using exponents for repeated factors (e.g., 24 = 2^3 x 3); this skill is essential for finding GCF and LCM. Vocabulary: prime, composite, factor, prime factorization, factor tree, product, exponent, unique, fundamental theorem, divisible, GCF, LCM. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Prime factorization with exponents",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers exponents and powers for Grade 6 students (TEKS 6.7(A)). Students should understand that exponents represent repeated multiplication. Key concepts: in the expression b^n, b is the base and n is the exponent; the exponent tells how many times to multiply the base by itself; powers of 10 are especially important (10^1=10, 10^2=100, 10^3=1000); any number to the power of 0 equals 1; any number to the power of 1 equals itself. Students should write repeated multiplication using exponents and evaluate expressions with exponents. Vocabulary: exponent, base, power, squared, cubed, repeated multiplication, evaluate, expression, notation, factor. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write variable expressions: one operation",
+      "teks": "6.7(B)",
+      "prompt": "This topic covers writing and interpreting variable expressions for Grade 6 students (TEKS 6.7(B)). Students should understand how to translate between verbal descriptions and algebraic expressions using variables. Key concepts: a variable represents an unknown quantity; an expression combines variables, numbers, and operations; key phrases indicate operations: 'sum of' (addition), 'difference' (subtraction), 'product of' (multiplication), 'quotient of' (division); a coefficient is the number multiplied by a variable; expressions do not have equal signs. Vocabulary: variable, expression, algebraic, coefficient, constant, term, operation, translate, verbal, evaluate, simplify, representation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write an equation from words",
+      "teks": "6.7(B)",
+      "prompt": "This topic covers writing equations from words for Grade 6 students (TEKS 6.7(B)). Students should understand how to translate verbal descriptions and real-world situations into algebraic equations. Key concepts: identify the unknown quantity and assign a variable; determine the operation from keywords; 'is' or 'equals' indicates the equal sign; set up the equation with the variable, operation, and known values; verify the equation makes sense in context. Vocabulary: equation, variable, translate, verbal, algebraic, unknown, equals, represent, expression, solve, model, words, operation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify expressions and equations",
+      "teks": "6.7(B)",
+      "prompt": "This topic covers identifying expressions versus equations for Grade 6 students (TEKS 6.7(B)). Students should understand the fundamental difference between mathematical expressions and equations. Key concepts: an expression is a mathematical phrase that contains numbers, variables, and operations but NO equal sign (e.g., 3x + 5); an equation is a mathematical statement that shows two expressions are equal, using an equal sign (e.g., 3x + 5 = 14); expressions are evaluated while equations are solved; inequalities use comparison symbols instead of equal signs. Vocabulary: expression, equation, equal sign, variable, operation, evaluate, solve, statement, phrase, inequality, mathematical. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify equivalent expressions using strip models",
+      "teks": "6.7(C)",
+      "prompt": "This topic covers identifying and writing equivalent expressions for Grade 6 students (TEKS 6.7(C)). Students should understand that two expressions are equivalent if they produce the same value for every substitution of the variable. Key concepts: equivalent expressions can be created using properties of operations (commutative, associative, distributive); combining like terms produces equivalent expressions; distributing multiplication over addition/subtraction produces equivalent expressions; strip models and area models can demonstrate equivalence visually. Vocabulary: equivalent, expression, commutative property, associative property, distributive property, like terms, simplify, combine, substitute, variable, verify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify equivalent expressions I",
+      "teks": "6.7(C)",
+      "prompt": "This topic covers identifying and writing equivalent expressions for Grade 6 students (TEKS 6.7(C)). Students should understand that two expressions are equivalent if they produce the same value for every substitution of the variable. Key concepts: equivalent expressions can be created using properties of operations (commutative, associative, distributive); combining like terms produces equivalent expressions; distributing multiplication over addition/subtraction produces equivalent expressions; strip models and area models can demonstrate equivalence visually. Vocabulary: equivalent, expression, commutative property, associative property, distributive property, like terms, simplify, combine, substitute, variable, verify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify equivalent expressions II",
+      "teks": "6.7(C)",
+      "prompt": "This topic covers identifying and writing equivalent expressions for Grade 6 students (TEKS 6.7(C)). Students should understand that two expressions are equivalent if they produce the same value for every substitution of the variable. Key concepts: equivalent expressions can be created using properties of operations (commutative, associative, distributive); combining like terms produces equivalent expressions; distributing multiplication over addition/subtraction produces equivalent expressions; strip models and area models can demonstrate equivalence visually. Vocabulary: equivalent, expression, commutative property, associative property, distributive property, like terms, simplify, combine, substitute, variable, verify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Properties of addition",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers properties of addition for Grade 6 students (TEKS 6.7(D)). Students should understand the mathematical properties that govern addition. Key concepts: commutative property (a + b = b + a, order does not matter); associative property ((a + b) + c = a + (b + c), grouping does not matter); identity property (a + 0 = a, adding zero does not change the value); these properties can simplify computation and justify solution steps. Vocabulary: commutative property, associative property, identity property, addition, sum, order, grouping, zero, equivalent, simplify, justify, property. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Properties of multiplication",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers properties of multiplication for Grade 6 students (TEKS 6.7(D)). Students should understand the mathematical properties that govern multiplication. Key concepts: commutative property (a x b = b x a); associative property ((a x b) x c = a x (b x c)); identity property (a x 1 = a); zero property (a x 0 = 0); distributive property (a x (b + c) = a x b + a x c); these properties simplify computation and help generate equivalent expressions. Vocabulary: commutative, associative, identity, zero property, distributive property, multiplication, product, factor, equivalent, simplify, justify, property. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply using the distributive property: area models",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers the distributive property for Grade 6 students (TEKS 6.7(D)). Students should understand that multiplication distributes over addition and subtraction. Key concepts: a(b + c) = ab + ac and a(b - c) = ab - ac; this property connects multiplication and addition; it can be modeled with area models where the total area equals the sum of smaller areas; the distributive property is used to simplify expressions, multiply mentally, and factor expressions. Students should apply it in both directions (expanding and factoring). Vocabulary: distributive property, expand, factor, expression, multiply, add, subtract, area model, equivalent, simplify, parentheses, term. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply using the distributive property",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers the distributive property for Grade 6 students (TEKS 6.7(D)). Students should understand that multiplication distributes over addition and subtraction. Key concepts: a(b + c) = ab + ac and a(b - c) = ab - ac; this property connects multiplication and addition; it can be modeled with area models where the total area equals the sum of smaller areas; the distributive property is used to simplify expressions, multiply mentally, and factor expressions. Students should apply it in both directions (expanding and factoring). Vocabulary: distributive property, expand, factor, expression, multiply, add, subtract, area model, equivalent, simplify, parentheses, term. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Factor numerical expressions using the distributive property",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers the distributive property for Grade 6 students (TEKS 6.7(D)). Students should understand that multiplication distributes over addition and subtraction. Key concepts: a(b + c) = ab + ac and a(b - c) = ab - ac; this property connects multiplication and addition; it can be modeled with area models where the total area equals the sum of smaller areas; the distributive property is used to simplify expressions, multiply mentally, and factor expressions. Students should apply it in both directions (expanding and factoring). Vocabulary: distributive property, expand, factor, expression, multiply, add, subtract, area model, equivalent, simplify, parentheses, term. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Factor variable expressions: area models",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers writing and interpreting variable expressions for Grade 6 students (TEKS 6.7(D)). Students should understand how to translate between verbal descriptions and algebraic expressions using variables. Key concepts: a variable represents an unknown quantity; an expression combines variables, numbers, and operations; key phrases indicate operations: 'sum of' (addition), 'difference' (subtraction), 'product of' (multiplication), 'quotient of' (division); a coefficient is the number multiplied by a variable; expressions do not have equal signs. Vocabulary: variable, expression, algebraic, coefficient, constant, term, operation, translate, verbal, evaluate, simplify, representation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Factor variable expressions using the distributive property",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers writing and interpreting variable expressions for Grade 6 students (TEKS 6.7(D)). Students should understand how to translate between verbal descriptions and algebraic expressions using variables. Key concepts: a variable represents an unknown quantity; an expression combines variables, numbers, and operations; key phrases indicate operations: 'sum of' (addition), 'difference' (subtraction), 'product of' (multiplication), 'quotient of' (division); a coefficient is the number multiplied by a variable; expressions do not have equal signs. Vocabulary: variable, expression, algebraic, coefficient, constant, term, operation, translate, verbal, evaluate, simplify, representation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write equivalent expressions using properties",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers writing and interpreting variable expressions for Grade 6 students (TEKS 6.7(D)). Students should understand how to translate between verbal descriptions and algebraic expressions using variables. Key concepts: a variable represents an unknown quantity; an expression combines variables, numbers, and operations; key phrases indicate operations: 'sum of' (addition), 'difference' (subtraction), 'product of' (multiplication), 'quotient of' (division); a coefficient is the number multiplied by a variable; expressions do not have equal signs. Vocabulary: variable, expression, algebraic, coefficient, constant, term, operation, translate, verbal, evaluate, simplify, representation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Combine like terms",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers combining like terms for Grade 6 students (TEKS 6.7(D)). Students should understand how to simplify algebraic expressions by combining terms with the same variable. Key concepts: like terms have the same variable raised to the same power (e.g., 3x and 5x are like terms; 3x and 3y are not); to combine like terms, add or subtract their coefficients; constants (numbers without variables) are like terms with each other; combining like terms produces simpler equivalent expressions. Vocabulary: like terms, coefficient, variable, constant, combine, simplify, expression, equivalent, add, subtract, term, algebraic. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add and subtract like terms",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers combining like terms for Grade 6 students (TEKS 6.7(D)). Students should understand how to simplify algebraic expressions by combining terms with the same variable. Key concepts: like terms have the same variable raised to the same power (e.g., 3x and 5x are like terms; 3x and 3y are not); to combine like terms, add or subtract their coefficients; constants (numbers without variables) are like terms with each other; combining like terms produces simpler equivalent expressions. Vocabulary: like terms, coefficient, variable, constant, combine, simplify, expression, equivalent, add, subtract, term, algebraic. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Triangle inequality",
+      "teks": "6.8(A)",
+      "prompt": "This topic covers Triangle inequality for Grade 6 students (TEKS 6.8(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Find missing angles in triangles",
+      "teks": "6.8(A)",
+      "prompt": "This topic covers Find missing angles in triangles for Grade 6 students (TEKS 6.8(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Find missing angles in special triangles",
+      "teks": "6.8(A)",
+      "prompt": "This topic covers Find missing angles in special triangles for Grade 6 students (TEKS 6.8(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Relationship between sides and angles in a triangle",
+      "teks": "6.8(A)",
+      "prompt": "This topic covers Relationship between sides and angles in a triangle for Grade 6 students (TEKS 6.8(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Understanding area of a parallelogram",
+      "teks": "6.8(B)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(B)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Understanding area of a triangle",
+      "teks": "6.8(B)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(B)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Understanding area of a trapezoid",
+      "teks": "6.8(B)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(B)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of quadrilaterals and triangles: word problems",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of rectangles and squares",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of parallelograms",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of triangles",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of trapezoids",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of quadrilaterals",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of compound figures",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers area of compound figures and areas between shapes for Grade 6 students (TEKS 6.8(D)). Students should understand how to find the area of complex regions by decomposing or subtracting. Key concepts: decompose compound figures into simpler shapes (rectangles, triangles, parallelograms); calculate each part's area and add them together; for areas between two shapes, subtract the smaller area from the larger; choose efficient decomposition strategies. Vocabulary: compound figure, composite, decompose, subtract, area, rectangle, triangle, between, shaded region, add, strategy, square units. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of compound figures with triangles",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area between two rectangles",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area between two triangles",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating areas of geometric figures for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the area of various shapes using appropriate formulas. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always measured perpendicular to the base. Students should apply these formulas in computation and word problems. Vocabulary: area, base, height, perpendicular, formula, square units, length, width, rectangle, parallelogram, triangle, trapezoid. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Volume of cubes and rectangular prisms",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers volume of cubes and rectangular prisms for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the volume of three-dimensional rectangular figures. Key concepts: volume = length x width x height (V = lwh); volume of a cube = side^3; volume is measured in cubic units; volume represents the amount of space inside a 3D figure; students should apply formulas to solve computation and word problems. Vocabulary: volume, length, width, height, cubic units, rectangular prism, cube, three-dimensional, formula, space, capacity, base area. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Volume of cubes and rectangular prisms: word problems",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers volume of cubes and rectangular prisms for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the volume of three-dimensional rectangular figures. Key concepts: volume = length x width x height (V = lwh); volume of a cube = side^3; volume is measured in cubic units; volume represents the amount of space inside a 3D figure; students should apply formulas to solve computation and word problems. Vocabulary: volume, length, width, height, cubic units, rectangular prism, cube, three-dimensional, formula, space, capacity, base area. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write variable expressions: one operation",
+      "teks": "6.9(A)",
+      "prompt": "This topic covers writing and interpreting variable expressions for Grade 6 students (TEKS 6.9(A)). Students should understand how to translate between verbal descriptions and algebraic expressions using variables. Key concepts: a variable represents an unknown quantity; an expression combines variables, numbers, and operations; key phrases indicate operations: 'sum of' (addition), 'difference' (subtraction), 'product of' (multiplication), 'quotient of' (division); a coefficient is the number multiplied by a variable; expressions do not have equal signs. Vocabulary: variable, expression, algebraic, coefficient, constant, term, operation, translate, verbal, evaluate, simplify, representation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write an equation from words",
+      "teks": "6.9(A)",
+      "prompt": "This topic covers writing equations from words for Grade 6 students (TEKS 6.9(A)). Students should understand how to translate verbal descriptions and real-world situations into algebraic equations. Key concepts: identify the unknown quantity and assign a variable; determine the operation from keywords; 'is' or 'equals' indicates the equal sign; set up the equation with the variable, operation, and known values; verify the equation makes sense in context. Vocabulary: equation, variable, translate, verbal, algebraic, unknown, equals, represent, expression, solve, model, words, operation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write a one-step equation: word problems",
+      "teks": "6.9(A)",
+      "prompt": "This topic covers solving equations from word problems for Grade 6 students (TEKS 6.9(A)). Students should understand how to translate real-world situations into one-step or multi-step equations and solve them. Key concepts: identify the unknown and assign a variable; determine the operation from context clues; write an equation representing the situation; solve using inverse operations; interpret the solution in context; check that the answer is reasonable. Vocabulary: equation, variable, solve, unknown, translate, represent, context, inverse operation, check, reasonable, word problem, interpret. Problems should involve realistic scenarios appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "One-step inequalities: word problems",
+      "teks": "6.9(A)",
+      "prompt": "This topic covers One-step inequalities: word problems for Grade 6 students (TEKS 6.9(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Solve one-step addition and subtraction equations and graph their solutions",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Graph inequalities on number lines",
+      "teks": "6.9(B)",
+      "prompt": "This topic covers Graph inequalities on number lines for Grade 6 students (TEKS 6.9(B)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Write inequalities from number lines",
+      "teks": "6.9(B)",
+      "prompt": "This topic covers Write inequalities from number lines for Grade 6 students (TEKS 6.9(B)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Graph solutions to one-step inequalities",
+      "teks": "6.9(B)",
+      "prompt": "This topic covers Graph solutions to one-step inequalities for Grade 6 students (TEKS 6.9(B)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Solve one-step multiplication and division equations and graph their solutions",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve and graph one-step addition and subtraction inequalities",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers Solve and graph one-step addition and subtraction inequalities for Grade 6 students (TEKS 6.10(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Solve and graph one-step multiplication and division inequalities with positive numbers",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers Solve and graph one-step multiplication and division inequalities with positive numbers for Grade 6 students (TEKS 6.10(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Solve and graph one-step multiplication and division inequalities with rational numbers",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers Solve and graph one-step multiplication and division inequalities with rational numbers for Grade 6 students (TEKS 6.10(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Which word problem matches the one-step equation?",
+      "teks": "6.9(C)",
+      "prompt": "This topic covers solving equations from word problems for Grade 6 students (TEKS 6.9(C)). Students should understand how to translate real-world situations into one-step or multi-step equations and solve them. Key concepts: identify the unknown and assign a variable; determine the operation from context clues; write an equation representing the situation; solve using inverse operations; interpret the solution in context; check that the answer is reasonable. Vocabulary: equation, variable, solve, unknown, translate, represent, context, inverse operation, check, reasonable, word problem, interpret. Problems should involve realistic scenarios appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Model and solve equations using algebra tiles",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Model and solve equations using diagrams",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write and solve equations that represent diagrams",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step equations with whole numbers",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step addition and subtraction equations with decimals and fractions",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step multiplication and division equations with decimals and fractions",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step equations with decimals and fractions",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-step equations for Grade 6 students (TEKS 6.10(A)). Students should understand how to find the value of a variable that makes an equation true. Key concepts: use inverse operations to isolate the variable (addition undoes subtraction, multiplication undoes division); what you do to one side of the equation, you must do to the other; solutions can be verified by substituting back into the original equation; algebra tiles and balance models help visualize the solving process. Vocabulary: equation, variable, solve, solution, inverse operation, isolate, balance, substitute, verify, equal, addition, subtraction, multiplication, division. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step addition and subtraction equations: word problems",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving equations from word problems for Grade 6 students (TEKS 6.10(A)). Students should understand how to translate real-world situations into one-step or multi-step equations and solve them. Key concepts: identify the unknown and assign a variable; determine the operation from context clues; write an equation representing the situation; solve using inverse operations; interpret the solution in context; check that the answer is reasonable. Vocabulary: equation, variable, solve, unknown, translate, represent, context, inverse operation, check, reasonable, word problem, interpret. Problems should involve realistic scenarios appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step multiplication and division equations: word problems",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving equations from word problems for Grade 6 students (TEKS 6.10(A)). Students should understand how to translate real-world situations into one-step or multi-step equations and solve them. Key concepts: identify the unknown and assign a variable; determine the operation from context clues; write an equation representing the situation; solve using inverse operations; interpret the solution in context; check that the answer is reasonable. Vocabulary: equation, variable, solve, unknown, translate, represent, context, inverse operation, check, reasonable, word problem, interpret. Problems should involve realistic scenarios appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write a one-step equation: word problems",
+      "teks": "6.9(A)",
+      "prompt": "This topic covers solving equations from word problems for Grade 6 students (TEKS 6.9(A)). Students should understand how to translate real-world situations into one-step or multi-step equations and solve them. Key concepts: identify the unknown and assign a variable; determine the operation from context clues; write an equation representing the situation; solve using inverse operations; interpret the solution in context; check that the answer is reasonable. Vocabulary: equation, variable, solve, unknown, translate, represent, context, inverse operation, check, reasonable, word problem, interpret. Problems should involve realistic scenarios appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step equations: word problems",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving equations from word problems for Grade 6 students (TEKS 6.10(A)). Students should understand how to translate real-world situations into one-step or multi-step equations and solve them. Key concepts: identify the unknown and assign a variable; determine the operation from context clues; write an equation representing the situation; solve using inverse operations; interpret the solution in context; check that the answer is reasonable. Vocabulary: equation, variable, solve, unknown, translate, represent, context, inverse operation, check, reasonable, word problem, interpret. Problems should involve realistic scenarios appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve one-step inequalities",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers Solve one-step inequalities for Grade 6 students (TEKS 6.10(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "One-step inequalities: word problems",
+      "teks": "6.9(A)",
+      "prompt": "This topic covers One-step inequalities: word problems for Grade 6 students (TEKS 6.9(A)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Does x satisfy an equation?",
+      "teks": "6.10(B)",
+      "prompt": "This topic covers testing solutions to equations for Grade 6 students (TEKS 6.10(B)). Students should understand how to determine whether a given value is a solution to an equation by substitution. Key concepts: substitute the given value for the variable; evaluate both sides of the equation; if both sides are equal, the value is a solution; if not, it is not a solution; this skill reinforces understanding of what an equation means (a statement of equality). Vocabulary: equation, solution, substitute, evaluate, satisfy, equal, true, false, variable, value, check, verify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Which x satisfies an equation?",
+      "teks": "6.10(B)",
+      "prompt": "This topic covers testing solutions to equations for Grade 6 students (TEKS 6.10(B)). Students should understand how to determine whether a given value is a solution to an equation by substitution. Key concepts: substitute the given value for the variable; evaluate both sides of the equation; if both sides are equal, the value is a solution; if not, it is not a solution; this skill reinforces understanding of what an equation means (a statement of equality). Vocabulary: equation, solution, substitute, evaluate, satisfy, equal, true, false, variable, value, check, verify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solutions to inequalities",
+      "teks": "6.10(B)",
+      "prompt": "This topic covers Solutions to inequalities for Grade 6 students (TEKS 6.10(B)) in the area of expressions, equations, and relationships. Students should understand how to write, evaluate, and solve mathematical expressions and equations. Key skills include using variables to represent unknowns, applying properties of operations, solving one-step equations and inequalities, and representing relationships between quantities using tables, graphs, and equations. Vocabulary related to algebraic reasoning should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    }
+  ]
+}

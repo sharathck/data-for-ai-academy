@@ -1,0 +1,216 @@
+{
+  "grade": "Grade 2",
+  "subject": "Science",
+  "skills": [
+    {
+      "skill": "Plants and their parts (roots, stems, leaves, flowers)",
+      "teks": "2.13(A)",
+      "teks_description": "Identify plant parts (roots, stems, leaves, flowers, fruits, seeds) and compare how structures help meet survival needs",
+      "prompt": "This topic covers Plants and their parts (roots, stems, leaves, flowers) for Grade 2 students (TEKS 2.13(A) (Identify plant parts (roots, stems, leaves, flowers, fruits, seeds) and compare how structures help meet survival needs)). Students identify plant parts and their functions: roots (absorb water/nutrients, anchor), stems (transport, support), leaves (photosynthesis), flowers (reproduction), fruits (protect seeds), seeds (new plants). Vocabulary: roots, stem, leaves, flower, fruit, seed, absorb, transport, photosynthesis. Common misconceptions include thinking roots only anchor. Activities should include examining plants, labeling diagrams, and growing observations appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Plant life cycles",
+      "teks": "2.13(D)",
+      "teks_description": "Investigate and describe unique life cycles where young do not resemble parents",
+      "prompt": "This topic covers Plant life cycles for Grade 2 students (TEKS 2.13(D) (Investigate and describe unique life cycles where young do not resemble parents)). Students learn that living organisms go through predictable growth stages. Key concepts include plant life cycles (seed, sprout, seedling, mature plant, flower/fruit/seed), animal life cycles (birth, growth, reproduction, death), and metamorphosis (complete: egg-larva-pupa-adult; incomplete: egg-nymph-adult). Students should compare life cycles and understand that some young don't resemble their parents. Vocabulary: life cycle, stage, growth, metamorphosis, egg, larva, pupa, adult, seed, seedling. Common misconceptions include thinking all animals undergo metamorphosis. Activities should include observing live organisms, sequencing stages, and comparing across species appropriate for ages 7-8."
+    },
+    {
+      "skill": "Animal life and habitats",
+      "teks": "2.12(A)",
+      "teks_description": "Describe how physical environment characteristics support plants and animals",
+      "prompt": "This topic covers Animal life and habitats for Grade 2 students (TEKS 2.12(A) (Describe how physical environment characteristics support plants and animals)). Habitats provide what organisms need to survive; ecosystems are communities of interacting organisms and their environment. Key concepts include different habitat types (deserts, forests, oceans), organism adaptations, interdependence, and effects of changes. Vocabulary: habitat, ecosystem, environment, adapt, community, depend, interact, survive. Common misconceptions include thinking organisms can live anywhere. Activities should include habitat research, dioramas, and local ecosystem exploration appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Animal classification (mammals, birds, reptiles, amphibians, fish, insects)",
+      "teks": "2.13(B)",
+      "teks_description": "Record and compare how animal structures and behaviors help find food, water, and air",
+      "prompt": "This topic covers Animal classification (mammals, birds, reptiles, amphibians, fish, insects) for Grade 2 students (TEKS 2.13(B) (Record and compare how animal structures and behaviors help find food, water, and air)). Students classify animals: mammals (fur, milk), birds (feathers, eggs), reptiles (scales, cold-blooded), amphibians (moist skin, dual life), fish (gills, fins), insects (6 legs, 3 body parts). Vocabulary: classify, mammal, bird, reptile, amphibian, fish, insect, vertebrate, invertebrate. Common misconceptions include classifying by habitat. Activities should include sorting pictures, comparing features, and animal research appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Food chains and life cycles",
+      "teks": "2.12(B)",
+      "teks_description": "Create and describe food chains identifying producers and consumers",
+      "prompt": "This topic covers Food chains and life cycles for Grade 2 students (TEKS 2.12(B) (Create and describe food chains identifying producers and consumers)). Students learn that living organisms go through predictable growth stages. Key concepts include plant life cycles (seed, sprout, seedling, mature plant, flower/fruit/seed), animal life cycles (birth, growth, reproduction, death), and metamorphosis (complete: egg-larva-pupa-adult; incomplete: egg-nymph-adult). Students should compare life cycles and understand that some young don't resemble their parents. Vocabulary: life cycle, stage, growth, metamorphosis, egg, larva, pupa, adult, seed, seedling. Common misconceptions include thinking all animals undergo metamorphosis. Activities should include observing live organisms, sequencing stages, and comparing across species appropriate for ages 7-8."
+    },
+    {
+      "skill": "Ecosystems and habitats (deserts, forests, oceans)",
+      "teks": "2.12(A)",
+      "teks_description": "Describe how physical environment characteristics support plants and animals",
+      "prompt": "This topic covers Ecosystems and habitats (deserts, forests, oceans) for Grade 2 students (TEKS 2.12(A) (Describe how physical environment characteristics support plants and animals)). Habitats provide what organisms need to survive; ecosystems are communities of interacting organisms and their environment. Key concepts include different habitat types (deserts, forests, oceans), organism adaptations, interdependence, and effects of changes. Vocabulary: habitat, ecosystem, environment, adapt, community, depend, interact, survive. Common misconceptions include thinking organisms can live anywhere. Activities should include habitat research, dioramas, and local ecosystem exploration appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Weather and seasons",
+      "teks": "2.10(B)",
+      "teks_description": "Measure, record, and graph weather information including temperature and precipitation",
+      "prompt": "This topic covers Weather and seasons for Grade 2 students (TEKS 2.10(B) (Measure, record, and graph weather information including temperature and precipitation)). Students learn about daily weather conditions and seasonal patterns. Key concepts include weather elements (temperature, precipitation, wind, clouds), weather vs. seasons, seasonal characteristics, and weather's impact on daily life. Vocabulary: weather, temperature, precipitation, wind, cloud, season, pattern, predict. Common misconceptions include confusing weather with climate and thinking seasons change suddenly. Activities should include daily observations, temperature graphing, and seasonal comparisons appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "The water cycle",
+      "teks": "2.10(A)",
+      "teks_description": "Investigate and describe how wind and water move soil and rock particles",
+      "prompt": "This topic covers The water cycle for Grade 2 students (TEKS 2.10(A) (Investigate and describe how wind and water move soil and rock particles)). Water moves continuously: evaporation (liquid to gas from Sun's heat), condensation (vapor forming clouds), precipitation (rain/snow), collection (in bodies of water/ground). Vocabulary: water cycle, evaporation, condensation, precipitation, collection, water vapor, cloud. Common misconceptions include new water being created. Activities should include bag-on-window model, observing condensation, and creating diagrams appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Earth's resources (soil, rocks, water, air)",
+      "teks": "2.11(A)",
+      "teks_description": "Distinguish between natural and manmade resources",
+      "prompt": "This topic covers Earth's resources (soil, rocks, water, air) for Grade 2 students (TEKS 2.11(A) (Distinguish between natural and manmade resources)). Natural resources include soil, water, rocks, minerals, air, plants, animals. Some are renewable; others nonrenewable. Vocabulary: natural resource, renewable, nonrenewable, soil, rock, mineral, water, fossil fuel, conserve. Common misconceptions include thinking resources are unlimited. Activities should include tracing product resources, classifying, and discussing responsible use appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Conservation and recycling",
+      "teks": "2.11(B)",
+      "teks_description": "Describe how human impact can be limited through conservation and proper disposal",
+      "prompt": "This topic covers Conservation and recycling for Grade 2 students (TEKS 2.11(B) (Describe how human impact can be limited through conservation and proper disposal)). Humans impact the environment; conservation helps protect resources. Key concepts include resource use, environmental damage from overuse, and reduce/reuse/recycle. Vocabulary: conservation, recycle, reuse, reduce, resource, environment, pollution, protect, sustainable. Common misconceptions include thinking individual actions don't matter. Activities should include classroom recycling, usage investigation, and action planning appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Matter and its states (solid, liquid, gas)",
+      "teks": "2.6(A)",
+      "teks_description": "Classify matter by observable physical properties, including texture, flexibility, temperature, and solid/liquid states",
+      "prompt": "This topic covers Matter and its states (solid, liquid, gas) for Grade 2 students (TEKS 2.6(A) (Classify matter by observable physical properties, including texture, flexibility, temperature, and solid/liquid states)). Matter exists as solid (definite shape/volume), liquid (definite volume, takes container shape), or gas (neither). The same substance can exist in all states. Vocabulary: matter, solid, liquid, gas, state, shape, volume, freeze, melt, evaporate, condense. Common misconceptions include thinking gas isn't matter. Activities should include sorting, observing state changes, and investigating temperature effects appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Physical properties of objects (texture, flexibility, strength)",
+      "teks": "2.6(A)",
+      "teks_description": "Classify matter by observable physical properties, including texture, flexibility, temperature",
+      "prompt": "This topic covers Physical properties of objects (texture, flexibility, strength) for Grade 2 students (TEKS 2.6(A) (Classify matter by observable physical properties, including texture, flexibility, temperature)). Students observe, describe, and classify objects by physical properties: color, shape, size, texture, flexibility, hardness, temperature, magnetism, buoyancy. Vocabulary: property, material, texture, hard, soft, flexible, rigid, transparent, magnetic, float, sink, classify. Common misconceptions include confusing properties with uses. Activities should include sorting, testing, and recording properties appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Simple machines (lever, pulley, wheel and axle, inclined plane, screw)",
+      "teks": "2.7(A)",
+      "teks_description": "Explain how objects push on each other and may change shape",
+      "prompt": "This topic covers Simple machines (lever, pulley, wheel and axle, inclined plane, screw) for Grade 2 students (TEKS 2.7(A) (Explain how objects push on each other and may change shape)). Simple machines reduce force needed: lever, pulley, wheel and axle, inclined plane, screw, wedge. Key concepts include identifying in everyday life and understanding how they make work easier. Vocabulary: simple machine, lever, pulley, wheel, axle, inclined plane, screw, wedge, force, effort, load. Common misconceptions include thinking machines need electricity. Activities should include identifying machines around school and hands-on exploration appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Force and motion (pushes and pulls)",
+      "teks": "2.7(B)",
+      "teks_description": "Conduct investigations demonstrating how push and pull strength affects motion",
+      "prompt": "This topic covers Force and motion (pushes and pulls) for Grade 2 students (TEKS 2.7(B) (Conduct investigations demonstrating how push and pull strength affects motion)). Pushes and pulls are forces that cause motion changes. Key concepts include push=away, pull=toward, force strength affects speed/distance, and forces can change direction. Vocabulary: force, push, pull, motion, speed, direction, strength, distance. Common misconceptions include thinking objects move without force. Activities should include hands-on force experiments, ramp investigations, and connecting to everyday experiences appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Gravity",
+      "teks": "2.7(A)",
+      "teks_description": "Explain how objects push on each other and may change shape (forces acting on objects)",
+      "prompt": "This topic covers Gravity for Grade 2 students (TEKS 2.7(A) (Explain how objects push on each other and may change shape (forces acting on objects))). Gravity pulls objects toward Earth. It acts on all objects regardless of size. Key concepts include gravity as a non-contact force and its constant presence. Vocabulary: gravity, force, pull, fall, weight, attract, Earth, downward. Common misconceptions include heavier objects falling faster and gravity only on Earth. Activities should include drop experiments and discussing what would happen without gravity appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Magnets and their properties",
+      "teks": "2.7(A)",
+      "teks_description": "Explain how objects push on each other (forces including magnetism at a distance)",
+      "prompt": "This topic covers Magnets and their properties for Grade 2 students (TEKS 2.7(A) (Explain how objects push on each other (forces including magnetism at a distance))). Magnets attract iron/steel/nickel/cobalt, have two poles (north/south), and exert force at a distance. Like poles repel; opposite poles attract. Vocabulary: magnet, magnetic, attract, repel, pole, north, south, force, iron. Common misconceptions include thinking magnets attract all metals. Activities should include testing materials, exploring poles, and testing force through materials appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Heat and its effects (melting, boiling)",
+      "teks": "2.6(B)",
+      "teks_description": "Conduct investigations to explain how physical properties change through melting or freezing",
+      "prompt": "This topic covers Heat and its effects (melting, boiling) for Grade 2 students (TEKS 2.6(B) (Conduct investigations to explain how physical properties change through melting or freezing)). Heating and cooling cause physical changes: melting, freezing, boiling, evaporation, condensation. These changes are reversible. Vocabulary: heat, cool, melt, freeze, boil, evaporate, condense, temperature, reversible, physical change. Common misconceptions include thinking matter disappears when evaporating. Activities should include ice/water experiments, temperature recording, and prediction exercises appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Sound and vibrations",
+      "teks": "2.8(A)",
+      "teks_description": "Demonstrate and explain that sound comes from vibrating matter",
+      "prompt": "This topic covers Sound and vibrations for Grade 2 students (TEKS 2.8(A) (Demonstrate and explain that sound comes from vibrating matter)). Sound is produced by vibrations and travels through matter. Pitch relates to vibration speed; volume to vibration size. Vocabulary: sound, vibration, pitch, volume, loud, soft, high, low, wave, medium. Common misconceptions include sound traveling through empty space. Activities should include feeling vibrations, observing in water, and comparing sounds from different objects appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Light and shadows",
+      "teks": "2.8(A)",
+      "teks_description": "Demonstrate and explain energy concepts (light and sound energy)",
+      "prompt": "This topic covers Light and shadows for Grade 2 students (TEKS 2.8(A) (Demonstrate and explain energy concepts (light and sound energy))). Light travels in straight lines; shadows form when opaque objects block light. Shadow size/shape changes with object and light positions. Vocabulary: light, shadow, source, opaque, transparent, translucent, straight line. Common misconceptions include shadows having color and light bending around objects. Activities should include shadow puppets, tracking shadow changes, and classifying materials appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Basic astronomy concepts",
+      "teks": "2.9(A)",
+      "teks_description": "Describe the Sun as a star providing light and heat; explain Moon reflects sunlight",
+      "prompt": "This topic covers Basic astronomy concepts for Grade 2 students (TEKS 2.9(A) (Describe the Sun as a star providing light and heat; explain Moon reflects sunlight)). Students learn about sky objects: the Sun (a star providing light and heat), Moon (reflects sunlight, phases), and stars (distant suns). Key concepts include predictable patterns, Moon phases, and apparent sky movement. Vocabulary: Sun, Moon, star, phase, orbit, rotate, day, night, pattern. Common misconceptions include Moon making its own light and Sun moving around Earth. Activities should include Moon observations, day/night modeling, and phase tracking appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "The sun, moon, planets, and stars",
+      "teks": "2.9(A)",
+      "teks_description": "Describe the Sun as a star providing light and heat; explain Moon reflects sunlight",
+      "prompt": "This topic covers The sun, moon, planets, and stars for Grade 2 students (TEKS 2.9(A) (Describe the Sun as a star providing light and heat; explain Moon reflects sunlight)). Students learn about sky objects: the Sun (a star providing light and heat), Moon (reflects sunlight, phases), and stars (distant suns). Key concepts include predictable patterns, Moon phases, and apparent sky movement. Vocabulary: Sun, Moon, star, phase, orbit, rotate, day, night, pattern. Common misconceptions include Moon making its own light and Sun moving around Earth. Activities should include Moon observations, day/night modeling, and phase tracking appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Phases of the moon",
+      "teks": "2.9(A)",
+      "teks_description": "Describe the Sun as a star providing light and heat; explain Moon reflects sunlight",
+      "prompt": "This topic covers Phases of the moon for Grade 2 students (TEKS 2.9(A) (Describe the Sun as a star providing light and heat; explain Moon reflects sunlight)). Students learn about sky objects: the Sun (a star providing light and heat), Moon (reflects sunlight, phases), and stars (distant suns). Key concepts include predictable patterns, Moon phases, and apparent sky movement. Vocabulary: Sun, Moon, star, phase, orbit, rotate, day, night, pattern. Common misconceptions include Moon making its own light and Sun moving around Earth. Activities should include Moon observations, day/night modeling, and phase tracking appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Day and night",
+      "teks": "2.9(A)",
+      "teks_description": "Describe the Sun as a star providing light and heat (day/night cycle)",
+      "prompt": "This topic covers Day and night for Grade 2 students (TEKS 2.9(A) (Describe the Sun as a star providing light and heat (day/night cycle))). Day and night result from Earth's 24-hour rotation. The Sun-facing side has day; the opposite has night. Vocabulary: rotate, axis, day, night, sunrise, sunset, east, west, cycle. Common misconceptions include the Sun going around Earth. Activities should include globe/flashlight modeling and time zone discussions appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Space exploration",
+      "teks": "2.9(B)",
+      "teks_description": "Observe objects in the sky using tools and compare visibility with unaided eye",
+      "prompt": "This topic covers Space exploration for Grade 2 students (TEKS 2.9(B) (Observe objects in the sky using tools and compare visibility with unaided eye)). Humans explore space using telescopes, spacecraft, space stations, and robotic probes. Students compare unaided vs. tool-aided observation. Vocabulary: telescope, astronaut, spacecraft, space station, probe, rover, satellite, observe. Common misconceptions include underestimating distances. Activities should include telescope comparisons, mission learning, and model building appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Simple investigations and experiments",
+      "teks": "2.1(B)",
+      "teks_description": "Use scientific and engineering practices for investigations",
+      "prompt": "This topic covers Simple investigations and experiments for Grade 2 students (TEKS 2.1(B) (Use scientific and engineering practices for investigations)). Students learn scientific investigation: asking questions, predicting, designing tests, collecting data, drawing conclusions. Key concepts include testable questions, fair tests (one variable), and evidence-based conclusions. Vocabulary: question, predict, investigate, observe, record, data, conclusion, fair test, variable. Common misconceptions include thinking experiments need lab equipment. Activities should include guided investigations, science notebooks, and follow-up questioning appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Making observations",
+      "teks": "2.1(E)",
+      "teks_description": "Collect observations and measurements as evidence",
+      "prompt": "This topic covers Making observations for Grade 2 students (TEKS 2.1(E) (Collect observations and measurements as evidence)). Students make careful, systematic observations as the foundation of scientific inquiry. Key concepts include using all senses safely, distinguishing observations from inferences, recording accurately, and using observations as evidence. Vocabulary: observe, describe, record, evidence, measure, compare, accurate. Common misconceptions include making inferences instead of observations. Activities should include nature walks, detailed descriptions, and tool-enhanced observation appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Recording data (charts, graphs)",
+      "teks": "2.1(F)",
+      "teks_description": "Record and organize data using pictures, numbers, words, symbols, and graphs",
+      "prompt": "This topic covers Recording data (charts, graphs) for Grade 2 students (TEKS 2.1(F) (Record and organize data using pictures, numbers, words, symbols, and graphs)). Students organize and record scientific data using charts, tables, and graphs. Key concepts include choosing recording methods, labeling displays, identifying patterns, and drawing conclusions. Vocabulary: data, record, organize, chart, table, graph, label, pattern, conclusion. Common misconceptions include recording without organization. Activities should include collecting investigation data, creating tables and graphs, and presenting findings appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Scientific inquiry (asking questions, making predictions)",
+      "teks": "2.1(A)",
+      "teks_description": "Ask questions based on observations or information",
+      "prompt": "This topic covers Scientific inquiry (asking questions, making predictions) for Grade 2 students (TEKS 2.1(A) (Ask questions based on observations or information)). Students learn scientific investigation: asking questions, predicting, designing tests, collecting data, drawing conclusions. Key concepts include testable questions, fair tests (one variable), and evidence-based conclusions. Vocabulary: question, predict, investigate, observe, record, data, conclusion, fair test, variable. Common misconceptions include thinking experiments need lab equipment. Activities should include guided investigations, science notebooks, and follow-up questioning appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Health and human body basics (senses, nutrition, hygiene)",
+      "teks": "2.5(F)",
+      "teks_description": "Describe relationships between structure and function",
+      "prompt": "This topic covers Health and human body basics (senses, nutrition, hygiene) for Grade 2 students (TEKS 2.5(F) (Describe relationships between structure and function)). Students learn body basics including senses, nutrition, and hygiene for maintaining health. Key concepts include sense organs, balanced nutrition, and hygiene practices. Vocabulary: body, senses, organ, health, nutrition, hygiene, protein, vitamin, exercise. Common misconceptions include thinking all food is equally nutritious. Activities should include sense exploration, nutrition labels, and handwashing practice appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Life cycles of insects (e.g., butterfly, beetle)",
+      "teks": "2.13(D)",
+      "teks_description": "Investigate and describe unique life cycles where young do not resemble parents",
+      "prompt": "This topic covers Life cycles of insects (e.g., butterfly, beetle) for Grade 2 students (TEKS 2.13(D) (Investigate and describe unique life cycles where young do not resemble parents)). Students learn that living organisms go through predictable growth stages. Key concepts include plant life cycles (seed, sprout, seedling, mature plant, flower/fruit/seed), animal life cycles (birth, growth, reproduction, death), and metamorphosis (complete: egg-larva-pupa-adult; incomplete: egg-nymph-adult). Students should compare life cycles and understand that some young don't resemble their parents. Vocabulary: life cycle, stage, growth, metamorphosis, egg, larva, pupa, adult, seed, seedling. Common misconceptions include thinking all animals undergo metamorphosis. Activities should include observing live organisms, sequencing stages, and comparing across species appropriate for ages 7-8."
+    },
+    {
+      "skill": "Environmental awareness (pollution, conservation)",
+      "teks": "2.11(B)",
+      "teks_description": "Describe how human impact can be limited through conservation and proper disposal",
+      "prompt": "This topic covers Environmental awareness (pollution, conservation) for Grade 2 students (TEKS 2.11(B) (Describe how human impact can be limited through conservation and proper disposal)). Humans impact the environment; conservation helps protect resources. Key concepts include resource use, environmental damage from overuse, and reduce/reuse/recycle. Vocabulary: conservation, recycle, reuse, reduce, resource, environment, pollution, protect, sustainable. Common misconceptions include thinking individual actions don't matter. Activities should include classroom recycling, usage investigation, and action planning appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Properties of water (floating and sinking)",
+      "teks": "2.6(A)",
+      "teks_description": "Classify matter by observable physical properties",
+      "prompt": "This topic covers Properties of water (floating and sinking) for Grade 2 students (TEKS 2.6(A) (Classify matter by observable physical properties)). Some objects float; others sink. Buoyancy depends on density relative to water, not just weight or size. Vocabulary: float, sink, water, density, property, material, predict, classify. Common misconceptions include heavy=sink, light=float. Activities should include testing objects, predicting before testing, and investigating shape effects appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Introduction to fossils and paleontology",
+      "teks": "2.5(G)",
+      "teks_description": "Describe how factors cause objects and organisms to change or stay the same",
+      "prompt": "This topic covers Introduction to fossils and paleontology for Grade 2 students (TEKS 2.5(G) (Describe how factors cause objects and organisms to change or stay the same)). Fossils are preserved remains/traces of ancient organisms. They form when organisms are buried by sediment that hardens. Paleontologists study fossils to learn about the past. Vocabulary: fossil, paleontologist, preserved, ancient, sediment, imprint, trace, extinct. Common misconceptions include only dinosaurs becoming fossils. Activities should include clay imprints, examining specimens, and comparing ancient to modern organisms appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Weather instruments and measurements",
+      "teks": "2.10(B)",
+      "teks_description": "Measure, record, and graph weather information including temperature and precipitation",
+      "prompt": "This topic covers Weather instruments and measurements for Grade 2 students (TEKS 2.10(B) (Measure, record, and graph weather information including temperature and precipitation)). Students learn tools for measuring weather: thermometers (temperature), rain gauges (precipitation), wind vanes (direction), anemometers (speed). Vocabulary: thermometer, rain gauge, wind vane, anemometer, measure, record, data. Common misconceptions include confusing which tool measures what. Activities should include using instruments, recording data, and graphing over time appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Introduction to ecosystems and biodiversity",
+      "teks": "2.12(A)",
+      "teks_description": "Describe how physical environment characteristics support plants and animals",
+      "prompt": "This topic covers Introduction to ecosystems and biodiversity for Grade 2 students (TEKS 2.12(A) (Describe how physical environment characteristics support plants and animals)). Habitats provide what organisms need to survive; ecosystems are communities of interacting organisms and their environment. Key concepts include different habitat types (deserts, forests, oceans), organism adaptations, interdependence, and effects of changes. Vocabulary: habitat, ecosystem, environment, adapt, community, depend, interact, survive. Common misconceptions include thinking organisms can live anywhere. Activities should include habitat research, dioramas, and local ecosystem exploration appropriate for ages 7-8. When generating content for this topic, frame questions and explanations using concrete, observable examples that 7-8-year-olds can relate to from their daily lives."
+    }
+  ]
+}

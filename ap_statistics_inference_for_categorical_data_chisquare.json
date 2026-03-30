@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Statistics",
+  "subject": "Inference for Categorical Data: Chi-Square",
+  "skills": [
+    {
+      "skill": "8.1 Introducing Statistics: Are My Results Unexpected?",
+      "ref": "VAR-8.A",
+      "prompt": "This topic introduces chi-square inference for AP Statistics (CED: VAR-8.A, Unit 8, Topic 8.1). Chi-square tests assess whether observed categorical data differs significantly from expected patterns. Key concepts: the chi-square statistic measures the overall discrepancy between observed and expected counts; large chi-square values suggest the data does not fit the expected pattern; the chi-square distribution is right-skewed, with shape determined by degrees of freedom. This framework applies to three tests: goodness of fit (one variable, one population), homogeneity (one variable, multiple populations), and independence (two variables, one population). AP exam note: students should understand that chi-square tests compare observed vs. expected counts and that larger chi-square values indicate greater discrepancy. Vocabulary: chi-square, observed counts, expected counts, discrepancy, chi-square distribution, degrees of freedom, right-skewed."
+    },
+    {
+      "skill": "8.2 Setting Up a Chi-Square Goodness of Fit Test",
+      "ref": "VAR-8.B, UNC-6.A",
+      "prompt": "This topic covers setting up a chi-square goodness of fit test for AP Statistics (CED: VAR-8.B, UNC-6.A, Unit 8, Topic 8.2). This test determines whether a categorical variable's distribution matches a claimed/expected distribution. Hypotheses: H0: the distribution matches the claimed proportions; Ha: the distribution does not match. Conditions: random sample, all expected counts >= 5, independent observations. Expected counts: E_i = n * p_i where p_i is the claimed proportion for category i. The test statistic: chi^2 = sum((O_i - E_i)^2/E_i) with df = (number of categories - 1). AP exam note: hypotheses should state the specific claimed distribution. Expected counts must all be at least 5. The test is always one-sided (right tail) because large chi-square values indicate poor fit. Vocabulary: goodness of fit, expected counts, observed counts, proportions, hypotheses, degrees of freedom, chi-square."
+    },
+    {
+      "skill": "8.3 Carrying Out a Chi-Square Test for Goodness of Fit",
+      "ref": "UNC-6.B, DAT-4.A",
+      "prompt": "This topic covers carrying out a chi-square GOF test for AP Statistics (CED: UNC-6.B, DAT-4.A, Unit 8, Topic 8.3). After setup: compute expected counts, calculate chi^2 = sum((O-E)^2/E), find p-value using the chi-square distribution with df = k-1 (k = number of categories), and conclude. Key concepts: identify which categories contribute most to chi-square (large (O-E)^2/E values); the chi-square test is always right-tailed; a small p-value suggests the data does not follow the claimed distribution. Students should present the complete procedure and interpret which categories deviate most from expected. AP exam note: show the computation of at least one term of the chi-square statistic. Identify categories with the largest contributions. Conclude in context. Vocabulary: chi-square test, goodness of fit, contributions, p-value, right-tailed, conclude, expected, observed."
+    },
+    {
+      "skill": "8.4 Expected Counts in Two-Way Tables",
+      "ref": "UNC-6.C",
+      "prompt": "This topic covers computing expected counts in two-way tables for AP Statistics (CED: UNC-6.C, Unit 8, Topic 8.4). For chi-square tests of homogeneity or independence, the expected count for each cell is: E = (row total * column total) / grand total. This formula calculates what the counts would be if the variables were independent (or distributions were homogeneous). Key concepts: expected counts represent the 'no association' pattern; comparing observed to expected reveals where the association is strongest; all expected counts should be at least 5 for the chi-square approximation to be valid. Students should compute expected counts for any two-way table and compare them to observed counts. AP exam note: students must show the formula and compute expected counts. This skill is essential for chi-square tests of homogeneity and independence. Vocabulary: expected count, two-way table, row total, column total, grand total, independence, homogeneity."
+    },
+    {
+      "skill": "8.5 Setting Up a Chi-Square Test for Homogeneity or Independence",
+      "ref": "UNC-6.D, UNC-6.E",
+      "prompt": "This topic covers setting up chi-square tests for homogeneity and independence for AP Statistics (CED: UNC-6.D, UNC-6.E, Unit 8, Topic 8.5). Homogeneity: H0: the distribution of a categorical variable is the same across populations; Ha: distributions differ. Independence: H0: two categorical variables are independent; Ha: they are associated. Both use the same chi-square statistic and calculation. Conditions: random, all expected counts >= 5, independent observations. df = (r-1)(c-1) where r = rows, c = columns. Key distinction: homogeneity compares distributions across groups (data from separate samples); independence tests association within one sample. AP exam note: students must correctly identify whether the test is for homogeneity or independence based on the study design and state hypotheses accordingly. Vocabulary: homogeneity, independence, two-way table, distribution, association, degrees of freedom, chi-square."
+    },
+    {
+      "skill": "8.6 Carrying Out a Chi-Square Test for Homogeneity or Independence",
+      "ref": "UNC-6.F, DAT-4.B",
+      "prompt": "This topic covers carrying out chi-square tests for homogeneity/independence for AP Statistics (CED: UNC-6.F, DAT-4.B, Unit 8, Topic 8.6). Compute expected counts, chi^2 = sum((O-E)^2/E) with df = (r-1)(c-1), find p-value from chi-square distribution, and conclude. Key concepts: identify cells with the largest contributions to chi-square; describe the nature of the association (which categories are over- or under-represented); the test is always right-tailed. Students should present the complete procedure and interpret results, noting which cells contribute most and what the pattern suggests. AP exam note: after concluding, describe the nature of the association based on which cells have the largest (O-E)^2/E values and the direction of O-E. Vocabulary: chi-square test, homogeneity, independence, contributions, p-value, association, pattern, conclude."
+    },
+    {
+      "skill": "8.7 Skills Focus: Selecting an Appropriate Inference Procedure for Categorical Data",
+      "ref": "DAT-4.C",
+      "prompt": "This topic covers selecting among chi-square procedures for AP Statistics (CED: DAT-4.C, Unit 8, Topic 8.7). Students choose between: one-proportion z-test/interval (one categorical variable, one or two categories), two-proportion z-test/interval (comparing two proportions), chi-square GOF (one variable, testing against a specific distribution), chi-square homogeneity (comparing distributions across groups), chi-square independence (testing association between two variables in one sample). Decision factors: number of variables, number of groups, type of claim. Students should justify their procedure choice based on the research question and data structure. AP exam note: the investigative task may require selecting among these procedures. Students must explain why the chosen procedure is appropriate for the given scenario. Vocabulary: procedure selection, chi-square, z-test, goodness of fit, homogeneity, independence, proportions, categorical."
+    }
+  ]
+}

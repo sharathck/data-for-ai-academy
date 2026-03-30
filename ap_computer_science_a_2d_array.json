@@ -1,0 +1,16 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "2D Array",
+  "skills": [
+    {
+      "skill": "8.1 2D Arrays",
+      "ref": "VAR-2.I (Unit 8, Topic 8.1)",
+      "prompt": "This topic covers 2D arrays for AP CSA students (CED: VAR-2.I, Unit 8, Topic 8.1). Students should understand that a 2D array is an array of arrays, used to represent data in rows and columns like a grid, table, or matrix. Key concepts: declaration and creation (int[][] grid = new int[rows][cols]); accessing elements uses two indices (grid[row][col]); grid.length gives the number of rows; grid[0].length gives the number of columns in the first row; 2D arrays can be initialized with nested initializer lists. Students should understand that each row is itself a 1D array, rows can theoretically have different lengths (ragged arrays, though the AP exam focuses on rectangular arrays), and that 2D arrays are stored in row-major order. Applications: game boards, seating charts, image pixel data, spreadsheet data. Vocabulary: 2D array, row, column, row-major order, rectangular array, ragged array, grid, matrix, nested array."
+    },
+    {
+      "skill": "8.2 Traversing 2D Arrays",
+      "ref": "VAR-2.J (Unit 8, Topic 8.2)",
+      "prompt": "This topic covers traversing 2D arrays for AP CSA students (CED: VAR-2.J, Unit 8, Topic 8.2). Students should understand how to use nested loops to visit every element in a 2D array. Key concepts: row-major traversal uses the outer loop for rows and inner loop for columns (for each row, process all columns); column-major traversal reverses this (for each column, process all rows); the outer loop controls which dimension is traversed first. Standard algorithms on 2D arrays: summing all elements, finding max/min, counting elements meeting a condition, searching for a value, processing a specific row or column. Enhanced for loops can traverse 2D arrays: for (int[] row : grid) { for (int val : row) { ... } }. Students should trace through nested loop traversals, determine output for given 2D arrays, and implement algorithms. Vocabulary: row-major traversal, column-major traversal, nested loops, outer loop, inner loop, 2D traversal, grid processing."
+    }
+  ]
+}

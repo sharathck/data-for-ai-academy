@@ -1,0 +1,30 @@
+{
+  "grade": "Grade 7",
+  "subject": "Science - Force, motion, and energy",
+  "skills": [
+    {
+      "skill": "Energy transformations: Illustrate the transformation of energy within an organism such as the transfer from chemical energy to thermal energy",
+      "teks": "7.8(A)",
+      "teks_description": "Investigate methods of thermal energy transfer (conduction, convection, radiation)",
+      "prompt": "This topic covers energy transformations within organisms for Grade 7 science students (TEKS 7.8(A)). Students illustrate how energy changes form within living things. Key transformations include: chemical energy in food converts to thermal energy during metabolism, light energy converts to chemical energy in photosynthesis, chemical energy converts to mechanical energy for movement, and all energy transformations produce some thermal energy. Vocabulary: energy transformation, chemical energy, thermal energy, mechanical energy, light energy, metabolism, photosynthesis, cellular respiration. Common misconceptions: thinking energy is created during transformations and not recognizing thermal energy as a byproduct. Practice should include tracing energy transformations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Energy transformations: Explore energy transformations: bike ride",
+      "teks": "7.8(A)",
+      "teks_description": "Investigate methods of thermal energy transfer",
+      "prompt": "This topic covers energy transformations through the context of a bike ride for Grade 7 science students (TEKS 7.8(A)). Students trace energy transformations during cycling. Key concepts include: chemical energy in food converts to kinetic energy of pedaling, kinetic energy transforms to thermal energy through friction, potential energy changes with elevation, and the conservation of energy principle. Vocabulary: chemical energy, kinetic energy, potential energy, thermal energy, friction, conservation of energy, transformation. Common misconceptions: thinking energy is lost (it transforms, not disappears) and confusing speed with kinetic energy. Practice should include tracing energy in everyday activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Energy transformations: How do plants use and change energy?",
+      "teks": "7.8(A)",
+      "teks_description": "Investigate methods of thermal energy transfer",
+      "prompt": "This topic covers how plants use and change energy for Grade 7 science students (TEKS 7.8(A)). Students explore energy transformations in plants. Key concepts include: light energy absorbed by chlorophyll transforms to chemical energy stored in glucose, plants use chemical energy through cellular respiration to power life processes, and thermal energy is released during respiration. Vocabulary: photosynthesis, cellular respiration, light energy, chemical energy, thermal energy, chlorophyll, glucose, transformation. Common misconceptions: thinking plants only produce energy and not understanding that plants also respire. Practice should include energy flow diagrams appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Forces affecting motion in organisms: Demonstrate and illustrate forces that affect motion in organisms such as emergence of seedlings, turgor pressure, geotropism, and circulation of blood",
+      "teks": "7.7(D)",
+      "teks_description": "Analyze effect of balanced/unbalanced forces using Newton's First Law",
+      "prompt": "This topic covers forces affecting motion in organisms for Grade 7 science students (TEKS 7.7(D)). Students demonstrate and illustrate forces that cause motion in living things. Key concepts include: seedling emergence (pushing through soil), turgor pressure (water pressure in plant cells), geotropism (root growth toward gravity), circulation of blood (heart as a pump), and muscle contraction. Vocabulary: force, motion, turgor pressure, geotropism, circulation, seedling, emergence, muscle contraction. Common misconceptions: thinking plants don't experience forces, not connecting blood circulation to force, and confusing geotropism with phototropism. Practice should include identifying biological forces appropriate for 12-13 year olds."
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "grade": "Grade 2",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Place value models - tens and ones",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Place value models - tens and ones for Grade 2 students (TEKS 2.2(A)). Students use visual and physical models to understand place value. Base-ten blocks, bundles of sticks, and place value charts help students see that digits in different positions represent different values. Key concepts include representing numbers with models, reading models to determine the number shown, and understanding the relationship between ones, tens, and hundreds. Vocabulary: place value, model, base-ten blocks, ones, tens, hundreds, represent, value, digit. Common misconceptions include miscounting blocks, confusing tens rods with ones cubes, and not connecting models to written numbers. Activities should include building numbers with blocks, matching models to numerals, and comparing numbers using models appropriate for ages 7-8."
+    },
+    {
+      "skill": "Place value models - up to hundreds",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Place value models - up to hundreds for Grade 2 students (TEKS 2.2(A)). Students use visual and physical models to understand place value. Base-ten blocks, bundles of sticks, and place value charts help students see that digits in different positions represent different values. Key concepts include representing numbers with models, reading models to determine the number shown, and understanding the relationship between ones, tens, and hundreds. Vocabulary: place value, model, base-ten blocks, ones, tens, hundreds, represent, value, digit. Common misconceptions include miscounting blocks, confusing tens rods with ones cubes, and not connecting models to written numbers. Activities should include building numbers with blocks, matching models to numerals, and comparing numbers using models appropriate for ages 7-8."
+    },
+    {
+      "skill": "Convert to/from a number - tens and ones",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Convert to/from a number - tens and ones for Grade 2 students (TEKS 2.2(A)). Students learn to flexibly convert between different place value representations. Key concepts include understanding that 1 ten equals 10 ones, numbers can be represented in multiple equivalent ways using different groupings, and this flexibility is essential for regrouping in addition and subtraction. Vocabulary: convert, regroup, exchange, tens, ones, hundreds, equivalent, trade. Common misconceptions include thinking there is only one way to represent a number and difficulty understanding that regrouping does not change the total value. Activities should involve trading games with base-ten blocks and solving puzzles requiring flexible place value thinking appropriate for ages 7-8."
+    },
+    {
+      "skill": "Regroup tens and ones - ways to make a number",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Regroup tens and ones - ways to make a number for Grade 2 students (TEKS 2.2(A)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Regroup tens and ones",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Regroup tens and ones for Grade 2 students (TEKS 2.2(A)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Convert to/from a number - up to hundreds",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Convert to/from a number - up to hundreds for Grade 2 students (TEKS 2.2(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Convert between place values - ones and hundreds",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Convert between place values - ones and hundreds for Grade 2 students (TEKS 2.2(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Convert between place values - ones, tens, and hundreds",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Convert between place values - ones, tens, and hundreds for Grade 2 students (TEKS 2.2(A)). Students learn to flexibly convert between different place value representations. Key concepts include understanding that 1 ten equals 10 ones, numbers can be represented in multiple equivalent ways using different groupings, and this flexibility is essential for regrouping in addition and subtraction. Vocabulary: convert, regroup, exchange, tens, ones, hundreds, equivalent, trade. Common misconceptions include thinking there is only one way to represent a number and difficulty understanding that regrouping does not change the total value. Activities should involve trading games with base-ten blocks and solving puzzles requiring flexible place value thinking appropriate for ages 7-8."
+    },
+    {
+      "skill": "Place value models - up to 1,200",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Place value models - up to 1,200 for Grade 2 students (TEKS 2.2(A)). Students use visual and physical models to understand place value. Base-ten blocks, bundles of sticks, and place value charts help students see that digits in different positions represent different values. Key concepts include representing numbers with models, reading models to determine the number shown, and understanding the relationship between ones, tens, and hundreds. Vocabulary: place value, model, base-ten blocks, ones, tens, hundreds, represent, value, digit. Common misconceptions include miscounting blocks, confusing tens rods with ones cubes, and not connecting models to written numbers. Activities should include building numbers with blocks, matching models to numerals, and comparing numbers using models appropriate for ages 7-8."
+    },
+    {
+      "skill": "Convert to/from a number - up to 1,200",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Convert to/from a number - up to 1,200 for Grade 2 students (TEKS 2.2(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Regroup numbers up to 1,200 - ways to make a number",
+      "teks": "2.2(A)",
+      "prompt": "This topic covers Regroup numbers up to 1,200 - ways to make a number for Grade 2 students (TEKS 2.2(A)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Spell word names for numbers up to 20",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Spell word names for numbers up to 20 for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Writing numbers up to 100 in words - convert words to digits",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Writing numbers up to 100 in words - convert words to digits for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Writing numbers up to 100 in words - convert digits to words",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Writing numbers up to 100 in words - convert digits to words for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Writing numbers up to 1,000 in words - convert words to digits",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Writing numbers up to 1,000 in words - convert words to digits for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Writing numbers up to 1,000 in words - convert digits to words",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Writing numbers up to 1,000 in words - convert digits to words for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Writing numbers up to 1,000 in words",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Writing numbers up to 1,000 in words for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Identify a digit up to the hundreds place",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Identify a digit up to the hundreds place for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Value of a digit - tens and ones",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Value of a digit - tens and ones for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Value of a digit - up to hundreds",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Value of a digit - up to hundreds for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Value of a digit - up to thousands",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Value of a digit - up to thousands for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Convert from expanded form - up to hundreds",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Convert from expanded form - up to hundreds for Grade 2 students (TEKS 2.2(B)). Students extend place value understanding to include hundreds, writing numbers in expanded form showing the value of each digit. For example, 115 = 100 + 10 + 5. Key concepts include identifying the value of each digit based on its position, converting between standard form and expanded form, and understanding that each place value position is ten times the one to its right. Vocabulary: hundreds, tens, ones, expanded form, standard form, place value, digit, value. Common misconceptions include confusing face value with place value and difficulty with numbers containing zero. Activities should include base-ten block building, writing equations, and number form conversion exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Writing numbers up to to 1,200 in words",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Writing numbers up to to 1,200 in words for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Convert to/from a number - up to 1,200",
+      "teks": "2.2(B)",
+      "prompt": "This topic covers Convert to/from a number - up to 1,200 for Grade 2 students (TEKS 2.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Count forward and backward by fives and tens",
+      "teks": "2.2(C)",
+      "prompt": "This topic covers Count forward and backward by fives and tens for Grade 2 students (TEKS 2.2(C)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Count forward and backward by twos, fives, and tens",
+      "teks": "2.2(C)",
+      "prompt": "This topic covers Count forward and backward by twos, fives, and tens for Grade 2 students (TEKS 2.2(C)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Count forward and backward by fives, tens, and hundreds",
+      "teks": "2.2(C)",
+      "prompt": "This topic covers Count forward and backward by fives, tens, and hundreds for Grade 2 students (TEKS 2.2(C)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Count forward and backward by twos, fives, tens, and hundreds",
+      "teks": "2.2(C)",
+      "prompt": "This topic covers Count forward and backward by twos, fives, tens, and hundreds for Grade 2 students (TEKS 2.2(C)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Comparing numbers up to 100",
+      "teks": "2.2(D)",
+      "prompt": "This topic covers Comparing numbers up to 100 for Grade 2 students (TEKS 2.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Comparing numbers up to 1,000",
+      "teks": "2.2(D)",
+      "prompt": "This topic covers Comparing numbers up to 1,000 for Grade 2 students (TEKS 2.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Put numbers up to 100 in order",
+      "teks": "2.2(D)",
+      "prompt": "This topic covers Put numbers up to 100 in order for Grade 2 students (TEKS 2.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Put numbers up to 1,000 in order",
+      "teks": "2.2(D)",
+      "prompt": "This topic covers Put numbers up to 1,000 in order for Grade 2 students (TEKS 2.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Comparing numbers up to 1,200",
+      "teks": "2.2(D)",
+      "prompt": "This topic covers Comparing numbers up to 1,200 for Grade 2 students (TEKS 2.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Put numbers up to 1,200 in order",
+      "teks": "2.2(D)",
+      "prompt": "This topic covers Put numbers up to 1,200 in order for Grade 2 students (TEKS 2.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Number lines - up to 100",
+      "teks": "2.2(E)",
+      "prompt": "This topic covers Number lines - up to 100 for Grade 2 students (TEKS 2.2(E)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Number lines - up to 1,000",
+      "teks": "2.2(E)",
+      "prompt": "This topic covers Number lines - up to 1,000 for Grade 2 students (TEKS 2.2(E)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Fill in numbers on number lines - up to 1,200",
+      "teks": "2.2(E)",
+      "prompt": "This topic covers Fill in numbers on number lines - up to 1,200 for Grade 2 students (TEKS 2.2(E)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Number lines - up to 100",
+      "teks": "2.2(F)",
+      "prompt": "This topic covers Number lines - up to 100 for Grade 2 students (TEKS 2.2(F)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Number lines - up to 1,000",
+      "teks": "2.2(F)",
+      "prompt": "This topic covers Number lines - up to 1,000 for Grade 2 students (TEKS 2.2(F)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Fill in numbers on number lines - up to 1,200",
+      "teks": "2.2(F)",
+      "prompt": "This topic covers Fill in numbers on number lines - up to 1,200 for Grade 2 students (TEKS 2.2(F)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Equal parts",
+      "teks": "2.3(A)",
+      "prompt": "This topic covers Equal parts for Grade 2 students (TEKS 2.3(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Make halves",
+      "teks": "2.3(A)",
+      "prompt": "This topic covers Make halves for Grade 2 students (TEKS 2.3(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Make fourths",
+      "teks": "2.3(A)",
+      "prompt": "This topic covers Make fourths for Grade 2 students (TEKS 2.3(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Make halves, fourths, and eighths",
+      "teks": "2.3(A)",
+      "prompt": "This topic covers Make halves, fourths, and eighths for Grade 2 students (TEKS 2.3(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Make eighths",
+      "teks": "2.3(A)",
+      "prompt": "This topic covers Make eighths for Grade 2 students (TEKS 2.3(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Select fractions equivalent to whole numbers using models",
+      "teks": "2.3(C)",
+      "prompt": "This topic covers Select fractions equivalent to whole numbers using models for Grade 2 students (TEKS 2.3(C)). Equivalent fractions represent the same amount using different numerators and denominators. Key concepts include using visual models to verify equivalence, understanding that multiplying or dividing both parts by the same number creates equivalence, and fractions equaling 1. Vocabulary: equivalent, equal, same amount, fraction strip, area model, numerator, denominator. Common misconceptions include thinking different-looking fractions can't be equal and generating equivalents without understanding. Activities should include fraction strip overlays, area model partitioning, number line comparison, and matching equivalent pairs appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Identify halves",
+      "teks": "2.3(D)",
+      "prompt": "This topic covers Identify halves for Grade 2 students (TEKS 2.3(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Identify fourths",
+      "teks": "2.3(D)",
+      "prompt": "This topic covers Identify fourths for Grade 2 students (TEKS 2.3(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Identify eighths",
+      "teks": "2.3(D)",
+      "prompt": "This topic covers Identify eighths for Grade 2 students (TEKS 2.3(D)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Identify the fraction - halves, fourths, and eighths",
+      "teks": "2.3(D)",
+      "prompt": "This topic covers Identify the fraction - halves, fourths, and eighths for Grade 2 students (TEKS 2.3(D)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Which shape illustrates the fraction? - halves, fourths, and eighths",
+      "teks": "2.3(D)",
+      "prompt": "This topic covers Which shape illustrates the fraction? - halves, fourths, and eighths for Grade 2 students (TEKS 2.3(D)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add zero",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Add zero for Grade 2 students (TEKS 2.4(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add one-digit numbers - sums to 10",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Add one-digit numbers - sums to 10 for Grade 2 students (TEKS 2.4(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add one-digit numbers - sums to 20",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Add one-digit numbers - sums to 20 for Grade 2 students (TEKS 2.4(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Sort addition facts - sums to 20",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Sort addition facts - sums to 20 for Grade 2 students (TEKS 2.4(A)). Students develop fluency with addition facts, recalling sums quickly and accurately. Key concepts include understanding addition as combining, the commutative property, and strategies like counting on, making ten, doubles, and near-doubles. Vocabulary: add, addend, sum, plus, equals, fact, fluency, doubles, near doubles. Students should progress from concrete models to mental computation. Common misconceptions include always counting from 1, not using the commutative property, and confusing addition with subtraction. Activities should include timed practice, flashcards, fact family triangles, and strategy-based games appropriate for ages 7-8."
+    },
+    {
+      "skill": "Complete the addition sentence - sums to 20",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Complete the addition sentence - sums to 20 for Grade 2 students (TEKS 2.4(A)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtract zero or all",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Subtract zero or all for Grade 2 students (TEKS 2.4(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtract one-digit numbers - up to 10",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Subtract one-digit numbers - up to 10 for Grade 2 students (TEKS 2.4(A)). Students perform multi-digit subtraction, understanding regrouping and applying various strategies. Key concepts include aligning digits, regrouping (borrowing) when the top digit is smaller, and verifying with estimation or addition. Vocabulary: subtract, difference, regroup, borrow, place value, algorithm. Common misconceptions include subtracting smaller from larger regardless of position, forgetting to regroup, and regrouping errors. Activities should include base-ten block modeling, estimation checks, and real-world problems appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtract a one-digit number from a two-digit number up to 20",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Subtract a one-digit number from a two-digit number up to 20 for Grade 2 students (TEKS 2.4(A)). Students perform multi-digit subtraction, understanding regrouping and applying various strategies. Key concepts include aligning digits, regrouping (borrowing) when the top digit is smaller, and verifying with estimation or addition. Vocabulary: subtract, difference, regroup, borrow, place value, algorithm. Common misconceptions include subtracting smaller from larger regardless of position, forgetting to regroup, and regrouping errors. Activities should include base-ten block modeling, estimation checks, and real-world problems appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the subtraction sentence - up to 20",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Complete the subtraction sentence - up to 20 for Grade 2 students (TEKS 2.4(A)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Addition and subtraction - up to 20",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Addition and subtraction - up to 20 for Grade 2 students (TEKS 2.4(A)). Students practice both addition and subtraction, building fluency and the ability to distinguish between operations. Key concepts include understanding both operations conceptually, applying appropriate strategies, using the relationship between operations, and checking work. Vocabulary: add, subtract, sum, difference, fact, strategy, inverse, fluency. Common misconceptions include confusing operations, applying wrong strategies, and not checking answers. Activities should include mixed practice, strategy discussions, and fact family connections appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Ways to make a number using subtraction - up to 10",
+      "teks": "2.4(A)",
+      "prompt": "This topic covers Ways to make a number using subtraction - up to 10 for Grade 2 students (TEKS 2.4(A)). Students explore different ways to decompose a number into two parts, building flexibility with number composition. Key concepts include finding all combinations that make a target number, recording combinations as equations, understanding that the same number can be decomposed in multiple ways, and recognizing the commutative property. Vocabulary: decompose, compose, parts, whole, ways to make, combination. Common misconceptions include missing some combinations, not recognizing commutative pairs (3+5 and 5+3), and thinking there is only one way to make a number. Activities should include systematic exploration with manipulatives, recording all combinations, and connecting to fact families appropriate for ages 7-8."
+    },
+    {
+      "skill": "Break apart a one-digit number to add",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Break apart a one-digit number to add for Grade 2 students (TEKS 2.4(B)). Breaking apart numbers involves decomposing one number into place-value parts for easier computation. For addition: 47+25 = 47+20+5. For subtraction: 43-18 = 43-10-8. Key concepts include using place value to decompose, adding or subtracting each part sequentially, and tracking running totals. Vocabulary: break apart, decompose, place value, partial sums, strategy. Common misconceptions include choosing unhelpful decompositions and errors in sequential operations. Activities should include step-by-step recording, base-ten block modeling, and strategy comparison appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use number lines to add two-digit numbers",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use number lines to add two-digit numbers for Grade 2 students (TEKS 2.4(B)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Break apart a two-digit number to add - sums to 100",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Break apart a two-digit number to add - sums to 100 for Grade 2 students (TEKS 2.4(B)). Breaking apart numbers involves decomposing one number into place-value parts for easier computation. For addition: 47+25 = 47+20+5. For subtraction: 43-18 = 43-10-8. Key concepts include using place value to decompose, adding or subtracting each part sequentially, and tracking running totals. Vocabulary: break apart, decompose, place value, partial sums, strategy. Common misconceptions include choosing unhelpful decompositions and errors in sequential operations. Activities should include step-by-step recording, base-ten block modeling, and strategy comparison appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use compensation to add on a number line - up to two digits",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use compensation to add on a number line - up to two digits for Grade 2 students (TEKS 2.4(B)). Compensation adjusts one number to make computation easier, then compensates. For addition: 38+25 = 40+25-2 = 63. For subtraction: 52-29 = 52-30+1 = 23. Key concepts include choosing friendly numbers, determining the compensation amount and direction, and verifying results. Vocabulary: compensation, adjust, friendly number, round, mental math. Common misconceptions include compensating in the wrong direction, forgetting the compensation step, and choosing unhelpful adjustments. Activities should include number line demonstrations, mental math challenges, and strategy comparisons appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use compensation to add - up to two digits",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use compensation to add - up to two digits for Grade 2 students (TEKS 2.4(B)). Compensation adjusts one number to make computation easier, then compensates. For addition: 38+25 = 40+25-2 = 63. For subtraction: 52-29 = 52-30+1 = 23. Key concepts include choosing friendly numbers, determining the compensation amount and direction, and verifying results. Vocabulary: compensation, adjust, friendly number, round, mental math. Common misconceptions include compensating in the wrong direction, forgetting the compensation step, and choosing unhelpful adjustments. Activities should include number line demonstrations, mental math challenges, and strategy comparisons appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use models to add two-digit numbers - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to add two-digit numbers - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use models to add two-digit numbers - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to add two-digit numbers - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use place value to add two-digit numbers - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use place value to add two-digit numbers - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use place value to add two-digit numbers - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use place value to add two-digit numbers - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Add a two-digit and a one-digit number - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Add a two-digit and a one-digit number - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Add a two-digit and a one-digit number - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Add a two-digit and a one-digit number - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Add two-digit numbers without regrouping - sums to 100",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Add two-digit numbers without regrouping - sums to 100 for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Add two-digit numbers with regrouping - sums to 100",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Add two-digit numbers with regrouping - sums to 100 for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Add two-digit numbers - sums to 200",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Add two-digit numbers - sums to 200 for Grade 2 students (TEKS 2.4(B)). Students perform multi-digit addition, applying place value understanding and computation strategies. Key concepts include aligning digits by place value, regrouping when column sums exceed 9, and checking answers with estimation. Vocabulary: add, sum, regroup, carry, place value, algorithm, estimate. Common misconceptions include misaligning digits, forgetting to regroup, and not checking reasonableness. Activities should include concrete models, multiple strategies, and real-world applications appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add three numbers up to two digits each",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Add three numbers up to two digits each for Grade 2 students (TEKS 2.4(B)). Students add three or more addends using strategies like the associative property, making ten, doubles, and efficient grouping. For example, 4+3+6: add 4+6=10 first, then 10+3=13. Key concepts include looking for efficient pairings, the associative property, and tracking partial sums. Vocabulary: addend, sum, group, make ten, doubles, strategy, associative property. Common misconceptions include always adding left to right without seeking efficient groupings and difficulty tracking intermediate results. Activities should include three-addend equations, strategy discussions, and word problems with three quantities appropriate for ages 7-8."
+    },
+    {
+      "skill": "Add four numbers up to two digits each",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Add four numbers up to two digits each for Grade 2 students (TEKS 2.4(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Break apart a one-digit number to subtract",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Break apart a one-digit number to subtract for Grade 2 students (TEKS 2.4(B)). Breaking apart numbers involves decomposing one number into place-value parts for easier computation. For addition: 47+25 = 47+20+5. For subtraction: 43-18 = 43-10-8. Key concepts include using place value to decompose, adding or subtracting each part sequentially, and tracking running totals. Vocabulary: break apart, decompose, place value, partial sums, strategy. Common misconceptions include choosing unhelpful decompositions and errors in sequential operations. Activities should include step-by-step recording, base-ten block modeling, and strategy comparison appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use models to subtract a one-digit number from a two-digit number - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to subtract a one-digit number from a two-digit number - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use models to subtract a one-digit number from a two-digit number - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to subtract a one-digit number from a two-digit number - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use number lines to subtract two-digit numbers",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use number lines to subtract two-digit numbers for Grade 2 students (TEKS 2.4(B)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 7-8."
+    },
+    {
+      "skill": "Break apart a two-digit number to subtract",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Break apart a two-digit number to subtract for Grade 2 students (TEKS 2.4(B)). Breaking apart numbers involves decomposing one number into place-value parts for easier computation. For addition: 47+25 = 47+20+5. For subtraction: 43-18 = 43-10-8. Key concepts include using place value to decompose, adding or subtracting each part sequentially, and tracking running totals. Vocabulary: break apart, decompose, place value, partial sums, strategy. Common misconceptions include choosing unhelpful decompositions and errors in sequential operations. Activities should include step-by-step recording, base-ten block modeling, and strategy comparison appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use compensation to subtract on a number line - up to two digits",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use compensation to subtract on a number line - up to two digits for Grade 2 students (TEKS 2.4(B)). Compensation adjusts one number to make computation easier, then compensates. For addition: 38+25 = 40+25-2 = 63. For subtraction: 52-29 = 52-30+1 = 23. Key concepts include choosing friendly numbers, determining the compensation amount and direction, and verifying results. Vocabulary: compensation, adjust, friendly number, round, mental math. Common misconceptions include compensating in the wrong direction, forgetting the compensation step, and choosing unhelpful adjustments. Activities should include number line demonstrations, mental math challenges, and strategy comparisons appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use compensation to subtract - up to two digits",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use compensation to subtract - up to two digits for Grade 2 students (TEKS 2.4(B)). Compensation adjusts one number to make computation easier, then compensates. For addition: 38+25 = 40+25-2 = 63. For subtraction: 52-29 = 52-30+1 = 23. Key concepts include choosing friendly numbers, determining the compensation amount and direction, and verifying results. Vocabulary: compensation, adjust, friendly number, round, mental math. Common misconceptions include compensating in the wrong direction, forgetting the compensation step, and choosing unhelpful adjustments. Activities should include number line demonstrations, mental math challenges, and strategy comparisons appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Count on to subtract two-digit numbers",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Count on to subtract two-digit numbers for Grade 2 students (TEKS 2.4(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use models to subtract two-digit numbers - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to subtract two-digit numbers - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use models to subtract two-digit numbers - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to subtract two-digit numbers - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use place value to subtract two-digit numbers - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use place value to subtract two-digit numbers - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use place value to subtract two-digit numbers - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use place value to subtract two-digit numbers - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Subtract a one-digit number from a two-digit number - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Subtract a one-digit number from a two-digit number - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Subtract a one-digit number from a two-digit number - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Subtract a one-digit number from a two-digit number - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Subtract two-digit numbers - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Subtract two-digit numbers - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Subtract two-digit numbers - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Subtract two-digit numbers - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use models to add three-digit numbers - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to add three-digit numbers - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use models to add three-digit numbers - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use models to add three-digit numbers - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use expanded form to add three-digit numbers - without regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use expanded form to add three-digit numbers - without regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use expanded form to add three-digit numbers - with regrouping",
+      "teks": "2.4(B)",
+      "prompt": "This topic covers Use expanded form to add three-digit numbers - with regrouping for Grade 2 students (TEKS 2.4(B)). Regrouping involves exchanging equivalent amounts between place values. Students learn that numbers can be composed and decomposed in multiple ways while maintaining the same total value. For example, 35 can be 3 tens and 5 ones, or 2 tens and 15 ones. Key concepts include understanding that regrouping preserves total value and is foundational for addition with carrying and subtraction with borrowing. Vocabulary: regroup, trade, exchange, compose, decompose, equivalent, bundle. Common misconceptions include believing each number has only one representation and not understanding that regrouping maintains value. Activities should include manipulative-based trading and 'ways to make a number' exercises appropriate for ages 7-8."
+    },
+    {
+      "skill": "Addition word problems - sums to 20",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition word problems - sums to 20 for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition word problems - three one-digit numbers",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition word problems - three one-digit numbers for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Subtraction word problems - up to 20",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Subtraction word problems - up to 20 for Grade 2 students (TEKS 2.4(C)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Comparison word problems - up to 20",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Comparison word problems - up to 20 for Grade 2 students (TEKS 2.4(C)). Comparison word problems ask students to determine the difference between two quantities or find an unknown amount given a comparison. Key types include finding the difference, finding the larger amount, and finding the smaller amount. Students should use comparison bar models to visualize relationships. Vocabulary: more, fewer, less, compare, difference, how many more, how many fewer, greater, lesser. Common misconceptions include always subtracting, confusing which quantity is larger, and difficulty when the unknown is the compared quantity. Activities should include drawing comparison bars, acting out scenarios, and solving varied structures appropriate for ages 7-8."
+    },
+    {
+      "skill": "Use models to solve addition and subtraction word problems - up to 20",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Use models to solve addition and subtraction word problems - up to 20 for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition and subtraction word problems - up to 20",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition and subtraction word problems - up to 20 for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Two-step addition and subtraction word problems - up to 20",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Two-step addition and subtraction word problems - up to 20 for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition word problems - up to two digits",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition word problems - up to two digits for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition word problems - three numbers up to two digits each",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition word problems - three numbers up to two digits each for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition word problems - four numbers up to two digits each",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition word problems - four numbers up to two digits each for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Subtraction word problems - up to two digits",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Subtraction word problems - up to two digits for Grade 2 students (TEKS 2.4(C)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use models to solve addition and subtraction word problems - up to 100",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Use models to solve addition and subtraction word problems - up to 100 for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition and subtraction word problems - up to 100",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition and subtraction word problems - up to 100 for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Two-step addition and subtraction word problems - up to 100",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Two-step addition and subtraction word problems - up to 100 for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Addition word problems - up to three digits",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Addition word problems - up to three digits for Grade 2 students (TEKS 2.4(C)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Subtraction word problems - up to three digits",
+      "teks": "2.4(C)",
+      "prompt": "This topic covers Subtraction word problems - up to three digits for Grade 2 students (TEKS 2.4(C)). Students solve real-world subtraction problems presented in narrative form. Key concepts include identifying take-away, comparison, and missing-part situations, extracting relevant numbers, writing subtraction equations, and solving for the difference. Vocabulary: subtract, minus, difference, take away, remaining, left, fewer, how many more, how many less. Common challenges include confusing subtraction with addition, difficulty with missing-addend problems, and not checking answer reasonableness. Students should draw models and use manipulatives before writing equations. Contexts should be appropriate for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Do you have enough money? - up to $1",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Do you have enough money? - up to $1 for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Correct amount of change",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Correct amount of change for Grade 2 students (TEKS 2.5(A)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add and subtract money up to $1: word problems",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Add and subtract money up to $1: word problems for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Perimeter: word problems",
+      "teks": "2.9(E)",
+      "prompt": "This topic covers Perimeter: word problems for Grade 2 students (TEKS 2.9(E)). Students solve word problems involving perimeter. Key concepts include adding all side lengths, using formulas for rectangles, finding missing sides, and applying to real contexts. Vocabulary: perimeter, side, length, width, distance around, formula, add. Common misconceptions include confusing perimeter with area and forgetting sides. Activities should include measuring real objects, solving fencing and framing problems, and working with various shapes appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Match word problems to addition and subtraction sentences - up to 20",
+      "teks": "2.4(D)",
+      "prompt": "This topic covers Match word problems to addition and subtraction sentences - up to 20 for Grade 2 students (TEKS 2.4(D)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Match addition and subtraction word problems to equations - up to 100",
+      "teks": "2.4(D)",
+      "prompt": "This topic covers Match addition and subtraction word problems to equations - up to 100 for Grade 2 students (TEKS 2.4(D)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Names and values of common coins",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Names and values of common coins for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Names and values of all coins",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Names and values of all coins for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Count money - pennies, nickels, and dimes only",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Count money - pennies, nickels, and dimes only for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Count money up to $1",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Count money up to $1 for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Equivalent amounts of money up to $1",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Equivalent amounts of money up to $1 for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Exchanging money",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Exchanging money for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Exchanging money II",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Exchanging money II for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Do you have enough money? - up to $1",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Do you have enough money? - up to $1 for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "How much more to make a dollar?",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers How much more to make a dollar? for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Names and values of common coins",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Names and values of common coins for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Names and values of all coins",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Names and values of all coins for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Count money - pennies, nickels, and dimes only",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Count money - pennies, nickels, and dimes only for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Count money up to $1",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Count money up to $1 for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Count money up to $5",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Count money up to $5 for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Do you have enough money? - up to $5",
+      "teks": "2.5(A)",
+      "prompt": "This topic covers Do you have enough money? - up to $5 for Grade 2 students (TEKS 2.5(A)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Write dollar amounts - up to $1",
+      "teks": "2.5(B)",
+      "prompt": "This topic covers Write dollar amounts - up to $1 for Grade 2 students (TEKS 2.5(B)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Count equal groups",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Count equal groups for Grade 2 students (TEKS 2.6(A)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Identify repeated addition for equal groups - sums to 25",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Identify repeated addition for equal groups - sums to 25 for Grade 2 students (TEKS 2.6(A)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Write addition sentences for equal groups - sums to 25",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Write addition sentences for equal groups - sums to 25 for Grade 2 students (TEKS 2.6(A)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Identify repeated addition for arrays - sums to 25",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Identify repeated addition for arrays - sums to 25 for Grade 2 students (TEKS 2.6(A)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Write addition sentences for arrays - sums to 25",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Write addition sentences for arrays - sums to 25 for Grade 2 students (TEKS 2.6(A)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Solve word problems using repeated addition - sums to 25",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Solve word problems using repeated addition - sums to 25 for Grade 2 students (TEKS 2.6(A)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 7-8-year-olds."
+    },
+    {
+      "skill": "Identify repeated addition for arrays - sums to 10",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Identify repeated addition for arrays - sums to 10 for Grade 2 students (TEKS 2.6(A)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Write addition sentences for arrays - sums to 10",
+      "teks": "2.6(A)",
+      "prompt": "This topic covers Write addition sentences for arrays - sums to 10 for Grade 2 students (TEKS 2.6(A)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Divide by counting equal groups",
+      "teks": "2.6(B)",
+      "prompt": "This topic covers Divide by counting equal groups for Grade 2 students (TEKS 2.6(B)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 7-8."
+    },
+    {
+      "skill": "Write division sentences for groups",
+      "teks": "2.6(B)",
+      "prompt": "This topic covers Write division sentences for groups for Grade 2 students (TEKS 2.6(B)). This skill builds numerical understanding and computational fluency appropriate for ages 7-8. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 7-8-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 7-8-year-olds develop both conceptual understanding and procedural fluency."
+    }
+  ]
+}

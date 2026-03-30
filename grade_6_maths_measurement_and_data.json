@@ -1,0 +1,156 @@
+{
+  "grade": "Grade 6",
+  "subject": "Maths - Measurement and data",
+  "skills": [
+    {
+      "skill": "Graph points on a coordinate plane",
+      "teks": "6.11(A)",
+      "prompt": "This topic covers Graph points on a coordinate plane for Grade 6 students (TEKS 6.11(A)) in the area of data analysis and representation. Students should understand how to collect, organize, display, and interpret data using appropriate methods. Key skills include creating and reading various types of data displays, calculating statistical measures, and drawing evidence-based conclusions from data. Vocabulary related to data analysis, graphs, and statistics should be explicitly taught. Problems should involve real-world data scenarios and both creating and interpreting data representations appropriate for 11-12 year olds, aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Graph points on a coordinate plane",
+      "teks": "6.11(A)",
+      "prompt": "This topic covers Graph points on a coordinate plane for Grade 6 students (TEKS 6.11(A)) in the area of data analysis and representation. Students should understand how to collect, organize, display, and interpret data using appropriate methods. Key skills include creating and reading various types of data displays, calculating statistical measures, and drawing evidence-based conclusions from data. Vocabulary related to data analysis, graphs, and statistics should be explicitly taught. Problems should involve real-world data scenarios and both creating and interpreting data representations appropriate for 11-12 year olds, aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Quadrants",
+      "teks": "6.11(A)",
+      "prompt": "This topic covers Quadrants for Grade 6 students (TEKS 6.11(A)) in the area of data analysis and representation. Students should understand how to collect, organize, display, and interpret data using appropriate methods. Key skills include creating and reading various types of data displays, calculating statistical measures, and drawing evidence-based conclusions from data. Vocabulary related to data analysis, graphs, and statistics should be explicitly taught. Problems should involve real-world data scenarios and both creating and interpreting data representations appropriate for 11-12 year olds, aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Coordinate planes as maps",
+      "teks": "6.11(A)",
+      "prompt": "This topic covers Coordinate planes as maps for Grade 6 students (TEKS 6.11(A)) in the area of data analysis and representation. Students should understand how to collect, organize, display, and interpret data using appropriate methods. Key skills include creating and reading various types of data displays, calculating statistical measures, and drawing evidence-based conclusions from data. Vocabulary related to data analysis, graphs, and statistics should be explicitly taught. Problems should involve real-world data scenarios and both creating and interpreting data representations appropriate for 11-12 year olds, aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Create line plots",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers Create line plots for Grade 6 students (TEKS 6.12(A)) in the area of data analysis and representation. Students should understand how to collect, organize, display, and interpret data using appropriate methods. Key skills include creating and reading various types of data displays, calculating statistical measures, and drawing evidence-based conclusions from data. Vocabulary related to data analysis, graphs, and statistics should be explicitly taught. Problems should involve real-world data scenarios and both creating and interpreting data representations appropriate for 11-12 year olds, aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Create and interpret line plots with fractions",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers creating line plots with fractions for Grade 6 students (TEKS 6.12(A)). Students should understand how to organize fractional data on a number line using X marks or dots to create a line plot. Key concepts: line plots display data along a number line; each data point is represented by a mark above the corresponding value; when data involves fractions, the number line must include fractional increments (halves, quarters, eighths); data should be sorted and counted before plotting. Students should choose appropriate scales with fractional values and accurately place data points. Vocabulary: line plot, data, fraction, number line, frequency, scale, increment, mark, value, half, quarter, eighth. Common errors include using incorrect scales, miscounting data points, or placing marks at wrong positions. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Create frequency charts",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers creating frequency charts for Grade 6 students (TEKS 6.12(A)). Students should understand how to organize data into a frequency chart (frequency table) that shows how often each value or category occurs. Key concepts: frequency is the number of times a value appears in a data set; data is organized into categories or intervals; tally marks can be used to count occurrences; the frequency column shows the total count for each category. Students should accurately count and record data, choose appropriate categories or intervals, and verify that the total of all frequencies equals the number of data points. Vocabulary: frequency, chart, table, tally, category, interval, data, count, total, organize, value. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Create histograms",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers creating histograms for Grade 6 students (TEKS 6.12(A)). Students should understand how to display continuous numerical data grouped into intervals using connected bars. Key concepts: histograms group data into equal-width intervals (bins); the height of each bar shows the frequency of data in that interval; bars are connected (no gaps) because the data is continuous; the horizontal axis shows the intervals and the vertical axis shows frequency; choosing appropriate interval sizes affects how the data distribution appears. Vocabulary: histogram, interval, bin, frequency, continuous data, axis, scale, distribution, bar, gap, range, width. Students should practice organizing data into intervals and creating accurate histograms. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Create stem-and-leaf plots",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers creating stem-and-leaf plots for Grade 6 students (TEKS 6.12(A)). Students should understand how to organize numerical data into a stem-and-leaf plot that shows the shape and distribution of data. Key concepts: the stem represents the leading digit(s) (usually tens place) and the leaf represents the trailing digit (usually ones place); leaves must be ordered from least to greatest; a key explains how to read the values; stem-and-leaf plots preserve individual data values while showing the overall distribution. Students should practice organizing data sets into stem-and-leaf plots accurately. Vocabulary: stem, leaf, plot, data, key, digit, tens place, ones place, distribution, order, organize, leading digit. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Box plots",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers box plots for Grade 6 students (TEKS 6.12(A)). Students should understand how to create and interpret box plots (box-and-whisker plots) that display the five-number summary of a data set. Key concepts: the five-number summary consists of minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum; the box spans from Q1 to Q3 representing the interquartile range (IQR); the line inside the box marks the median; whiskers extend from the box to the minimum and maximum; box plots show the spread and center of data. Students should create box plots from data sets and use them to compare distributions. Vocabulary: box plot, minimum, maximum, median, quartile, Q1, Q3, interquartile range, IQR, whisker, five-number summary, spread, center. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Box plots",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers box plots for Grade 6 students (TEKS 6.12(A)). Students should understand how to create and interpret box plots (box-and-whisker plots) that display the five-number summary of a data set. Key concepts: the five-number summary consists of minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum; the box spans from Q1 to Q3 representing the interquartile range (IQR); the line inside the box marks the median; whiskers extend from the box to the minimum and maximum; box plots show the spread and center of data. Students should create box plots from data sets and use them to compare distributions. Vocabulary: box plot, minimum, maximum, median, quartile, Q1, Q3, interquartile range, IQR, whisker, five-number summary, spread, center. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Interpret charts and graphs to find mean, median, mode, and range",
+      "teks": "6.12(C)",
+      "prompt": "This topic covers measures of center and spread for Grade 6 students (TEKS 6.12(C)). Students should understand how to calculate and interpret mean, median, mode, and range. Key concepts: mean is the sum of all values divided by the number of values (average); median is the middle value when data is ordered (or average of two middle values); mode is the most frequently occurring value; range is the difference between the maximum and minimum values. Students should understand when each measure is most useful and how outliers affect mean versus median. Vocabulary: mean, median, mode, range, average, center, spread, data set, outlier, sum, order, frequency, calculate, interpret. Problems should involve computing and interpreting these measures from data sets and graphs appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Describe distributions in line plots",
+      "teks": "6.12(B)",
+      "prompt": "This topic covers describing distributions in data displays for Grade 6 students (TEKS 6.12(B)). Students should understand how to describe the overall shape, center, spread, and unusual features of data distributions. Key concepts: shape can be symmetric (balanced), skewed left (tail extends left), or skewed right (tail extends right); center is described using mean or median; spread is described using range or IQR; students should identify clusters (groups of data), gaps (empty intervals), and peaks; a thorough description mentions shape, center, spread, and any outliers. Vocabulary: distribution, shape, symmetric, skewed, center, spread, cluster, gap, peak, outlier, range, median, mean, describe. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Calculate range, quartiles, and interquartile range",
+      "teks": "6.12(C)",
+      "prompt": "This topic covers calculating range, quartiles, and interquartile range for Grade 6 students (TEKS 6.12(C)). Students should understand measures of spread that describe how data is distributed. Key concepts: range = maximum - minimum; the first quartile (Q1) is the median of the lower half of data; the third quartile (Q3) is the median of the upper half; interquartile range (IQR) = Q3 - Q1, representing the spread of the middle 50% of data; IQR is less affected by outliers than range. Students should calculate these measures from ordered data sets. Vocabulary: range, quartile, Q1, Q3, interquartile range, IQR, median, minimum, maximum, spread, distribution, lower half, upper half, outlier. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify an outlier",
+      "teks": "6.12(B)",
+      "prompt": "This topic covers identifying outliers for Grade 6 students (TEKS 6.12(B)). Students should understand that outliers are data values that are significantly different from the rest of the data. Key concepts: an outlier is a value that is much higher or much lower than most other values in the data set; outliers can be identified visually on graphs or mathematically using the IQR (values below Q1 - 1.5*IQR or above Q3 + 1.5*IQR); outliers significantly affect the mean but have less impact on the median; understanding outliers helps evaluate which measure of center best represents the data. Vocabulary: outlier, data set, mean, median, range, interquartile range, IQR, extreme value, affect, skew, distribution. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Describe distributions in line plots",
+      "teks": "6.12(B)",
+      "prompt": "This topic covers describing distributions in data displays for Grade 6 students (TEKS 6.12(B)). Students should understand how to describe the overall shape, center, spread, and unusual features of data distributions. Key concepts: shape can be symmetric (balanced), skewed left (tail extends left), or skewed right (tail extends right); center is described using mean or median; spread is described using range or IQR; students should identify clusters (groups of data), gaps (empty intervals), and peaks; a thorough description mentions shape, center, spread, and any outliers. Vocabulary: distribution, shape, symmetric, skewed, center, spread, cluster, gap, peak, outlier, range, median, mean, describe. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Calculate mean and median",
+      "teks": "6.12(C)",
+      "prompt": "This topic covers Calculate mean and median for Grade 6 students (TEKS 6.12(C)) in the area of data analysis and representation. Students should understand how to collect, organize, display, and interpret data using appropriate methods. Key skills include creating and reading various types of data displays, calculating statistical measures, and drawing evidence-based conclusions from data. Vocabulary related to data analysis, graphs, and statistics should be explicitly taught. Problems should involve real-world data scenarios and both creating and interpreting data representations appropriate for 11-12 year olds, aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Mean and median: find the missing number",
+      "teks": "6.12(C)",
+      "prompt": "This topic covers finding missing numbers given mean and median for Grade 6 students (TEKS 6.12(C)). Students should understand how to work backward from a known mean or median to determine a missing data value. Key concepts: if the mean is known, multiply it by the number of values to find the total sum, then subtract the known values to find the missing one; if the median is known, use the position of the middle value and the ordering of data to determine the missing value. Students should apply algebraic thinking and number sense to solve these problems. Vocabulary: mean, median, missing value, sum, total, data set, average, middle value, order, equation, solve. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Changes in mean and median",
+      "teks": "6.12(C)",
+      "prompt": "This topic covers how changes in data affect mean and median for Grade 6 students (TEKS 6.12(C)). Students should understand how adding, removing, or changing data values impacts measures of center. Key concepts: adding a value above the mean increases the mean; adding a value below the mean decreases it; the median may or may not change when data is added or removed depending on the value's position; outliers have a large effect on mean but little effect on median; understanding these effects helps evaluate which measure best represents a data set. Vocabulary: mean, median, change, increase, decrease, outlier, effect, data set, add, remove, measure of center, resistant. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Interpret median and interquartile range",
+      "teks": "6.12(C)",
+      "prompt": "This topic covers calculating range, quartiles, and interquartile range for Grade 6 students (TEKS 6.12(C)). Students should understand measures of spread that describe how data is distributed. Key concepts: range = maximum - minimum; the first quartile (Q1) is the median of the lower half of data; the third quartile (Q3) is the median of the upper half; interquartile range (IQR) = Q3 - Q1, representing the spread of the middle 50% of data; IQR is less affected by outliers than range. Students should calculate these measures from ordered data sets. Vocabulary: range, quartile, Q1, Q3, interquartile range, IQR, median, minimum, maximum, spread, distribution, lower half, upper half, outlier. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Interpret categorical data",
+      "teks": "6.12(D)",
+      "prompt": "This topic covers interpreting categorical data for Grade 6 students (TEKS 6.12(D)). Students should understand how to analyze and compare data organized into categories rather than numerical values. Key concepts: categorical data is organized by groups or labels (e.g., favorite color, type of pet); data can be displayed in frequency tables, bar graphs, circle graphs, and two-way tables; students should compare categories, identify the most and least common, and draw conclusions about the data. Vocabulary: categorical data, category, frequency, proportion, compare, table, graph, interpret, conclusion, two-way table, survey, tally. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Create relative frequency tables",
+      "teks": "6.12(D)",
+      "prompt": "This topic covers creating relative frequency tables for Grade 6 students (TEKS 6.12(D)). Students should understand how to convert frequency data into relative frequencies expressed as fractions, decimals, or percentages. Key concepts: relative frequency shows how a category's frequency compares to the total; relative frequency = category frequency / total frequency; relative frequencies for all categories should sum to 1 (or 100%); relative frequency tables make it easier to compare data sets of different sizes. Vocabulary: relative frequency, frequency, total, fraction, decimal, percentage, proportion, category, data, table, compare, ratio. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Create percent bar graphs",
+      "teks": "6.12(D)",
+      "prompt": "This topic covers creating bar graphs for Grade 6 students (TEKS 6.12(D)). Students should understand how to display categorical data using bars of varying heights or lengths. Key concepts: bar graphs use rectangular bars to represent data for different categories; the height or length of each bar corresponds to the frequency or value; bars should be equal in width with equal spacing; axes must be labeled with the category names and numerical scale; a title describes the data being shown. Students should choose appropriate scales and accurately draw bars. Vocabulary: bar graph, category, axis, scale, title, label, frequency, horizontal, vertical, data, height, interval. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Interpret circle graphs",
+      "teks": "6.13(A)",
+      "prompt": "This topic covers interpreting circle graphs for Grade 6 students (TEKS 6.13(A)). Students should understand how to read and analyze circle graphs (pie charts) that show parts of a whole. Key concepts: each section of the circle represents a category as a fraction, decimal, or percentage of the whole; all sections must add up to 100% or the whole; larger sections represent greater proportions; students should compare sections and calculate actual values when given totals. Vocabulary: circle graph, pie chart, section, category, percentage, fraction, whole, proportion, compare, total, part, represent. Problems should involve reading circle graphs and calculating values appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Interpret line plots",
+      "teks": "6.13(A)",
+      "prompt": "This topic covers interpreting line plots for Grade 6 students (TEKS 6.13(A)). Students should understand how to read and analyze data displayed in line plots to answer questions and draw conclusions. Key concepts: identify the most and least common values (mode); find the range (difference between greatest and least values); determine the total number of data points; calculate the sum of all values using the plot; answer comparison questions (how many more/fewer). Students should use operations with the data values, including fractions when applicable, to solve problems. Vocabulary: line plot, data, frequency, mode, range, total, interpret, analyze, compare, most common, least common, sum, difference. Problems should involve drawing conclusions from line plots appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Create and interpret line plots with fractions",
+      "teks": "6.13(A)",
+      "prompt": "This topic covers creating line plots with fractions for Grade 6 students (TEKS 6.13(A)). Students should understand how to organize fractional data on a number line using X marks or dots to create a line plot. Key concepts: line plots display data along a number line; each data point is represented by a mark above the corresponding value; when data involves fractions, the number line must include fractional increments (halves, quarters, eighths); data should be sorted and counted before plotting. Students should choose appropriate scales with fractional values and accurately place data points. Vocabulary: line plot, data, fraction, number line, frequency, scale, increment, mark, value, half, quarter, eighth. Common errors include using incorrect scales, miscounting data points, or placing marks at wrong positions. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Interpret histograms",
+      "teks": "6.13(A)",
+      "prompt": "This topic covers interpreting histograms for Grade 6 students (TEKS 6.13(A)). Students should understand how to read and analyze histograms to describe data distributions and answer questions. Key concepts: identifying which intervals have the most and fewest data points; determining the total number of data points; describing the shape of the distribution (symmetric, skewed left, skewed right); identifying peaks, gaps, and clusters; comparing data across intervals. Vocabulary: histogram, interval, frequency, distribution, symmetric, skewed, peak, gap, cluster, range, interpret, analyze. Problems should involve reading histograms and answering questions about data distributions appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Interpret stem-and-leaf plots",
+      "teks": "6.13(A)",
+      "prompt": "This topic covers interpreting stem-and-leaf plots for Grade 6 students (TEKS 6.13(A)). Students should understand how to read and analyze data from stem-and-leaf plots to answer questions. Key concepts: reading individual values by combining the stem and leaf; finding the minimum and maximum values; determining the range, median, and mode from the plot; counting the total number of data points; identifying clusters, gaps, and outliers in the distribution. Vocabulary: stem-and-leaf plot, stem, leaf, key, median, mode, range, minimum, maximum, cluster, gap, outlier, distribution, interpret, analyze. Students should practice extracting information and making comparisons from stem-and-leaf plots. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Box plots",
+      "teks": "6.13(A)",
+      "prompt": "This topic covers box plots for Grade 6 students (TEKS 6.13(A)). Students should understand how to create and interpret box plots (box-and-whisker plots) that display the five-number summary of a data set. Key concepts: the five-number summary consists of minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum; the box spans from Q1 to Q3 representing the interquartile range (IQR); the line inside the box marks the median; whiskers extend from the box to the minimum and maximum; box plots show the spread and center of data. Students should create box plots from data sets and use them to compare distributions. Vocabulary: box plot, minimum, maximum, median, quartile, Q1, Q3, interquartile range, IQR, whisker, five-number summary, spread, center. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify statistical questions",
+      "teks": "6.13(B)",
+      "prompt": "This topic covers identifying statistical questions for Grade 6 students (TEKS 6.13(B)). Students should understand the difference between statistical questions (those that anticipate variability in the data) and non-statistical questions (those with a single, definite answer). Key concepts: a statistical question is one that can be answered by collecting data that vary (e.g., 'How many hours do sixth graders sleep each night?'); a non-statistical question has one specific answer (e.g., 'How many hours did I sleep last night?'); statistical questions require data collection, organization, and analysis. Vocabulary: statistical question, non-statistical question, data, variability, survey, collect, analyze, sample, population, variable. Problems should be appropriate for 11-12 year olds."
+    }
+  ]
+}

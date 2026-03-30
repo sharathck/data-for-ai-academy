@@ -1,0 +1,71 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Applications of Integration",
+  "skills": [
+    {
+      "skill": "Change: Finding the Average Value of a Function on an Interval",
+      "ref": "CHA-4.B",
+      "prompt": "This topic covers average value for AP Calculus BC (CED: CHA-4.B, Unit 8). f_avg = (1/(b-a)) * integral from a to b of f(x)dx. This is the height of the rectangle with same area as the region under f. MVT for Integrals: there exists c with f(c) = f_avg (if f continuous). BC students apply this in parametric contexts and with functions defined by series. AP exam note: average value is regularly tested. Students must use the formula correctly and interpret results in context with units. Vocabulary: average value, Mean Value Theorem for Integrals, continuous, integral, rectangle, context."
+    },
+    {
+      "skill": "Change: Connecting Position, Velocity, and Acceleration of Functions Using Integrals",
+      "ref": "CHA-4.C",
+      "prompt": "This topic covers integral-based motion analysis for AP Calculus BC (CED: CHA-4.C, Unit 8). v(t) = v(t0) + integral of a(s)ds; s(t) = s(t0) + integral of v(s)ds. Displacement = integral of v(t)dt; total distance = integral of |v(t)|dt. BC students extend to 2D: position r(t) = r(t0) + integral of v(t)dt (component-wise); distance = integral of speed = integral of |v(t)| = integral of sqrt([x']^2+[y']^2)dt. AP exam note: distinguishing displacement from total distance is crucial. BC problems frequently involve 2D parametric/vector motion. Vocabulary: displacement, total distance, velocity, acceleration, Net Change Theorem, parametric, vector, speed."
+    },
+    {
+      "skill": "Change: Using Accumulation Functions and Definite Integrals in Applied Contexts",
+      "ref": "CHA-4.D, CHA-4.E",
+      "prompt": "This topic covers applied integrals for AP Calculus BC (CED: CHA-4.D, CHA-4.E, Unit 8). When R(t) is a rate, integral from a to b of R(t)dt gives total accumulated quantity. For inflow/outflow: net change = integral of (inflow - outflow). The accumulation function F(t) = F(a) + integral from a to t of R(s)ds tracks running totals. BC students encounter more complex applied contexts and may need series approximations for integrals without closed forms. AP exam note: applied integral problems are staples of BC free-response. Correct setup, units, and contextual interpretation are essential. Vocabulary: accumulation, net change, inflow, outflow, rate function, units, context, total quantity."
+    },
+    {
+      "skill": "Change: Finding the Area Between Curves Expressed as Functions of x",
+      "ref": "CHA-5.A",
+      "prompt": "This topic covers area between curves (functions of x) for AP Calculus BC (CED: CHA-5.A, Unit 8). A = integral from a to b of [f(x)-g(x)]dx where f(x) >= g(x). Find intersection points for limits; determine top/bottom functions; split if curves cross. BC students apply this in more complex scenarios and connect to polar area (a different formula) and parametric applications. AP exam note: area between curves is commonly tested. Students must identify upper and lower functions and find correct intersection points. Vocabulary: area between curves, upper function, lower function, intersection, limits of integration, top minus bottom."
+    },
+    {
+      "skill": "Change: Finding the Area Between Curves Expressed as Functions of y",
+      "ref": "CHA-5.A",
+      "prompt": "This topic covers area between curves as functions of y for AP Calculus BC (CED: CHA-5.A, Unit 8). A = integral from c to d of [f(y)-g(y)]dy where f(y) is rightmost, g(y) is leftmost. Use horizontal slicing when integrating with respect to y is simpler. Limits c, d are y-values at intersections. BC students should choose between dx and dy integration based on problem structure. AP exam note: students must be able to determine whether integrating with respect to x or y is more efficient. Vocabulary: functions of y, horizontal slicing, right minus left, intersection, integrate with respect to y."
+    },
+    {
+      "skill": "Change: Finding the Area Between Curves That Intersect at More Than Two Points",
+      "ref": "CHA-5.A",
+      "prompt": "This topic covers area between curves with multiple intersections for AP Calculus BC (CED: CHA-5.A, Unit 8). Find all intersection points; determine which function is on top in each sub-interval; integrate |f(x)-g(x)| by splitting at crossing points; sum the sub-areas. BC students should handle more complex curve configurations and may encounter this with polar curves as well. AP exam note: students must find all intersection points and handle each region correctly. Careful setup prevents sign errors. Vocabulary: multiple intersections, sub-regions, crossing points, piecewise integration, total area."
+    },
+    {
+      "skill": "Change: Volumes with Cross Sections: Squares and Rectangles",
+      "ref": "CHA-5.B",
+      "prompt": "This topic covers volumes with square and rectangular cross sections for AP Calculus BC (CED: CHA-5.B, Unit 8). V = integral of A(x)dx where A(x) is the cross-section area. For squares with side s(x): A = s^2. For rectangles: A = s*h where dimensions depend on the base region. s(x) is typically the distance between curves. Students visualize 3D solids by stacking cross sections. AP exam note: cross-section volume is a common free-response question. Students must express A(x) clearly and set up the integral correctly. Vocabulary: cross section, perpendicular, base region, square, rectangle, side length, volume integral."
+    },
+    {
+      "skill": "Change: Volumes with Cross Sections: Triangles and Semicircles",
+      "ref": "CHA-5.B",
+      "prompt": "This topic covers volumes with triangular and semicircular cross sections for AP Calculus BC (CED: CHA-5.B, Unit 8). For equilateral triangles with side s: A = (sqrt(3)/4)s^2. For isosceles right triangles with leg s: A = s^2/2. For semicircles with diameter s: A = (pi/8)s^2. The base region determines s(x). V = integral of A(x)dx. AP exam note: students must know the area formulas for each cross-section type. Careful determination of s(x) is critical. Vocabulary: equilateral triangle, isosceles right triangle, semicircle, diameter, area formula, cross section, volume."
+    },
+    {
+      "skill": "Change: Volume with Disc Method: Revolving Around the x- or y-Axis",
+      "ref": "CHA-5.C",
+      "prompt": "This topic covers the disc method for AP Calculus BC (CED: CHA-5.C, Unit 8). For revolution around x-axis: V = pi * integral of [f(x)]^2 dx. For revolution around y-axis: V = pi * integral of [g(y)]^2 dy. Each cross section is a disc with radius = distance from curve to axis. AP exam note: disc method problems are common. The most frequent error is forgetting to square the function or forgetting pi. Students should sketch the region to correctly identify the radius. Vocabulary: disc method, solid of revolution, axis of rotation, radius, cross-sectional area, revolve."
+    },
+    {
+      "skill": "Change: Volume with Disc Method: Revolving Around Other Axes",
+      "ref": "CHA-5.C",
+      "prompt": "This topic covers the disc method for non-standard axes in AP Calculus BC (CED: CHA-5.C, Unit 8). For revolution around y = k or x = k, the radius = distance from curve to axis = |f(x)-k| or |g(y)-k|. V = pi * integral of [radius]^2 dx (or dy). Students must determine the correct distance formula based on the geometry. AP exam note: revolution around non-standard axes is frequently tested. Draw diagrams showing the axis and identify the radius correctly. Vocabulary: disc method, non-standard axis, distance, radius, revolution, horizontal line, vertical line."
+    },
+    {
+      "skill": "Change: Volume with Washer Method: Revolving Around the x- or y-Axis",
+      "ref": "CHA-5.C",
+      "prompt": "This topic covers the washer method for AP Calculus BC (CED: CHA-5.C, Unit 8). V = pi * integral of [R^2 - r^2]dx where R = outer radius (farther curve to axis), r = inner radius (closer curve). The washer = disc with hole. Do NOT compute pi*(R-r)^2; must subtract squares. For revolution around y-axis, integrate with respect to y. AP exam note: the (R^2 - r^2) vs (R-r)^2 distinction is critical. Students should clearly label R and r. Vocabulary: washer method, outer radius, inner radius, annulus, subtract squares, solid of revolution."
+    },
+    {
+      "skill": "Change: Volume with Washer Method: Revolving Around Other Axes",
+      "ref": "CHA-5.C",
+      "prompt": "This topic covers washer method for non-standard axes in AP Calculus BC (CED: CHA-5.C, Unit 8). For revolution around y = k: R(x) = |farther curve - k|, r(x) = |closer curve - k|. V = pi * integral of [R^2 - r^2]dx. Drawing a representative rectangle perpendicular to the axis and rotating it helps identify radii. Students must carefully determine outer vs. inner based on distance from the axis. AP exam note: this combines non-standard axis and washer challenges. Meticulous setup with labeled radii is essential. Vocabulary: washer method, non-standard axis, outer radius, inner radius, distance, representative rectangle."
+    },
+    {
+      "skill": "Change: The Arc Length of a Smooth, Planar Curve and Distance Traveled (BC ONLY)",
+      "ref": "CHA-6.A",
+      "prompt": "This topic covers arc length for AP Calculus BC (CED: CHA-6.A, Unit 8). For y = f(x): L = integral of sqrt(1+[f'(x)]^2)dx from a to b. For parametric x = f(t), y = g(t): L = integral of sqrt([f'(t)]^2+[g'(t)]^2)dt from a to b. The parametric integrand is the speed, so arc length = integral of speed. This is BC ONLY. Key concepts: requires a smooth curve (continuous derivative); most arc length integrals need a calculator. Distance traveled by a particle equals the arc length of its trajectory. AP exam note: arc length setup is commonly tested. Students should set up the integral correctly even if calculator evaluation is needed. Vocabulary: arc length, smooth curve, speed, distance traveled, parametric, Pythagorean, BC only."
+    }
+  ]
+}

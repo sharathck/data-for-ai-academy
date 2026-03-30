@@ -1,0 +1,174 @@
+{
+  "grade": "Grade 7",
+  "subject": "Science - Scientific investigation and reasoning",
+  "skills": [
+    {
+      "skill": "Laboratory safety: Demonstrate safe practices during laboratory and field investigations as outlined in TEA-approved safety standards",
+      "teks": "7.1(C)",
+      "teks_description": "Use appropriate safety equipment and practices during laboratory, classroom, and field investigations",
+      "prompt": "This topic covers laboratory safety practices for Grade 7 science students (TEKS 7.1(C)). Students demonstrate safe practices during laboratory and field investigations following TEA-approved safety standards. Key concepts include: wearing PPE (goggles, aprons, gloves), proper chemical and specimen handling, knowing safety equipment locations (fire extinguisher, eyewash station, fire blanket), following instructions, and reporting accidents. Vocabulary: safety goggles, apron, fire extinguisher, eyewash station, MSDS, hazard, precaution, PPE. Common misconceptions: thinking safety rules are optional and underestimating chemical hazards. Practice should include safety scenario analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Conservation of resources: Practice appropriate use and conservation of resources, including disposal, reuse, or recycling of materials",
+      "teks": "7.1(C)",
+      "teks_description": "Use appropriate safety equipment and practices during investigations (includes conservation of resources)",
+      "prompt": "This topic covers conservation of resources in science investigations for Grade 7 students (TEKS 7.1(C)). Students practice appropriate use and conservation of materials including proper disposal, reuse, and recycling. Key concepts include: minimizing waste, properly disposing chemicals and biological materials, reusing when safe, recycling, and environmental impact awareness. Vocabulary: conservation, disposal, reuse, recycle, waste, resource, environmental impact, sustainable, hazardous waste. Common misconceptions: thinking all lab waste goes in regular trash. Practice should include lab cleanup scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Scientific investigations: Plan and implement comparative and descriptive investigations by making observations, asking well-defined questions, and using appropriate equipment and technology",
+      "teks": "7.1(B)",
+      "teks_description": "Use scientific practices to plan and conduct investigations",
+      "prompt": "This topic covers planning comparative and descriptive investigations for Grade 7 science students (TEKS 7.1(B)). Students design investigations that compare groups or describe phenomena. Key concepts include: comparative investigations (comparing groups) vs. descriptive (observing without manipulation), systematic observations, clear research questions, and appropriate equipment. Vocabulary: comparative investigation, descriptive investigation, observation, research question, equipment, data, systematic, variable. Common misconceptions: confusing descriptive with experimental and not controlling variables. Practice should include designing both types appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Scientific investigations: The process of scientific inquiry",
+      "teks": "7.1(A)",
+      "teks_description": "Ask questions and define problems based on observations or information",
+      "prompt": "This topic covers the process of scientific inquiry for Grade 7 students (TEKS 7.1(A)). Students understand the steps and nature of scientific investigation: observing, asking testable questions, forming hypotheses, designing experiments, collecting/analyzing data, drawing conclusions, and communicating results. Vocabulary: observation, hypothesis, experiment, data, conclusion, variable, control, testable question, evidence. Common misconceptions: thinking there is one rigid scientific method and that hypotheses must be correct. Practice should include identifying inquiry steps appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Scientific investigations: Identify laboratory tools",
+      "teks": "7.1(D)",
+      "teks_description": "Use appropriate tools for observation and measurement",
+      "prompt": "This topic covers identifying laboratory tools for Grade 7 science students (TEKS 7.1(D)). Students recognize common lab instruments and their uses: graduated cylinder (liquid volume), beaker (holding liquids), triple beam balance (mass), thermometer (temperature), microscope (magnification), spring scale (force), hot plate, test tubes, Erlenmeyer flask, forceps. Vocabulary: graduated cylinder, beaker, triple beam balance, thermometer, microscope, spring scale, Erlenmeyer flask, pipette, forceps. Common misconceptions: confusing beakers with graduated cylinders for measurement and misreading meniscus. Practice should include identification exercises appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Experimental design: Design and implement experimental investigations by making observations, asking well-defined questions, formulating testable hypotheses, and using appropriate equipment and technology",
+      "teks": "7.1(B)",
+      "teks_description": "Use scientific practices to plan and conduct investigations",
+      "prompt": "This topic covers designing and implementing experimental investigations for Grade 7 science students (TEKS 7.1(B)). Students create experiments with testable hypotheses, controlled variables, and appropriate methodology. Key concepts include: formulating testable hypotheses, identifying independent/dependent/controlled variables, designing procedures, selecting equipment, collecting data, and drawing evidence-based conclusions. Vocabulary: experiment, hypothesis, independent variable, dependent variable, controlled variable, procedure, data, conclusion. Common misconceptions: not controlling variables, confusing correlation with causation, and writing untestable hypotheses. Practice should include experimental design scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Experimental design: Identify control and experimental groups",
+      "teks": "7.1(B)",
+      "teks_description": "Use scientific practices to plan investigations (identifying controls and variables)",
+      "prompt": "This topic covers identifying control and experimental groups for Grade 7 science students (TEKS 7.1(B)). Students distinguish between the group that receives the treatment (experimental) and the group that serves as the baseline (control). Key concepts include: the control group provides a comparison standard, the experimental group receives the independent variable treatment, keeping all other conditions the same, and understanding why controls are necessary. Vocabulary: control group, experimental group, independent variable, treatment, baseline, comparison, constant. Common misconceptions: thinking the control group is unnecessary and confusing which group receives the treatment. Practice should include identifying groups in scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Experimental design: Identify independent and dependent variables",
+      "teks": "7.1(B)",
+      "teks_description": "Use scientific practices to plan investigations (identifying variables)",
+      "prompt": "This topic covers identifying independent and dependent variables in scientific investigations for Grade 7 students (TEKS 7.1(B)). Students distinguish between the variable changed by the experimenter (independent) and the variable measured as a response (dependent). Key concepts include: the independent variable is what is changed on purpose, the dependent variable is what is measured/observed, controlled variables are kept constant, and the dependent variable depends on the independent variable. Vocabulary: independent variable, dependent variable, controlled variable, constant, experiment, respond, manipulate. Common misconceptions: reversing independent and dependent and forgetting controlled variables. Practice should include identifying variables in experiments appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Experimental design: Identify the experimental question",
+      "teks": "7.1(A)",
+      "teks_description": "Ask questions and define problems based on observations",
+      "prompt": "This topic covers identifying the experimental question for Grade 7 science students (TEKS 7.1(A)). Students formulate clear, testable questions that can be investigated through experiments. Key concepts include: a good experimental question identifies what is being tested, specifies the variables, can be answered through data collection, and leads to a clear hypothesis. Vocabulary: experimental question, testable, hypothesis, variable, investigation, predict, observe. Common misconceptions: writing questions that are too broad or untestable and confusing questions with hypotheses. Practice should include evaluating and writing questions appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Experimental design: Identify questions that can be investigated with a set of materials",
+      "teks": "7.1(A)",
+      "teks_description": "Ask questions and define problems based on observations",
+      "prompt": "This topic covers identifying questions that can be investigated with given materials for Grade 7 science students (TEKS 7.1(A)). Students evaluate which questions are testable given a specific set of materials and equipment. Key concepts include: matching questions to available resources, understanding limitations of materials, designing feasible investigations, and distinguishing testable from untestable questions. Vocabulary: testable, investigation, materials, equipment, feasible, limitation, observation, measurement. Common misconceptions: thinking any question can be tested with any materials and not considering practical constraints. Practice should include evaluating questions against material lists appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Experimental design: Understand an experimental protocol about plant growth",
+      "teks": "7.1(B)",
+      "teks_description": "Use scientific practices to plan investigations",
+      "prompt": "This topic covers understanding experimental protocols about plant growth for Grade 7 science students (TEKS 7.1(B)). Students analyze and interpret a detailed experimental procedure studying factors affecting plant growth. Key concepts include: identifying variables (light, water, soil, fertilizer), understanding the control setup, interpreting data tables and graphs of growth measurements, and drawing conclusions about what factors affect plant growth. Vocabulary: protocol, plant growth, variable, control, measurement, data, conclusion, photosynthesis, germination. Common misconceptions: thinking plants only need sunlight (forgetting water, nutrients) and not controlling variables properly. Practice should include protocol analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Experimental design: Understand an experimental protocol about diffusion",
+      "teks": "7.1(B)",
+      "teks_description": "Use scientific practices to plan investigations",
+      "prompt": "This topic covers understanding experimental protocols about diffusion for Grade 7 science students (TEKS 7.1(B)). Students analyze experiments studying the movement of particles from high to low concentration. Key concepts include: diffusion as passive movement of molecules, concentration gradients, factors affecting diffusion rate (temperature, concentration difference, particle size), experimental setup with indicators, and data interpretation. Vocabulary: diffusion, concentration, gradient, particles, molecules, membrane, indicator, rate, passive transport. Common misconceptions: thinking diffusion requires energy and that it stops when equilibrium is reached (it continues but net movement is zero). Practice should include protocol analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Data collection: Collect and record data using the International System of Units (SI) and qualitative means such as labeled drawings, writing, and graphic organizers",
+      "teks": "7.1(E)",
+      "teks_description": "Collect quantitative and qualitative data using SI units",
+      "prompt": "This topic covers collecting and recording data using SI units for Grade 7 science students (TEKS 7.1(E)). Students use the International System of Units (metric system) and qualitative methods to collect and organize data. Key concepts include: using SI units (meters, kilograms, liters, degrees Celsius), recording data in organized tables, using labeled drawings and graphic organizers, distinguishing quantitative from qualitative data, and appropriate significant figures. Vocabulary: SI units, metric system, meter, kilogram, liter, Celsius, qualitative, quantitative, data table. Common misconceptions: confusing SI with customary units and not recording units with measurements. Practice should include data collection activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Data collection: Choose metric units of distance, mass, and volume",
+      "teks": "7.1(E)",
+      "teks_description": "Collect quantitative and qualitative data using SI units",
+      "prompt": "This topic covers choosing appropriate metric units for Grade 7 science students (TEKS 7.1(E)). Students select the correct metric unit for measuring distance, mass, and volume in various situations. Key units include: distance (millimeters, centimeters, meters, kilometers), mass (milligrams, grams, kilograms), volume (milliliters, liters), and understanding the relative sizes of each. Vocabulary: metric, meter, centimeter, millimeter, kilometer, gram, kilogram, milligram, liter, milliliter, unit. Common misconceptions: using inappropriate units (e.g., kilometers for pencil length) and confusing mass with weight. Practice should include matching units to measurements appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Data analysis: Construct tables and graphs, using repeated trials and means, to organize data and identify patterns",
+      "teks": "7.1(F)",
+      "teks_description": "Construct tables, graphs, maps, and charts using repeated trials",
+      "prompt": "This topic covers constructing tables and graphs for data analysis for Grade 7 science students (TEKS 7.1(F)). Students organize data into tables and graphs to identify patterns. Key concepts include: creating data tables with proper labels and units, choosing appropriate graph types (bar, line, circle), using repeated trials and calculating means, labeling axes and titles, and identifying trends and patterns in graphed data. Vocabulary: data table, graph, bar graph, line graph, axis, label, title, mean, trend, pattern, trial. Common misconceptions: not labeling axes, choosing inappropriate graph types, and not using consistent scales. Practice should include data organization exercises appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Data analysis: Use data from tests to compare engineering-design solutions",
+      "teks": "7.2(D)",
+      "teks_description": "Evaluate experimental and engineering designs",
+      "prompt": "This topic covers using data to compare engineering design solutions for Grade 7 science students (TEKS 7.2(D)). Students analyze test data to evaluate and compare different engineering designs. Key concepts include: defining criteria and constraints, collecting performance data, comparing designs using data tables and graphs, identifying trade-offs, and selecting the best solution based on evidence. Vocabulary: engineering design, criteria, constraints, data, compare, evaluate, trade-off, solution, performance, evidence. Common misconceptions: choosing designs based on preference rather than data and not considering all criteria. Practice should include design comparison scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Data analysis: Analyze data to formulate reasonable explanations, communicate valid conclusions supported by the data, and predict trends",
+      "teks": "7.2(B)",
+      "teks_description": "Analyze data by identifying statistical features and patterns",
+      "prompt": "This topic covers analyzing data to formulate explanations and predict trends for Grade 7 science students (TEKS 7.2(B)). Students use data analysis to develop evidence-based explanations and make predictions. Key concepts include: identifying patterns and trends in data, formulating explanations supported by evidence, distinguishing conclusions from inferences, communicating findings clearly, and predicting future trends. Vocabulary: analyze, data, explanation, conclusion, trend, pattern, evidence, predict, inference. Common misconceptions: confusing correlation with causation, making claims not supported by data, and over-generalizing from limited data. Practice should include data interpretation scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Critical thinking: Evaluate claims about natural resource use: groundwater",
+      "teks": "7.4(B)",
+      "teks_description": "Make informed decisions by evaluating evidence from multiple sources",
+      "prompt": "This topic covers evaluating claims about natural resource use for Grade 7 science students (TEKS 7.4(B)). Students critically evaluate evidence-based claims about how humans use natural resources, particularly groundwater. Key concepts include: understanding groundwater systems (aquifers, recharge, depletion), evaluating evidence quality, identifying bias in claims, and making informed decisions about resource management. Vocabulary: groundwater, aquifer, recharge, depletion, natural resource, claim, evidence, bias, sustainability. Common misconceptions: thinking groundwater is unlimited, not understanding recharge rates, and accepting claims without evidence. Practice should include evaluating resource claims appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Critical thinking: Factors affecting climate: altitude",
+      "teks": "7.4(B)",
+      "teks_description": "Make informed decisions by evaluating evidence from multiple sources",
+      "prompt": "This topic covers how altitude affects climate for Grade 7 science students (TEKS 7.4(B)). Students evaluate evidence about how altitude influences temperature and climate patterns. Key concepts include: temperature decreases with altitude (approximately 6.5 degrees C per 1000m), the effect on precipitation (orographic effect), treeline and snow line, and why mountains have different climate zones at different elevations. Vocabulary: altitude, elevation, temperature, climate, lapse rate, orographic effect, treeline, precipitation. Common misconceptions: confusing altitude with latitude and thinking altitude only affects temperature. Practice should include evidence evaluation about altitude effects appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Critical thinking: Analyze data to compare properties of planets",
+      "teks": "7.2(C)",
+      "teks_description": "Use mathematical calculations to assess quantitative relationships",
+      "prompt": "This topic covers analyzing data to compare planetary properties for Grade 7 science students (TEKS 7.2(C)). Students use mathematical calculations to compare properties of planets in our solar system. Key concepts include: comparing diameter, mass, distance from the Sun, orbital period, number of moons, and surface conditions, using ratios and proportional reasoning, and organizing data for comparison. Vocabulary: planet, diameter, mass, orbit, orbital period, terrestrial, gas giant, solar system, ratio. Common misconceptions: thinking planet size correlates with distance from the Sun and confusing orbital period with rotation period. Practice should include data comparison appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Models: Use models to represent aspects of the natural world such as human body systems and plant and animal cells",
+      "teks": "7.1(G)",
+      "teks_description": "Develop and use models to represent phenomena and systems",
+      "prompt": "This topic covers using models to represent natural phenomena for Grade 7 science students (TEKS 7.1(G)). Students develop and use physical, mathematical, and conceptual models to represent and understand complex systems. Key concepts include: understanding that models are simplified representations, identifying what a model shows and its limitations, using models to make predictions, and revising models based on new evidence. Vocabulary: model, representation, prediction, limitation, system, phenomena, simplified, accurate. Common misconceptions: thinking models are exact replicas and not recognizing their limitations. Practice should include model analysis and creation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Models: Plant cell diagrams - label parts",
+      "teks": "7.1(G)",
+      "teks_description": "Develop and use models to represent phenomena and systems",
+      "prompt": "This topic covers labeling plant cell diagrams for Grade 7 science students (TEKS 7.1(G)). Students identify and label the key structures of a plant cell. Key structures include: cell wall, cell membrane, nucleus, chloroplast, large central vacuole, mitochondria, endoplasmic reticulum (smooth and rough), Golgi body, ribosomes, and cytoplasm. Key concepts include: understanding each organelle's function, recognizing structures unique to plant cells (cell wall, chloroplast, large vacuole), and comparing with animal cells. Vocabulary: cell wall, cell membrane, nucleus, chloroplast, vacuole, mitochondria, endoplasmic reticulum, Golgi body, ribosome, cytoplasm. Common misconceptions: confusing cell wall with cell membrane and thinking animal cells have chloroplasts. Practice should include labeling and function matching appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Models: Animal cell diagrams - label parts",
+      "teks": "7.1(G)",
+      "teks_description": "Develop and use models to represent phenomena and systems",
+      "prompt": "This topic covers labeling animal cell diagrams for Grade 7 science students (TEKS 7.1(G)). Students identify and label the key structures of an animal cell. Key structures include: cell membrane, nucleus, mitochondria, endoplasmic reticulum (smooth and rough), Golgi body, ribosomes, lysosomes, cytoplasm, and centrioles. Key concepts include: understanding each organelle's function, recognizing structures unique to animal cells (centrioles, lysosomes, no cell wall), and comparing with plant cells. Vocabulary: cell membrane, nucleus, mitochondria, lysosome, centriole, endoplasmic reticulum, Golgi body, ribosome, cytoplasm. Common misconceptions: thinking animal cells have cell walls and confusing organelle functions. Practice should include labeling activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Models: Organization in the human body",
+      "teks": "7.1(G)",
+      "teks_description": "Develop and use models to represent phenomena and systems",
+      "prompt": "This topic covers modeling organization in the human body for Grade 7 science students (TEKS 7.1(G)). Students use models to represent the hierarchical organization from cells to the organism level. Key concepts include: cells as the basic unit of life, cells forming tissues, tissues forming organs, organs forming organ systems, organ systems working together in the organism, and examples at each level. Vocabulary: cell, tissue, organ, organ system, organism, hierarchy, organization, model. Common misconceptions: thinking all cells are the same and not understanding how levels connect. Practice should include creating and interpreting models appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Advantages and limitations of models: Analyze models of the Earth-Sun-Moon system",
+      "teks": "7.2(A)",
+      "teks_description": "Identify advantages and limitations of models",
+      "prompt": "This topic covers analyzing models of the Earth-Sun-Moon system for Grade 7 science students (TEKS 7.2(A)). Students evaluate models that represent the relationships and movements within this system. Key concepts include: Earth's rotation (day/night), Earth's revolution around the Sun (seasons), Moon's revolution around Earth (lunar phases), eclipses, and the advantages and limitations of various models. Vocabulary: rotation, revolution, orbit, axis, tilt, eclipse, lunar phases, model, scale, limitation. Common misconceptions: thinking seasons are caused by distance from the Sun, confusing rotation with revolution, and not recognizing model limitations. Practice should include model evaluation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Impact of research: Explore the engineering-design process: going to the Moon!",
+      "teks": "7.4(A)",
+      "teks_description": "Relate impact of past and current research on scientific thought and society",
+      "prompt": "This topic covers the engineering design process through the context of lunar exploration for Grade 7 science students (TEKS 7.4(A)). Students explore how engineering design was applied to space missions. Key concepts include: the engineering design process (identify problem, research, design, build, test, redesign), challenges of space travel (no atmosphere, extreme temperatures, radiation, microgravity), historical Moon missions, and how scientific research impacts society. Vocabulary: engineering design, prototype, criteria, constraint, iteration, spacecraft, lunar, mission, technology. Common misconceptions: thinking engineering design is linear and that first designs are always final. Practice should include design challenge activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Laboratory tools: Identify laboratory tools",
+      "teks": "7.1(D)",
+      "teks_description": "Use appropriate tools for observation and measurement",
+      "prompt": "This topic covers identifying laboratory tools for Grade 7 science students (TEKS 7.1(D)). Students recognize common lab instruments and their uses: graduated cylinder (liquid volume), beaker (holding liquids), triple beam balance (mass), thermometer (temperature), microscope (magnification), spring scale (force), hot plate, test tubes, Erlenmeyer flask, forceps. Vocabulary: graduated cylinder, beaker, triple beam balance, thermometer, microscope, spring scale, Erlenmeyer flask, pipette, forceps. Common misconceptions: confusing beakers with graduated cylinders for measurement and misreading meniscus. Practice should include identification exercises appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Safety equipment: Laboratory safety equipment",
+      "teks": "7.1(C)",
+      "teks_description": "Use appropriate safety equipment and practices during investigations",
+      "prompt": "This topic covers laboratory safety equipment for Grade 7 science students (TEKS 7.1(C)). Students identify the purpose and proper use of common safety equipment in the laboratory. Key equipment includes: safety goggles (eye protection), lab apron (body protection), fire extinguisher, fire blanket, eyewash station, safety shower, fume hood, first aid kit, and broken glass container. Key concepts include: knowing when each piece of equipment is needed, proper usage procedures, and equipment locations. Vocabulary: safety goggles, apron, fire extinguisher, fire blanket, eyewash station, fume hood, first aid kit. Common misconceptions: thinking safety equipment is only for emergencies. Practice should include safety equipment identification and scenarios appropriate for 12-13 year olds."
+    }
+  ]
+}

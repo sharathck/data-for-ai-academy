@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Statistics",
+  "subject": "Inference for Quantitative Data: Slopes",
+  "skills": [
+    {
+      "skill": "9.1 Introducing Statistics: Do Those Points Align?",
+      "ref": "VAR-9.A",
+      "prompt": "This topic introduces inference for regression slopes for AP Statistics (CED: VAR-9.A, Unit 9, Topic 9.1). In simple linear regression, the sample slope b estimates the population slope beta (the true linear relationship between x and y). Due to sampling variability, different samples produce different slopes. The question: is the observed linear relationship real (beta != 0) or just due to chance (beta = 0)? Key concepts: the regression model is y = alpha + beta*x + epsilon, where epsilon is normally distributed error with mean 0 and constant SD sigma; inference for slope uses the t-distribution. This topic motivates confidence intervals and hypothesis tests for beta. AP exam note: students should understand that inference for slopes determines whether a linear relationship exists in the population, not just the sample. Vocabulary: regression slope, population slope beta, sample slope b, sampling variability, linear model, error term."
+    },
+    {
+      "skill": "9.2 Confidence Intervals for the Slope of a Regression Model",
+      "ref": "UNC-4.U, UNC-4.V, UNC-4.W",
+      "prompt": "This topic covers confidence intervals for the regression slope for AP Statistics (CED: UNC-4.U, UNC-4.V, UNC-4.W, Unit 9, Topic 9.2). The CI for beta is b +/- t* * SE_b with df = n-2, where SE_b is the standard error of the slope (from computer output). Conditions: Linear (scatterplot shows linear pattern), Independent (observations independent, 10% condition), Normal (residuals approximately normal -- check residual plot and normal probability plot), Equal variance (residual plot shows constant spread) -- LINE conditions. Key concepts: the CI gives a range of plausible values for the true slope; SE_b is typically read from regression output. AP exam note: conditions must be checked using residual plots and normal probability plots. The CI should be interpreted in context: 'We are 95% confident that for each additional [x-unit], the true mean [y] changes by between [lower] and [upper] [y-units].' Vocabulary: confidence interval, slope, standard error, t-distribution, LINE conditions, residual plot, degrees of freedom."
+    },
+    {
+      "skill": "9.3 Justifying a Claim About the Slope of a Regression Model Based on a Confidence Interval",
+      "ref": "UNC-4.X, UNC-4.Y",
+      "prompt": "This topic covers using CIs for slope to justify claims for AP Statistics (CED: UNC-4.X, UNC-4.Y, Unit 9, Topic 9.3). If the CI for beta does not contain 0, there is evidence of a linear relationship; if it contains 0, there is not convincing evidence. Key concepts: if the entire CI is positive, there is evidence of a positive linear relationship; if entirely negative, a negative relationship; the width of the CI indicates precision of the slope estimate. Students should connect CI results to the corresponding hypothesis test conclusion. AP exam note: students should state whether 0 is in the CI and draw the appropriate conclusion about the existence and direction of the linear relationship in context. Vocabulary: confidence interval, slope, claim, contains zero, linear relationship, direction, evidence, justification."
+    },
+    {
+      "skill": "9.4 Setting Up a Test for the Slope of a Regression Model",
+      "ref": "UNC-4.Z, UNC-4.AA",
+      "prompt": "This topic covers setting up a t-test for regression slope for AP Statistics (CED: UNC-4.Z, UNC-4.AA, Unit 9, Topic 9.4). Hypotheses: H0: beta = 0 (no linear relationship) vs. Ha: beta < 0, beta > 0, or beta != 0. Conditions: LINE (Linear, Independent, Normal residuals, Equal variance). Test statistic: t = b/SE_b with df = n-2. Key concepts: the null hypothesis beta = 0 means x has no linear effect on y; the test statistic and SE_b are typically read from computer regression output; students should be able to identify these values from output tables (look for the slope row). AP exam note: hypotheses use beta (not b), stated in context. Students must check LINE conditions using residual plots. Vocabulary: t-test for slope, null hypothesis, alternative, beta, test statistic, standard error, LINE conditions."
+    },
+    {
+      "skill": "9.5 Carrying Out a Test for the Slope of a Regression Model",
+      "ref": "UNC-4.AB, DAT-3.I",
+      "prompt": "This topic covers carrying out a t-test for slope for AP Statistics (CED: UNC-4.AB, DAT-3.I, Unit 9, Topic 9.5). Compute t = b/SE_b (or read from output), find p-value from t-distribution with df = n-2, compare to alpha, and conclude. Key concepts: the p-value tests whether the observed slope could have occurred by chance if beta = 0; a small p-value provides evidence of a real linear relationship. Reading computer output: the t-statistic and p-value are in the coefficients table, typically in the row for the explanatory variable. Students should present the complete four-step procedure. AP exam note: students must identify the correct values from computer output, show the test setup, and conclude in context. The conclusion should reference both the slope and the variables involved. Vocabulary: t-test for slope, p-value, computer output, t-statistic, degrees of freedom, conclude, linear relationship."
+    },
+    {
+      "skill": "9.6 Skills Focus: Selecting an Appropriate Inference Procedure",
+      "ref": "DAT-3.J",
+      "prompt": "This topic covers selecting the appropriate inference procedure across all AP Statistics topics (CED: DAT-3.J, Unit 9, Topic 9.6). Students must choose among all learned procedures: one-sample z (proportion CI/test), two-sample z (proportion CI/test), one-sample t (mean CI/test), two-sample t (mean CI/test), chi-square GOF, chi-square homogeneity/independence, and linear regression t (slope CI/test). Decision factors: (1) What type of variable? Categorical = proportions/chi-square; quantitative = means/regression. (2) How many groups/variables? One, two, or association. (3) CI or test? Estimating vs. testing a claim. Students should justify their choice and implement the complete procedure. AP exam note: the investigative task requires selecting and justifying the appropriate procedure. Students must clearly explain why the procedure fits the data and question. This is the capstone skill of the course. Vocabulary: procedure selection, proportions, means, chi-square, regression, confidence interval, hypothesis test, justify, communicate."
+    }
+  ]
+}

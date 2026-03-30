@@ -1,0 +1,86 @@
+{
+  "grade": "Grade 7",
+  "subject": "Maths - Expressions, equations, and relationships",
+  "skills": [
+    {
+      "skill": "Identify independent and dependent variables",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers identifying independent and dependent variables for Grade 7 students (TEKS 7.7(A)). Students distinguish between the manipulated/chosen variable (independent) and the responding variable (dependent). Key concepts include: independent on x-axis, dependent on y-axis, dependent depends on independent. Examples: time vs. distance, hours worked vs. earnings. Vocabulary: independent variable, dependent variable, input, output, relationship, function. Common misconceptions: reversing which is independent and dependent. Practice should include identifying variables from scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Find a value using two-variable equations",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers finding values using two-variable equations for Grade 7 students (TEKS 7.7(A)). Students substitute a value for one variable and solve for the other. Key concepts include: substitution, evaluating expressions, solving one- and two-step equations, and interpreting solution pairs. Vocabulary: equation, variable, substitute, evaluate, solve, input, output, ordered pair. Common misconceptions: substituting into the wrong variable and computation errors. Practice should include real-world equations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Evaluate two-variable equations: word problems",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers evaluating two-variable equations through word problems for Grade 7 students (TEKS 7.7(A)). Students translate situations into two-variable equations and evaluate for given inputs. Key concepts include: identifying the relationship, writing the equation, substituting, and interpreting results. Vocabulary: equation, variable, evaluate, substitute, input, output, relationship. Common misconceptions: wrong operations in setup and not interpreting answers in context. Practice should include distance, cost, and measurement problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Complete a table for a two-variable relationship",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers completing tables for two-variable relationships for Grade 7 students (TEKS 7.7(A)). Students use an equation or rule to fill in missing table values. Key concepts include: substituting inputs to find outputs, recognizing patterns, finding either variable, and connecting tables to graphs. Vocabulary: table, equation, input, output, variable, relationship, pattern, rule. Common misconceptions: applying the rule incorrectly and confusing columns. Practice should include linear and simple nonlinear relationships appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Write a two-variable equation",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers writing two-variable equations for Grade 7 students (TEKS 7.7(A)). Students translate verbal descriptions into algebraic equations with two variables. Key concepts include: identifying two changing quantities, determining the relationship, using appropriate variables, and writing the equation. Vocabulary: equation, variable, relationship, translate, expression, coefficient, constant. Common misconceptions: confusing variable representations and using wrong operations. Practice should include cost, distance, and measurement problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Identify the graph of an equation",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers identifying the graph of an equation for Grade 7 students (TEKS 7.7(A)). Students match equations to their graphs on a coordinate plane. Key concepts include: testing graph points in the equation, recognizing graph shapes from equation types, identifying slope and y-intercept, and understanding every graph point is a solution. Vocabulary: graph, equation, coordinate plane, solution, linear, slope, y-intercept. Common misconceptions: not testing enough points and misreading axis scales. Practice should include matching activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Graph a two-variable equation",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers graphing two-variable equations for Grade 7 students (TEKS 7.7(A)). Students create graphs by plotting points from a table of values. Key concepts include: making a table of values, plotting ordered pairs, connecting points, and understanding the graph shows all solutions. Vocabulary: graph, equation, coordinate plane, ordered pair, plot, table of values, x-axis, y-axis. Common misconceptions: reversing x and y coordinates and not using enough points. Practice should include graphing linear equations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Interpret a graph: word problems",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers interpreting graphs through word problems for Grade 7 students (TEKS 7.7(A)). Students read and analyze graphs to answer real-world questions. Key concepts include: identifying what axes represent, reading specific values, describing trends, interpreting key features, and making predictions. Vocabulary: graph, axis, trend, increase, decrease, constant, rate of change, interpret. Common misconceptions: misreading scale, confusing axes, and unjustified predictions. Practice should include distance-time and cost graphs appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Write an equation from a graph using a table",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers writing equations from graphs using tables for Grade 7 students (TEKS 7.7(A)). Students read coordinate points from a graph, organize in a table, identify the pattern, and write the equation. Key concepts include: selecting clear points, organizing data, finding rate of change and starting value, and writing the equation. Vocabulary: graph, table, equation, coordinate, rate of change, pattern, y-intercept, slope. Common misconceptions: misreading points and identifying wrong patterns. Practice should include linear graphs with integer points appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Write a linear equation from a graph",
+      "teks": "7.7(A)",
+      "prompt": "This topic covers writing linear equations from graphs for Grade 7 students (TEKS 7.7(A)). Students determine the equation by identifying slope and y-intercept from the graph. Key concepts include: finding y-intercept where the line crosses y-axis, calculating slope as rise over run, and writing in y = mx + b form. Vocabulary: linear equation, slope, y-intercept, rise, run, y = mx + b, graph, coordinate. Common misconceptions: miscalculating slope, confusing x-intercept with y-intercept. Practice should include lines with various slopes and intercepts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Write one-variable two-step equations",
+      "teks": "7.10(A)",
+      "prompt": "This topic covers writing one-variable two-step equations for Grade 7 students (TEKS 7.10(A)). Students translate verbal descriptions into algebraic equations requiring two steps to solve. Key concepts include: identifying the unknown, determining the two operations, writing the equation, and verifying. Vocabulary: equation, variable, two-step, translate, operation, expression, coefficient, constant. Common misconceptions: using wrong operations and writing steps in wrong order. Practice should include age, money, and geometry problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Write one-variable two-step inequalities",
+      "teks": "7.10(A)",
+      "prompt": "This topic covers writing one-variable two-step inequalities for Grade 7 students (TEKS 7.10(A)). Students translate comparison language into algebraic inequalities. Key concepts include: recognizing inequality language (at least, no more than), choosing the correct symbol, writing with two operations, and understanding strict vs. non-strict inequalities. Vocabulary: inequality, variable, at least, no more than, greater than, less than. Common misconceptions: choosing wrong direction and confusing strict vs. non-strict. Practice should include real-world constraint problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Represent equations and inequalities on number lines",
+      "teks": "7.10(B)",
+      "prompt": "This topic covers representing equations and inequalities on number lines for Grade 7 students (TEKS 7.10(B)). Students graph solutions on number lines using open/closed circles and shading. Key concepts include: closed circle for equal-to, open circle for strict inequalities, shading left for less-than and right for greater-than, and single points for equations. Vocabulary: equation, inequality, number line, open circle, closed circle, shade, solution set. Common misconceptions: wrong circle type and shading wrong direction. Practice should include graphing and interpreting representations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Determine solutions to equations and inequalities",
+      "teks": "7.11(B)",
+      "prompt": "This topic covers determining solutions to equations and inequalities for Grade 7 students (TEKS 7.11(B)). Students test values and solve algebraically. Key concepts include: substitution to check, solving two-step equations with inverse operations, solving inequalities (flipping sign when multiplying/dividing by negative), and interpreting solution sets. Vocabulary: solution, equation, inequality, substitute, satisfy, inverse operation, solution set. Common misconceptions: not flipping inequality sign when multiplying/dividing by negative and thinking inequalities have one solution. Practice should include both checking and solving appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Solve equations using geometric concepts",
+      "teks": "7.11(C)",
+      "prompt": "This topic covers solving equations using geometric concepts for Grade 7 students (TEKS 7.11(C)). Students write and solve equations based on geometric relationships like angle measures, perimeters, and areas. Key concepts include: using geometric formulas and properties (supplementary, complementary, triangle angle sum, perimeter) to set up equations, solving for unknowns, and verifying solutions geometrically. Vocabulary: equation, angle, supplementary, complementary, perimeter, area, triangle angle sum, solve. Common misconceptions: using incorrect geometric relationships and not checking geometric validity. Practice should include angle and measurement problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Algebraic reasoning with angles and sides of geometric figures",
+      "teks": "7.11(C)",
+      "prompt": "This topic covers algebraic reasoning with angles and sides of geometric figures for Grade 7 students (TEKS 7.11(C)). Students apply algebra to solve problems involving geometric properties. Key concepts include: writing expressions for unknown angles/sides, using triangle angle sum (180 degrees), supplementary/complementary relationships, and solving resulting equations. Vocabulary: algebraic expression, angle, side, triangle, supplementary, complementary, equation, solve. Common misconceptions: applying wrong geometric property and errors in algebraic setup. Practice should include multi-step geometric algebra appropriate for 12-13 year olds."
+    }
+  ]
+}

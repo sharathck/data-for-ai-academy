@@ -1,0 +1,168 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Statistics And Probability",
+  "skills": [
+    {
+      "skill": "Descriptive Statistics (Measures of Center and Spread)",
+      "teks": "S.4(E)",
+      "teks_description": "Compare and contrast meaningful information derived from summary statistics given a data set",
+      "prompt": "This topic covers summary statistics for Statistics and Probability students (TEKS S.4E). Students should calculate and interpret mean, median, mode (center), and range, IQR, standard deviation, variance (spread). Key concepts: mean is sensitive to outliers; median is resistant; standard deviation measures typical distance from the mean; IQR captures the middle 50%. Students should compare distributions using these statistics and justify which measures are most appropriate for skewed vs. symmetric data. Vocabulary: mean, median, mode, range, IQR, standard deviation, variance, outlier, resistant measure, five-number summary, box plot. Common errors: using mean for heavily skewed data, miscalculating quartiles, and confusing population vs. sample standard deviation formulas."
+    },
+    {
+      "skill": "Probability Foundations and Axioms",
+      "teks": "S.5(A)",
+      "teks_description": "Determine probabilities including the use of a two-way table",
+      "prompt": "This topic covers foundational probability theory for Statistics and Probability students (TEKS S.5A). Students should understand Kolmogorov's axioms: P(E) >= 0 for all events; P(S) = 1 for the sample space; P(A or B) = P(A)+P(B) for mutually exclusive events. Key concepts: sample space, events, complement rule P(A') = 1-P(A), addition rule for non-mutually exclusive events P(A or B) = P(A)+P(B)-P(A and B), two-way tables for organizing probabilities. Vocabulary: sample space, event, outcome, probability, complement, mutually exclusive, union, intersection, Venn diagram, two-way table. Common errors: double-counting in the addition rule, confusing mutually exclusive with independent, and probabilities exceeding 1."
+    },
+    {
+      "skill": "Random Variables (Discrete and Continuous)",
+      "teks": "S.5(C)",
+      "teks_description": "Construct a distribution based on technology-generated simulation for a discrete random variable",
+      "prompt": "This topic covers random variables for Statistics and Probability students (TEKS S.5C). Students should distinguish between discrete (countable outcomes) and continuous (measurable on an interval) random variables, construct probability distributions, and compute expected values and standard deviations. Key concepts: probability mass function (discrete), probability density function (continuous), cumulative distribution function, and the requirement that probabilities sum/integrate to 1. Vocabulary: random variable, discrete, continuous, probability distribution, probability mass function, density function, cumulative distribution. Common errors: treating continuous variables as discrete, probabilities not summing to 1, and confusing probability with frequency."
+    },
+    {
+      "skill": "Probability Distributions (Binomial, Poisson, Normal)",
+      "teks": "S.5(C)",
+      "teks_description": "Construct a distribution for a discrete random variable based on simulation or collected samples",
+      "prompt": "This topic covers major probability distributions for Statistics and Probability students (TEKS S.5C). Binomial: fixed n trials, two outcomes, P(X=k) = C(n,k)*p^k*(1-p)^(n-k). Poisson: models rare events, P(X=k) = (lambda^k * e^(-lambda))/k!. Normal: continuous bell curve defined by mean mu and standard deviation sigma, 68-95-99.7 empirical rule. Key concepts: identifying which distribution fits a scenario, computing probabilities using formulas and tables, normal approximation to binomial, and z-score standardization. Vocabulary: binomial, Poisson, normal, bell curve, parameters, z-score, standard normal. Common errors: misidentifying distribution type, using wrong parameters, and forgetting continuity correction."
+    },
+    {
+      "skill": "Combinatorics (Permutations and Combinations)",
+      "teks": "G.13(A)",
+      "teks_description": "Develop strategies using permutations and combinations",
+      "prompt": "This topic covers counting methods for Statistics and Probability students (TEKS G.13A). Permutations (order matters): nPr = n!/(n-r)!. Combinations (order does not matter): nCr = n!/((n-r)!r!). Key concepts: fundamental counting principle, factorial notation, distinguishing when order matters, counting with/without replacement, and applications to probability. Vocabulary: permutation, combination, factorial, fundamental counting principle, with replacement, without replacement, distinguishable, indistinguishable. Students should solve real-world counting problems and connect to probability calculations. Common errors: using permutations when combinations are needed, factorial arithmetic mistakes, and overcounting."
+    },
+    {
+      "skill": "Conditional Probability and Bayes' Theorem",
+      "teks": "S.5(A)",
+      "teks_description": "Determine probabilities including conditional probability using two-way tables",
+      "prompt": "This topic covers conditional probability for Statistics and Probability students (TEKS S.5A). P(A|B) = P(A and B)/P(B). Bayes' Theorem: P(A|B) = P(B|A)*P(A)/P(B). Key concepts: two-way tables, tree diagrams, partition of sample space, total probability theorem P(B) = sum P(B|Ai)*P(Ai), and applications to medical testing (sensitivity, specificity, PPV, NPV). Vocabulary: conditional probability, Bayes' Theorem, prior, posterior, sensitivity, specificity, false positive, false negative, base rate. Common errors: confusing P(A|B) with P(B|A), ignoring base rates (base rate fallacy), and misinterpreting medical test results."
+    },
+    {
+      "skill": "Expected Value and Variance",
+      "teks": "S.5(D)",
+      "teks_description": "Compare statistical measures such as sample mean and standard deviation from sampling distributions",
+      "prompt": "This topic covers expected value and variance for Statistics and Probability students (TEKS S.5D). Expected value E(X) = sum of x*P(x) for discrete variables. Variance Var(X) = E(X^2) - [E(X)]^2 or sum of (x-mu)^2*P(x). Standard deviation = sqrt(Var(X)). Key concepts: E(X) as long-run average, linearity of expectation E(aX+b) = aE(X)+b, variance of linear transformations Var(aX+b) = a^2*Var(X), and comparing distributions using these measures. Vocabulary: expected value, variance, standard deviation, linear transformation, independent. Common errors: confusing expected value with most likely outcome, forgetting to square a in variance transformations, and mixing population and sample formulas."
+    },
+    {
+      "skill": "Law of Large Numbers and Central Limit Theorem",
+      "teks": "S.5(B)",
+      "teks_description": "Describe the relationship between theoretical and empirical probabilities using the Law of Large Numbers",
+      "prompt": "This topic covers foundational limit theorems for Statistics and Probability students (TEKS S.5B). The Law of Large Numbers states that as sample size increases, the sample mean approaches the population mean. The Central Limit Theorem states that for large n, the sampling distribution of the sample mean is approximately normal with mean mu and standard deviation sigma/sqrt(n), regardless of population shape. Key concepts: sampling distribution, standard error, why CLT enables inference, and the n >= 30 guideline. Vocabulary: Law of Large Numbers, Central Limit Theorem, sampling distribution, standard error, convergence. Common errors: applying CLT with too-small samples, confusing standard deviation with standard error, and thinking CLT requires normal population."
+    },
+    {
+      "skill": "Hypothesis Testing and p-Values",
+      "teks": "S.6(H)",
+      "teks_description": "Interpret p-values relative to significance levels to determine whether to reject the null hypothesis",
+      "prompt": "This topic covers hypothesis testing for Statistics and Probability students (TEKS S.6H). Students should state null (H0) and alternative (Ha) hypotheses, calculate test statistics, determine p-values, and make decisions at a given significance level (alpha). Key concepts: Type I error (rejecting true H0), Type II error (failing to reject false H0), one-tailed vs. two-tailed tests, p-value as probability of observing data as extreme as or more extreme than sample given H0 is true. Vocabulary: null hypothesis, alternative hypothesis, test statistic, p-value, significance level, Type I error, Type II error, power, reject, fail to reject. Common errors: saying 'accept H0' instead of 'fail to reject,' interpreting p-value as P(H0 is true), and confusing statistical with practical significance."
+    },
+    {
+      "skill": "Confidence Intervals and Estimation",
+      "teks": "S.6(C)",
+      "teks_description": "Calculate confidence intervals for population means when normally distributed with known standard deviation",
+      "prompt": "This topic covers confidence intervals for Statistics and Probability students (TEKS S.6C). For population mean with known sigma: CI = x-bar +/- z*(sigma/sqrt(n)). Key concepts: confidence level (percentage of intervals that contain the true parameter in repeated sampling), margin of error, relationship between confidence level and interval width, effect of sample size on precision, and conditions for valid inference (random sample, normality or large n). Vocabulary: confidence interval, margin of error, confidence level, point estimate, critical value, z-score, standard error. Common errors: interpreting confidence level as probability the parameter is in a specific interval, forgetting conditions, and confusing confidence level with probability."
+    },
+    {
+      "skill": "Correlation and Regression Analysis",
+      "teks": "S.7(B)",
+      "teks_description": "Transform a linear parent function to determine a line of best fit",
+      "prompt": "This topic covers linear regression for Statistics and Probability students (TEKS S.7B). Students should find the line of best fit (least squares regression), interpret slope and intercept in context, and assess model fit. Key concepts: correlation coefficient r, coefficient of determination r^2, residuals, residual plots, influential points, and extrapolation dangers. Vocabulary: regression, slope, intercept, correlation, coefficient of determination, residual, residual plot, influential point, lurking variable, extrapolation. Students should distinguish between correlation and causation. Common errors: extrapolating far beyond data range, confusing r with r^2, treating regression as proving causation, and ignoring residual patterns."
+    },
+    {
+      "skill": "Analysis of Variance (ANOVA)",
+      "teks": "S.6(I)",
+      "teks_description": "Analyze hypothesis test outcomes using technology covering tests for proportions, means, and group differences",
+      "prompt": "This topic covers ANOVA for Statistics and Probability students (TEKS S.6I). ANOVA tests whether means of three or more groups are equal by comparing within-group variability to between-group variability. Key concepts: F-statistic = MS_between/MS_within, null hypothesis (all group means are equal), assumptions (independent random samples, approximately normal populations, equal variances), and post-hoc tests for identifying which groups differ. Vocabulary: ANOVA, F-statistic, mean square, sum of squares, between-group, within-group, degrees of freedom, post-hoc test, Tukey's HSD. Common errors: using multiple t-tests instead of ANOVA (inflating Type I error), violating assumptions, and misinterpreting a significant F-test."
+    },
+    {
+      "skill": "Chi-Square Tests (Goodness-of-Fit, Independence)",
+      "teks": "S.6(I)",
+      "teks_description": "Analyze hypothesis test outcomes using technology-based statistical tests",
+      "prompt": "This topic covers chi-square tests for Statistics and Probability students (TEKS S.6I). Goodness-of-fit tests whether observed frequencies match expected frequencies. Test of independence tests whether two categorical variables are associated using a contingency table. Key concepts: chi-square statistic = sum((observed-expected)^2/expected), degrees of freedom, expected cell counts (must be >= 5), and interpreting results. Vocabulary: chi-square, goodness-of-fit, test of independence, contingency table, observed frequency, expected frequency, degrees of freedom, categorical data. Common errors: using chi-square on quantitative data, expected counts too small, and confusing goodness-of-fit with independence tests."
+    },
+    {
+      "skill": "Sampling Methods and Distributions",
+      "teks": "S.2(A)",
+      "teks_description": "Evaluate benefits of different sampling techniques including random and convenience sampling",
+      "prompt": "This topic covers sampling techniques for Statistics and Probability students (TEKS S.2A). Students should evaluate: simple random sampling (every subset equally likely), stratified sampling (divide into strata, sample from each), cluster sampling (randomly select whole clusters), systematic sampling (every kth element), and convenience sampling (non-random, biased). Key concepts: sampling frame, sampling bias, undercoverage, response bias, nonresponse bias, and how sampling method affects validity of inference. Vocabulary: population, sample, sampling frame, simple random sample, stratified, cluster, systematic, convenience, bias, representative. Common errors: confusing stratified with cluster sampling, assuming any sample is representative, and not recognizing sources of bias."
+    },
+    {
+      "skill": "Standard Normal Distribution and Z-Scores",
+      "teks": "S.5(D)",
+      "teks_description": "Compare statistical measures from simulated sampling distribution to theoretical sampling distribution",
+      "prompt": "This topic covers the standard normal distribution for Statistics and Probability students (TEKS S.5D). Z-score = (x - mu)/sigma standardizes any normal distribution to mean 0, standard deviation 1. Key concepts: using z-tables or technology to find probabilities, finding values from given probabilities (inverse normal), comparing values from different distributions using z-scores, and the empirical rule (68-95-99.7). Vocabulary: standard normal, z-score, standardize, normal distribution, bell curve, percentile, empirical rule, probability density. Common errors: forgetting to subtract 1 for right-tail probabilities, using z-tables incorrectly, and applying normal calculations to non-normal data."
+    },
+    {
+      "skill": "t-Distributions and Small Sample Inference",
+      "teks": "S.6(I)",
+      "teks_description": "Analyze hypothesis test outcomes using technology for proportions, means, and differences",
+      "prompt": "This topic covers t-distributions for Statistics and Probability students (TEKS S.6I). When population sigma is unknown, use t-distribution with df = n-1. Key concepts: t-distribution is bell-shaped but with heavier tails than normal, approaches normal as df increases, one-sample t-test and t-interval for population mean, paired t-test for matched pairs, two-sample t-procedures for comparing means. Vocabulary: t-distribution, degrees of freedom, t-statistic, t-interval, one-sample, two-sample, paired, pooled, Welch's approximation. Common errors: using z instead of t when sigma is unknown, incorrect degrees of freedom, and violating normality assumption with small samples without checking."
+    },
+    {
+      "skill": "F-Distributions",
+      "teks": "S.6(I)",
+      "teks_description": "Analyze hypothesis test outcomes using technology including F-distribution based tests",
+      "prompt": "This topic covers the F-distribution for Statistics and Probability students (TEKS S.6I). The F-distribution is used in ANOVA and for comparing two population variances. F = s1^2/s2^2 follows an F-distribution with (n1-1, n2-1) degrees of freedom under H0 of equal variances. Key concepts: F-distribution is right-skewed and non-negative, depends on two df parameters (numerator and denominator), connection to ANOVA F-tests, and Levene's test for equal variances. Vocabulary: F-distribution, F-statistic, numerator degrees of freedom, denominator degrees of freedom, variance ratio, homogeneity of variances, Levene's test. Common errors: swapping numerator and denominator df, applying F-test to non-normal data, and confusing F-test in ANOVA with F-test for equal variances."
+    },
+    {
+      "skill": "Nonparametric Tests",
+      "teks": "S.6(I)",
+      "teks_description": "Analyze hypothesis test outcomes using technology-based statistical tests",
+      "prompt": "This topic covers nonparametric statistical tests for Statistics and Probability students (TEKS S.6I). Nonparametric tests do not assume a specific population distribution. Key tests: Wilcoxon signed-rank (paired data), Mann-Whitney U (two independent samples), Kruskal-Wallis (k independent samples), Spearman rank correlation, and sign test. Key concepts: when to use nonparametric vs. parametric tests (small samples, ordinal data, non-normal distributions, outliers), ranking data, and reduced statistical power compared to parametric alternatives. Vocabulary: nonparametric, rank, distribution-free, Wilcoxon, Mann-Whitney, Kruskal-Wallis, Spearman, ordinal, power. Common errors: defaulting to parametric tests with violated assumptions and misinterpreting rank-based results."
+    },
+    {
+      "skill": "Probability Generating Functions",
+      "teks": "S.5(C)",
+      "teks_description": "Construct distributions based on technology-generated simulations",
+      "prompt": "This topic covers probability generating functions (PGFs) for Statistics and Probability students (TEKS S.5C). The PGF of a discrete random variable X is G(s) = E(s^X) = sum P(X=k)*s^k. Key concepts: G(1) = 1, G'(1) = E(X), G''(1) = E(X(X-1)), recovering probabilities from derivatives (P(X=k) = G^(k)(0)/k!), PGF of sum of independent variables is product of their PGFs, and applications to branching processes. Vocabulary: probability generating function, moment generating function, convolution, independent, expected value, factorial moment. Common errors: confusing PGF with moment generating function, convergence issues, and differentiation errors."
+    },
+    {
+      "skill": "Markov Chains (Introduction)",
+      "teks": "S.5(D)",
+      "teks_description": "Compare statistical measures from simulated sampling distributions (extends beyond standard TEKS)",
+      "prompt": "This topic introduces Markov chains for Statistics and Probability students (extends TEKS S.5D). A Markov chain is a sequence of random variables where the future state depends only on the current state (memoryless property). Key concepts: state space, transition matrix, transition probabilities, n-step transition matrix (P^n), stationary/steady-state distribution (pi*P = pi), absorbing states, and regular vs. absorbing chains. Vocabulary: Markov chain, state, transition probability, transition matrix, stationary distribution, steady state, absorbing state, irreducible, aperiodic. Applications: weather modeling, random walks, PageRank. Common errors: violating the Markov property assumption, matrix multiplication errors, and confusing transient with absorbing states."
+    },
+    {
+      "skill": "Monte Carlo Methods (Introduction)",
+      "teks": "S.5(C)",
+      "teks_description": "Construct distributions based on technology-generated simulations",
+      "prompt": "This topic introduces Monte Carlo simulation methods for Statistics and Probability students (TEKS S.5C). Monte Carlo methods use random sampling to estimate mathematical quantities or model complex systems. Key concepts: generating random numbers, simulating random processes, estimating probabilities through repeated trials, estimating integrals and areas, convergence and accuracy (error proportional to 1/sqrt(n)), and variance reduction techniques. Vocabulary: Monte Carlo, simulation, random number generator, trial, convergence, variance reduction, bootstrap, resampling. Applications: estimating pi, option pricing, risk analysis. Common errors: insufficient number of trials, poor random number generation, and misinterpreting simulation results as exact values."
+    },
+    {
+      "skill": "Empirical Rule and Chebyshev's Theorem",
+      "teks": "S.3(D)",
+      "teks_description": "Describe and model variability using population and sampling distributions",
+      "prompt": "This topic covers rules for data spread for Statistics and Probability students (TEKS S.3D). The Empirical Rule (for normal distributions): approximately 68% of data within 1 SD, 95% within 2 SD, 99.7% within 3 SD of the mean. Chebyshev's Theorem (for any distribution): at least 1-1/k^2 of data lies within k standard deviations of the mean (k > 1). Key concepts: when to apply each rule (Empirical requires normality; Chebyshev applies universally), identifying unusual observations, and connecting to z-scores. Vocabulary: Empirical Rule, Chebyshev's Theorem, standard deviation, normal distribution, bell-shaped, unusual value. Common errors: applying the Empirical Rule to non-normal data, miscomputing Chebyshev's fraction, and confusing the two rules."
+    },
+    {
+      "skill": "Transformations of Random Variables",
+      "teks": "S.3(C)",
+      "teks_description": "Distinguish among different sources of variability including measurement, natural, induced, and sampling",
+      "prompt": "This topic covers how operations on random variables affect their distributions for Statistics and Probability students (TEKS S.3C). Key results: E(aX+b) = aE(X)+b, Var(aX+b) = a^2*Var(X), SD(aX+b) = |a|*SD(X). For independent variables: E(X+Y) = E(X)+E(Y), Var(X+Y) = Var(X)+Var(Y). Key concepts: linear transformations, combining independent random variables, standardization as a special transformation, and sources of variability (measurement, natural, induced, sampling). Vocabulary: transformation, linear combination, independence, additive, expected value, variance, standard deviation. Common errors: adding variances of dependent variables, forgetting to square the constant for variance, and confusing SD addition rules."
+    },
+    {
+      "skill": "Statistical Inference and Decision Making",
+      "teks": "S.6(F)",
+      "teks_description": "Describe how sample statistics serve as evidence contradicting claims about population parameters",
+      "prompt": "This topic covers drawing conclusions from data for Statistics and Probability students (TEKS S.6F). Students should understand how sample statistics provide evidence about population parameters and make informed decisions using confidence intervals and hypothesis tests. Key concepts: point estimates, sampling distributions, margins of error, significance levels, power analysis, and communicating statistical findings clearly. Vocabulary: inference, parameter, statistic, point estimate, interval estimate, significance, power, decision, evidence, conclusion. Students should evaluate claims using data and communicate uncertainty. Common errors: confusing sample statistics with population parameters, overstating conclusions from non-significant results, and ignoring practical significance."
+    },
+    {
+      "skill": "Power and Sample Size Calculations",
+      "teks": "S.6(B)",
+      "teks_description": "Explain how adjustments to sample size, confidence level, and standard deviation influence margin of error",
+      "prompt": "This topic covers statistical power and sample size determination for Statistics and Probability students (TEKS S.6B). Power = P(rejecting H0 when H0 is false) = 1 - P(Type II error). Key concepts: factors affecting power (sample size, significance level, effect size, variability), how increasing n increases power, trade-offs between alpha and beta, calculating required sample size for desired power and margin of error. Vocabulary: power, Type II error, beta, effect size, sample size, margin of error, significance level, alpha, detectable difference. Common errors: confusing power with significance level, not considering effect size, and using inadequate sample sizes for detecting meaningful differences."
+    },
+    {
+      "skill": "Bootstrap Methods",
+      "teks": "S.5(C)",
+      "teks_description": "Construct distributions based on technology-generated simulations or collected samples",
+      "prompt": "This topic covers bootstrap resampling for Statistics and Probability students (TEKS S.5C). The bootstrap estimates the sampling distribution of a statistic by resampling with replacement from the original sample. Key concepts: resampling with replacement, generating bootstrap distribution, constructing bootstrap confidence intervals (percentile method, BCa), estimating standard errors without formulas, and when bootstrap is appropriate. Vocabulary: bootstrap, resampling, with replacement, bootstrap distribution, percentile interval, standard error, nonparametric. Applications: estimating CI for median, correlation, regression coefficients. Common errors: resampling without replacement (that's permutation), too few bootstrap samples, and applying to very small original samples."
+    },
+    {
+      "skill": "Time Series Analysis (Basic Concepts)",
+      "teks": "S.7(A)",
+      "teks_description": "Examine scatterplots to identify patterns, linearity, outliers, and influential points",
+      "prompt": "This topic introduces time series analysis for Statistics and Probability students (TEKS S.7A). Students should examine sequential data for patterns including trend, seasonality, and random variation. Key concepts: time plot, trend (long-term direction), seasonal component (repeating pattern within fixed periods), cyclical component, decomposition (additive vs. multiplicative), moving averages for smoothing, and autocorrelation. Vocabulary: time series, trend, seasonal, cyclical, residual, moving average, autocorrelation, decomposition, stationary, forecast. Common errors: confusing seasonal and cyclical patterns, not accounting for trend when analyzing seasonality, and overfitting short time series."
+    }
+  ]
+}

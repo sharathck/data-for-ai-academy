@@ -1,0 +1,91 @@
+{
+  "grade": "High School - Algebra II",
+  "subject": "Mathematics - Systems of equations and inequalities",
+  "skills": [
+    {
+      "skill": "Solve a system of equations by graphing: word problems",
+      "teks": "2A.3(A)",
+      "prompt": "This topic covers solving systems by graphing from word problems for Algebra II students (TEKS 2A.3(A)). Students translate scenarios into two equations, graph both, and identify intersection(s) as solutions. Systems may include linear, quadratic, or exponential equations. Key vocabulary: system, intersection, solution, graph. Students verify solutions algebraically. Common errors: inaccurate graphing, misidentifying intersections, and not verifying."
+    },
+    {
+      "skill": "Solve a system of equations using substitution: word problems",
+      "teks": "2A.3(A)",
+      "prompt": "This topic covers solving systems by substitution from word problems for Algebra II students (TEKS 2A.3(A)). Isolate one variable in one equation, substitute into the other, solve. Best when one equation is already solved for a variable. Key vocabulary: substitution, isolate, system, solution. Common errors: distribution mistakes, not solving for both variables, and not verifying."
+    },
+    {
+      "skill": "Solve a system of equations using elimination: word problems",
+      "teks": "2A.3(A)",
+      "prompt": "This topic covers solving systems by elimination from word problems for Algebra II students (TEKS 2A.3(A)). Multiply equations to create opposite coefficients, add to eliminate a variable, solve, back-substitute. Key vocabulary: elimination, linear combination, coefficient. Common errors: forgetting to multiply all terms, sign errors, and not finding both variables."
+    },
+    {
+      "skill": "Solve a system of equations using any method: word problems",
+      "teks": "2A.3(A)",
+      "prompt": "This topic covers solving systems using any method from word problems for Algebra II students (TEKS 2A.3(A)). Students choose the most efficient method (graphing, substitution, elimination) based on problem structure and solve. Key vocabulary: system of equations, method selection, solution. Common errors: choosing an inefficient method, incorrect setup, and not interpreting solutions in context."
+    },
+    {
+      "skill": "Solve a system of equations using augmented matrices: word problems",
+      "teks": "2A.3(B)",
+      "prompt": "This topic covers solve a system of equations using augmented matrices (word problems) for Algebra II students (TEKS 2A.3(B)). Write augmented matrix [A|b], use row operations to reach row-echelon form. Row operations: swap rows, multiply by nonzero constant, add multiple of one row to another. Key vocabulary includes: augmented matrix, row operations, row echelon form, pivot. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve a system of three linear equations in three variables using substitution",
+      "teks": "2A.3(B)",
+      "prompt": "This topic covers solve a system of three linear equations in three variables using substitution for Algebra II students (TEKS 2A.3(B)). Solve 3x3 systems systematically: eliminate one variable using two equation pairs, reduce to 2x2, solve, back-substitute. Key vocabulary includes: three-variable system, elimination, ordered triple, back-substitution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve a system of three linear equations in three variables using elimination",
+      "teks": "2A.3(B)",
+      "prompt": "This topic covers solve a system of three linear equations in three variables using elimination for Algebra II students (TEKS 2A.3(B)). Solve 3x3 systems systematically: eliminate one variable using two equation pairs, reduce to 2x2, solve, back-substitute. Key vocabulary includes: three-variable system, elimination, ordered triple, back-substitution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve, algebraically, systems of two equations in two variables consisting of a linear equation and a quadratic equation;",
+      "teks": "2A.3(C)",
+      "prompt": "This topic covers solve, algebraically, systems of two equations in two variables consisting of a linear equation and a quadratic equation; for Algebra II students (TEKS 2A.3(C)). Use substitution: solve linear for one variable, substitute into quadratic, solve the resulting quadratic. Systems can have 0, 1, or 2 solutions. Key vocabulary includes: linear-quadratic system, substitution, intersection, discriminant. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve a system of linear and quadratic equations: parabolas",
+      "teks": "2A.3(C)",
+      "prompt": "This topic covers solve a system of linear and quadratic equations (parabolas) for Algebra II students (TEKS 2A.3(C)). Use substitution: solve linear for one variable, substitute into quadratic, solve the resulting quadratic. Systems can have 0, 1, or 2 solutions. Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve a system of linear and quadratic equations by graphing: parabolas",
+      "teks": "2A.3(D)",
+      "prompt": "This topic covers solve a system of linear and quadratic equations by graphing (parabolas) for Algebra II students (TEKS 2A.3(D)). Use substitution: solve linear for one variable, substitute into quadratic, solve the resulting quadratic. Systems can have 0, 1, or 2 solutions. Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Formulate systems of at least two linear inequalities in two variables;",
+      "teks": "2A.3(E)",
+      "prompt": "This topic covers formulate systems of at least two linear inequalities in two variables; for Algebra II students (TEKS 2A.3(E)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve systems of two or more linear inequalities in two variables;",
+      "teks": "2A.3(F)",
+      "prompt": "This topic covers solve systems of two or more linear inequalities in two variables; for Algebra II students (TEKS 2A.3(F)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve systems of linear inequalities by graphing",
+      "teks": "2A.3(F)",
+      "prompt": "This topic covers solve systems of linear inequalities by graphing for Algebra II students (TEKS 2A.3(F)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Find the vertices of a solution set for a system of linear inequalities",
+      "teks": "2A.3(F)",
+      "prompt": "This topic covers find the vertices of a solution set for a system of linear inequalities for Algebra II students (TEKS 2A.3(F)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Linear programming",
+      "teks": "2A.3(F)",
+      "prompt": "This topic covers linear programming for Algebra II students (TEKS 2A.3(F)). Optimize an objective function subject to linear inequality constraints. Evaluate objective at each vertex of the feasible region; optimal value occurs at a vertex. Key vocabulary includes: objective function, constraints, feasible region, vertex, optimize. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Determine possible solutions in the solution set of systems of two or more linear inequalities in two variables.",
+      "teks": "2A.3(G)",
+      "prompt": "This topic covers determine possible solutions in the solution set of systems of two or more linear inequalities in two variables. for Algebra II students (TEKS 2A.3(G)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Is (x, y) a solution to the system of inequalities?",
+      "teks": "2A.3(G)",
+      "prompt": "This topic covers is (x, y) a solution to the system of inequalities? for Algebra II students (TEKS 2A.3(G)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    }
+  ]
+}

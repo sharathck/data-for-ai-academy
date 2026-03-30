@@ -1,0 +1,166 @@
+{
+  "grade": "High School - Algebra II",
+  "subject": "Mathematics - Number and algebraic methods",
+  "skills": [
+    {
+      "skill": "Add, subtract, and multiply complex numbers;",
+      "teks": "2A.7(A)",
+      "prompt": "This topic covers operations with complex numbers for Algebra II students (TEKS 2A.7(A)). Complex numbers: a+bi where i=sqrt(-1), i^2=-1. Add/subtract: combine real and imaginary parts separately. Multiply using FOIL and replace i^2 with -1. Key vocabulary: complex number, real part, imaginary part, imaginary unit. Write answers in a+bi form. Common errors: forgetting i^2=-1, sign errors, and not separating real/imaginary parts."
+    },
+    {
+      "skill": "Add and subtract complex numbers",
+      "teks": "2A.7(A)",
+      "prompt": "This topic covers adding and subtracting complex numbers for Algebra II students (TEKS 2A.7(A)). For a+bi form: add/subtract real parts and imaginary parts separately. (3+4i)+(2-7i)=5-3i. Treat i as a variable and combine like terms. Key vocabulary: complex number, real part, imaginary part, like terms. Common errors: combining real with imaginary, sign errors, and not writing in a+bi form."
+    },
+    {
+      "skill": "Complex conjugates",
+      "teks": "2A.7(A)",
+      "prompt": "This topic covers complex conjugates for Algebra II students (TEKS 2A.7(A)). The conjugate of a+bi is a-bi. Product: (a+bi)(a-bi)=a^2+b^2 (always real). Used for division and rationalizing. Complex roots come in conjugate pairs. Key vocabulary: conjugate, rationalize, conjugate pair. Common errors: not negating only the imaginary part, and confusing conjugate with negative."
+    },
+    {
+      "skill": "Multiply complex numbers",
+      "teks": "2A.7(A)",
+      "prompt": "This topic covers multiplying complex numbers for Algebra II students (TEKS 2A.7(A)). Use FOIL and replace i^2 with -1. (a+bi)(c+di)=(ac-bd)+(ad+bc)i. Powers of i cycle: i, -1, -i, 1. Key vocabulary: FOIL, i^2=-1, powers of i, standard form a+bi. Common errors: forgetting i^2=-1, not combining terms, and sign errors."
+    },
+    {
+      "skill": "Add, subtract, and multiply polynomials;",
+      "teks": "2A.7(B)",
+      "prompt": "This topic covers adding and subtracting polynomials for Algebra II students (TEKS 2A.7(B)). To add: combine like terms (same variable, same power). To subtract: distribute the negative sign, then combine like terms. Like terms have identical variable parts. Write results in standard form (descending powers). Vocabulary: polynomial, like terms, coefficient, degree, standard form, distribute. Common errors: not distributing the negative to all terms when subtracting, combining unlike terms, and not writing in standard form."
+    },
+    {
+      "skill": "Add and subtract polynomials",
+      "teks": "2A.7(B)",
+      "prompt": "This topic covers adding and subtracting polynomials for Algebra II students (TEKS 2A.7(B)). To add: combine like terms (same variable, same power). To subtract: distribute the negative sign, then combine like terms. Like terms have identical variable parts. Write results in standard form (descending powers). Vocabulary: polynomial, like terms, coefficient, degree, standard form, distribute. Common errors: not distributing the negative to all terms when subtracting, combining unlike terms, and not writing in standard form."
+    },
+    {
+      "skill": "Multiply polynomials",
+      "teks": "2A.7(B)",
+      "prompt": "This topic covers multiply polynomials for Algebra II students (TEKS 2A.7(B)). Students distribute each term of one polynomial to every term of the other, then combine like terms. The degree of the product equals the sum of the factors' degrees. Write results in standard form (descending degree). Key vocabulary includes: polynomial, distribute, product, like terms, degree, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: missing terms during distribution, exponent errors, sign mistakes, not combining all like terms."
+    },
+    {
+      "skill": "Determine the quotient of a polynomial of degree three and of degree four when divided by a polynomial of degree one and of degree two;",
+      "teks": "2A.7(C)",
+      "prompt": "This topic covers dividing polynomials of degree 3-4 by degree 1-2 divisors for Algebra II students (TEKS 2A.7(C)). Use long division or synthetic division. The Remainder Theorem: f(c) equals the remainder when dividing by (x-c). Results: quotient + remainder/divisor. Key vocabulary: polynomial division, quotient, remainder, long division, synthetic division, Remainder Theorem. Common errors: missing placeholder terms, subtraction errors, and setup mistakes."
+    },
+    {
+      "skill": "Divide polynomials using long division",
+      "teks": "2A.7(C)",
+      "prompt": "This topic covers dividing polynomials using long division for Algebra II students (TEKS 2A.7(C)). Process mirrors numerical long division: divide leading terms, multiply divisor by result, subtract, bring down next term, repeat until remainder has degree less than divisor. Include placeholder terms (0x^n) for missing degrees. Result: quotient + remainder/divisor. Vocabulary: dividend, divisor, quotient, remainder, leading term. Common errors: forgetting placeholders, subtraction errors, and stopping too early."
+    },
+    {
+      "skill": "Divide polynomials using synthetic division",
+      "teks": "2A.7(C)",
+      "prompt": "This topic covers dividing polynomials using synthetic division for Algebra II students (TEKS 2A.7(C)). A shortcut for dividing by (x-c). Setup: write c on left, coefficients across top (include 0 for missing terms). Process: bring down first coefficient, multiply by c, add to next, repeat. Last number is remainder; others are quotient coefficients. By the Factor Theorem, remainder 0 means (x-c) is a factor. Vocabulary: synthetic division, coefficient, remainder, Factor Theorem. Common errors: using wrong sign for c, missing placeholder coefficients, and arithmetic errors."
+    },
+    {
+      "skill": "Determine the linear factors of a polynomial function of degree three and of degree four using algebraic methods;",
+      "teks": "2A.7(D)",
+      "prompt": "This topic covers factoring polynomials for Algebra II students (TEKS 2A.7(D)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+    },
+    {
+      "skill": "Factor polynomials",
+      "teks": "2A.7(D)",
+      "prompt": "This topic covers factoring polynomials for Algebra II students (TEKS 2A.7(D)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+    },
+    {
+      "skill": "Determine linear and quadratic factors of a polynomial expression of degree three and of degree four, including factoring the sum and difference of two cubes and factoring by grouping;",
+      "teks": "2A.7(E)",
+      "prompt": "This topic covers solving quadratic equations by factoring for Algebra II students (TEKS 2A.7(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+    },
+    {
+      "skill": "Factor using a quadratic pattern",
+      "teks": "2A.7(E)",
+      "prompt": "This topic covers factoring using a quadratic pattern for Algebra II students (TEKS 2A.7(E)). Some degree-4 polynomials are quadratics in disguise: x^4-5x^2+6=(x^2-2)(x^2-3) using u=x^2 substitution. Steps: identify pattern, substitute u=x^n, factor as quadratic, substitute back. Key vocabulary: quadratic pattern, u-substitution, factor. Common errors: not recognizing the pattern, forgetting to substitute back."
+    },
+    {
+      "skill": "Factor by grouping",
+      "teks": "2A.7(E)",
+      "prompt": "This topic covers factoring by grouping for Algebra II students (TEKS 2A.7(E)). For four-term polynomials: group into pairs, factor GCF from each, extract common binomial. Example: x^3+3x^2+2x+6=x^2(x+3)+2(x+3)=(x^2+2)(x+3). Key vocabulary: grouping, GCF, common factor, binomial factor. Common errors: wrong grouping, sign errors, and groups not sharing a common binomial."
+    },
+    {
+      "skill": "Factor sums and differences of cubes",
+      "teks": "2A.7(E)",
+      "prompt": "This topic covers factoring sums/differences of cubes for Algebra II students (TEKS 2A.7(E)). a^3+b^3=(a+b)(a^2-ab+b^2), a^3-b^3=(a-b)(a^2+ab+b^2). SOAP mnemonic: Same, Opposite, Always Positive. Perfect cubes: 1,8,27,64,125,216. Key vocabulary: sum of cubes, difference of cubes, SOAP. The trinomial factor is irreducible. Common errors: confusing with difference of squares, sign errors."
+    },
+    {
+      "skill": "Factor polynomials",
+      "teks": "2A.7(E)",
+      "prompt": "This topic covers factoring polynomials for Algebra II students (TEKS 2A.7(E)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+    },
+    {
+      "skill": "Determine the sum, difference, product, and quotient of rational expressions with integral exponents of degree one and of degree two;",
+      "teks": "2A.7(F)",
+      "prompt": "This topic covers operations with rational expressions for Algebra II students (TEKS 2A.7(F)). Add/subtract using LCD. Multiply: factor, cancel, multiply. Divide: multiply by reciprocal. Factor completely before canceling. State domain restrictions. Key vocabulary: rational expression, LCD, factor, reciprocal, excluded value, simplify. Common errors: canceling terms instead of factors, wrong LCD, and forgetting domain restrictions."
+    },
+    {
+      "skill": "Multiply and divide rational expressions",
+      "teks": "2A.7(F)",
+      "prompt": "This topic covers multiplying and dividing rational expressions for Algebra II students (TEKS 2A.7(F)). Multiply: factor all, cancel common factors, multiply remaining. Divide: multiply by reciprocal. State all excluded values. Key vocabulary: rational expression, factor, cancel, reciprocal, excluded value. Common errors: canceling before factoring, forgetting to flip divisor, and missing excluded values."
+    },
+    {
+      "skill": "Add and subtract rational expressions",
+      "teks": "2A.7(F)",
+      "prompt": "This topic covers adding and subtracting rational expressions for Algebra II students (TEKS 2A.7(F)). Steps: factor denominators, find LCD, multiply each fraction to achieve LCD, add/subtract numerators, simplify. State excluded values. Key vocabulary: rational expression, LCD, common denominator, simplify, excluded value. Common errors: wrong LCD, not adjusting numerators, sign errors when subtracting."
+    },
+    {
+      "skill": "Rewrite radical expressions that contain variables to equivalent forms;",
+      "teks": "2A.7(G)",
+      "prompt": "This topic covers rewriting radical expressions with variables for Algebra II students (TEKS 2A.7(G)). Convert between radical and rational exponent notation: nth root of x^m = x^(m/n). Simplify by extracting perfect powers. Consider absolute value for even-index roots with variable expressions. Key vocabulary: radical, rational exponent, simplify, rationalize, absolute value. Common errors: not considering even-root sign issues and incomplete simplification."
+    },
+    {
+      "skill": "Simplify radical expressions with variables I",
+      "teks": "2A.7(G)",
+      "prompt": "This topic covers simplifying radical expressions with variables (introductory) for Algebra II students (TEKS 2A.7(G)). Students simplify expressions like sqrt(x^6), cbrt(8x^3y^9) by extracting perfect powers. For sqrt(x^n): divide exponent by 2; quotient goes outside, remainder stays inside. Factor coefficients into perfect squares/cubes, divide variable exponents by index. Assume variables are positive unless stated otherwise. Vocabulary: radical, index, perfect square, perfect cube, simplify. Common errors: not fully extracting, exponent division errors, and forgetting to simplify coefficients."
+    },
+    {
+      "skill": "Simplify radical expressions with variables II",
+      "teks": "2A.7(G)",
+      "prompt": "This topic covers simplifying more complex radical expressions with variables for Algebra II students (TEKS 2A.7(G)). Problems involve products and quotients of radicals, rationalizing denominators with variables, and combining operations. Apply: sqrt(a)*sqrt(b) = sqrt(ab), sqrt(a/b) = sqrt(a)/sqrt(b), and rationalization. Multiple steps may be needed. Vocabulary: radical, product rule, quotient rule, rationalize, conjugate. Common errors: not simplifying completely, rationalization errors, and errors combining radical expressions."
+    },
+    {
+      "skill": "Convert between rational exponents and radicals",
+      "teks": "2A.7(G)",
+      "prompt": "This topic covers converting between rational exponents and radical notation for Algebra II students (TEKS 2A.7(G)). Key relationships: x^(1/n) = nth root of x, x^(m/n) = nth root of (x^m) = (nth root of x)^m. Convert fluently in both directions. Examples: x^(2/3) = cbrt(x^2); sqrt[4](x^3) = x^(3/4). Vocabulary: rational exponent, radical, nth root, index, radicand, equivalent forms. Common errors: confusing root vs power in m/n, and notation errors."
+    },
+    {
+      "skill": "Solve equations involving rational exponents;",
+      "teks": "2A.7(H)",
+      "prompt": "This topic covers solving equations with rational exponents for Algebra II students (TEKS 2A.7(H)). Steps: isolate the term with rational exponent, raise both sides to reciprocal power, solve, check for extraneous solutions. Example: x^(2/3) = 9 gives x = 9^(3/2) = 27. For even-index roots, check non-negativity. Vocabulary: rational exponent, reciprocal power, isolate, extraneous solution. Common errors: not using reciprocal exponent, forgetting +/- for even roots, and not checking."
+    },
+    {
+      "skill": "Solve equations with rational exponents",
+      "teks": "2A.7(H)",
+      "prompt": "This topic covers solving equations with rational exponents for Algebra II students (TEKS 2A.7(H)). Steps: isolate the term with rational exponent, raise both sides to reciprocal power, solve, check for extraneous solutions. Example: x^(2/3) = 9 gives x = 9^(3/2) = 27. For even-index roots, check non-negativity. Vocabulary: rational exponent, reciprocal power, isolate, extraneous solution. Common errors: not using reciprocal exponent, forgetting +/- for even roots, and not checking."
+    },
+    {
+      "skill": "Write the domain and range of a function in interval notation, inequalities, and set notation.",
+      "teks": "2A.7(I)",
+      "prompt": "This topic covers write the domain and range of a function in interval notation, inequalities, and set notation. for Algebra II students (TEKS 2A.7(I)). Express domain/range three ways: interval notation (-inf, 3) U (3, inf), inequality notation x < 3 or x > 3, set notation {x | x is not 3}. Key vocabulary includes: domain, range, interval notation, set notation, inequality notation, union. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Domain and range",
+      "teks": "2A.7(I)",
+      "prompt": "This topic covers determining domain and range of various function types for Algebra II students (TEKS 2A.7(I)). Rational: exclude denominator zeros. Radical (even index): radicand>=0. Log: argument>0. Polynomial: domain always all reals. Express in interval, inequality, or set notation. Key vocabulary: domain, range, restriction, excluded value, asymptote. Common errors: missing restrictions, confusing domain/range, and notation errors."
+    },
+    {
+      "skill": "Domain and range of quadratic functions: graphs",
+      "teks": "2A.7(I)",
+      "prompt": "This topic covers domain and range of quadratic functions from graphs for Algebra II students (TEKS 2A.7(I)). The domain of any quadratic function is all real numbers. The range depends on direction: if the parabola opens up (a > 0), range is [vertex y-value, infinity); if down (a < 0), range is (-infinity, vertex y-value]. Students identify the vertex as the minimum or maximum point on the graph and read its coordinates carefully. They express answers in interval notation, inequality notation, or set-builder notation. Vocabulary: parabola, vertex, minimum, maximum, domain, range, opens up, opens down. Common errors: stating range as all real numbers, confusing minimum with maximum, using parentheses instead of brackets at the vertex, and misreading vertex coordinates."
+    },
+    {
+      "skill": "Domain and range of polynomials",
+      "teks": "2A.7(I)",
+      "prompt": "This topic covers domain and range of polynomial functions for Algebra II students (TEKS 2A.7(I)). Domain is always all real numbers. Range: odd-degree has all reals; even-degree is restricted by the global minimum or maximum. Analyze end behavior and extrema. Key vocabulary: polynomial, degree, domain, range, end behavior, extrema. Common errors: assuming all polynomials have range of all reals."
+    },
+    {
+      "skill": "Domain and range of radical functions",
+      "teks": "2A.7(I)",
+      "prompt": "This topic covers domain and range of radical functions for Algebra II students (TEKS 2A.7(I)). For square root functions f(x) = a*sqrt(x-h) + k: domain is [h, inf) since radicand must be >= 0. Range is [k, inf) if a > 0 or (-inf, k] if a < 0. For cube root functions: domain and range are both all real numbers since cube roots exist for all reals. Key vocabulary includes: radical function, radicand, domain restriction, square root, cube root, index. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: forgetting domain restrictions for even-index roots, applying restrictions to odd-index roots."
+    },
+    {
+      "skill": "Domain and range of logarithmic functions",
+      "teks": "2A.7(I)",
+      "prompt": "This topic covers domain and range of logarithmic functions for Algebra II students (TEKS 2A.7(I)). For f(x) = a*log_b(x-h) + k: domain is (h, infinity) because the argument must be positive, range is all real numbers. The vertical asymptote is x = h. The logarithmic function is the inverse of exponential, so domain/range are swapped. Vocabulary: logarithmic function, domain, range, vertical asymptote, argument. Common errors: including the asymptote in the domain, incorrectly stating range is restricted, and sign errors finding h."
+    }
+  ]
+}

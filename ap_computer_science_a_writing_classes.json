@@ -1,0 +1,56 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Writing Classes",
+  "skills": [
+    {
+      "skill": "5.1 Anatomy of a Class",
+      "ref": "MOD-2.A (Unit 5, Topic 5.1)",
+      "prompt": "This topic covers the anatomy of a class for AP CSA students (CED: MOD-2.A, Unit 5, Topic 5.1). Students should understand the components that make up a Java class definition. Key concepts: a class contains instance variables (fields) that define its state, constructors that initialize new objects, and methods that define its behavior; access modifiers (public, private) control visibility; instance variables should be declared private to enforce encapsulation; the class header includes the access modifier and class name. Students should understand the relationship between a class file and the objects it creates, recognize the separation of interface (what a class does) from implementation (how it does it), and read class definitions to understand what objects of that class can do. Vocabulary: class, instance variable, constructor, method, access modifier, public, private, encapsulation, interface, implementation, field."
+    },
+    {
+      "skill": "5.2 Constructors",
+      "ref": "MOD-2.B (Unit 5, Topic 5.2)",
+      "prompt": "This topic covers constructors for AP CSA students (CED: MOD-2.B, Unit 5, Topic 5.2). Students should understand that constructors initialize the state of a new object when it is created with the new keyword. Key concepts: constructors have the same name as the class and no return type; they can be overloaded to accept different parameter lists; a no-argument (default) constructor initializes instance variables to default values; if no constructor is written, Java provides a default no-arg constructor, but if any constructor is written, the default is no longer provided. Students should write constructors that assign parameters to instance variables, understand constructor overloading, and trace object creation through constructor execution. Common pattern: using parameters to set initial state. Vocabulary: constructor, overloading, no-argument constructor, default constructor, initialization, parameter, instance variable, new keyword."
+    },
+    {
+      "skill": "5.3 Documentation with Comments",
+      "ref": "MOD-2.C (Unit 5, Topic 5.3)",
+      "prompt": "This topic covers documentation with comments for AP CSA students (CED: MOD-2.C, Unit 5, Topic 5.3). Students should understand the importance of commenting code and the types of comments available in Java. Key concepts: single-line comments (//) explain individual lines or short sections; multi-line comments (/* */) span multiple lines; Javadoc comments (/** */) generate documentation and describe classes, constructors, and methods including @param and @return tags; preconditions describe what must be true before a method is called; postconditions describe what is true after a method executes. Students should write meaningful comments that explain why, not just what; document preconditions and postconditions for methods; and understand that good documentation makes code maintainable and reusable. Vocabulary: comment, single-line, multi-line, Javadoc, precondition, postcondition, documentation, @param, @return, readability."
+    },
+    {
+      "skill": "5.4 Accessor Methods",
+      "ref": "MOD-2.D (Unit 5, Topic 5.4)",
+      "prompt": "This topic covers accessor methods for AP CSA students (CED: MOD-2.D, Unit 5, Topic 5.4). Students should understand that accessor methods (getters) allow external code to read the values of private instance variables without modifying them. Key concepts: accessor methods are public, have a non-void return type matching the instance variable type, and typically follow the naming convention getVariableName(); they support encapsulation by providing controlled read access; the return statement sends a value back to the caller and exits the method; an accessor for a String returns a reference to the String object. Students should write accessor methods, use return statements correctly, and understand that accessors do not change object state. The toString() method is a special accessor that returns a String representation of the object. Vocabulary: accessor, getter, return type, return statement, encapsulation, toString, read access."
+    },
+    {
+      "skill": "5.5 Mutator Methods",
+      "ref": "MOD-2.E (Unit 5, Topic 5.5)",
+      "prompt": "This topic covers mutator methods for AP CSA students (CED: MOD-2.E, Unit 5, Topic 5.5). Students should understand that mutator methods (setters) allow external code to modify the values of private instance variables in a controlled way. Key concepts: mutator methods are public, have a void return type, and accept parameters that specify new values; they typically follow the naming convention setVariableName(type newValue); mutators can include validation logic to ensure only valid values are assigned (e.g., rejecting negative ages); they modify the object's state. Students should write mutator methods, include appropriate validation, and understand that mutators enforce encapsulation by controlling how instance variables are changed. Contrast with accessor methods: accessors read state, mutators change state. Vocabulary: mutator, setter, void, parameter, validation, encapsulation, state change, instance variable modification."
+    },
+    {
+      "skill": "5.6 Writing Methods",
+      "ref": "MOD-2.F (Unit 5, Topic 5.6)",
+      "prompt": "This topic covers writing methods for AP CSA students (CED: MOD-2.F, Unit 5, Topic 5.6). Students should understand how to design and implement methods that perform computations and encapsulate behavior. Key concepts: methods have a header (access modifier, return type, name, parameters) and a body; methods can be void or return a value; methods can call other methods within the same class; local variables exist only within the method where they are declared; method decomposition breaks complex tasks into smaller, reusable methods. Students should write methods that use instance variables and parameters, return computed values, and call helper methods. Understand that well-designed methods do one thing well, have descriptive names, and reduce code duplication. The method call stack tracks which method is currently executing. Vocabulary: method header, method body, local variable, return statement, method decomposition, helper method, call stack, scope."
+    },
+    {
+      "skill": "5.7 Static Variables and Methods",
+      "ref": "MOD-2.G (Unit 5, Topic 5.7)",
+      "prompt": "This topic covers static variables and methods for AP CSA students (CED: MOD-2.G, Unit 5, Topic 5.7). Students should understand the difference between static (class-level) and non-static (instance-level) members. Key concepts: static variables belong to the class, not to any individual object, and are shared among all instances; static methods can be called using the class name (e.g., Math.sqrt()) without creating an object; static methods cannot access instance variables or call instance methods directly because they have no 'this' reference; the main method is static. Common use: a static variable to count the number of objects created from a class. Students should determine when to use static vs. instance members and understand that static methods operate on the class level, not the object level. Vocabulary: static, class variable, class method, instance variable, instance method, shared state, main method."
+    },
+    {
+      "skill": "5.8 Scope and Access",
+      "ref": "MOD-2.H (Unit 5, Topic 5.8)",
+      "prompt": "This topic covers scope and access for AP CSA students (CED: MOD-2.H, Unit 5, Topic 5.8). Students should understand where variables can be accessed based on where they are declared. Key concepts: instance variables have class scope (accessible throughout the class); local variables have method or block scope (accessible only within the method or block where declared); parameters have method scope; a local variable with the same name as an instance variable shadows the instance variable (use 'this' to distinguish). Access modifiers: private restricts access to within the class; public allows access from any class. Students should identify the scope of any variable, predict which variable is referenced when names conflict, and understand that encapsulation relies on making instance variables private while providing public methods. Vocabulary: scope, access modifier, private, public, local variable, instance variable, shadowing, block scope, encapsulation."
+    },
+    {
+      "skill": "5.9 this Keyword",
+      "ref": "MOD-2.I (Unit 5, Topic 5.9)",
+      "prompt": "This topic covers the this keyword for AP CSA students (CED: MOD-2.I, Unit 5, Topic 5.9). Students should understand that 'this' is a reference to the current object within an instance method or constructor. Key concepts: 'this' is used to distinguish instance variables from parameters with the same name (this.name = name); 'this' can be passed as an argument to other methods when the current object needs to be referenced; 'this' can be used to call another constructor in the same class using this(args) in the first line of a constructor. Students should use 'this' to resolve naming ambiguity in constructors and methods, understand that 'this' is implicit when accessing instance variables without naming conflicts, and recognize that static methods cannot use 'this'. Vocabulary: this keyword, current object, self-reference, constructor chaining, name disambiguation, implicit reference."
+    },
+    {
+      "skill": "5.10 Ethical and Social Implications of Computing Systems",
+      "ref": "IOC-1.A (Unit 5, Topic 5.10)",
+      "prompt": "This topic covers ethical and social implications of computing systems for AP CSA students (CED: IOC-1.A, Unit 5, Topic 5.10). Students should understand the broader impact of computing on society. Key concepts: software can have unintended consequences affecting people's lives; bias in algorithms and data can lead to unfair or discriminatory outcomes; intellectual property considerations including copyright and open-source licensing; the digital divide affects access to technology; privacy concerns arise from data collection and storage; computing innovations can have both beneficial and harmful effects. Students should analyze real-world examples of computing impacts, consider multiple perspectives on technology issues, and understand their responsibility as programmers to write ethical software. This topic connects computer science to its real-world effects and encourages thoughtful consideration of who is affected by the systems programmers build. Vocabulary: ethics, bias, intellectual property, digital divide, privacy, open source, unintended consequences, accessibility."
+    }
+  ]
+}

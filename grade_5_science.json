@@ -1,0 +1,126 @@
+{
+  "grade": "Grade 5",
+  "subject": "Science",
+  "skills": [
+    {
+      "skill": "Properties of matter",
+      "teks": "5.6(A)",
+      "teks_description": "Compare and contrast matter based on measurable, testable, or observable physical properties",
+      "prompt": "This topic covers properties of matter for Grade 5 students (TEKS 5.6(A)). The TEKS standard states: Compare and contrast matter based on measurable, testable, or observable physical properties. Students should understand that matter can be described and classified using observable and measurable physical properties. Key concepts: mass, volume, density, color, texture, hardness, flexibility, magnetism, solubility, and conductivity. Students should distinguish between physical properties that can be observed (color, shape, texture) and those that must be measured (mass, volume, temperature). They should understand that physical properties can be used to identify, classify, and compare different substances. Vocabulary: matter, property, mass, volume, density, texture, hardness, magnetism, solubility, conductivity, classify, observe, measure. Students should practice describing substances using multiple properties and sorting materials into groups based on shared characteristics. Problems should include hands-on observation scenarios and comparison tasks appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Chemical changes",
+      "teks": "5.6(C)",
+      "teks_description": "Compare properties of substances before and after combining to determine if a chemical change has occurred",
+      "prompt": "This topic covers chemical changes for Grade 5 students (TEKS 5.6(C)). The TEKS standard states: Compare properties of substances before and after combining to determine if a chemical change has occurred. Students should understand that chemical changes occur when substances interact to form new substances with different properties. Key concepts: evidence of chemical change includes color change, gas production (bubbles), temperature change, formation of a precipitate, and production of new odors; chemical changes are generally irreversible (unlike most physical changes); common examples include rusting, burning, cooking an egg, and mixing baking soda with vinegar. Students should compare the properties of substances before and after combining them to determine whether a chemical change occurred. Vocabulary: chemical change, reaction, reactant, product, evidence, irreversible, precipitate, gas, temperature change, properties. Problems should involve identifying and providing evidence for chemical changes, appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Physical changes",
+      "teks": "5.6(B)",
+      "teks_description": "Explain how mixtures maintain the physical properties of their ingredients",
+      "prompt": "This topic covers physical changes for Grade 5 students (TEKS 5.6(B)). The TEKS standard states: Explain how mixtures maintain the physical properties of their ingredients. Students should understand that physical changes alter the appearance or form of matter without creating new substances. Key concepts: examples of physical changes include changes of state (melting, freezing, evaporation, condensation), dissolving, cutting, bending, and mixing; in mixtures, the individual substances maintain their original physical properties and can often be separated by physical means; physical changes are generally reversible. Students should understand that when substances are mixed, the physical properties of each ingredient are maintained. Vocabulary: physical change, mixture, dissolve, reversible, state of matter, melting, freezing, evaporation, condensation, properties, separation. Problems should involve identifying physical changes and explaining how mixture components retain properties, appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Food webs and food chains",
+      "teks": "5.12(B)",
+      "teks_description": "Predict ecosystem changes affecting food webs",
+      "prompt": "This topic covers food webs and food chains for Grade 5 students (TEKS 5.12(B)). The TEKS standard states: Predict ecosystem changes affecting food webs. Students should understand that energy flows through ecosystems from producers to consumers to decomposers. Key concepts: producers (plants, algae) make their own food through photosynthesis; primary consumers (herbivores) eat producers; secondary consumers (carnivores) eat primary consumers; tertiary consumers eat secondary consumers; decomposers break down dead organisms and recycle nutrients; food chains show a single path of energy flow; food webs show interconnected food chains in an ecosystem. Students should be able to predict how changes in one population affect others in the food web. Vocabulary: producer, consumer, decomposer, herbivore, carnivore, omnivore, predator, prey, food chain, food web, energy pyramid, ecosystem, trophic level. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "The water cycle",
+      "teks": "5.10(A)",
+      "teks_description": "Explain Sun and ocean interaction in the water cycle",
+      "prompt": "This topic covers the water cycle for Grade 5 students (TEKS 5.10(A)). The TEKS standard states: Explain Sun and ocean interaction in the water cycle. Students should understand that water continuously moves through Earth's systems in a cycle driven by the Sun's energy. Key concepts: evaporation (liquid water becomes water vapor due to heat), condensation (water vapor cools and forms clouds), precipitation (water falls as rain, snow, sleet, or hail), collection/runoff (water gathers in oceans, lakes, rivers, and groundwater). Students should understand that the Sun provides the energy that drives the water cycle and that the total amount of water on Earth remains relatively constant. Vocabulary: water cycle, evaporation, condensation, precipitation, runoff, groundwater, collection, water vapor, clouds, transpiration, aquifer. Students should be able to model and describe each stage of the cycle. Problems should connect to real-world weather observations appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Moon phases and the lunar cycle",
+      "teks": "5.9(A)",
+      "teks_description": "Demonstrate Earth's rotation and day/night cycle (Earth-Sun-Moon system patterns)",
+      "prompt": "This topic covers moon phases and the lunar cycle for Grade 5 students (TEKS 5.9(A)). The TEKS standard states: Demonstrate Earth's rotation and day/night cycle (Earth-Sun-Moon system patterns). Students should understand that the Moon orbits Earth approximately every 29.5 days and its appearance changes in a predictable pattern called the lunar cycle. Key concepts: the eight main phases are new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, third quarter, and waning crescent; the phases are caused by the changing angle between the Sun, Earth, and Moon; the Moon does not produce its own light but reflects sunlight; the lit portion we see changes as the Moon orbits Earth. Vocabulary: lunar cycle, phase, new moon, full moon, waxing, waning, crescent, gibbous, quarter, orbit, reflect, revolve. Problems should involve identifying phases and predicting the sequence, appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "The particle nature of matter",
+      "teks": "5.6(D)",
+      "teks_description": "Illustrate matter composed of particles too small to be seen",
+      "prompt": "This topic covers the particle nature of matter for Grade 5 students (TEKS 5.6(D)). The TEKS standard states: Illustrate matter composed of particles too small to be seen. Students should understand that all matter is composed of tiny particles (atoms and molecules) that are too small to be seen with the naked eye. Key concepts: particles are in constant motion; the speed of particle movement relates to temperature (faster movement = higher temperature); particles in solids vibrate in fixed positions, particles in liquids slide past each other, particles in gases move freely and rapidly; changes of state involve changes in particle energy and arrangement, not changes in the particles themselves. Vocabulary: particle, atom, molecule, matter, motion, energy, solid, liquid, gas, vibrate, arrangement, temperature, kinetic energy, microscopic. Students should be able to model and describe particle arrangements in different states of matter. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Sun and other stars",
+      "teks": "5.9(A)",
+      "teks_description": "Demonstrate Earth's rotation and the role of the Sun",
+      "prompt": "This topic covers the Sun and other stars for Grade 5 students (TEKS 5.9(A)). The TEKS standard states: Demonstrate Earth's rotation and the role of the Sun. Students should understand that the Sun is a star and the primary source of energy for Earth's systems. Key concepts: the Sun is a medium-sized star composed mainly of hydrogen and helium; it produces energy through nuclear fusion; stars vary in size, color, temperature, and brightness; the Sun appears larger and brighter than other stars because it is much closer to Earth; Earth rotates on its axis causing the apparent movement of the Sun across the sky, resulting in day and night. Vocabulary: star, Sun, rotation, axis, day, night, energy, light, heat, solar system, brightness, distance, fusion, hydrogen, helium. Students should understand why the Sun appears different from other stars and how Earth's rotation creates the day-night cycle. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interactions of Earth's spheres",
+      "teks": "5.10(C)",
+      "teks_description": "Model changes to Earth's surface",
+      "prompt": "This topic covers interactions of Earth's spheres for Grade 5 students (TEKS 5.10(C)). The TEKS standard states: Model changes to Earth's surface. Students should understand that Earth is composed of four major interconnected spheres that constantly interact. Key concepts: the geosphere (solid rock, soil, and minerals), hydrosphere (all water on Earth), atmosphere (the layer of gases surrounding Earth), and biosphere (all living things); these spheres interact through processes like the water cycle, weathering, erosion, and nutrient cycling; changes in one sphere affect the others. Students should be able to identify examples of sphere interactions (e.g., rain from the atmosphere weathers the geosphere, plants in the biosphere release oxygen to the atmosphere). Vocabulary: geosphere, hydrosphere, atmosphere, biosphere, interaction, cycle, weathering, erosion, water cycle. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Earth's orbit and rotation",
+      "teks": "5.9(A)",
+      "teks_description": "Demonstrate Earth's rotation causing day and night cycle",
+      "prompt": "This topic covers Earth's orbit and rotation for Grade 5 students (TEKS 5.9(A)). The TEKS standard states: Demonstrate Earth's rotation causing day and night cycle. Students should understand the two main motions of Earth: rotation (spinning on its axis) and revolution (orbiting the Sun). Key concepts: Earth rotates on its axis once every 24 hours, causing day and night; Earth revolves around the Sun once every 365.25 days, which defines a year; Earth's axis is tilted at approximately 23.5 degrees; this tilt combined with revolution causes the seasons as different parts of Earth receive varying amounts of direct sunlight. Students should understand that when the Northern Hemisphere tilts toward the Sun it experiences summer, and when it tilts away it experiences winter. Vocabulary: rotation, revolution, axis, tilt, orbit, season, hemisphere, day, night, year, solstice, equinox. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "How we use food",
+      "teks": "5.12(A)",
+      "teks_description": "Observe organisms and describe how they interact in ecosystems",
+      "prompt": "This topic covers how organisms use food for Grade 5 students (TEKS 5.12(A)). The TEKS standard states: Observe organisms and describe how they interact in ecosystems. Students should understand that organisms depend on food as a source of energy and building materials for growth and repair. Key concepts: organisms obtain energy from food through cellular processes; producers make their own food through photosynthesis; consumers must eat other organisms to obtain energy; food provides nutrients that organisms need for growth, repair, and energy; energy flows through ecosystems from producers to consumers. Students should understand the relationship between food intake and energy use in organisms and how organisms interact within ecosystems to meet their energy needs. Vocabulary: energy, nutrient, producer, consumer, photosynthesis, ecosystem, food chain, food web, organism, interaction, growth, survival. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Water quality and distribution",
+      "teks": "5.11(A)",
+      "teks_description": "Design solutions to minimize environmental impact including conservation and recycling",
+      "prompt": "This topic covers water quality and distribution for Grade 5 students (TEKS 5.11(A)). The TEKS standard states: Design solutions to minimize environmental impact including conservation and recycling. Students should understand that water is a vital resource that must be managed responsibly. Key concepts: most of Earth's water is saltwater in the oceans; only a small percentage is fresh water available for human use; fresh water is found in ice caps, glaciers, groundwater, rivers, and lakes; water quality can be affected by pollution, runoff, and human activities; solutions for water conservation include reducing usage, recycling water, and protecting water sources from contamination. Students should understand the importance of clean water for living things and design solutions to minimize environmental impact. Vocabulary: freshwater, saltwater, groundwater, aquifer, pollution, conservation, filtration, contamination, watershed, runoff, resource. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Matter and its properties",
+      "teks": "5.6(A)",
+      "teks_description": "Compare and contrast matter based on physical properties",
+      "prompt": "This topic covers matter and its properties for Grade 5 students (TEKS 5.6(A)). The TEKS standard states: Compare and contrast matter based on physical properties. Students should understand that all matter has physical properties that can be observed, measured, and used for classification. Key concepts: physical properties include mass, volume, density, color, texture, hardness, flexibility, magnetism, solubility, and state of matter; properties can be qualitative (observed with senses) or quantitative (measured with tools); matter can be classified and compared based on its properties; different materials have different combinations of properties that make them useful for specific purposes. Vocabulary: matter, property, mass, volume, density, texture, hardness, magnetism, solubility, state of matter, classify, compare, observe, measure, physical property. Problems should involve identifying, comparing, and classifying matter, appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Ecosystems and their interactions",
+      "teks": "5.12(C)",
+      "teks_description": "Describe healthy ecosystems",
+      "prompt": "This topic covers ecosystems and their interactions for Grade 5 students (TEKS 5.12(C)). The TEKS standard states: Describe healthy ecosystems. Students should understand that ecosystems are communities of living organisms interacting with each other and their physical environment. Key concepts: healthy ecosystems have biodiversity and balanced populations; organisms within an ecosystem have roles as producers, consumers, or decomposers; biotic factors (living things) and abiotic factors (nonliving things like water, sunlight, temperature, soil) both affect ecosystem health; changes to one part of an ecosystem can impact the entire system. Students should understand different types of ecosystems and how organisms depend on one another. Vocabulary: ecosystem, biotic, abiotic, biodiversity, producer, consumer, decomposer, habitat, community, population, adaptation, balance, interdependence. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Energy transformations",
+      "teks": "5.8(A)",
+      "teks_description": "Investigate energy transformation",
+      "prompt": "This topic covers energy transformations for Grade 5 students (TEKS 5.8(A)). The TEKS standard states: Investigate energy transformation. Students should understand that energy exists in multiple forms and can be transformed from one form to another. Key concepts: forms of energy include kinetic (motion), potential (stored), thermal (heat), light, sound, electrical, and chemical; energy transformations occur constantly (e.g., a lamp transforms electrical energy to light and thermal energy); the law of conservation of energy states that energy cannot be created or destroyed, only transformed or transferred. Students should trace energy transformations in everyday devices and natural processes. Vocabulary: energy, kinetic energy, potential energy, thermal energy, electrical energy, chemical energy, light energy, sound energy, transformation, transfer, conservation. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Atoms and molecules",
+      "teks": "5.6(D)",
+      "teks_description": "Illustrate matter composed of particles too small to be seen",
+      "prompt": "This topic covers the particle nature of matter for Grade 5 students (TEKS 5.6(D)). The TEKS standard states: Illustrate matter composed of particles too small to be seen. Students should understand that all matter is composed of tiny particles (atoms and molecules) that are too small to be seen with the naked eye. Key concepts: particles are in constant motion; the speed of particle movement relates to temperature (faster movement = higher temperature); particles in solids vibrate in fixed positions, particles in liquids slide past each other, particles in gases move freely and rapidly; changes of state involve changes in particle energy and arrangement, not changes in the particles themselves. Vocabulary: particle, atom, molecule, matter, motion, energy, solid, liquid, gas, vibrate, arrangement, temperature, kinetic energy, microscopic. Students should be able to model and describe particle arrangements in different states of matter. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Force and motion",
+      "teks": "5.7(A)",
+      "teks_description": "Investigate how forces cause changes in motion",
+      "prompt": "This topic covers force and motion for Grade 5 students (TEKS 5.7(A)). The TEKS standard states: Investigate how forces cause changes in motion. Students should understand that forces cause changes in the motion of objects. Key concepts: a force is a push or pull that can cause an object to start moving, stop moving, change speed, or change direction; types of forces include gravity, friction, magnetism, applied force, and normal force; unbalanced forces cause changes in motion while balanced forces result in no change; Newton's Laws describe the relationship between force and motion. Students should understand that heavier objects require more force to move and that friction opposes motion. Vocabulary: force, motion, push, pull, gravity, friction, magnetism, balanced, unbalanced, speed, acceleration, mass, Newton's Laws, inertia, net force. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Magnets",
+      "teks": "5.7(A)",
+      "teks_description": "Investigate how forces (including magnetic force) cause changes in motion",
+      "prompt": "This topic covers magnets for Grade 5 students (TEKS 5.7(A)). The TEKS standard states: Investigate how forces (including magnetic force) cause changes in motion. Students should understand that magnets exert forces that can attract or repel other magnets and attract certain materials. Key concepts: magnets have two poles (north and south); like poles repel and opposite poles attract; magnetic force acts at a distance without physical contact; magnetic force is stronger closer to the magnet; only certain materials are magnetic (iron, nickel, cobalt); Earth itself is a giant magnet with a magnetic field. Students should investigate how magnetic forces cause changes in the motion of objects and compare magnetic force with other forces like gravity and friction. Vocabulary: magnet, magnetic force, pole, north pole, south pole, attract, repel, magnetic field, compass, ferromagnetic, permanent magnet. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "The solar system and its components",
+      "teks": "5.9(A)",
+      "teks_description": "Demonstrate Earth's rotation and revolution in the Sun-Earth-Moon system",
+      "prompt": "This topic covers the solar system and its components for Grade 5 students (TEKS 5.9(A)). The TEKS standard states: Demonstrate Earth's rotation and revolution in the Sun-Earth-Moon system. Students should understand the structure and organization of our solar system. Key concepts: the Sun is at the center of our solar system; eight planets orbit the Sun in order (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune); inner planets are small, rocky, and closer to the Sun; outer planets are large gas or ice giants; other components include dwarf planets, asteroids, comets, and moons; Earth's rotation causes day and night, and its revolution around the Sun causes the yearly cycle. Students should understand the Sun-Earth-Moon system and how it creates patterns like seasons and eclipses. Vocabulary: solar system, planet, orbit, star, rotation, revolution, inner planet, outer planet, asteroid, comet, moon, satellite. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Environmental changes and evolution",
+      "teks": "5.13(B)",
+      "teks_description": "Explain behavioral traits affecting survival",
+      "prompt": "This topic covers environmental changes and evolution for Grade 5 students (TEKS 5.13(B)). The TEKS standard states: Explain behavioral traits affecting survival. Students should understand that changes in the environment can affect organisms' ability to survive and reproduce. Key concepts: organisms have behavioral and physical traits that help them survive in their environments; when environments change, organisms with traits suited to the new conditions are more likely to survive; behavioral traits include migration, hibernation, and nocturnal activity; populations change over time as environmental conditions change. Students should understand that variations within populations contribute to some individuals having advantages in changing environments. Vocabulary: adaptation, behavioral trait, physical trait, survival, environment, variation, population, migration, hibernation, camouflage, natural selection, species, evolution. Problems should be appropriate for 10-11 year olds."
+    }
+  ]
+}

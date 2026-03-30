@@ -1,0 +1,26 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Array",
+  "skills": [
+    {
+      "skill": "6.1 Array Creation and Access",
+      "ref": "VAR-2.A (Unit 6, Topic 6.1)",
+      "prompt": "This topic covers array creation and access for AP CSA students (CED: VAR-2.A, Unit 6, Topic 6.1). Students should understand that an array is a fixed-size, ordered collection of elements of the same type, accessed by integer index. Key concepts: declaring arrays (int[] arr), creating arrays with new (new int[5]), and using initializer lists ({1, 2, 3, 4, 5}); array indices start at 0 and go to length - 1; accessing an element uses bracket notation (arr[i]); arr.length returns the number of elements (note: no parentheses, unlike String's length()); ArrayIndexOutOfBoundsException occurs when accessing an invalid index. Students should create arrays, access and modify elements, and understand that arrays of primitives store values directly while arrays of objects store references. Default values: int arrays initialize to 0, double to 0.0, boolean to false, and object references to null. Vocabulary: array, index, element, length, declaration, initialization, initializer list, bounds, ArrayIndexOutOfBoundsException."
+    },
+    {
+      "skill": "6.2 Traversing Arrays",
+      "ref": "VAR-2.B (Unit 6, Topic 6.2)",
+      "prompt": "This topic covers traversing arrays for AP CSA students (CED: VAR-2.B, Unit 6, Topic 6.2). Students should understand how to use loops to visit every element in an array. Key concepts: a standard for loop (for (int i = 0; i < arr.length; i++)) visits each index sequentially; the loop condition uses < arr.length (not <=) to avoid bounds errors; traversal can go forward or backward; common traversal algorithms include finding a sum, average, maximum, minimum, counting elements that meet a condition, and searching for a specific value. Students should write traversal code for various tasks, handle off-by-one errors, and understand that modifying the loop variable does not affect the array. Important: when removing or inserting elements while traversing, be careful about index adjustments. Vocabulary: traversal, for loop, index, bounds checking, accumulator, linear search, off-by-one error."
+    },
+    {
+      "skill": "6.3 Enhanced for Loop for Arrays",
+      "ref": "VAR-2.C (Unit 6, Topic 6.3)",
+      "prompt": "This topic covers the enhanced for loop (for-each loop) for arrays for AP CSA students (CED: VAR-2.C, Unit 6, Topic 6.3). Students should understand that the enhanced for loop provides a simpler syntax for traversing all elements without using an index. Key concepts: syntax is for (type element : array) { body }; the loop variable receives a copy of each element; you cannot modify the array contents through the loop variable (changes to the variable do not affect the array for primitives); you cannot access the index of the current element; you cannot traverse only part of the array or traverse backwards. Use the enhanced for loop when you need to read all elements and do not need the index; use a standard for loop when you need the index, need to modify elements, or need partial traversal. Vocabulary: enhanced for loop, for-each, traversal, read-only access, element copy, standard for loop comparison."
+    },
+    {
+      "skill": "6.4 Developing Algorithms Using Arrays",
+      "ref": "VAR-2.D (Unit 6, Topic 6.4)",
+      "prompt": "This topic covers developing algorithms using arrays for AP CSA students (CED: VAR-2.D, Unit 6, Topic 6.4). Students should understand standard array algorithms tested on the AP exam. Key algorithms: computing the sum and average of elements; finding the minimum and maximum values; determining if at least one, all, or no elements meet a condition; accessing all consecutive pairs or sequences of elements; shifting elements left or right; reversing an array. Students should implement these algorithms, test them with various inputs including edge cases (empty arrays, single-element arrays, arrays with duplicates), and recognize that many algorithms require careful initialization (e.g., initializing max to the first element, not to 0). Common patterns: using a boolean flag for existence checks, using a running total for accumulation, comparing adjacent elements. Vocabulary: algorithm, sum, average, max, min, shift, reverse, consecutive pairs, edge case, flag variable, accumulation."
+    }
+  ]
+}

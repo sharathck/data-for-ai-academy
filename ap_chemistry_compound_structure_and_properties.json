@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Chemistry",
+  "subject": "Compound Structure and Properties",
+  "skills": [
+    {
+      "skill": "2.1 Types of Chemical Bonds",
+      "ref": "SAP-3.A (Unit 2, Topic 2.1)",
+      "prompt": "This topic covers types of chemical bonds for AP Chemistry students (CED: SAP-3.A, Unit 2, Topic 2.1). Students should understand the three main bond types: ionic (electron transfer between metal and nonmetal), covalent (electron sharing between nonmetals), and metallic (delocalized electron sea among metal atoms). Bond type is predicted by electronegativity difference: large differences favor ionic bonding, small differences favor covalent bonding. The properties of substances (melting point, conductivity, solubility, hardness) relate directly to bond type. Students must classify bonds, predict properties, and explain the continuum from purely covalent to purely ionic. Connect to molecular structure, intermolecular forces, and material properties. AP exam note: comparing and contrasting bond types and predicting substance properties is common. Vocabulary: ionic bond, covalent bond, metallic bond, electronegativity, electron transfer, electron sharing, delocalized electrons, network covalent."
+    },
+    {
+      "skill": "2.2 Intramolecular Force and Potential Energy",
+      "ref": "SAP-3.B (Unit 2, Topic 2.2)",
+      "prompt": "This topic covers intramolecular force and potential energy for AP Chemistry students (CED: SAP-3.B, Unit 2, Topic 2.2). Students should understand that bond formation releases energy and bond breaking requires energy. The potential energy diagram of a bond shows minimum energy at the bond length (equilibrium distance). Bond energy (bond dissociation energy) is the energy required to break one mole of bonds in the gas phase. Stronger bonds have larger bond energies and shorter bond lengths. Single bonds are longest and weakest; triple bonds are shortest and strongest. Students must use potential energy diagrams to compare bond strength and relate bond order to bond energy and length. Connect to thermochemistry, enthalpy calculations, and reaction energetics. AP exam note: interpreting potential energy curves and comparing bond strengths are tested skills. Vocabulary: bond energy, bond length, bond order, potential energy, equilibrium distance, endothermic, exothermic."
+    },
+    {
+      "skill": "2.3 Structure of Ionic Solids",
+      "ref": "SAP-3.C (Unit 2, Topic 2.3)",
+      "prompt": "This topic covers the structure of ionic solids for AP Chemistry students (CED: SAP-3.C, Unit 2, Topic 2.3). Students should understand that ionic solids consist of a three-dimensional crystal lattice of alternating cations and anions. The structure maximizes electrostatic attractions between oppositely charged ions. Properties include high melting and boiling points, brittleness (when stressed, like charges align and repel), hardness, and electrical conductivity only when dissolved in water or molten (ions must be free to move). Lattice energy increases with higher ion charges and smaller ionic radii (Coulomb's law). Students must predict relative melting points of ionic compounds from ion charges and sizes. Connect to solubility, dissolution energetics, and ionic bonding. AP exam note: ranking ionic compound properties using Coulomb's law is a key skill. Vocabulary: crystal lattice, lattice energy, Coulomb's law, electrostatic attraction, brittleness, conductivity, dissociation."
+    },
+    {
+      "skill": "2.4 Structure of Metals and Alloys",
+      "ref": "SAP-3.D (Unit 2, Topic 2.4)",
+      "prompt": "This topic covers the structure of metals and alloys for AP Chemistry students (CED: SAP-3.D, Unit 2, Topic 2.4). Students should understand the electron sea model: metal atoms release valence electrons into a delocalized pool that holds positively charged metal cations together. This model explains metallic properties: electrical and thermal conductivity (free-moving electrons), malleability and ductility (layers of atoms slide past each other without breaking bonds), and luster (electrons absorb and re-emit light). Alloys are mixtures of metals (or metals with nonmetals) that have modified properties: substitutional alloys replace atoms of similar size, while interstitial alloys place smaller atoms in gaps between larger ones. Students must relate the electron sea model to observed metallic properties. Connect to bonding theory and material science. AP exam note: explaining metallic properties using the electron sea model is tested. Vocabulary: metallic bond, electron sea model, delocalized electrons, malleability, ductility, conductivity, alloy, substitutional, interstitial."
+    },
+    {
+      "skill": "2.5 Lewis Diagrams",
+      "ref": "SAP-4.A (Unit 2, Topic 2.5)",
+      "prompt": "This topic covers Lewis diagrams for AP Chemistry students (CED: SAP-4.A, Unit 2, Topic 2.5). Students should understand that Lewis structures represent valence electrons as dots or lines (bonding pairs) around atomic symbols. To draw Lewis structures: count total valence electrons, place the least electronegative atom as central, distribute electrons to satisfy the octet rule (or duet for hydrogen). Some atoms form multiple bonds (double, triple) to satisfy octets. Exceptions to the octet rule include molecules with odd electrons (NO), incomplete octets (BF3), and expanded octets (PCl5, SF6) for Period 3+ elements using d orbitals. Students must draw accurate Lewis structures for molecules and polyatomic ions. Connect to molecular geometry, polarity, and intermolecular forces. AP exam note: Lewis structure drawing is foundational for VSEPR and polarity analysis. Vocabulary: Lewis structure, valence electrons, lone pair, bonding pair, octet rule, multiple bond, expanded octet, formal charge."
+    },
+    {
+      "skill": "2.6 Resonance and Formal Charge",
+      "ref": "SAP-4.B (Unit 2, Topic 2.6)",
+      "prompt": "This topic covers resonance and formal charge for AP Chemistry students (CED: SAP-4.B, Unit 2, Topic 2.6). Students should understand that resonance occurs when multiple valid Lewis structures can be drawn for a molecule by moving electron pairs (not atoms). The true structure is a resonance hybrid, an average of all contributing structures. Resonance stabilizes molecules by delocalizing electrons. Formal charge (FC = valence electrons - lone pair electrons - bonding electrons/2) helps identify the most plausible Lewis structure: the best structure minimizes formal charges and places negative formal charges on more electronegative atoms. Students must draw resonance structures, calculate formal charges, and identify the most stable contributor. Connect to molecular stability, bond order, and reactivity. AP exam note: resonance and formal charge analysis are frequently tested together. Vocabulary: resonance, resonance hybrid, formal charge, delocalized electrons, contributing structure, bond order."
+    },
+    {
+      "skill": "2.7 VSEPR and Hybridization",
+      "ref": "SAP-4.C (Unit 2, Topic 2.7)",
+      "prompt": "This topic covers VSEPR theory and hybridization for AP Chemistry students (CED: SAP-4.C, Unit 2, Topic 2.7). Students should understand that VSEPR (Valence Shell Electron Pair Repulsion) theory predicts molecular geometry by minimizing repulsion between electron domains around the central atom. Key geometries include linear (2 domains), trigonal planar (3), tetrahedral (4), trigonal bipyramidal (5), and octahedral (6). Lone pairs occupy more space than bonding pairs, altering bond angles and molecular shape (e.g., bent, trigonal pyramidal). Hybridization (sp, sp2, sp3, sp3d, sp3d2) corresponds to the number of electron domains. Molecular polarity depends on both bond polarity and molecular geometry: symmetric molecules may be nonpolar despite polar bonds. Students must predict geometry, hybridization, and polarity from Lewis structures. AP exam note: VSEPR predictions are heavily tested. Vocabulary: VSEPR, electron domain, molecular geometry, hybridization, bond angle, polar, nonpolar, dipole moment."
+    }
+  ]
+}

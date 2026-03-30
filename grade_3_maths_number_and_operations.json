@@ -1,0 +1,811 @@
+{
+  "grade": "Grade 3",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Place value models up to thousands",
+      "teks": "3.2(A)",
+      "prompt": "This topic covers Place value models up to thousands for Grade 3 students (TEKS 3.2(A)). Students use visual and physical models to understand place value. Base-ten blocks, bundles of sticks, and place value charts help students see that digits in different positions represent different values. Key concepts include representing numbers with models, reading models to determine the number shown, and understanding the relationship between ones, tens, and hundreds. Vocabulary: place value, model, base-ten blocks, ones, tens, hundreds, represent, value, digit. Common misconceptions include miscounting blocks, confusing tens rods with ones cubes, and not connecting models to written numbers. Activities should include building numbers with blocks, matching models to numerals, and comparing numbers using models appropriate for ages 8-9."
+    },
+    {
+      "skill": "Value of a digit up to ten thousands",
+      "teks": "3.2(A)",
+      "prompt": "This topic covers Value of a digit up to ten thousands for Grade 3 students (TEKS 3.2(A)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Convert to/from a number",
+      "teks": "3.2(A)",
+      "prompt": "This topic covers Convert to/from a number for Grade 3 students (TEKS 3.2(A)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Convert between standard and expanded form",
+      "teks": "3.2(A)",
+      "prompt": "This topic covers Convert between standard and expanded form for Grade 3 students (TEKS 3.2(A)). Students extend place value understanding to include hundreds, writing numbers in expanded form showing the value of each digit. For example, 115 = 100 + 10 + 5. Key concepts include identifying the value of each digit based on its position, converting between standard form and expanded form, and understanding that each place value position is ten times the one to its right. Vocabulary: hundreds, tens, ones, expanded form, standard form, place value, digit, value. Common misconceptions include confusing face value with place value and difficulty with numbers containing zero. Activities should include base-ten block building, writing equations, and number form conversion exercises appropriate for ages 8-9."
+    },
+    {
+      "skill": "Convert from expanded form",
+      "teks": "3.2(A)",
+      "prompt": "This topic covers Convert from expanded form for Grade 3 students (TEKS 3.2(A)). Students extend place value understanding to include hundreds, writing numbers in expanded form showing the value of each digit. For example, 115 = 100 + 10 + 5. Key concepts include identifying the value of each digit based on its position, converting between standard form and expanded form, and understanding that each place value position is ten times the one to its right. Vocabulary: hundreds, tens, ones, expanded form, standard form, place value, digit, value. Common misconceptions include confusing face value with place value and difficulty with numbers containing zero. Activities should include base-ten block building, writing equations, and number form conversion exercises appropriate for ages 8-9."
+    },
+    {
+      "skill": "Convert between place values",
+      "teks": "3.2(B)",
+      "prompt": "This topic covers Convert between place values for Grade 3 students (TEKS 3.2(B)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Rounding: up to ten thousands place",
+      "teks": "3.2(C)",
+      "prompt": "This topic covers Rounding: up to ten thousands place for Grade 3 students (TEKS 3.2(C)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Round using a number line",
+      "teks": "3.2(C)",
+      "prompt": "This topic covers Round using a number line for Grade 3 students (TEKS 3.2(C)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Which number is greatest/least?",
+      "teks": "3.2(D)",
+      "prompt": "This topic covers Which number is greatest/least? for Grade 3 students (TEKS 3.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Compare numbers up to 100,000",
+      "teks": "3.2(D)",
+      "prompt": "This topic covers Compare numbers up to 100,000 for Grade 3 students (TEKS 3.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Order numbers up to 100,000",
+      "teks": "3.2(D)",
+      "prompt": "This topic covers Order numbers up to 100,000 for Grade 3 students (TEKS 3.2(D)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Understand fractions: fraction bars",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Understand fractions: fraction bars for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Understand fractions: area models",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Understand fractions: area models for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Show fractions: fraction bars",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Show fractions: fraction bars for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Show fractions: area models",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Show fractions: area models for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Match fractions to models: halves, thirds, and fourths",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Match fractions to models: halves, thirds, and fourths for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Match unit fractions to models",
+      "teks": "3.3(C)",
+      "prompt": "This topic covers Match unit fractions to models for Grade 3 students (TEKS 3.3(C)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Match fractions to models",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Match fractions to models for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Fractions of number lines: unit fractions",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Fractions of number lines: unit fractions for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Fractions of number lines: halves, fourths, and eighths",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Fractions of number lines: halves, fourths, and eighths for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Fractions of number lines",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Fractions of number lines for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Graph unit fractions on number lines",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Graph unit fractions on number lines for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Graph fractions on number lines",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Graph fractions on number lines for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Fractions of number lines: unit fractions (2)",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Fractions of number lines: unit fractions (2) for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Identify unit fractions on number lines",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Identify unit fractions on number lines for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Identify fractions on number lines",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Identify fractions on number lines for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Match unit fractions to models (2)",
+      "teks": "3.3(C)",
+      "prompt": "This topic covers Match unit fractions to models (2) for Grade 3 students (TEKS 3.3(C)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Unit fractions: modeling word problems",
+      "teks": "3.3(C)",
+      "prompt": "This topic covers Unit fractions: modeling word problems for Grade 3 students (TEKS 3.3(C)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Understand fractions: fraction bars (2)",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Understand fractions: fraction bars (2) for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Understand fractions: area models (2)",
+      "teks": "3.3(A)",
+      "prompt": "This topic covers Understand fractions: area models (2) for Grade 3 students (TEKS 3.3(A)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Decompose fractions into unit fractions",
+      "teks": "3.3(D)",
+      "prompt": "This topic covers Decompose fractions into unit fractions for Grade 3 students (TEKS 3.3(D)). Decomposing fractions breaks them into sums of smaller fractions, especially unit fractions. For example, 3/4 = 1/4 + 1/4 + 1/4. Key concepts include multiple decomposition methods and connecting to fraction addition. Vocabulary: decompose, unit fraction, sum, compose, numerator, denominator. Common misconceptions include difficulty seeing fractions as sums of unit parts. Activities should include fraction strip manipulation, writing addition sentences, and exploring multiple decompositions appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Fractions of number lines (2)",
+      "teks": "3.3(B)",
+      "prompt": "This topic covers Fractions of number lines (2) for Grade 3 students (TEKS 3.3(B)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Unit fractions: modeling word problems (2)",
+      "teks": "3.3(E)",
+      "prompt": "This topic covers Unit fractions: modeling word problems (2) for Grade 3 students (TEKS 3.3(E)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Unit fractions: word problems",
+      "teks": "3.3(E)",
+      "prompt": "This topic covers Unit fractions: word problems for Grade 3 students (TEKS 3.3(E)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Fractions of a whole: modeling word problems",
+      "teks": "3.3(E)",
+      "prompt": "This topic covers Fractions of a whole: modeling word problems for Grade 3 students (TEKS 3.3(E)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Fractions of a whole: word problems",
+      "teks": "3.3(E)",
+      "prompt": "This topic covers Fractions of a whole: word problems for Grade 3 students (TEKS 3.3(E)). Students develop understanding of fractions as equal parts of a whole. Key concepts include partitioning into equal parts, naming fractions with numerator and denominator, understanding unit fractions, and matching fractions to visual models. Vocabulary: fraction, numerator, denominator, equal parts, whole, unit fraction, partition, model. Common misconceptions include not requiring equal parts, confusing numerator/denominator, and thinking larger denominators mean larger fractions. Activities should include folding paper, dividing shapes, coloring fractional parts, and matching fractions to models appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Find equivalent fractions using fraction strips",
+      "teks": "3.3(F)",
+      "prompt": "This topic covers Find equivalent fractions using fraction strips for Grade 3 students (TEKS 3.3(F)). Equivalent fractions represent the same amount using different numerators and denominators. Key concepts include using visual models to verify equivalence, understanding that multiplying or dividing both parts by the same number creates equivalence, and fractions equaling 1. Vocabulary: equivalent, equal, same amount, fraction strip, area model, numerator, denominator. Common misconceptions include thinking different-looking fractions can't be equal and generating equivalents without understanding. Activities should include fraction strip overlays, area model partitioning, number line comparison, and matching equivalent pairs appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Find equivalent fractions using area models: one model",
+      "teks": "3.3(F)",
+      "prompt": "This topic covers Find equivalent fractions using area models: one model for Grade 3 students (TEKS 3.3(F)). Equivalent fractions represent the same amount using different numerators and denominators. Key concepts include using visual models to verify equivalence, understanding that multiplying or dividing both parts by the same number creates equivalence, and fractions equaling 1. Vocabulary: equivalent, equal, same amount, fraction strip, area model, numerator, denominator. Common misconceptions include thinking different-looking fractions can't be equal and generating equivalents without understanding. Activities should include fraction strip overlays, area model partitioning, number line comparison, and matching equivalent pairs appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Identify equivalent fractions on number lines",
+      "teks": "3.3(G)",
+      "prompt": "This topic covers Identify equivalent fractions on number lines for Grade 3 students (TEKS 3.3(G)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Graph equivalent fractions on number lines",
+      "teks": "3.3(G)",
+      "prompt": "This topic covers Graph equivalent fractions on number lines for Grade 3 students (TEKS 3.3(G)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Graph fractions equivalent to 1 on number lines",
+      "teks": "3.3(G)",
+      "prompt": "This topic covers Graph fractions equivalent to 1 on number lines for Grade 3 students (TEKS 3.3(G)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Find equivalent fractions using area models: two models",
+      "teks": "3.3(F)",
+      "prompt": "This topic covers Find equivalent fractions using area models: two models for Grade 3 students (TEKS 3.3(F)). Equivalent fractions represent the same amount using different numerators and denominators. Key concepts include using visual models to verify equivalence, understanding that multiplying or dividing both parts by the same number creates equivalence, and fractions equaling 1. Vocabulary: equivalent, equal, same amount, fraction strip, area model, numerator, denominator. Common misconceptions include thinking different-looking fractions can't be equal and generating equivalents without understanding. Activities should include fraction strip overlays, area model partitioning, number line comparison, and matching equivalent pairs appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Find equivalent fractions using area models: one model (2)",
+      "teks": "3.3(F)",
+      "prompt": "This topic covers Find equivalent fractions using area models: one model (2) for Grade 3 students (TEKS 3.3(F)). Equivalent fractions represent the same amount using different numerators and denominators. Key concepts include using visual models to verify equivalence, understanding that multiplying or dividing both parts by the same number creates equivalence, and fractions equaling 1. Vocabulary: equivalent, equal, same amount, fraction strip, area model, numerator, denominator. Common misconceptions include thinking different-looking fractions can't be equal and generating equivalents without understanding. Activities should include fraction strip overlays, area model partitioning, number line comparison, and matching equivalent pairs appropriate for ages 8-9."
+    },
+    {
+      "skill": "Find equivalent fractions using number lines",
+      "teks": "3.3(G)",
+      "prompt": "This topic covers Find equivalent fractions using number lines for Grade 3 students (TEKS 3.3(G)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Graph and compare fractions with like denominators on number lines",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Graph and compare fractions with like denominators on number lines for Grade 3 students (TEKS 3.3(H)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Graph and compare fractions with like numerators on number lines",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Graph and compare fractions with like numerators on number lines for Grade 3 students (TEKS 3.3(H)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Compare fractions using models",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Compare fractions using models for Grade 3 students (TEKS 3.3(H)). Students compare fractions using visual models, number lines, and reasoning. Key strategies include same-denominator comparison, same-numerator comparison, benchmark fractions, and visual models. Vocabulary: compare, greater than, less than, equal to, numerator, denominator, benchmark. Common misconceptions include thinking larger denominators mean larger fractions and comparing parts independently. Activities should include fraction strip comparisons, number line placement, and real-world comparison problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Compare fractions using number lines",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Compare fractions using number lines for Grade 3 students (TEKS 3.3(H)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Graph and compare fractions on number lines",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Graph and compare fractions on number lines for Grade 3 students (TEKS 3.3(H)). Students represent and identify fractions on number lines. Key concepts include dividing the 0-to-1 interval into equal parts based on the denominator, locating fractions by counting parts from 0, and understanding fractions greater than 1. Vocabulary: number line, fraction, interval, equal parts, unit fraction, whole. Common misconceptions include unequal intervals, counting tick marks instead of intervals, and confusion about fractions equal to or greater than 1. Activities should include drawing number lines, placing fraction cards, and comparing fractions on parallel lines appropriate for ages 8-9."
+    },
+    {
+      "skill": "Compare fractions",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Compare fractions for Grade 3 students (TEKS 3.3(H)). Students compare fractions using visual models, number lines, and reasoning. Key strategies include same-denominator comparison, same-numerator comparison, benchmark fractions, and visual models. Vocabulary: compare, greater than, less than, equal to, numerator, denominator, benchmark. Common misconceptions include thinking larger denominators mean larger fractions and comparing parts independently. Activities should include fraction strip comparisons, number line placement, and real-world comparison problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Compare fractions in recipes",
+      "teks": "3.3(H)",
+      "prompt": "This topic covers Compare fractions in recipes for Grade 3 students (TEKS 3.3(H)). Students compare fractions using visual models, number lines, and reasoning. Key strategies include same-denominator comparison, same-numerator comparison, benchmark fractions, and visual models. Vocabulary: compare, greater than, less than, equal to, numerator, denominator, benchmark. Common misconceptions include thinking larger denominators mean larger fractions and comparing parts independently. Activities should include fraction strip comparisons, number line placement, and real-world comparison problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Use number lines to add three-digit numbers",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Use number lines to add three-digit numbers for Grade 3 students (TEKS 3.4(A)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 8-9."
+    },
+    {
+      "skill": "Use compensation to add: up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Use compensation to add: up to three digits for Grade 3 students (TEKS 3.4(A)). Compensation adjusts one number to make computation easier, then compensates. For addition: 38+25 = 40+25-2 = 63. For subtraction: 52-29 = 52-30+1 = 23. Key concepts include choosing friendly numbers, determining the compensation amount and direction, and verifying results. Vocabulary: compensation, adjust, friendly number, round, mental math. Common misconceptions include compensating in the wrong direction, forgetting the compensation step, and choosing unhelpful adjustments. Activities should include number line demonstrations, mental math challenges, and strategy comparisons appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use expanded form to add three-digit numbers",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Use expanded form to add three-digit numbers for Grade 3 students (TEKS 3.4(A)). Students extend place value understanding to include hundreds, writing numbers in expanded form showing the value of each digit. For example, 115 = 100 + 10 + 5. Key concepts include identifying the value of each digit based on its position, converting between standard form and expanded form, and understanding that each place value position is ten times the one to its right. Vocabulary: hundreds, tens, ones, expanded form, standard form, place value, digit, value. Common misconceptions include confusing face value with place value and difficulty with numbers containing zero. Activities should include base-ten block building, writing equations, and number form conversion exercises appropriate for ages 8-9."
+    },
+    {
+      "skill": "Add two numbers up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Add two numbers up to three digits for Grade 3 students (TEKS 3.4(A)). Students perform multi-digit addition, applying place value understanding and computation strategies. Key concepts include aligning digits by place value, regrouping when column sums exceed 9, and checking answers with estimation. Vocabulary: add, sum, regroup, carry, place value, algorithm, estimate. Common misconceptions include misaligning digits, forgetting to regroup, and not checking reasonableness. Activities should include concrete models, multiple strategies, and real-world applications appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add two numbers up to three digits: word problems",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Add two numbers up to three digits: word problems for Grade 3 students (TEKS 3.4(A)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the addition sentence: up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Complete the addition sentence: up to three digits for Grade 3 students (TEKS 3.4(A)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Balance addition equations: up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Balance addition equations: up to three digits for Grade 3 students (TEKS 3.4(A)). Balancing equations means finding values that make both sides equal. Key concepts include understanding equals as a balance point, computing both sides, and finding missing numbers that maintain equality. Vocabulary: balance, equal, equation, both sides, same value, equivalent. This is foundational algebraic thinking. Common misconceptions include viewing equals as 'do something' rather than balance and only computing left to right. Activities should include physical balance scales, equation mats, and puzzles requiring both sides to be equal appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Addition up to three digits: fill in the missing digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Addition up to three digits: fill in the missing digits for Grade 3 students (TEKS 3.4(A)). Students find unknown digits in partially completed computation problems using place value reasoning. Key concepts include working column by column, considering regrouping, and using logical reasoning. Vocabulary: missing digit, unknown, place value, regroup, reason, solve. Common misconceptions include not considering regrouping and testing insufficient possibilities. Activities should include puzzle worksheets, creating original problems, and explaining reasoning appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add three numbers up to three digits each",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Add three numbers up to three digits each for Grade 3 students (TEKS 3.4(A)). Students add three or more addends using strategies like the associative property, making ten, doubles, and efficient grouping. For example, 4+3+6: add 4+6=10 first, then 10+3=13. Key concepts include looking for efficient pairings, the associative property, and tracking partial sums. Vocabulary: addend, sum, group, make ten, doubles, strategy, associative property. Common misconceptions include always adding left to right without seeking efficient groupings and difficulty tracking intermediate results. Activities should include three-addend equations, strategy discussions, and word problems with three quantities appropriate for ages 8-9."
+    },
+    {
+      "skill": "Add three numbers up to three digits each: word problems",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Add three numbers up to three digits each: word problems for Grade 3 students (TEKS 3.4(A)). Students add three or more addends using strategies like the associative property, making ten, doubles, and efficient grouping. For example, 4+3+6: add 4+6=10 first, then 10+3=13. Key concepts include looking for efficient pairings, the associative property, and tracking partial sums. Vocabulary: addend, sum, group, make ten, doubles, strategy, associative property. Common misconceptions include always adding left to right without seeking efficient groupings and difficulty tracking intermediate results. Activities should include three-addend equations, strategy discussions, and word problems with three quantities appropriate for ages 8-9."
+    },
+    {
+      "skill": "Use number lines to subtract three-digit numbers",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Use number lines to subtract three-digit numbers for Grade 3 students (TEKS 3.4(A)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 8-9."
+    },
+    {
+      "skill": "Use compensation to subtract: up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Use compensation to subtract: up to three digits for Grade 3 students (TEKS 3.4(A)). Compensation adjusts one number to make computation easier, then compensates. For addition: 38+25 = 40+25-2 = 63. For subtraction: 52-29 = 52-30+1 = 23. Key concepts include choosing friendly numbers, determining the compensation amount and direction, and verifying results. Vocabulary: compensation, adjust, friendly number, round, mental math. Common misconceptions include compensating in the wrong direction, forgetting the compensation step, and choosing unhelpful adjustments. Activities should include number line demonstrations, mental math challenges, and strategy comparisons appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtract numbers up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Subtract numbers up to three digits for Grade 3 students (TEKS 3.4(A)). Students perform multi-digit subtraction, understanding regrouping and applying various strategies. Key concepts include aligning digits, regrouping (borrowing) when the top digit is smaller, and verifying with estimation or addition. Vocabulary: subtract, difference, regroup, borrow, place value, algorithm. Common misconceptions include subtracting smaller from larger regardless of position, forgetting to regroup, and regrouping errors. Activities should include base-ten block modeling, estimation checks, and real-world problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Subtract numbers up to three digits: word problems",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Subtract numbers up to three digits: word problems for Grade 3 students (TEKS 3.4(A)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the subtraction sentence: up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Complete the subtraction sentence: up to three digits for Grade 3 students (TEKS 3.4(A)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Balance subtraction equations: up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Balance subtraction equations: up to three digits for Grade 3 students (TEKS 3.4(A)). Balancing equations means finding values that make both sides equal. Key concepts include understanding equals as a balance point, computing both sides, and finding missing numbers that maintain equality. Vocabulary: balance, equal, equation, both sides, same value, equivalent. This is foundational algebraic thinking. Common misconceptions include viewing equals as 'do something' rather than balance and only computing left to right. Activities should include physical balance scales, equation mats, and puzzles requiring both sides to be equal appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Complete the addition or subtraction sentence: up to three digits",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Complete the addition or subtraction sentence: up to three digits for Grade 3 students (TEKS 3.4(A)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Addition and subtraction word problems",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Addition and subtraction word problems for Grade 3 students (TEKS 3.4(A)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 8-9-year-olds."
+    },
+    {
+      "skill": "Complete the equation using properties of addition",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Complete the equation using properties of addition for Grade 3 students (TEKS 3.4(A)). Students find missing numbers in equations, building algebraic thinking. Key concepts include understanding the equals sign, using inverse operations, and applying fact families. Missing values can appear in any position. Vocabulary: missing number, unknown, equation, solve, inverse operation, complete. Common misconceptions include only being comfortable with unknowns at the end and not understanding equations with unknowns on the left. Activities should include balance scale models, equation mats, and manipulative-based exploration appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Add, subtract, multiply, and divide",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers mixed operations for Grade 3 students (TEKS 3.4(A)). Students practice all four basic operations, choosing the correct one for each problem. Key concepts include understanding each operation, recognizing contextual clues, and fluency across operations. Vocabulary: add, subtract, multiply, divide, sum, difference, product, quotient, operation. Common misconceptions include confusing operations and applying the wrong one. Activities should include mixed practice sets, sorting by operation, and multi-step problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Addition, subtraction, multiplication, and division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Addition, subtraction, multiplication, and division word problems for Grade 3 students (TEKS 3.4(K)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 8-9-year-olds."
+    },
+    {
+      "skill": "Two-step addition and subtraction word problems",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Two-step addition and subtraction word problems for Grade 3 students (TEKS 3.4(A)). Students solve real-world addition problems presented in narrative form. Key concepts include identifying the operation needed (joining or combining), extracting relevant numbers, writing addition equations, and solving for the sum. Problem types include joining, part-part-whole, and additive comparison. Vocabulary: add, sum, total, altogether, in all, how many, combine, join, plus, equals. Common challenges include difficulty identifying which operation to use, not understanding what the question asks, and computation errors. Students should draw models or use manipulatives before writing equations. Practice should include age-appropriate contexts for 8-9-year-olds."
+    },
+    {
+      "skill": "Comparing: with addition and subtraction",
+      "teks": "3.4(A)",
+      "prompt": "This topic covers Comparing: with addition and subtraction for Grade 3 students (TEKS 3.4(A)). Students practice both addition and subtraction, building fluency and the ability to distinguish between operations. Key concepts include understanding both operations conceptually, applying appropriate strategies, using the relationship between operations, and checking work. Vocabulary: add, subtract, sum, difference, fact, strategy, inverse, fluency. Common misconceptions include confusing operations, applying wrong strategies, and not checking answers. Activities should include mixed practice, strategy discussions, and fact family connections appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Round to the nearest ten or hundred",
+      "teks": "3.4(B)",
+      "prompt": "This topic covers Round to the nearest ten or hundred for Grade 3 students (TEKS 3.4(B)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Rounding puzzles",
+      "teks": "3.4(B)",
+      "prompt": "This topic covers Rounding puzzles for Grade 3 students (TEKS 3.4(B)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Estimate sums by rounding: up to 1,000",
+      "teks": "3.4(B)",
+      "prompt": "This topic covers Estimate sums by rounding: up to 1,000 for Grade 3 students (TEKS 3.4(B)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Estimate sums using compatible numbers",
+      "teks": "3.4(B)",
+      "prompt": "This topic covers Estimate sums using compatible numbers for Grade 3 students (TEKS 3.4(B)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Estimate differences by rounding: up to 1,000",
+      "teks": "3.4(B)",
+      "prompt": "This topic covers Estimate differences by rounding: up to 1,000 for Grade 3 students (TEKS 3.4(B)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Estimate differences using compatible numbers",
+      "teks": "3.4(B)",
+      "prompt": "This topic covers Estimate differences using compatible numbers for Grade 3 students (TEKS 3.4(B)). Students estimate and round numbers to simplify computation and check reasonableness. Key concepts include rounding rules, using number lines to visualize, compatible numbers for estimation, and estimating sums/differences. Vocabulary: estimate, round, nearest ten/hundred, benchmark, approximately, reasonable, compatible numbers. Common misconceptions include rounding to the wrong place value and forgetting to use estimation to check work. Activities should include number line rounding, estimating before computing, and discussing real-world estimation appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Count coins and bills - up to $5 bill",
+      "teks": "3.4(C)",
+      "prompt": "This topic covers Count coins and bills - up to $5 bill for Grade 3 students (TEKS 3.4(C)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Count coins and bills word problems - up to $5 bill",
+      "teks": "3.4(C)",
+      "prompt": "This topic covers Count coins and bills word problems - up to $5 bill for Grade 3 students (TEKS 3.4(C)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Purchases - do you have enough money - up to $10",
+      "teks": "3.4(C)",
+      "prompt": "This topic covers Purchases - do you have enough money - up to $10 for Grade 3 students (TEKS 3.4(C)). Students learn about money concepts including identifying coins and bills, their values, counting mixed collections, making equivalent amounts, and solving money problems. Key concepts include coin values (penny=1¢, nickel=5¢, dime=10¢, quarter=25¢), skip counting to find totals, starting with highest-value coins, and using dollar notation. Vocabulary: penny, nickel, dime, quarter, dollar, cent, value, total, equivalent, exchange, change, enough. Common misconceptions include confusing coin values based on size and difficulty switching skip-counting patterns. Activities should include sorting coins, counting collections, store simulations, and money word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Which picture shows more?",
+      "teks": "3.4(D)",
+      "prompt": "This topic covers Which picture shows more? for Grade 3 students (TEKS 3.4(D)). Students compare visual representations to determine which shows a greater quantity. Key concepts include counting objects in each picture accurately, comparing totals, and understanding that arrangement doesn't affect quantity. Vocabulary: more, fewer, compare, count, picture, group. Common misconceptions include judging by visual spread rather than count. Activities should include side-by-side picture comparisons and counting verification appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Count equal groups",
+      "teks": "3.4(D)",
+      "prompt": "This topic covers Count equal groups for Grade 3 students (TEKS 3.4(D)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Skip-counting",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Skip-counting for Grade 3 students (TEKS 3.4(E)). Skip counting means counting forward by a number other than 1, creating predictable patterns. Key concepts include recognizing and continuing skip-counting patterns, understanding that skip counting is related to repeated addition and multiplication, and using skip counting for solving problems. Vocabulary: skip count, pattern, sequence, rule, interval, by twos, by fives, by tens. Common misconceptions include losing the pattern after several counts, not starting from the correct number, and confusing different skip-counting patterns. Activities should include number line and hundred chart highlighting, counting grouped objects, and connecting to real-world contexts like counting coins appropriate for ages 8-9."
+    },
+    {
+      "skill": "Skip-counting puzzles",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Skip-counting puzzles for Grade 3 students (TEKS 3.4(E)). Skip counting means counting forward by a number other than 1, creating predictable patterns. Key concepts include recognizing and continuing skip-counting patterns, understanding that skip counting is related to repeated addition and multiplication, and using skip counting for solving problems. Vocabulary: skip count, pattern, sequence, rule, interval, by twos, by fives, by tens. Common misconceptions include losing the pattern after several counts, not starting from the correct number, and confusing different skip-counting patterns. Activities should include number line and hundred chart highlighting, counting grouped objects, and connecting to real-world contexts like counting coins appropriate for ages 8-9."
+    },
+    {
+      "skill": "Identify multiplication expressions for equal groups",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Identify multiplication expressions for equal groups for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Write multiplication sentences for equal groups",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Write multiplication sentences for equal groups for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Relate addition and multiplication for equal groups",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Relate addition and multiplication for equal groups for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply by 0 or 1 with equal groups",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Multiply by 0 or 1 with equal groups for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Identify multiplication expressions for arrays",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Identify multiplication expressions for arrays for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Write multiplication sentences for arrays",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Write multiplication sentences for arrays for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Make arrays to model multiplication",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Make arrays to model multiplication for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Write multiplication sentences for number lines",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Write multiplication sentences for number lines for Grade 3 students (TEKS 3.4(E)). Number lines are visual tools that represent numbers as points on a line, helping students understand number order, spacing, and relationships. Key concepts include locating and labeling numbers, understanding that numbers increase from left to right, identifying numbers between given points, and using equal intervals. Vocabulary: number line, point, interval, between, before, after, greater than, less than, order. Common misconceptions include not attending to scale, placing numbers without considering equal spacing, and confusion when the line doesn't start at zero. Activities should involve placing numbers on blank number lines, identifying mystery numbers, and using number lines for comparison and ordering tasks appropriate for ages 8-9."
+    },
+    {
+      "skill": "Relate addition and multiplication",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Relate addition and multiplication for Grade 3 students (TEKS 3.4(E)). Students connect repeated addition to multiplication, understanding that multiplication is a shortcut for adding equal groups. For example, 4+4+4 = 3 x 4. Key concepts include writing both forms for the same situation, understanding why multiplication is more efficient, and transitioning from additive to multiplicative thinking. Vocabulary: repeated addition, multiplication, equal groups, times, factor, product, shortcut. Common misconceptions include not seeing the equivalence and difficulty transitioning notation. Activities should include writing both forms, comparing efficiency, and converting between representations appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Write two multiplication sentences for an array",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Write two multiplication sentences for an array for Grade 3 students (TEKS 3.4(E)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply one-digit numbers using grids",
+      "teks": "3.4(E)",
+      "prompt": "This topic covers Multiply one-digit numbers using grids for Grade 3 students (TEKS 3.4(E)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply one-digit numbers by two-digit numbers using area models I",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply one-digit numbers by two-digit numbers using area models I for Grade 3 students (TEKS 3.4(G)). Students multiply one-digit by two-digit numbers using the distributive property and area models. For example, 4 x 23 = 4 x 20 + 4 x 3. Key concepts include decomposing the two-digit factor, computing partial products, combining results, and using visual models. Vocabulary: multiply, two-digit, partial product, area model, grid, distributive property. Common misconceptions include forgetting to multiply by both parts and misaligning place values. Activities should include area model drawings, grid multiplication, and progressing toward standard procedures appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply by 2",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 2 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 2 times table. Key concepts include skip counting by 2, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 3",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 3 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 3 times table. Key concepts include skip counting by 3, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 4",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 4 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 4 times table. Key concepts include skip counting by 4, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 5",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 5 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 5 times table. Key concepts include skip counting by 5, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 6",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 6 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 6 times table. Key concepts include skip counting by 6, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 7",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 7 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 7 times table. Key concepts include skip counting by 7, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 8",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 8 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 8 times table. Key concepts include skip counting by 8, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 9",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 9 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 9 times table. Key concepts include skip counting by 9, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply by 10",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers multiplying by 10 for Grade 3 students (TEKS 3.4(F)). Students build fluency with the 10 times table. Key concepts include skip counting by 10, recognizing patterns in the products, using arrays, and developing automatic recall. Strategies include relating to known facts and applying the commutative property. Vocabulary: multiply, times, product, factor, skip count, array, times table. Common misconceptions include confusing multiplication tables and counting errors. Activities should include skip-counting practice, array building, fact cards, and timed drills for building automaticity appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiplication facts for 2, 3, 4, 5, and 10",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication facts for 2, 3, 4, 5, and 10 for Grade 3 students (TEKS 3.4(F)). Students develop fluency with multiplication facts through strategies including skip counting, using arrays, applying properties (commutative, identity, zero), and building from known facts. Vocabulary: multiply, factor, product, times, commutative property, identity property, zero property, fluency. Common misconceptions include confusing similar products, not applying commutative property, and difficulty with 6-9 range facts. Activities should include systematic practice, strategy instruction, games, and timed assessments appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiplication facts for 2, 3, 4, 5, and 10: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication facts for 2, 3, 4, 5, and 10: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiplication facts for 6, 7, 8, and 9",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication facts for 6, 7, 8, and 9 for Grade 3 students (TEKS 3.4(F)). Students develop fluency with multiplication facts through strategies including skip counting, using arrays, applying properties (commutative, identity, zero), and building from known facts. Vocabulary: multiply, factor, product, times, commutative property, identity property, zero property, fluency. Common misconceptions include confusing similar products, not applying commutative property, and difficulty with 6-9 range facts. Activities should include systematic practice, strategy instruction, games, and timed assessments appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiplication facts for 6, 7, 8, and 9: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication facts for 6, 7, 8, and 9: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiplication facts up to 10",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication facts up to 10 for Grade 3 students (TEKS 3.4(F)). Students develop fluency with multiplication facts through strategies including skip counting, using arrays, applying properties (commutative, identity, zero), and building from known facts. Vocabulary: multiply, factor, product, times, commutative property, identity property, zero property, fluency. Common misconceptions include confusing similar products, not applying commutative property, and difficulty with 6-9 range facts. Activities should include systematic practice, strategy instruction, games, and timed assessments appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiplication facts up to 10: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication facts up to 10: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiplication sentences up to 10: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication sentences up to 10: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Divide by 2",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 2 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 2 using the related multiplication facts (2 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 2 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 3",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 3 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 3 using the related multiplication facts (3 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 3 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 4",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 4 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 4 using the related multiplication facts (4 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 4 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 5",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 5 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 5 using the related multiplication facts (5 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 5 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 6",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 6 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 6 using the related multiplication facts (6 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 6 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 7",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 7 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 7 using the related multiplication facts (7 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 7 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 8",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 8 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 8 using the related multiplication facts (8 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 8 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 9",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 9 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 9 using the related multiplication facts (9 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 9 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by 10",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers dividing by 10 for Grade 3 students (TEKS 3.4(F)). Students build fluency dividing by 10 using the related multiplication facts (10 times table). Key concepts include connecting each division fact to its multiplication counterpart, understanding both measurement and partitive division contexts, and developing automatic recall. Vocabulary: divide, divisor, dividend, quotient, equal groups, share equally, related multiplication fact. Common misconceptions include not connecting to multiplication and difficulty with larger quotients. Activities should include sharing objects equally, fact card practice, relating to the 10 times table, and word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Division facts for 2, 3, 4, 5, and 10",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division facts for 2, 3, 4, 5, and 10 for Grade 3 students (TEKS 3.4(F)). Students develop division fact fluency by connecting to multiplication (think-multiplication strategy). Key concepts include inverse relationship between multiplication and division, knowing that a x b = c means c / a = b. Vocabulary: divide, divisor, dividend, quotient, inverse, fact family. Common misconceptions include not connecting to multiplication and confusing divisor/dividend/quotient roles. Activities should include fact family triangles, think-multiplication practice, and division word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Division facts for 2, 3, 4, 5, and 10: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division facts for 2, 3, 4, 5, and 10: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Division facts for 6, 7, 8, and 9",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division facts for 6, 7, 8, and 9 for Grade 3 students (TEKS 3.4(F)). Students develop division fact fluency by connecting to multiplication (think-multiplication strategy). Key concepts include inverse relationship between multiplication and division, knowing that a x b = c means c / a = b. Vocabulary: divide, divisor, dividend, quotient, inverse, fact family. Common misconceptions include not connecting to multiplication and confusing divisor/dividend/quotient roles. Activities should include fact family triangles, think-multiplication practice, and division word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Division facts for 6, 7, 8, and 9: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division facts for 6, 7, 8, and 9: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Division facts up to 10",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division facts up to 10 for Grade 3 students (TEKS 3.4(F)). Students develop division fact fluency by connecting to multiplication (think-multiplication strategy). Key concepts include inverse relationship between multiplication and division, knowing that a x b = c means c / a = b. Vocabulary: divide, divisor, dividend, quotient, inverse, fact family. Common misconceptions include not connecting to multiplication and confusing divisor/dividend/quotient roles. Activities should include fact family triangles, think-multiplication practice, and division word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Division facts up to 10: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division facts up to 10: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Division sentences up to 10: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Division sentences up to 10: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiplication and division facts up to 5: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication and division facts up to 5: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiplication and division facts up to 10: true or false?",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Multiplication and division facts up to 10: true or false? for Grade 3 students (TEKS 3.4(F)). Students evaluate number sentences to determine truth or falsity, developing understanding of the equals sign as a balance. Key concepts include computing both sides of an equation, understanding equals means 'same value as,' and recognizing that false sentences have unequal sides. Vocabulary: true, false, equation, number sentence, equals, same as, verify. Common misconceptions include the operational view of equals (thinking it means 'write the answer') and not computing both sides. Activities should include sorting equations, fixing false equations, and creating true equations appropriate for ages 8-9."
+    },
+    {
+      "skill": "Properties of multiplication",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Properties of multiplication for Grade 3 students (TEKS 3.4(F)). Students learn the commutative (a x b = b x a), associative ((a x b) x c = a x (b x c)), identity (a x 1 = a), zero (a x 0 = 0), and distributive (a x (b+c) = a x b + a x c) properties. Key concepts include recognizing properties in equations and using them for efficient computation. Vocabulary: commutative, associative, identity, zero property, distributive, factor, product. Common misconceptions include confusing properties and thinking they apply to all operations equally. Activities should include identifying properties, using them for mental math, and finding missing numbers appropriate for ages 8-9."
+    },
+    {
+      "skill": "Solve using properties of multiplication",
+      "teks": "3.4(F)",
+      "prompt": "This topic covers Solve using properties of multiplication for Grade 3 students (TEKS 3.4(F)). Students learn the commutative (a x b = b x a), associative ((a x b) x c = a x (b x c)), identity (a x 1 = a), zero (a x 0 = 0), and distributive (a x (b+c) = a x b + a x c) properties. Key concepts include recognizing properties in equations and using them for efficient computation. Vocabulary: commutative, associative, identity, zero property, distributive, factor, product. Common misconceptions include confusing properties and thinking they apply to all operations equally. Activities should include identifying properties, using them for mental math, and finding missing numbers appropriate for ages 8-9."
+    },
+    {
+      "skill": "Distributive property: find the missing factor",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Distributive property: find the missing factor for Grade 3 students (TEKS 3.4(G)). The distributive property: a x (b+c) = (a x b) + (a x c). Students decompose one factor to simplify multiplication. For example, 7 x 8 = 7 x (5+3) = 35 + 21 = 56. Key concepts include using area models, breaking apart factors, computing partial products, and adding results. Vocabulary: distributive property, decompose, break apart, partial product, area model, factor. Common misconceptions include not distributing to all terms and forgetting to add partial products. Activities should include area model drawings, breaking apart arrays, and using the property as a strategy for difficult facts appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply using the distributive property",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply using the distributive property for Grade 3 students (TEKS 3.4(G)). The distributive property: a x (b+c) = (a x b) + (a x c). Students decompose one factor to simplify multiplication. For example, 7 x 8 = 7 x (5+3) = 35 + 21 = 56. Key concepts include using area models, breaking apart factors, computing partial products, and adding results. Vocabulary: distributive property, decompose, break apart, partial product, area model, factor. Common misconceptions include not distributing to all terms and forgetting to add partial products. Activities should include area model drawings, breaking apart arrays, and using the property as a strategy for difficult facts appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply by a multiple of ten using place value",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply by a multiple of ten using place value for Grade 3 students (TEKS 3.4(G)). Students multiply by multiples of ten using place value: 4 x 30 = 4 x 3 x 10 = 120. Key concepts include recognizing that multiplying by 10 shifts digits one place left, extending to other multiples of ten, and using area models. Vocabulary: multiple of ten, place value, product, factor, pattern, zero. Common misconceptions include simply appending a zero without understanding and difficulty when the basic fact gives a two-digit product. Activities should include base-ten block modeling, pattern identification, and word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply by a multiple of ten",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply by a multiple of ten for Grade 3 students (TEKS 3.4(G)). Students multiply by multiples of ten using place value: 4 x 30 = 4 x 3 x 10 = 120. Key concepts include recognizing that multiplying by 10 shifts digits one place left, extending to other multiples of ten, and using area models. Vocabulary: multiple of ten, place value, product, factor, pattern, zero. Common misconceptions include simply appending a zero without understanding and difficulty when the basic fact gives a two-digit product. Activities should include base-ten block modeling, pattern identification, and word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply one-digit numbers by teen numbers using grids",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply one-digit numbers by teen numbers using grids for Grade 3 students (TEKS 3.4(G)). Students multiply one-digit by two-digit numbers using the distributive property and area models. For example, 4 x 23 = 4 x 20 + 4 x 3. Key concepts include decomposing the two-digit factor, computing partial products, combining results, and using visual models. Vocabulary: multiply, two-digit, partial product, area model, grid, distributive property. Common misconceptions include forgetting to multiply by both parts and misaligning place values. Activities should include area model drawings, grid multiplication, and progressing toward standard procedures appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply one-digit numbers by two-digit numbers using area models I (2)",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply one-digit numbers by two-digit numbers using area models I (2) for Grade 3 students (TEKS 3.4(G)). Students multiply one-digit by two-digit numbers using the distributive property and area models. For example, 4 x 23 = 4 x 20 + 4 x 3. Key concepts include decomposing the two-digit factor, computing partial products, combining results, and using visual models. Vocabulary: multiply, two-digit, partial product, area model, grid, distributive property. Common misconceptions include forgetting to multiply by both parts and misaligning place values. Activities should include area model drawings, grid multiplication, and progressing toward standard procedures appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply one-digit numbers by two-digit numbers using area models II",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply one-digit numbers by two-digit numbers using area models II for Grade 3 students (TEKS 3.4(G)). Students multiply one-digit by two-digit numbers using the distributive property and area models. For example, 4 x 23 = 4 x 20 + 4 x 3. Key concepts include decomposing the two-digit factor, computing partial products, combining results, and using visual models. Vocabulary: multiply, two-digit, partial product, area model, grid, distributive property. Common misconceptions include forgetting to multiply by both parts and misaligning place values. Activities should include area model drawings, grid multiplication, and progressing toward standard procedures appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiply one-digit numbers by two-digit numbers",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply one-digit numbers by two-digit numbers for Grade 3 students (TEKS 3.4(G)). Students multiply one-digit by two-digit numbers using the distributive property and area models. For example, 4 x 23 = 4 x 20 + 4 x 3. Key concepts include decomposing the two-digit factor, computing partial products, combining results, and using visual models. Vocabulary: multiply, two-digit, partial product, area model, grid, distributive property. Common misconceptions include forgetting to multiply by both parts and misaligning place values. Activities should include area model drawings, grid multiplication, and progressing toward standard procedures appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiply one-digit numbers by two-digit numbers: word problems",
+      "teks": "3.4(G)",
+      "prompt": "This topic covers Multiply one-digit numbers by two-digit numbers: word problems for Grade 3 students (TEKS 3.4(G)). Students multiply one-digit by two-digit numbers using the distributive property and area models. For example, 4 x 23 = 4 x 20 + 4 x 3. Key concepts include decomposing the two-digit factor, computing partial products, combining results, and using visual models. Vocabulary: multiply, two-digit, partial product, area model, grid, distributive property. Common misconceptions include forgetting to multiply by both parts and misaligning place values. Activities should include area model drawings, grid multiplication, and progressing toward standard procedures appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Divide by counting equal groups",
+      "teks": "3.4(H)",
+      "prompt": "This topic covers Divide by counting equal groups for Grade 3 students (TEKS 3.4(H)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Write division sentences for groups",
+      "teks": "3.4(H)",
+      "prompt": "This topic covers Write division sentences for groups for Grade 3 students (TEKS 3.4(H)). This skill builds numerical understanding and computational fluency appropriate for ages 8-9. Key concepts include understanding number relationships, applying place value knowledge, using strategies and algorithms, and connecting to real-world situations. Students should work with concrete manipulatives, pictorial representations, and abstract notation. Vocabulary should be grade-appropriate and explicitly taught. Common misconceptions should be anticipated and addressed. Activities should progress from concrete to representational to abstract, with problems set in meaningful contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Even or odd",
+      "teks": "3.4(I)",
+      "prompt": "This topic covers Even or odd for Grade 3 students (TEKS 3.4(I)). Even numbers divide into two equal groups; odd numbers have one left over. Even numbers end in 0, 2, 4, 6, 8; odd numbers end in 1, 3, 5, 7, 9. Key concepts include recognizing even/odd from the ones digit, pairing objects, and patterns when adding evens and odds. Vocabulary: even, odd, pair, group, remainder, ones digit, pattern. Common misconceptions include checking the wrong digit and uncertainty about zero (it is even). Activities should include pairing objects, sorting numbers, and pattern exploration appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiplication facts up to 10: find the missing factor",
+      "teks": "3.4(J)",
+      "prompt": "This topic covers Multiplication facts up to 10: find the missing factor for Grade 3 students (TEKS 3.4(J)). Students find unknown values in multiplication or division equations using the inverse relationship. For __ x 4 = 28, think 28 / 4 = 7. Key concepts include using inverse operations, fact family knowledge, and recognizing unknowns in various positions. Vocabulary: missing factor, unknown, equation, inverse operation, fact family. Common misconceptions include not knowing which operation to use and difficulty with unknowns in non-standard positions. Activities should include fact family triangles, equations with blanks in various positions, and word problem contexts appropriate for ages 8-9."
+    },
+    {
+      "skill": "Multiplication word problems with factors up to 10: find the missing number",
+      "teks": "3.4(J)",
+      "prompt": "This topic covers Multiplication word problems with factors up to 10: find the missing number for Grade 3 students (TEKS 3.4(J)). Students solve word problems involving multiplication by identifying equal groups, rows, or arrays in the problem context. Key concepts include recognizing multiplication situations, writing equations with factors and products, solving, and interpreting the answer. Vocabulary: multiply, factor, product, equal groups, times, each, array, row. Common misconceptions include confusing factors, not recognizing equal-group structures, and computation errors. Activities should include drawing models, writing equations, and solving problems in age-appropriate contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Relate multiplication and division",
+      "teks": "3.4(J)",
+      "prompt": "This topic covers relating multiplication and division for Grade 3 students (TEKS 3.4(J)). These are inverse operations: if a x b = c, then c / a = b and c / b = a. Key concepts include using multiplication to solve division (think-multiplication), completing fact families, and recognizing the relationship in word problems. Vocabulary: inverse operations, fact family, factor, product, dividend, divisor, quotient. Common misconceptions include not connecting the operations and memorizing division separately. Activities should include fact family triangles, writing all four equations for three numbers, and word problem contexts appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Division facts up to 10: find the missing number",
+      "teks": "3.4(J)",
+      "prompt": "This topic covers Division facts up to 10: find the missing number for Grade 3 students (TEKS 3.4(J)). Students find unknown values in multiplication or division equations using the inverse relationship. For __ x 4 = 28, think 28 / 4 = 7. Key concepts include using inverse operations, fact family knowledge, and recognizing unknowns in various positions. Vocabulary: missing factor, unknown, equation, inverse operation, fact family. Common misconceptions include not knowing which operation to use and difficulty with unknowns in non-standard positions. Activities should include fact family triangles, equations with blanks in various positions, and word problem contexts appropriate for ages 8-9."
+    },
+    {
+      "skill": "Use equal groups and arrays to solve multiplication word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Use equal groups and arrays to solve multiplication word problems for Grade 3 students (TEKS 3.4(K)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Use strip models to solve multiplication word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Use strip models to solve multiplication word problems for Grade 3 students (TEKS 3.4(K)). Students solve word problems involving multiplication by identifying equal groups, rows, or arrays in the problem context. Key concepts include recognizing multiplication situations, writing equations with factors and products, solving, and interpreting the answer. Vocabulary: multiply, factor, product, equal groups, times, each, array, row. Common misconceptions include confusing factors, not recognizing equal-group structures, and computation errors. Activities should include drawing models, writing equations, and solving problems in age-appropriate contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiplication word problems with factors up to 10",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Multiplication word problems with factors up to 10 for Grade 3 students (TEKS 3.4(K)). Students solve word problems involving multiplication by identifying equal groups, rows, or arrays in the problem context. Key concepts include recognizing multiplication situations, writing equations with factors and products, solving, and interpreting the answer. Vocabulary: multiply, factor, product, equal groups, times, each, array, row. Common misconceptions include confusing factors, not recognizing equal-group structures, and computation errors. Activities should include drawing models, writing equations, and solving problems in age-appropriate contexts for 8-9-year-olds. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Compare numbers using multiplication: word problems",
+      "teks": "3.5(C)",
+      "prompt": "This topic covers Compare numbers using multiplication: word problems for Grade 3 students (TEKS 3.5(C)). Students express multiplicative comparisons like 'A is 3 times as many as B.' Key concepts include distinguishing multiplicative from additive comparisons, representing with equations, and solving. Vocabulary: times as many, multiply, compare, multiplicative comparison, scaling factor. Common misconceptions include confusing 'times as many' with 'more than' and difficulty setting up equations. Activities should include modeling, bar diagrams, and varied word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Use equal groups to solve division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Use equal groups to solve division word problems for Grade 3 students (TEKS 3.4(K)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Use arrays to solve division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Use arrays to solve division word problems for Grade 3 students (TEKS 3.4(K)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Use equal groups and arrays to solve division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Use equal groups and arrays to solve division word problems for Grade 3 students (TEKS 3.4(K)). Students build foundational multiplication understanding through equal groups and arrays. Key concepts include counting equal groups, writing repeated addition sentences, connecting to multiplication notation, and using arrays to show the commutative property. Vocabulary: equal groups, array, row, column, repeated addition, multiplication, times, product, factor. Common misconceptions include creating unequal groups, confusing number of groups with group size, and difficulty transitioning to multiplication notation. Activities should include creating groups and arrays with objects, writing both addition and multiplication sentences, and solving equal-group word problems appropriate for ages 8-9."
+    },
+    {
+      "skill": "Division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Division word problems for Grade 3 students (TEKS 3.4(K)). Students solve word problems involving division in both sharing (partitive) and grouping (measurement) contexts. Key concepts include identifying what is being divided and by what, writing division equations, using think-multiplication to solve, and interpreting remainders. Vocabulary: divide, share equally, groups, quotient, dividend, divisor. Common misconceptions include confusing which number to divide, not understanding remainders, and mixing up division types. Activities should include acting out sharing scenarios, drawing models, and solving varied division word problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Multiplication and division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Multiplication and division word problems for Grade 3 students (TEKS 3.4(K)). Students solve problems requiring multiplication (combining equal groups) or division (splitting into equal groups). Key concepts include identifying the correct operation from context, writing equations, solving, and checking reasonableness. Vocabulary: multiply, divide, groups, each, times, shared equally, factor, product, quotient. Common misconceptions include confusing multiplication and division situations and difficulty with multi-step problems. Activities should include modeling, sorting problems by operation, and writing original problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    },
+    {
+      "skill": "Two-step multiplication and division word problems",
+      "teks": "3.4(K)",
+      "prompt": "This topic covers Two-step multiplication and division word problems for Grade 3 students (TEKS 3.4(K)). Students solve problems requiring multiplication (combining equal groups) or division (splitting into equal groups). Key concepts include identifying the correct operation from context, writing equations, solving, and checking reasonableness. Vocabulary: multiply, divide, groups, each, times, shared equally, factor, product, quotient. Common misconceptions include confusing multiplication and division situations and difficulty with multi-step problems. Activities should include modeling, sorting problems by operation, and writing original problems appropriate for ages 8-9. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 8-9-year-olds develop both conceptual understanding and procedural fluency."
+    }
+  ]
+}

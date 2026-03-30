@@ -1,0 +1,996 @@
+{
+  "grade": "Grade 4",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Convert between place values",
+      "teks": "4.2(A)",
+      "prompt": "This topic covers the relationship between place values for Grade 4 students (TEKS 4.2(A)). Students should understand that each place value position is 10 times the value of the position to its right and 1/10 the value of the position to its left. Key concepts: moving one place to the left multiplies the value by 10; moving one place to the right divides the value by 10; this pattern extends through both whole number and decimal places; understanding these relationships helps with multiplication and division by powers of 10. Vocabulary: place value, ten times, one-tenth, multiply, divide, position, digit, relationship, pattern, power of ten. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Place value review",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers place value fundamentals for Grade 4 students (TEKS 4.2(B)). Students should understand how digits in a number represent values based on their position. Key concepts: each position in a number has a specific value (ones, tens, hundreds, thousands, etc.); the value of a digit equals the digit multiplied by its place value; numbers can be represented in standard form, expanded form, and word form; understanding place value is foundational for all number operations. Vocabulary: place value, digit, value, position, ones, tens, hundreds, thousands, standard form, expanded form, word form. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Place values in decimal numbers",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 4 students (TEKS 4.2(E)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Relationship between place values",
+      "teks": "4.2(A)",
+      "prompt": "This topic covers the relationship between place values for Grade 4 students (TEKS 4.2(A)). Students should understand that each place value position is 10 times the value of the position to its right and 1/10 the value of the position to its left. Key concepts: moving one place to the left multiplies the value by 10; moving one place to the right divides the value by 10; this pattern extends through both whole number and decimal places; understanding these relationships helps with multiplication and division by powers of 10. Vocabulary: place value, ten times, one-tenth, multiply, divide, position, digit, relationship, pattern, power of ten. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Place value names",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers place value fundamentals for Grade 4 students (TEKS 4.2(B)). Students should understand how digits in a number represent values based on their position. Key concepts: each position in a number has a specific value (ones, tens, hundreds, thousands, etc.); the value of a digit equals the digit multiplied by its place value; numbers can be represented in standard form, expanded form, and word form; understanding place value is foundational for all number operations. Vocabulary: place value, digit, value, position, ones, tens, hundreds, thousands, standard form, expanded form, word form. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Place value word problems",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers place value word problems for Grade 4 students (TEKS 4.2(B)). Students should apply their understanding of place value to solve real-world problems. Key concepts: determine the value of a specific digit in context; compare numbers based on place value; use place value understanding to solve problems involving money, large quantities, and measurements; connect place value to addition, subtraction, multiplication, and division strategies. Vocabulary: place value, digit, value, compare, round, estimate, position, standard form, word form, expanded form. Problems should involve realistic contexts appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Place value models for decimal numbers",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 4 students (TEKS 4.2(E)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Convert decimals between standard and expanded form using fractions",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers converting between standard and expanded form for Grade 4 students (TEKS 4.2(B)). Students should understand how to decompose numbers into the sum of each digit multiplied by its place value. Key concepts: standard form is the usual way to write a number (e.g., 4,352); expanded form shows the value of each digit (e.g., 4,000 + 300 + 50 + 2); for decimals, expanded form can use fractions (e.g., 3.25 = 3 + 2/10 + 5/100) or decimals (e.g., 3 + 0.2 + 0.05); word form writes the number in words. Students should convert fluently between forms. Vocabulary: standard form, expanded form, word form, place value, digit, decompose, value, sum, decimal, fraction. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Understanding decimals expressed in words",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers understanding decimals expressed in words for Grade 4 students (TEKS 4.2(E)). Students should understand how to read, write, and interpret decimal numbers in word form. Key concepts: the decimal point is read as 'and'; digits to the right of the decimal are read as a whole number followed by the place value of the last digit (e.g., 3.45 is 'three and forty-five hundredths'); students should convert between word form, standard form, and expanded form. Vocabulary: decimal, word form, standard form, tenths, hundredths, thousandths, 'and', read, write, convert, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Convert between standard and expanded form: up to one billion",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers converting between standard and expanded form for Grade 4 students (TEKS 4.2(B)). Students should understand how to decompose numbers into the sum of each digit multiplied by its place value. Key concepts: standard form is the usual way to write a number (e.g., 4,352); expanded form shows the value of each digit (e.g., 4,000 + 300 + 50 + 2); for decimals, expanded form can use fractions (e.g., 3.25 = 3 + 2/10 + 5/100) or decimals (e.g., 3 + 0.2 + 0.05); word form writes the number in words. Students should convert fluently between forms. Vocabulary: standard form, expanded form, word form, place value, digit, decompose, value, sum, decimal, fraction. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Value of a digit: up to one billion",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers finding the value of a digit in a number for Grade 4 students (TEKS 4.2(B)). Students should understand that the value of a digit depends on its position (place) in the number. Key concepts: the value of a digit = digit x its place value; for example, in 5,847, the digit 8 has a value of 800; in 3.26, the digit 6 has a value of 6 hundredths or 0.06; students should distinguish between a digit's face value (the digit itself) and its place value (the value based on position). Vocabulary: digit, value, place value, position, ones, tens, hundreds, thousands, tenths, hundredths, face value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Place value review: up to one billion",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers place value review up to one billion for Grade 4 students (TEKS 4.2(B)). Students should understand the place value system for numbers up to one billion. Key concepts: place values include ones, tens, hundreds, thousands, ten thousands, hundred thousands, millions, ten millions, hundred millions, and billions; each period (ones, thousands, millions, billions) contains three places; students should read, write, and identify the value of digits in large numbers. Vocabulary: place value, period, ones, tens, hundreds, thousands, millions, billions, digit, value, standard form, word form, expanded form. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Value of a digit in a decimal number",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers finding the value of a digit in a number for Grade 4 students (TEKS 4.2(E)). Students should understand that the value of a digit depends on its position (place) in the number. Key concepts: the value of a digit = digit x its place value; for example, in 5,847, the digit 8 has a value of 800; in 3.26, the digit 6 has a value of 6 hundredths or 0.06; students should distinguish between a digit's face value (the digit itself) and its place value (the value based on position). Vocabulary: digit, value, place value, position, ones, tens, hundreds, thousands, tenths, hundredths, face value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Convert decimals between standard and expanded form",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers converting between standard and expanded form for Grade 4 students (TEKS 4.2(B)). Students should understand how to decompose numbers into the sum of each digit multiplied by its place value. Key concepts: standard form is the usual way to write a number (e.g., 4,352); expanded form shows the value of each digit (e.g., 4,000 + 300 + 50 + 2); for decimals, expanded form can use fractions (e.g., 3.25 = 3 + 2/10 + 5/100) or decimals (e.g., 3 + 0.2 + 0.05); word form writes the number in words. Students should convert fluently between forms. Vocabulary: standard form, expanded form, word form, place value, digit, decompose, value, sum, decimal, fraction. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare numbers up to one billion",
+      "teks": "4.2(C)",
+      "prompt": "This topic covers comparing large numbers for Grade 4 students (TEKS 4.2(C)). Students should understand how to compare whole numbers up to one billion using place value. Key concepts: compare digits starting from the leftmost (greatest) place value; the number with a greater digit in the leftmost differing place is the greater number; use <, >, and = symbols to express comparisons; numbers with more digits are always greater than numbers with fewer digits (when both are positive). Vocabulary: compare, greater than, less than, equal to, place value, digit, symbol, billion, million, thousand, order, position. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Rounding: up to hundred thousands place",
+      "teks": "4.2(D)",
+      "prompt": "This topic covers rounding numbers for Grade 4 students (TEKS 4.2(D)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Rounding: up to millions place",
+      "teks": "4.2(D)",
+      "prompt": "This topic covers rounding numbers for Grade 4 students (TEKS 4.2(D)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Round a number to any place: up to hundred thousands",
+      "teks": "4.2(D)",
+      "prompt": "This topic covers rounding numbers for Grade 4 students (TEKS 4.2(D)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Rounding input/output tables",
+      "teks": "4.2(D)",
+      "prompt": "This topic covers rounding numbers for Grade 4 students (TEKS 4.2(D)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "What decimal number is illustrated?",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers identifying decimal numbers from visual illustrations for Grade 4 students (TEKS 4.2(E)). Students should understand how to read decimal values from grid models, number lines, and other visual representations. Key concepts: in a 10x10 grid, each small square represents one hundredth; the number of shaded squares divided by 100 gives the decimal; on a number line, identify the value based on the intervals and position of the point; models help connect visual representations to numerical values. Vocabulary: decimal, model, grid, shaded, hundredths, tenths, number line, represent, identify, illustrate, visual, fraction. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decimal number lines",
+      "teks": "4.2(H)",
+      "prompt": "This topic covers decimal number lines for Grade 4 students (TEKS 4.2(H)). Students should understand how to locate, plot, and read decimal values on number lines. Key concepts: number lines for decimals are divided into equal intervals (tenths, hundredths); students should identify the scale of the number line by examining the intervals; plotting decimals requires counting intervals from a known reference point; number lines help visualize the relative size and order of decimals. Vocabulary: number line, decimal, interval, plot, locate, scale, tenths, hundredths, position, equal parts, increment, label. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Place values in decimal numbers (2)",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 4 students (TEKS 4.2(E)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Relate decimals and money",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers relating decimals and money for Grade 4 students (TEKS 4.2(E)). Students should understand the connection between decimal notation and money values. Key concepts: dollars and cents use decimal notation where the decimal point separates dollars from cents; one cent = $0.01 = 1/100 of a dollar; one dime = $0.10 = 1/10 of a dollar; money provides a familiar context for understanding tenths and hundredths; counting, comparing, and computing with money reinforces decimal skills. Vocabulary: dollar, cent, decimal point, tenths, hundredths, money, coin, bill, value, notation, compare, add, subtract. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Understanding decimals expressed in words (2)",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers understanding decimals expressed in words for Grade 4 students (TEKS 4.2(E)). Students should understand how to read, write, and interpret decimal numbers in word form. Key concepts: the decimal point is read as 'and'; digits to the right of the decimal are read as a whole number followed by the place value of the last digit (e.g., 3.45 is 'three and forty-five hundredths'); students should convert between word form, standard form, and expanded form. Vocabulary: decimal, word form, standard form, tenths, hundredths, thousandths, 'and', read, write, convert, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Count coins and bills - up to $20 bill",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers counting coins and bills for Grade 4 students (TEKS 4.2(E)). Students should understand how to count combinations of coins and bills to determine a total amount of money. Key concepts: coin values (penny = $0.01, nickel = $0.05, dime = $0.10, quarter = $0.25); bill values ($1, $5, $10, $20); efficient counting strategies include starting with the largest denomination and counting down; write totals using dollar sign and decimal point. Vocabulary: penny, nickel, dime, quarter, dollar, bill, count, total, value, denomination, decimal, change, combination, amount. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare decimals using models",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers comparing decimals for Grade 4 students (TEKS 4.2(F)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare decimals on number lines",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers comparing decimals for Grade 4 students (TEKS 4.2(F)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare decimal numbers",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers comparing decimals for Grade 4 students (TEKS 4.2(F)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Put decimal numbers in order I",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers ordering decimal numbers for Grade 4 students (TEKS 4.2(F)). Students should understand how to arrange a set of decimal numbers from least to greatest or greatest to least. Key concepts: compare decimals by aligning decimal points and comparing digit by digit from left to right; add trailing zeros to make numbers the same length when helpful; use number lines to visualize order; ordering requires comparing each pair of values systematically. Vocabulary: order, least to greatest, greatest to least, compare, decimal, align, number line, ascending, descending, arrange, sequence, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Put decimal numbers in order II",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers ordering decimal numbers for Grade 4 students (TEKS 4.2(F)). Students should understand how to arrange a set of decimal numbers from least to greatest or greatest to least. Key concepts: compare decimals by aligning decimal points and comparing digit by digit from left to right; add trailing zeros to make numbers the same length when helpful; use number lines to visualize order; ordering requires comparing each pair of values systematically. Vocabulary: order, least to greatest, greatest to least, compare, decimal, align, number line, ascending, descending, arrange, sequence, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare money amounts",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers comparing decimals for Grade 4 students (TEKS 4.2(F)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare decimals using place value blocks",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 4 students (TEKS 4.2(F)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Put decimal numbers in order using a number line",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers ordering decimal numbers for Grade 4 students (TEKS 4.2(F)). Students should understand how to arrange a set of decimal numbers from least to greatest or greatest to least. Key concepts: compare decimals by aligning decimal points and comparing digit by digit from left to right; add trailing zeros to make numbers the same length when helpful; use number lines to visualize order; ordering requires comparing each pair of values systematically. Vocabulary: order, least to greatest, greatest to least, compare, decimal, align, number line, ascending, descending, arrange, sequence, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Put decimal numbers in order using models",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers ordering decimal numbers for Grade 4 students (TEKS 4.2(F)). Students should understand how to arrange a set of decimal numbers from least to greatest or greatest to least. Key concepts: compare decimals by aligning decimal points and comparing digit by digit from left to right; add trailing zeros to make numbers the same length when helpful; use number lines to visualize order; ordering requires comparing each pair of values systematically. Vocabulary: order, least to greatest, greatest to least, compare, decimal, align, number line, ascending, descending, arrange, sequence, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Put decimal numbers less than one in order",
+      "teks": "4.2(F)",
+      "prompt": "This topic covers ordering decimal numbers for Grade 4 students (TEKS 4.2(F)). Students should understand how to arrange a set of decimal numbers from least to greatest or greatest to least. Key concepts: compare decimals by aligning decimal points and comparing digit by digit from left to right; add trailing zeros to make numbers the same length when helpful; use number lines to visualize order; ordering requires comparing each pair of values systematically. Vocabulary: order, least to greatest, greatest to least, compare, decimal, align, number line, ascending, descending, arrange, sequence, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Graph fractions as decimals on number lines",
+      "teks": "4.2(G)",
+      "prompt": "This topic covers decimal number lines for Grade 4 students (TEKS 4.2(G)). Students should understand how to locate, plot, and read decimal values on number lines. Key concepts: number lines for decimals are divided into equal intervals (tenths, hundredths); students should identify the scale of the number line by examining the intervals; plotting decimals requires counting intervals from a known reference point; number lines help visualize the relative size and order of decimals. Vocabulary: number line, decimal, interval, plot, locate, scale, tenths, hundredths, position, equal parts, increment, label. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Convert fractions and mixed numbers to decimals - denominators of 10 and 100",
+      "teks": "4.2(G)",
+      "prompt": "This topic covers converting between fractions and decimals for Grade 4 students (TEKS 4.2(G)). Students should understand that fractions and decimals are two ways to represent the same value. Key concepts: to convert a fraction to a decimal, divide the numerator by the denominator; fractions with denominators of 10, 100, or 1000 convert directly to tenths, hundredths, or thousandths; to convert a decimal to a fraction, use the place value as the denominator and simplify; some fractions produce repeating decimals. Vocabulary: fraction, decimal, convert, numerator, denominator, divide, tenths, hundredths, thousandths, equivalent, simplify, repeating decimal, terminating decimal. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Convert decimals between standard and expanded form using fractions (2)",
+      "teks": "4.2(G)",
+      "prompt": "This topic covers converting between standard and expanded form for Grade 4 students (TEKS 4.2(G)). Students should understand how to decompose numbers into the sum of each digit multiplied by its place value. Key concepts: standard form is the usual way to write a number (e.g., 4,352); expanded form shows the value of each digit (e.g., 4,000 + 300 + 50 + 2); for decimals, expanded form can use fractions (e.g., 3.25 = 3 + 2/10 + 5/100) or decimals (e.g., 3 + 0.2 + 0.05); word form writes the number in words. Students should convert fluently between forms. Vocabulary: standard form, expanded form, word form, place value, digit, decompose, value, sum, decimal, fraction. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare decimals and fractions",
+      "teks": "4.2(G)",
+      "prompt": "This topic covers comparing decimals for Grade 4 students (TEKS 4.2(G)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Graph decimals on number lines",
+      "teks": "4.2(H)",
+      "prompt": "This topic covers decimal number lines for Grade 4 students (TEKS 4.2(H)). Students should understand how to locate, plot, and read decimal values on number lines. Key concepts: number lines for decimals are divided into equal intervals (tenths, hundredths); students should identify the scale of the number line by examining the intervals; plotting decimals requires counting intervals from a known reference point; number lines help visualize the relative size and order of decimals. Vocabulary: number line, decimal, interval, plot, locate, scale, tenths, hundredths, position, equal parts, increment, label. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decimal number lines (2)",
+      "teks": "4.2(H)",
+      "prompt": "This topic covers decimal number lines for Grade 4 students (TEKS 4.2(H)). Students should understand how to locate, plot, and read decimal values on number lines. Key concepts: number lines for decimals are divided into equal intervals (tenths, hundredths); students should identify the scale of the number line by examining the intervals; plotting decimals requires counting intervals from a known reference point; number lines help visualize the relative size and order of decimals. Vocabulary: number line, decimal, interval, plot, locate, scale, tenths, hundredths, position, equal parts, increment, label. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Put decimal numbers in order using a number line (2)",
+      "teks": "4.2(H)",
+      "prompt": "This topic covers ordering decimal numbers for Grade 4 students (TEKS 4.2(H)). Students should understand how to arrange a set of decimal numbers from least to greatest or greatest to least. Key concepts: compare decimals by aligning decimal points and comparing digit by digit from left to right; add trailing zeros to make numbers the same length when helpful; use number lines to visualize order; ordering requires comparing each pair of values systematically. Vocabulary: order, least to greatest, greatest to least, compare, decimal, align, number line, ascending, descending, arrange, sequence, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decompose fractions into unit fractions using models",
+      "teks": "4.3(A)",
+      "prompt": "This topic covers decomposing fractions for Grade 4 students (TEKS 4.3(A)). Students should understand how to break a fraction into a sum of smaller fractions, particularly unit fractions. Key concepts: a unit fraction has a numerator of 1 (e.g., 1/4, 1/3); any fraction can be written as a sum of unit fractions (e.g., 3/4 = 1/4 + 1/4 + 1/4); fractions can also be decomposed into non-unit fractions in multiple ways (e.g., 5/6 = 3/6 + 2/6); visual models (area models, number lines) help demonstrate decomposition. Vocabulary: decompose, fraction, unit fraction, numerator, denominator, sum, model, area model, number line, equivalent, compose, parts. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decompose fractions into unit fractions",
+      "teks": "4.3(A)",
+      "prompt": "This topic covers decomposing fractions for Grade 4 students (TEKS 4.3(A)). Students should understand how to break a fraction into a sum of smaller fractions, particularly unit fractions. Key concepts: a unit fraction has a numerator of 1 (e.g., 1/4, 1/3); any fraction can be written as a sum of unit fractions (e.g., 3/4 = 1/4 + 1/4 + 1/4); fractions can also be decomposed into non-unit fractions in multiple ways (e.g., 5/6 = 3/6 + 2/6); visual models (area models, number lines) help demonstrate decomposition. Vocabulary: decompose, fraction, unit fraction, numerator, denominator, sum, model, area model, number line, equivalent, compose, parts. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Fractions review",
+      "teks": "4.3(A)",
+      "prompt": "This topic covers a general review of fraction concepts for Grade 4 students (TEKS 4.3(A)). Students should understand fundamental fraction concepts and operations. Key concepts: a fraction represents a part of a whole or a part of a set; the numerator tells how many parts, the denominator tells the total number of equal parts; fractions can be represented using area models, number lines, and sets; proper fractions have numerators less than denominators; improper fractions have numerators greater than or equal to denominators; mixed numbers combine whole numbers and proper fractions. Vocabulary: fraction, numerator, denominator, proper, improper, mixed number, whole, part, equal parts, model, represent, convert. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decompose fractions into unit fractions using models (2)",
+      "teks": "4.3(B)",
+      "prompt": "This topic covers decomposing fractions for Grade 4 students (TEKS 4.3(B)). Students should understand how to break a fraction into a sum of smaller fractions, particularly unit fractions. Key concepts: a unit fraction has a numerator of 1 (e.g., 1/4, 1/3); any fraction can be written as a sum of unit fractions (e.g., 3/4 = 1/4 + 1/4 + 1/4); fractions can also be decomposed into non-unit fractions in multiple ways (e.g., 5/6 = 3/6 + 2/6); visual models (area models, number lines) help demonstrate decomposition. Vocabulary: decompose, fraction, unit fraction, numerator, denominator, sum, model, area model, number line, equivalent, compose, parts. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decompose fractions",
+      "teks": "4.3(B)",
+      "prompt": "This topic covers decomposing fractions for Grade 4 students (TEKS 4.3(B)). Students should understand how to break a fraction into a sum of smaller fractions, particularly unit fractions. Key concepts: a unit fraction has a numerator of 1 (e.g., 1/4, 1/3); any fraction can be written as a sum of unit fractions (e.g., 3/4 = 1/4 + 1/4 + 1/4); fractions can also be decomposed into non-unit fractions in multiple ways (e.g., 5/6 = 3/6 + 2/6); visual models (area models, number lines) help demonstrate decomposition. Vocabulary: decompose, fraction, unit fraction, numerator, denominator, sum, model, area model, number line, equivalent, compose, parts. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decompose fractions multiple ways",
+      "teks": "4.3(B)",
+      "prompt": "This topic covers decomposing fractions for Grade 4 students (TEKS 4.3(B)). Students should understand how to break a fraction into a sum of smaller fractions, particularly unit fractions. Key concepts: a unit fraction has a numerator of 1 (e.g., 1/4, 1/3); any fraction can be written as a sum of unit fractions (e.g., 3/4 = 1/4 + 1/4 + 1/4); fractions can also be decomposed into non-unit fractions in multiple ways (e.g., 5/6 = 3/6 + 2/6); visual models (area models, number lines) help demonstrate decomposition. Vocabulary: decompose, fraction, unit fraction, numerator, denominator, sum, model, area model, number line, equivalent, compose, parts. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Fractions review (2)",
+      "teks": "4.3(A)",
+      "prompt": "This topic covers a general review of fraction concepts for Grade 4 students (TEKS 4.3(A)). Students should understand fundamental fraction concepts and operations. Key concepts: a fraction represents a part of a whole or a part of a set; the numerator tells how many parts, the denominator tells the total number of equal parts; fractions can be represented using area models, number lines, and sets; proper fractions have numerators less than denominators; improper fractions have numerators greater than or equal to denominators; mixed numbers combine whole numbers and proper fractions. Vocabulary: fraction, numerator, denominator, proper, improper, mixed number, whole, part, equal parts, model, represent, convert. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Find equivalent fractions using area models",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify equivalent fractions using number lines",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Graph equivalent fractions on number lines",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Find equivalent fractions using multiplication and division",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Identify equivalent fractions",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Equivalent fractions: find the missing numerator or denominator",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Patterns of equivalent fractions",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Fractions with denominators of 10 and 100",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers fractions with denominators of 10 and 100 for Grade 4 students (TEKS 4.3(C)). Students should understand how to find equivalent fractions between tenths and hundredths. Key concepts: 1/10 is equivalent to 10/100; to convert a fraction with a denominator of 10 to a denominator of 100, multiply both numerator and denominator by 10; fractions with denominators of 10 and 100 connect directly to decimal notation (1/10 = 0.1, 1/100 = 0.01); students should add fractions with denominators of 10 and 100 by finding a common denominator of 100. Vocabulary: fraction, denominator, numerator, tenths, hundredths, equivalent, convert, decimal, common denominator, place value. Students should use visual models like hundredths grids to see the relationship between tenths and hundredths. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Write fractions in lowest terms",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers writing fractions in lowest terms (simplifying fractions) for Grade 4 students (TEKS 4.3(C)). Students should understand how to reduce a fraction to its simplest form by dividing the numerator and denominator by their greatest common factor (GCF). Key concepts: a fraction is in lowest terms when the numerator and denominator share no common factor other than 1; find the GCF of the numerator and denominator; divide both by the GCF; equivalent fractions represent the same value even in different forms. Vocabulary: lowest terms, simplify, reduce, greatest common factor, GCF, numerator, denominator, equivalent, divide, common factor. Students should practice simplifying fractions and verifying equivalence using visual models. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Are the fractions equivalent?",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers determining whether two fractions are equivalent for Grade 4 students (TEKS 4.3(C)). Students should understand how to test whether two fractions represent the same value. Key concepts: two fractions are equivalent if they can be simplified to the same fraction; cross-multiply to check (a/b = c/d if a*d = b*c); multiply or divide both numerator and denominator by the same number to find equivalent forms; visual models (area models, number lines) can confirm equivalence. Vocabulary: equivalent, fraction, cross-multiply, numerator, denominator, simplify, equal, test, verify, model, same value. Students should practice both generating and testing equivalent fractions. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare fractions using models",
+      "teks": "4.3(D)",
+      "prompt": "This topic covers comparing fractions for Grade 4 students (TEKS 4.3(D)). Students should understand multiple strategies for determining which fraction is greater, less, or equal. Key concepts: compare fractions with the same denominator by comparing numerators; compare fractions with the same numerator by comparing denominators (larger denominator = smaller pieces); find a common denominator to compare fractions with unlike denominators; use benchmark fractions (0, 1/2, 1) as reference points; cross-multiplication is another comparison strategy. Vocabulary: compare, fraction, greater than, less than, equal, common denominator, benchmark, numerator, denominator, equivalent, cross-multiply. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Benchmark fractions",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers benchmark fractions for Grade 4 students (TEKS 4.3(F)). Students should understand how to use familiar fractions as reference points for estimating and comparing. Key concepts: benchmark fractions include 0, 1/4, 1/3, 1/2, 2/3, 3/4, and 1; students determine if a fraction is close to 0, close to 1/2, or close to 1 by comparing the numerator to the denominator; if the numerator is much less than half the denominator, the fraction is close to 0; if it is about half, the fraction is close to 1/2; benchmarks help with estimation and reasonableness. Vocabulary: benchmark, fraction, estimate, compare, reference, close to, about, halfway, numerator, denominator, reasonable, approximately. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare fractions using benchmarks",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers comparing fractions for Grade 4 students (TEKS 4.3(F)). Students should understand multiple strategies for determining which fraction is greater, less, or equal. Key concepts: compare fractions with the same denominator by comparing numerators; compare fractions with the same numerator by comparing denominators (larger denominator = smaller pieces); find a common denominator to compare fractions with unlike denominators; use benchmark fractions (0, 1/2, 1) as reference points; cross-multiplication is another comparison strategy. Vocabulary: compare, fraction, greater than, less than, equal, common denominator, benchmark, numerator, denominator, equivalent, cross-multiply. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare fractions using benchmarks: find the missing numerator",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers comparing fractions for Grade 4 students (TEKS 4.3(F)). Students should understand multiple strategies for determining which fraction is greater, less, or equal. Key concepts: compare fractions with the same denominator by comparing numerators; compare fractions with the same numerator by comparing denominators (larger denominator = smaller pieces); find a common denominator to compare fractions with unlike denominators; use benchmark fractions (0, 1/2, 1) as reference points; cross-multiplication is another comparison strategy. Vocabulary: compare, fraction, greater than, less than, equal, common denominator, benchmark, numerator, denominator, equivalent, cross-multiply. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare fractions",
+      "teks": "4.3(D)",
+      "prompt": "This topic covers comparing fractions for Grade 4 students (TEKS 4.3(D)). Students should understand multiple strategies for determining which fraction is greater, less, or equal. Key concepts: compare fractions with the same denominator by comparing numerators; compare fractions with the same numerator by comparing denominators (larger denominator = smaller pieces); find a common denominator to compare fractions with unlike denominators; use benchmark fractions (0, 1/2, 1) as reference points; cross-multiplication is another comparison strategy. Vocabulary: compare, fraction, greater than, less than, equal, common denominator, benchmark, numerator, denominator, equivalent, cross-multiply. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare fractions: find the missing numerator or denominator",
+      "teks": "4.3(D)",
+      "prompt": "This topic covers comparing fractions for Grade 4 students (TEKS 4.3(D)). Students should understand multiple strategies for determining which fraction is greater, less, or equal. Key concepts: compare fractions with the same denominator by comparing numerators; compare fractions with the same numerator by comparing denominators (larger denominator = smaller pieces); find a common denominator to compare fractions with unlike denominators; use benchmark fractions (0, 1/2, 1) as reference points; cross-multiplication is another comparison strategy. Vocabulary: compare, fraction, greater than, less than, equal, common denominator, benchmark, numerator, denominator, equivalent, cross-multiply. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare fractions in recipes",
+      "teks": "4.3(D)",
+      "prompt": "This topic covers comparing fractions for Grade 4 students (TEKS 4.3(D)). Students should understand multiple strategies for determining which fraction is greater, less, or equal. Key concepts: compare fractions with the same denominator by comparing numerators; compare fractions with the same numerator by comparing denominators (larger denominator = smaller pieces); find a common denominator to compare fractions with unlike denominators; use benchmark fractions (0, 1/2, 1) as reference points; cross-multiplication is another comparison strategy. Vocabulary: compare, fraction, greater than, less than, equal, common denominator, benchmark, numerator, denominator, equivalent, cross-multiply. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Graph and order fractions on number lines",
+      "teks": "4.3(D)",
+      "prompt": "This topic covers ordering fractions for Grade 4 students (TEKS 4.3(D)). Students should understand how to arrange fractions from least to greatest or greatest to least. Key concepts: to order fractions, find common denominators and compare numerators; alternatively, convert fractions to decimals and compare; use number lines to visualize the order; benchmark fractions can help estimate relative positions. Vocabulary: order, fraction, least to greatest, greatest to least, common denominator, compare, number line, benchmark, ascending, descending, arrange. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Order fractions",
+      "teks": "4.3(D)",
+      "prompt": "This topic covers ordering fractions for Grade 4 students (TEKS 4.3(D)). Students should understand how to arrange fractions from least to greatest or greatest to least. Key concepts: to order fractions, find common denominators and compare numerators; alternatively, convert fractions to decimals and compare; use number lines to visualize the order; benchmark fractions can help estimate relative positions. Vocabulary: order, fraction, least to greatest, greatest to least, common denominator, compare, number line, benchmark, ascending, descending, arrange. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add fractions with like denominators using area models",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add fractions with like denominators using strip models",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add fractions with like denominators using number lines",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract fractions with like denominators using area models",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract fractions with like denominators using strip models",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract fractions with like denominators using number lines",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators using number lines",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add fractions with like denominators",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract fractions with like denominators",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators: word problems",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators in recipes",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add 3 or more fractions with like denominators",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare sums and differences of fractions with like denominators",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers comparing sums and differences of fractions with like denominators for Grade 4 students (TEKS 4.3(F)). Students should understand how to compare the results of fraction addition and subtraction without necessarily computing exact answers. Key concepts: use benchmark fractions (0, 1/2, 1) to estimate sums and differences; determine whether a sum or difference is greater than, less than, or equal to a benchmark; when fractions have the same denominator, compare numerators to compare the sums or differences; develop number sense about fraction operations. Vocabulary: compare, sum, difference, fraction, like denominators, benchmark, estimate, greater than, less than, numerator, reasonable. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add mixed numbers",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 4 students (TEKS 4.3(E)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract mixed numbers with like denominators",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 4 students (TEKS 4.3(E)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add fractions and mixed numbers using properties",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 4 students (TEKS 4.3(E)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add fractions with like denominators: pick the model",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract fractions with like denominators: pick the model",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract mixed numbers without regrouping",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 4 students (TEKS 4.3(E)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators: pick the area model",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators: complete the equation",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 4 students (TEKS 4.3(E)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Break apart fractions and mixed numbers to add or subtract",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 4 students (TEKS 4.3(E)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Determine whether the sum or difference of two fractions is reasonable",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers determining the reasonableness of fraction sums and differences for Grade 4 students (TEKS 4.3(F)). Students should use estimation and benchmark fractions to evaluate whether a computed answer makes sense. Key concepts: compare each fraction to benchmarks (0, 1/2, 1) before computing; estimate whether the sum should be close to 0, 1/2, 1, or more than 1; check if the computed answer aligns with the estimate; use number sense rather than exact computation to evaluate reasonableness. Vocabulary: reasonable, estimate, benchmark, fraction, sum, difference, approximate, close to, number sense, evaluate, compare. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare sums of unit fractions",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers comparing sums of unit fractions for Grade 4 students (TEKS 4.3(F)). Students should understand how to compare expressions involving addition of unit fractions without computing exact values. Key concepts: a unit fraction has a numerator of 1 (e.g., 1/3, 1/4, 1/6); larger denominators mean smaller unit fractions; sums of unit fractions can be compared using benchmarks and reasoning about the size of each fraction; for example, 1/3 + 1/3 > 1/4 + 1/4 because each 1/3 is larger than 1/4. Vocabulary: unit fraction, sum, compare, denominator, benchmark, greater than, less than, reasoning, size, numerator. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare differences of unit fractions",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers comparing differences of unit fractions for Grade 4 students (TEKS 4.3(F)). Students should understand how to compare expressions involving subtraction of unit fractions using reasoning and number sense. Key concepts: a unit fraction has a numerator of 1; subtracting a larger unit fraction from a value produces a smaller result; students should reason about the relative sizes of fractions without computing exact answers; benchmark fractions and number lines support comparison. Vocabulary: unit fraction, difference, compare, subtract, denominator, benchmark, greater than, less than, reasoning, size, number line. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare sums and differences of unit fractions",
+      "teks": "4.3(F)",
+      "prompt": "This topic covers comparing sums and differences of unit fractions for Grade 4 students (TEKS 4.3(F)). Students should use reasoning and estimation to compare expressions that combine addition and subtraction of unit fractions. Key concepts: unit fractions have a numerator of 1; students should estimate whether each expression is closer to 0, 1/2, or 1; compare the estimated values to determine which expression is greater; develop number sense about how fraction size relates to denominator size. Vocabulary: unit fraction, sum, difference, compare, estimate, benchmark, reasoning, numerator, denominator, greater than, less than. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Fractions of number lines",
+      "teks": "4.3(G)",
+      "prompt": "This topic covers fractions on number lines for Grade 4 students (TEKS 4.3(G)). Students should understand how to represent and locate fractions on number lines. Key concepts: the number line between 0 and 1 is divided into equal parts based on the denominator; the numerator tells how many parts from 0; fractions greater than 1 extend beyond the 1 mark; equivalent fractions occupy the same point; number lines help compare and order fractions visually. Vocabulary: fraction, number line, numerator, denominator, equal parts, locate, plot, interval, position, compare, equivalent, between. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Graph fractions as decimals on number lines (2)",
+      "teks": "4.3(G)",
+      "prompt": "This topic covers decimal number lines for Grade 4 students (TEKS 4.3(G)). Students should understand how to locate, plot, and read decimal values on number lines. Key concepts: number lines for decimals are divided into equal intervals (tenths, hundredths); students should identify the scale of the number line by examining the intervals; plotting decimals requires counting intervals from a known reference point; number lines help visualize the relative size and order of decimals. Vocabulary: number line, decimal, interval, plot, locate, scale, tenths, hundredths, position, equal parts, increment, label. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Graph decimals on number lines (2)",
+      "teks": "4.3(G)",
+      "prompt": "This topic covers decimal number lines for Grade 4 students (TEKS 4.3(G)). Students should understand how to locate, plot, and read decimal values on number lines. Key concepts: number lines for decimals are divided into equal intervals (tenths, hundredths); students should identify the scale of the number line by examining the intervals; plotting decimals requires counting intervals from a known reference point; number lines help visualize the relative size and order of decimals. Vocabulary: number line, decimal, interval, plot, locate, scale, tenths, hundredths, position, equal parts, increment, label. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decimal number lines (3)",
+      "teks": "4.3(G)",
+      "prompt": "This topic covers decimal number lines for Grade 4 students (TEKS 4.3(G)). Students should understand how to locate, plot, and read decimal values on number lines. Key concepts: number lines for decimals are divided into equal intervals (tenths, hundredths); students should identify the scale of the number line by examining the intervals; plotting decimals requires counting intervals from a known reference point; number lines help visualize the relative size and order of decimals. Vocabulary: number line, decimal, interval, plot, locate, scale, tenths, hundredths, position, equal parts, increment, label. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add 3 or more numbers up to millions",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding three or more multi-digit numbers for Grade 4 students (TEKS 4.4(A)). Students should understand how to add multiple numbers efficiently using the standard algorithm with regrouping. Key concepts: align all numbers by place value; add column by column from right to left; regroup (carry) when any column sum exceeds 9; when adding three or more addends, partial sums may require carrying 2 or more; estimation helps verify the reasonableness of the final sum. Vocabulary: add, sum, addend, regroup, carry, place value, column, align, digit, millions, thousands, hundreds, estimate, standard algorithm. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Addition: fill in the missing digits",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers addition with missing digits for Grade 4 students (TEKS 4.4(A)). Students should understand how to determine unknown digits in addition problems using place value and logical reasoning. Key concepts: analyze the problem column by column; consider whether regrouping occurred; use the relationship between digits, sums, and carries to determine missing values; check the answer by completing the full addition. Vocabulary: digit, missing, addition, sum, regroup, carry, place value, column, unknown, reasoning, check. Problems should develop algebraic thinking appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Choose numbers with a particular sum",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 4 students (TEKS 4.4(A)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtraction: fill in the missing digits",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers subtraction with missing digits for Grade 4 students (TEKS 4.4(A)). Students should understand how to determine unknown digits in subtraction problems using place value and logical reasoning. Key concepts: analyze the problem column by column; consider whether regrouping (borrowing) occurred; use the relationship between minuend, subtrahend, and difference to determine missing values; check by completing the subtraction or using addition. Vocabulary: digit, missing, subtraction, difference, regroup, borrow, place value, column, unknown, minuend, subtrahend, check. Problems should develop algebraic thinking appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Choose numbers with a particular difference",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 4 students (TEKS 4.4(A)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add decimal numbers",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 4 students (TEKS 4.4(A)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract decimal numbers",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 4 students (TEKS 4.4(A)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract decimals: word problems",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 4 students (TEKS 4.4(A)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Choose decimals with a particular sum or difference",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 4 students (TEKS 4.4(A)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add 3 or more decimals",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 4 students (TEKS 4.4(A)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add 3 or more decimals: word problems",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 4 students (TEKS 4.4(A)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add and subtract money amounts",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting money amounts for Grade 4 students (TEKS 4.4(A)). Students should understand how to compute with money values using decimal operations. Key concepts: money amounts are written with a dollar sign and two decimal places; align decimal points when adding or subtracting; regroup as needed; include the dollar sign and two decimal places in the answer; estimate to check reasonableness; making change involves subtracting the cost from the amount paid. Vocabulary: dollar, cent, add, subtract, decimal point, align, regroup, change, cost, total, price, amount, estimate. Problems should involve real-world purchasing scenarios appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add two numbers up to seven digits",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting multi-digit whole numbers for Grade 4 students (TEKS 4.4(A)). Students should understand the standard algorithms for addition and subtraction with regrouping. Key concepts: align numbers by place value before computing; in addition, regroup (carry) when the sum in any column exceeds 9; in subtraction, regroup (borrow) when the top digit is smaller than the bottom digit; estimate to check reasonableness; the process works the same regardless of how many digits. Vocabulary: add, subtract, regroup, carry, borrow, place value, align, digit, sum, difference, algorithm, estimate, standard algorithm. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Add two numbers up to seven digits: word problems",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting multi-digit whole numbers for Grade 4 students (TEKS 4.4(A)). Students should understand the standard algorithms for addition and subtraction with regrouping. Key concepts: align numbers by place value before computing; in addition, regroup (carry) when the sum in any column exceeds 9; in subtraction, regroup (borrow) when the top digit is smaller than the bottom digit; estimate to check reasonableness; the process works the same regardless of how many digits. Vocabulary: add, subtract, regroup, carry, borrow, place value, align, digit, sum, difference, algorithm, estimate, standard algorithm. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract numbers up to seven digits",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting multi-digit whole numbers for Grade 4 students (TEKS 4.4(A)). Students should understand the standard algorithms for addition and subtraction with regrouping. Key concepts: align numbers by place value before computing; in addition, regroup (carry) when the sum in any column exceeds 9; in subtraction, regroup (borrow) when the top digit is smaller than the bottom digit; estimate to check reasonableness; the process works the same regardless of how many digits. Vocabulary: add, subtract, regroup, carry, borrow, place value, align, digit, sum, difference, algorithm, estimate, standard algorithm. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Subtract numbers up to seven digits: word problems",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers adding and subtracting multi-digit whole numbers for Grade 4 students (TEKS 4.4(A)). Students should understand the standard algorithms for addition and subtraction with regrouping. Key concepts: align numbers by place value before computing; in addition, regroup (carry) when the sum in any column exceeds 9; in subtraction, regroup (borrow) when the top digit is smaller than the bottom digit; estimate to check reasonableness; the process works the same regardless of how many digits. Vocabulary: add, subtract, regroup, carry, borrow, place value, align, digit, sum, difference, algorithm, estimate, standard algorithm. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply by 10 or 100",
+      "teks": "4.4(B)",
+      "prompt": "This topic covers multiplication patterns with powers of 10 for Grade 4 students (TEKS 4.4(B)). Students should understand that multiplying by 10, 100, or 1000 shifts each digit to a higher place value. Key concepts: multiplying by 10 shifts digits one place to the left (appends one zero for whole numbers); multiplying by 100 shifts two places; multiplying by 1000 shifts three places; this pattern works for both whole numbers and decimals (moving the decimal point right); these patterns relate to the base-ten number system. Vocabulary: multiply, power of ten, pattern, place value, shift, digit, zero, decimal point, 10, 100, 1000, base ten. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiplication patterns over increasing place values: up to thousands",
+      "teks": "4.4(B)",
+      "prompt": "This topic covers multiplication patterns with powers of 10 for Grade 4 students (TEKS 4.4(B)). Students should understand that multiplying by 10, 100, or 1000 shifts each digit to a higher place value. Key concepts: multiplying by 10 shifts digits one place to the left (appends one zero for whole numbers); multiplying by 100 shifts two places; multiplying by 1000 shifts three places; this pattern works for both whole numbers and decimals (moving the decimal point right); these patterns relate to the base-ten number system. Vocabulary: multiply, power of ten, pattern, place value, shift, digit, zero, decimal point, 10, 100, 1000, base ten. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply by numbers ending in zeros: find the missing number",
+      "teks": "4.4(B)",
+      "prompt": "This topic covers multiplication with numbers ending in zeros for Grade 4 students (TEKS 4.4(B)). Students should understand patterns when multiplying by multiples of 10, 100, and 1000. Key concepts: when multiplying by a number ending in zeros, multiply the nonzero digits and then append the total number of trailing zeros; for example, 30 x 40 = 3 x 4 with two zeros = 1200; students find missing factors by using the inverse relationship between multiplication and division. Vocabulary: multiply, zero, trailing zeros, factor, product, pattern, missing number, multiples of ten, inverse, divide, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 2-digit numbers by 2-digit numbers: choose the area model",
+      "teks": "4.4(C)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(C)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 2-digit numbers by 2-digit numbers using area models",
+      "teks": "4.4(C)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(C)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Box multiplication",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers alternative multiplication methods (box or lattice multiplication) for Grade 4 students (TEKS 4.4(D)). Students should understand systematic methods for organizing multi-digit multiplication. Key concepts: lattice multiplication uses a grid where each cell contains a product of single digits, with diagonals organizing place values; box multiplication arranges partial products in a grid format; both methods reduce errors by organizing the multiplication process; the final answer is found by adding along diagonals (lattice) or summing partial products (box). Vocabulary: lattice, box, grid, diagonal, partial product, factor, product, digit, place value, organize, method, algorithm. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Lattice multiplication",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers alternative multiplication methods (box or lattice multiplication) for Grade 4 students (TEKS 4.4(D)). Students should understand systematic methods for organizing multi-digit multiplication. Key concepts: lattice multiplication uses a grid where each cell contains a product of single digits, with diagonals organizing place values; box multiplication arranges partial products in a grid format; both methods reduce errors by organizing the multiplication process; the final answer is found by adding along diagonals (lattice) or summing partial products (box). Vocabulary: lattice, box, grid, diagonal, partial product, factor, product, digit, place value, organize, method, algorithm. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiplication facts to 12",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplication facts for Grade 4 students (TEKS 4.4(D)). Students should demonstrate fluency with multiplication facts through 12 x 12. Key concepts: multiplication can be understood as repeated addition or equal groups; the commutative property means a x b = b x a; knowing multiplication facts supports division, fraction work, and algebra; strategies include skip counting, using known facts to derive unknown facts, and recognizing patterns. Vocabulary: multiply, factor, product, fact, fluency, times, equal groups, commutative, array, skip count, memorize, strategy. Problems should build speed and accuracy appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Properties of multiplication",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers properties of multiplication for Grade 4 students (TEKS 4.4(D)). Students should understand the mathematical properties that make multiplication work. Key concepts: commutative property (a x b = b x a); associative property ((a x b) x c = a x (b x c)); distributive property (a x (b + c) = a x b + a x c); identity property (a x 1 = a); zero property (a x 0 = 0). These properties help simplify computation and solve problems mentally. Vocabulary: commutative, associative, distributive, identity, zero property, factor, product, multiply, simplify, property, equation. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Choose the multiples of a given number up to 12",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers identifying multiples of a given number for Grade 4 students (TEKS 4.4(D)). Students should understand that a multiple of a number is the product of that number and any whole number. Key concepts: multiples of n are n, 2n, 3n, 4n, etc.; skip counting generates multiples; every number is a multiple of itself and of 1; multiples extend infinitely; students should identify multiples from a list and distinguish multiples from non-multiples. Vocabulary: multiple, skip count, product, factor, times, whole number, identify, select, number, sequence, pattern. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by teen numbers using grids",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 2-digit numbers: choose the area model",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 2-digit numbers using area models",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 2-digit numbers",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 3-digit or 4-digit numbers: choose the area model",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 3-digit or 4-digit numbers using area models",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 3-digit or 4-digit numbers using expanded form",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers converting between standard and expanded form for Grade 4 students (TEKS 4.4(D)). Students should understand how to decompose numbers into the sum of each digit multiplied by its place value. Key concepts: standard form is the usual way to write a number (e.g., 4,352); expanded form shows the value of each digit (e.g., 4,000 + 300 + 50 + 2); for decimals, expanded form can use fractions (e.g., 3.25 = 3 + 2/10 + 5/100) or decimals (e.g., 3 + 0.2 + 0.05); word form writes the number in words. Students should convert fluently between forms. Vocabulary: standard form, expanded form, word form, place value, digit, decompose, value, sum, decimal, fraction. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by multi-digit numbers using partial products",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 3-digit or 4-digit numbers",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 2-digit numbers by 2-digit numbers: choose the area model",
+      "teks": "4.4(C)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(C)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 2-digit numbers by 2-digit numbers using area models (2)",
+      "teks": "4.4(C)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(C)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 2-digit numbers by 2-digit numbers using partial products",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply a 2-digit number by a 2-digit number: complete the missing steps",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply a 2-digit number by a 2-digit number",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Inequalities with multiplication",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers inequalities involving arithmetic operations for Grade 4 students (TEKS 4.4(D)). Students should understand how to determine whether an inequality is true by evaluating expressions on both sides. Key concepts: evaluate the expression on each side of the inequality; compare the results using <, >, <=, >=, or =; properties of operations affect the comparison; students should predict which side is greater without computing exactly by using estimation and number sense. Vocabulary: inequality, greater than, less than, equal, expression, evaluate, compare, estimate, operation, side, symbol, true, false. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Use one multiplication fact to complete another",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers using known multiplication facts to derive unknown ones for Grade 4 students (TEKS 4.4(D)). Students should understand how relationships between facts can help compute new products. Key concepts: if you know 6 x 7 = 42, then 6 x 8 = 42 + 6 = 48 (adding one more group); doubling and halving strategies (4 x 8 = 2 x 16); using the distributive property (7 x 8 = 7 x 5 + 7 x 3); the commutative property means knowing 3 x 9 also gives 9 x 3. Vocabulary: multiplication fact, derive, relationship, strategy, doubling, halving, distributive property, commutative, group, product, known fact. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by teen numbers",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply a two-digit number by a multiple of ten",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(D)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply using the associative and commutative properties",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers using the associative and commutative properties to multiply for Grade 4 students (TEKS 4.4(D)). Students should understand how these properties make multiplication easier. Key concepts: commutative property allows changing the order of factors (3 x 5 = 5 x 3); associative property allows changing the grouping ((2 x 3) x 4 = 2 x (3 x 4)); students can rearrange and regroup factors to create easier computations; for example, 4 x 7 x 25 = 4 x 25 x 7 = 100 x 7 = 700. Vocabulary: commutative property, associative property, factor, product, rearrange, regroup, multiply, order, grouping, simplify, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers using arrays",
+      "teks": "4.4(E)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(E)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers using area models",
+      "teks": "4.4(E)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(E)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers: quotients up to 10",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers: complete the table",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 3-digit numbers by 1-digit numbers using area models",
+      "teks": "4.4(E)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(E)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide larger numbers by 1-digit numbers: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Pick the model that shows a division expression",
+      "teks": "4.4(E)",
+      "prompt": "This topic covers selecting visual models that represent division expressions for Grade 4 students (TEKS 4.4(E)). Students should understand how to connect division expressions to their corresponding visual representations. Key concepts: division can be modeled as equal sharing (partitive) or equal grouping (quotative); arrays show division as the inverse of multiplication; area models divide a rectangle into equal rows or columns; students should match a given division expression (e.g., 24 / 6) to the correct model among multiple choices. Vocabulary: division, model, array, equal groups, sharing, grouping, expression, represent, partitive, quotative, match, visual. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide larger numbers by 1-digit numbers: complete the table",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Division facts to 12",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers division facts for Grade 4 students (TEKS 4.4(F)). Students should demonstrate fluency with division facts through 144 / 12. Key concepts: division is the inverse of multiplication; knowing multiplication facts supports division fluency; dividend / divisor = quotient; if a x b = c, then c / a = b and c / b = a; division by zero is undefined. Vocabulary: divide, dividend, divisor, quotient, inverse, fact family, multiplication, equal groups, share, partition, fluency, remainder. Problems should build speed and accuracy appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Properties of division",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers properties of division for Grade 4 students (TEKS 4.4(F)). Students should understand key properties and rules of division. Key concepts: any number divided by 1 equals itself; any number divided by itself equals 1 (except 0); 0 divided by any nonzero number equals 0; division by 0 is undefined; division is NOT commutative (a / b does not equal b / a); division is NOT associative; division is related to multiplication as its inverse operation. Vocabulary: divide, dividend, divisor, quotient, undefined, inverse, commutative, identity, zero, property, rule, relationship. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide numbers ending in zeros by 1-digit numbers",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide using the distributive property",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers using the distributive property to divide for Grade 4 students (TEKS 4.4(F)). Students should understand how to break a dividend into friendlier parts for easier division. Key concepts: the distributive property allows splitting the dividend into two or more parts that are each divisible by the divisor; for example, 96 / 4 = (80 / 4) + (16 / 4) = 20 + 4 = 24; this strategy uses place value understanding; it is the basis for the partial quotients method. Vocabulary: distributive property, divide, dividend, divisor, quotient, decompose, split, partial quotient, place value, sum, mental math. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers: complete the table (2)",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide using partial quotients",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing using the partial quotients method for Grade 4 students (TEKS 4.4(F)). Students should understand an alternative to the standard long division algorithm. Key concepts: repeatedly subtract multiples of the divisor from the dividend; record each partial quotient; continue until the remaining amount is less than the divisor; add all partial quotients for the final answer; students can choose convenient multiples (like 10x, 5x, 2x the divisor). Vocabulary: partial quotient, divide, dividend, divisor, quotient, remainder, subtract, multiple, convenient, strategy, repeat, sum. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide larger numbers by 1-digit numbers",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide numbers ending in zeros by 1-digit numbers: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide larger numbers by 1-digit numbers: complete the table (2)",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide numbers ending in zeros by 1-digit numbers: complete the sentence",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(F)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide using repeated subtraction",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers dividing using repeated subtraction for Grade 4 students (TEKS 4.4(F)). Students should understand division as the process of repeatedly subtracting equal groups from a total. Key concepts: start with the dividend and repeatedly subtract the divisor; count how many times the divisor can be subtracted before reaching zero (or a remainder less than the divisor); the count of subtractions equals the quotient; this method builds conceptual understanding of what division means. Vocabulary: repeated subtraction, divide, dividend, divisor, quotient, remainder, subtract, count, equal groups, concept, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate sums",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate sums: word problems",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate differences",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate differences: word problems",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate products word problems: identify reasonable answers",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate products: multiply by 2-digit numbers",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(G)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate products: word problems",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate quotients using compatible numbers: 1-digit divisors",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate sums, differences, products, and quotients: word problems",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate sums using compatible numbers",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate differences using compatible numbers",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate quotients",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Estimate quotients: word problems",
+      "teks": "4.4(G)",
+      "prompt": "This topic covers estimation strategies for Grade 4 students (TEKS 4.4(G)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiplication facts to 12: find the missing factor",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers multiplication facts for Grade 4 students (TEKS 4.4(H)). Students should demonstrate fluency with multiplication facts through 12 x 12. Key concepts: multiplication can be understood as repeated addition or equal groups; the commutative property means a x b = b x a; knowing multiplication facts supports division, fraction work, and algebra; strategies include skip counting, using known facts to derive unknown facts, and recognizing patterns. Vocabulary: multiply, factor, product, fact, fluency, times, equal groups, commutative, array, skip count, memorize, strategy. Problems should build speed and accuracy appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Compare numbers using multiplication: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers solving word problems for Grade 4 students (TEKS 4.4(H)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Choose numbers with a particular product",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 4 students (TEKS 4.4(D)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 2-digit numbers: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 2-digit numbers: multi-step word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 3-digit or 4-digit numbers: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply 1-digit numbers by 3-digit or 4-digit numbers: multi-step word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply two multiples of ten: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers solving word problems for Grade 4 students (TEKS 4.4(H)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply a 2-digit number by a 2-digit number: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiply a 2-digit number by a 2-digit number: multi-step word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Division facts to 12 (2)",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers division facts for Grade 4 students (TEKS 4.4(F)). Students should demonstrate fluency with division facts through 144 / 12. Key concepts: division is the inverse of multiplication; knowing multiplication facts supports division fluency; dividend / divisor = quotient; if a x b = c, then c / a = b and c / b = a; division by zero is undefined. Vocabulary: divide, dividend, divisor, quotient, inverse, fact family, multiplication, equal groups, share, partition, fluency, remainder. Problems should build speed and accuracy appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Division facts to 12: word problems",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers division facts for Grade 4 students (TEKS 4.4(H)). Students should demonstrate fluency with division facts through 144 / 12. Key concepts: division is the inverse of multiplication; knowing multiplication facts supports division fluency; dividend / divisor = quotient; if a x b = c, then c / a = b and c / b = a; division by zero is undefined. Vocabulary: divide, dividend, divisor, quotient, inverse, fact family, multiplication, equal groups, share, partition, fluency, remainder. Problems should build speed and accuracy appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Choose numbers with a particular quotient",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 4 students (TEKS 4.4(F)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers: interpret remainders",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide 2-digit numbers by 1-digit numbers: word problems (2)",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide larger numbers by 1-digit numbers: interpret remainders",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Divide larger numbers by 1-digit numbers: word problems (2)",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 4 students (TEKS 4.4(H)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multi-step word problems involving remainders",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers solving word problems for Grade 4 students (TEKS 4.4(H)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multi-step word problems: identify reasonable answers",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers solving word problems for Grade 4 students (TEKS 4.4(H)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "One-step word problems involving remainders",
+      "teks": "4.4(H)",
+      "prompt": "This topic covers solving word problems for Grade 4 students (TEKS 4.4(H)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 9-10 year olds."
+    }
+  ]
+}

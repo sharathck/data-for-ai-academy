@@ -1,0 +1,26 @@
+{
+  "grade": "AP - Physics 2",
+  "subject": "Geometric Optics",
+  "skills": [
+    {
+      "skill": "Reflection",
+      "ref": "Unit 5, Topic 5.1",
+      "prompt": "This topic covers reflection for AP Physics 2 students (CED: Unit 5, Topic 5.1). Students should understand the law of reflection: the angle of incidence equals the angle of reflection (theta_i = theta_r), both measured from the normal to the surface. Specular reflection occurs on smooth surfaces and produces clear images; diffuse reflection occurs on rough surfaces and scatters light in many directions. Light rays are reversible: a ray traveling from A to B follows the same path from B to A. Reflection preserves the angle and wavelength of light. Plane mirrors produce virtual images that are the same size as the object, upright, and located the same distance behind the mirror as the object is in front. Students must apply the law of reflection and locate images formed by plane mirrors. Connect to mirrors, image formation, and wave behavior. AP exam note: ray diagram construction for plane mirrors is foundational. Vocabulary: reflection, angle of incidence, angle of reflection, normal, specular, diffuse, virtual image, plane mirror."
+    },
+    {
+      "skill": "Images Formed by Mirrors",
+      "ref": "Unit 5, Topic 5.2",
+      "prompt": "This topic covers images formed by curved mirrors for AP Physics 2 students (CED: Unit 5, Topic 5.2). Students should understand that concave mirrors converge parallel rays to a focal point (f = R/2, where R is the radius of curvature) and convex mirrors diverge them (virtual focal point behind the mirror). The mirror equation: 1/f = 1/d_o + 1/d_i, where d_o is object distance and d_i is image distance. Magnification: M = -d_i/d_o = h_i/h_o. Sign conventions: positive d_i for real images (in front), negative for virtual (behind); positive M for upright, negative for inverted. Students must use ray diagrams (parallel, focal, and center rays) and the mirror equation to locate and characterize images (real/virtual, upright/inverted, magnified/reduced). Connect to reflection, lenses, and optical instruments. AP exam note: ray diagrams and mirror equation calculations are heavily tested. Vocabulary: concave mirror, convex mirror, focal point, focal length, real image, virtual image, magnification, mirror equation."
+    },
+    {
+      "skill": "Refraction",
+      "ref": "Unit 5, Topic 5.3",
+      "prompt": "This topic covers refraction for AP Physics 2 students (CED: Unit 5, Topic 5.3). Students should understand that refraction is the bending of light as it passes from one medium to another due to a change in speed. Snell's law: n1*sin(theta_1) = n2*sin(theta_2), where n is the index of refraction (n = c/v). Light slows down and bends toward the normal when entering a denser medium (higher n) and speeds up and bends away from the normal when entering a less dense medium. Total internal reflection occurs when light travels from a denser to a less dense medium at an angle greater than the critical angle: theta_c = arcsin(n2/n1). Applications include fiber optics, prisms, and diamonds. Students must apply Snell's law and calculate critical angles. Connect to lenses, dispersion, and wave behavior. AP exam note: Snell's law calculations and total internal reflection are commonly tested. Vocabulary: refraction, Snell's law, index of refraction, normal, total internal reflection, critical angle, denser medium."
+    },
+    {
+      "skill": "Images Formed by Lenses",
+      "ref": "Unit 5, Topic 5.4",
+      "prompt": "This topic covers images formed by lenses for AP Physics 2 students (CED: Unit 5, Topic 5.4). Students should understand that converging (convex) lenses focus parallel light to a real focal point, while diverging (concave) lenses spread light as if from a virtual focal point. The thin lens equation: 1/f = 1/d_o + 1/d_i, with the same form as the mirror equation. Sign conventions: positive f for converging, negative for diverging; positive d_i for real images (opposite side from object), negative for virtual (same side as object). Magnification: M = -d_i/d_o. Ray diagrams use three principal rays: parallel (refracts through focal point), through center (undeviated), and through focal point (refracts parallel). Students must draw ray diagrams and solve lens equation problems. Connect to refraction, mirrors, and optical instruments (microscopes, telescopes). AP exam note: lens problems and ray diagrams are heavily tested. Vocabulary: converging lens, diverging lens, focal length, real image, virtual image, thin lens equation, magnification, ray diagram."
+    }
+  ]
+}

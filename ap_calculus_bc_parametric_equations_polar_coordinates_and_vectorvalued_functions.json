@@ -1,0 +1,51 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Parametric Equations, Polar Coordinates, and Vector-Valued Functions",
+  "skills": [
+    {
+      "skill": "Change: Defining and Differentiating Parametric Equations",
+      "ref": "CHA-3.G, FUN-8.A",
+      "prompt": "This topic covers parametric differentiation for AP Calculus BC (CED: CHA-3.G, FUN-8.A, Unit 9). Parametric curves x = f(t), y = g(t) have dy/dx = (dy/dt)/(dx/dt), provided dx/dt != 0. Horizontal tangents: dy/dt = 0, dx/dt != 0. Vertical tangents: dx/dt = 0, dy/dt != 0. The parameter t determines direction of travel. Students find tangent line equations at specific t-values. BC students use parametric differentiation extensively in motion problems and curve analysis. AP exam note: parametric differentiation is a core BC topic. Students must clearly apply the Chain Rule and handle horizontal/vertical tangent cases. Vocabulary: parametric equations, parameter, dy/dx, Chain Rule, horizontal tangent, vertical tangent, direction."
+    },
+    {
+      "skill": "Change: Second Derivatives of Parametric Equations",
+      "ref": "FUN-8.B",
+      "prompt": "This topic covers parametric second derivatives for AP Calculus BC (CED: FUN-8.B, Unit 9). d^2y/dx^2 = (d/dt[dy/dx])/(dx/dt). Steps: compute dy/dx = (dy/dt)/(dx/dt), differentiate with respect to t using the Quotient Rule, then divide by dx/dt. A common error is computing d^2y/dt^2 / d^2x/dt^2 (WRONG). The second derivative determines concavity of the parametric curve. AP exam note: the parametric second derivative formula is frequently tested and commonly misapplied. Students must use the correct formula and show all steps. Vocabulary: second derivative, parametric, concavity, Quotient Rule, d/dt, correct formula."
+    },
+    {
+      "skill": "Change: Finding Arc Lengths of Curves Given by Parametric Equations",
+      "ref": "CHA-6.A",
+      "prompt": "This topic covers parametric arc length for AP Calculus BC (CED: CHA-6.A, Unit 9). L = integral from a to b of sqrt([dx/dt]^2+[dy/dt]^2)dt. The integrand is the speed. Arc length = integral of speed over time. The curve must be smooth. Students set up and evaluate (often with calculator). Example: unit circle x = cos t, y = sin t, t in [0,2pi]: L = 2pi. AP exam note: setting up parametric arc length integrals is commonly tested. Vocabulary: arc length, parametric, speed, smooth curve, integral, Pythagorean theorem."
+    },
+    {
+      "skill": "Change: Defining and Differentiating Vector-Valued Functions",
+      "ref": "FUN-8.A, CHA-3.G",
+      "prompt": "This topic covers vector-valued functions for AP Calculus BC (CED: FUN-8.A, CHA-3.G, Unit 9). r(t) = <x(t), y(t)> gives position. v(t) = r'(t) = <x'(t), y'(t)> is velocity. a(t) = v'(t) = <x''(t), y''(t)> is acceleration. Speed = |v(t)| = sqrt([x']^2+[y']^2). The velocity vector is tangent to the path. At rest when v = <0,0>. BC students analyze planar motion using vectors, distinguishing velocity (vector) from speed (scalar). AP exam note: vector-valued function problems are a signature BC topic. Students must compute velocity, acceleration, and speed accurately. Vocabulary: vector-valued function, position, velocity, acceleration, speed, magnitude, component, tangent."
+    },
+    {
+      "skill": "Analysis of Functions: Integrating Vector-Valued Functions",
+      "ref": "FUN-8.C",
+      "prompt": "This topic covers integrating vector-valued functions for AP Calculus BC (CED: FUN-8.C, Unit 9). Integrate component-wise: integral of <f(t), g(t)>dt = <integral f dt, integral g dt>. Position from velocity: r(t) = r(t0) + integral from t0 to t of v(s)ds. Velocity from acceleration: v(t) = v(t0) + integral from t0 to t of a(s)ds. Displacement = integral of v dt (vector). Total distance = integral of |v| dt = integral of speed (scalar, not the same as displacement magnitude). AP exam note: students must distinguish displacement (vector) from total distance (scalar). Initial conditions determine particular solutions component-wise. Vocabulary: component-wise integration, displacement, total distance, initial condition, vector integral."
+    },
+    {
+      "skill": "Analysis of Functions: Solving Motion Problems Using Parametric and Vector-Valued Functions",
+      "ref": "CHA-3.G, FUN-8.A",
+      "prompt": "This topic covers solving planar motion problems for AP Calculus BC (CED: CHA-3.G, FUN-8.A, Unit 9). Students synthesize parametric/vector tools: find position, velocity, acceleration at given times; determine when particle is at rest; find slope of path (dy/dx = y'/x'); compute speed; find total distance; determine position using integrals and initial conditions. BC exam signature problem: given v(t) and initial position, find position at time t by integrating components. AP exam note: motion problems are among the most common BC free-response questions. Students should organize work clearly, label vectors, and distinguish scalar from vector quantities. Vocabulary: motion, parametric, vector, position, velocity, speed, distance, slope of path, at rest."
+    },
+    {
+      "skill": "Analysis of Functions: Defining Polar Coordinates and Differentiating in Polar Form",
+      "ref": "FUN-8.D",
+      "prompt": "This topic covers polar coordinates and differentiation for AP Calculus BC (CED: FUN-8.D, Unit 9). Point (r, theta): r = distance from origin, theta = angle from positive x-axis. Conversion: x = r cos theta, y = r sin theta. For r = f(theta), use parametric form x = f(theta)cos(theta), y = f(theta)sin(theta). dy/dx = (dy/dtheta)/(dx/dtheta) using Product Rule for dx/dtheta and dy/dtheta. Common curves: circles, cardioids, roses, limacons. Horizontal tangent: dy/dtheta = 0, dx/dtheta != 0. Vertical: dx/dtheta = 0, dy/dtheta != 0. AP exam note: polar differentiation requires careful Product Rule application. Students should identify tangent line slopes on polar curves. Vocabulary: polar coordinates, r, theta, conversion, dy/dx, Product Rule, cardioid, rose, limacon."
+    },
+    {
+      "skill": "Change: Finding the Area of a Polar Region or the Area Bounded by a Single Polar Curve",
+      "ref": "CHA-5.D",
+      "prompt": "This topic covers polar area for AP Calculus BC (CED: CHA-5.D, Unit 9). A = (1/2) integral from alpha to beta of [f(theta)]^2 d(theta). This sums infinitesimal triangular sectors. Key: choose limits to trace the region exactly once. For curves passing through the origin, determine where r = 0. Common applications: area inside cardioids, rose petals, circles. Students must sketch curves and identify correct angular bounds. AP exam note: correct limits of integration are crucial. Students should know when curves complete full traversals. Vocabulary: polar area, sector, half r-squared, limits of integration, cardioid, rose petal, trace once."
+    },
+    {
+      "skill": "Change: Finding the Area of the Region Bounded by Two Polar Curves",
+      "ref": "CHA-5.D",
+      "prompt": "This topic covers area between polar curves for AP Calculus BC (CED: CHA-5.D, Unit 9). A = (1/2) integral from alpha to beta of ([f(theta)]^2 - [g(theta)]^2)d(theta), where f is the outer curve and g is the inner. Find intersections by solving f(theta) = g(theta). Determine which curve is outer in each region. May need to split into separate integrals. Watch for origin intersections where both curves are zero at different theta values. AP exam note: polar area between curves requires careful identification of intersection angles and outer/inner curves. Sketch both curves on the same grid. Vocabulary: polar area, outer curve, inner curve, intersection, angular bounds, split integral."
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "High School - Algebra II": {
+    "Mathematics - Attributes of functions and their inverses": [
+      {
+        "skill": "Graph the functions f(x)=√x, f(x)=1/x, f(x)=x³, f(x)=³√x, f(x)=b to the x power, f(x)=|x|, and f(x)=logb (x) where b is 2, 10, and e, and, when applicable, analyze the key attributes such as domain, range, intercepts, symmetries, asymptotic behavior, and maximum and minimum given an interval;",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers graph the functions f(x)=√x, f(x)=1/x, f(x)=x³, f(x)=³√x, f(x)=b to the x power, f(x)=|x|, and f(x)=logb (x) where b is 2, 10, and e, and, when applicable, analyze the key attributes such as domain, range, intercepts, symmetries, asymptotic behavior, and maximum and minimum given an interval; for Algebra II students (TEKS 2A.2(A)). Analyze transformations of f(x) = x^3 and f(x) = cbrt(x): af(x) stretches/reflects vertically, f(bx) stretches horizontally, f(x-c)+d shifts. Both have domain/range of all reals. The parent f(x) = 1/x has vertical asymptote x=0 and horizontal asymptote y=0. Transformations: a/(b(x-c))+d shifts asymptotes to x=c and y=d. Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, hyperbola, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Domain and range of absolute value functions: graphs",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers domain and range of absolute value functions (graphs) for Algebra II students (TEKS 2A.2(A)). The parent f(x) = |x| has domain (-inf, inf) and range [0, inf). Transformed f(x) = a|x-h| + k has domain all reals and range [k, inf) if a > 0 or (-inf, k] if a < 0. The vertex (h, k) determines the range boundary. Read vertex and direction from the V-shaped graph. Key vocabulary includes: absolute value, vertex, domain, range, V-shape, opens up/down. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Domain and range of absolute value functions: equations",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers domain and range of absolute value functions (equations) for Algebra II students (TEKS 2A.2(A)). For f(x) = a|x-h| + k: domain is always all real numbers. If a > 0, range is [k, inf); if a < 0, range is (-inf, k]. Vertex is at (h, k). Key vocabulary includes: absolute value function, vertex, domain, range, parameter, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Domain and range of radical functions",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers domain and range of radical functions for Algebra II students (TEKS 2A.2(A)). For square root functions f(x) = a*sqrt(x-h) + k: domain is [h, inf) since radicand must be >= 0. Range is [k, inf) if a > 0 or (-inf, k] if a < 0. For cube root functions: domain and range are both all real numbers since cube roots exist for all reals. Key vocabulary includes: radical function, radicand, domain restriction, square root, cube root, index. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: forgetting domain restrictions for even-index roots, applying restrictions to odd-index roots."
+      },
+      {
+        "skill": "Rational functions: asymptotes and excluded values",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers rational functions (asymptotes and excluded values) for Algebra II students (TEKS 2A.2(A)). For f(x) = p(x)/q(x): vertical asymptotes where q(x) = 0 and the factor does not cancel. Horizontal asymptote depends on degree comparison. Degrees rule: num < den gives HA y=0; equal degrees gives HA = leading coeff ratio; num > den gives no HA (possible oblique). Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, excluded value, hole, degree. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not factoring first, confusing holes with asymptotes, misapplying degree rules."
+      },
+      {
+        "skill": "Match exponential functions and graphs",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers matching exponential functions to their graphs for Algebra II students (TEKS 2A.2(A)). Students analyze key features to match equations to graphs: y-intercept f(0), growth vs decay (b > 1 or 0 < b < 1), horizontal asymptote position, and transformations. For f(x) = ab^x + d: asymptote is y = d, y-intercept is a + d. Key vocabulary: exponential function, base, growth, decay, asymptote, y-intercept, transformation. Students systematically check features to eliminate choices. Common errors: not computing y-intercepts, confusing growth and decay, and misidentifying the asymptote."
+      },
+      {
+        "skill": "Domain and range of logarithmic functions",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers domain and range of logarithmic functions for Algebra II students (TEKS 2A.2(A)). For f(x) = a*log_b(x-h) + k: domain is (h, infinity) because the argument must be positive, range is all real numbers. The vertical asymptote is x = h. The logarithmic function is the inverse of exponential, so domain/range are swapped. Vocabulary: logarithmic function, domain, range, vertical asymptote, argument. Common errors: including the asymptote in the domain, incorrectly stating range is restricted, and sign errors finding h."
+      },
+      {
+        "skill": "Graph logarithmic functions",
+        "teks": "2A.2(A)",
+        "prompt": "This topic covers graphing logarithmic functions for Algebra II students (TEKS 2A.2(A)). For f(x) = a*log_b(x-h) + k: identify vertical asymptote x = h, find key points by substituting convenient x-values, note y-intercept if it exists. The parent log function passes through (1, 0) and (b, 1). Transformations shift, stretch, and reflect. Vocabulary: logarithmic function, vertical asymptote, base, transformation, inverse. Bases 2, 10, and e (ln) are most common. Common errors: graphing on wrong side of asymptote, forgetting the vertical asymptote, and incorrect key points."
+      },
+      {
+        "skill": "Graph and write the inverse of a function using notation such as f⁻¹(x);",
+        "teks": "2A.2(B)",
+        "prompt": "This topic covers graph and write the inverse of a function using notation such as f⁻¹(x); for Algebra II students (TEKS 2A.2(B)). To find inverse: replace f(x) with y, swap x and y, solve for y, write as f^(-1)(x). Graphically, inverse is reflection over y = x. Key vocabulary includes: inverse function, reflection, y = x line, one-to-one, domain restriction. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Find values of inverse functions from graphs",
+        "teks": "2A.2(B)",
+        "prompt": "This topic covers find values of inverse functions from graphs for Algebra II students (TEKS 2A.2(B)). To find inverse: replace f(x) with y, swap x and y, solve for y, write as f^(-1)(x). Graphically, inverse is reflection over y = x. Key vocabulary includes: inverse function, reflection, y = x line, one-to-one, domain restriction. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Find inverse functions and relations",
+        "teks": "2A.2(B)",
+        "prompt": "This topic covers find inverse functions and relations for Algebra II students (TEKS 2A.2(B)). Process: write y = f(x), swap x and y, solve for y. For non-one-to-one functions, restrict domain first. Key vocabulary includes: inverse function, swap, solve, domain restriction, horizontal line test. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Describe and analyze the relationship between a function and its inverse (quadratic and square root, logarithmic and exponential), including the restriction(s) on domain, which will restrict its range;",
+        "teks": "2A.2(C)",
+        "prompt": "This topic covers describe and analyze the relationship between a function and its inverse (quadratic and square root, logarithmic and exponential), including the restriction(s) on domain, which will restrict its range; for Algebra II students (TEKS 2A.2(C)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses without domain restrictions. Key vocabulary includes: inverse function, one-to-one, composition, reflection. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Find values of inverse functions from tables",
+        "teks": "2A.2(C)",
+        "prompt": "This topic covers find values of inverse functions from tables for Algebra II students (TEKS 2A.2(C)). In a function table, the inverse swaps columns: f^(-1) uses f(x) values as inputs and x values as outputs. Key vocabulary includes: inverse function, table, input, output, one-to-one. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Find values of inverse functions from graphs",
+        "teks": "2A.2(C)",
+        "prompt": "This topic covers find values of inverse functions from graphs for Algebra II students (TEKS 2A.2(C)). To find inverse: replace f(x) with y, swap x and y, solve for y, write as f^(-1)(x). Graphically, inverse is reflection over y = x. Key vocabulary includes: inverse function, reflection, y = x line, one-to-one, domain restriction. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Find inverse functions and relations",
+        "teks": "2A.2(C)",
+        "prompt": "This topic covers find inverse functions and relations for Algebra II students (TEKS 2A.2(C)). Process: write y = f(x), swap x and y, solve for y. For non-one-to-one functions, restrict domain first. Key vocabulary includes: inverse function, swap, solve, domain restriction, horizontal line test. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Use the composition of two functions, including the necessary restrictions on the domain, to determine if the functions are inverses of each other.",
+        "teks": "2A.2(D)",
+        "prompt": "This topic covers use the composition of two functions, including the necessary restrictions on the domain, to determine if the functions are inverses of each other. for Algebra II students (TEKS 2A.2(D)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses without domain restrictions. Key vocabulary includes: inverse function, one-to-one, composition, reflection. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Composition of linear functions: find a value",
+        "teks": "2A.2(D)",
+        "prompt": "This topic covers composition of linear functions (find a value) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To evaluate f(g(a)): first compute g(a), then substitute result into f. Key vocabulary includes: composition, evaluate, inner function, outer function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Composition of linear functions: find an equation",
+        "teks": "2A.2(D)",
+        "prompt": "This topic covers composition of linear functions (find an equation) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To find f(g(x)): substitute the entire g(x) expression into f wherever x appears, then simplify. Key vocabulary includes: composition, composite function, substitute, simplify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Composition of linear and quadratic functions: find a value",
+        "teks": "2A.2(D)",
+        "prompt": "This topic covers composition of linear and quadratic functions (find a value) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To evaluate f(g(a)): first compute g(a), then substitute result into f. Key vocabulary includes: composition, evaluate, inner function, outer function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Composition of linear and quadratic functions: find an equation",
+        "teks": "2A.2(D)",
+        "prompt": "This topic covers composition of linear and quadratic functions (find an equation) for Algebra II students (TEKS 2A.2(D)). Function composition f(g(x)) means substituting g(x) into f. Composition is generally not commutative. To find f(g(x)): substitute the entire g(x) expression into f wherever x appears, then simplify. Key vocabulary includes: composition, composite function, substitute, simplify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Identify inverse functions",
+        "teks": "2A.2(D)",
+        "prompt": "This topic covers identify inverse functions for Algebra II students (TEKS 2A.2(D)). Verify inverses using composition: f(g(x)) = x AND g(f(x)) = x. Both must hold. Also verify graphically (reflection over y = x). Key vocabulary includes: inverse functions, composition, verify, identity function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      }
+    ],
+    "Mathematics - Systems of equations and inequalities": [
+      {
+        "skill": "Solve a system of equations by graphing: word problems",
+        "teks": "2A.3(A)",
+        "prompt": "This topic covers solving systems by graphing from word problems for Algebra II students (TEKS 2A.3(A)). Students translate scenarios into two equations, graph both, and identify intersection(s) as solutions. Systems may include linear, quadratic, or exponential equations. Key vocabulary: system, intersection, solution, graph. Students verify solutions algebraically. Common errors: inaccurate graphing, misidentifying intersections, and not verifying."
+      },
+      {
+        "skill": "Solve a system of equations using substitution: word problems",
+        "teks": "2A.3(A)",
+        "prompt": "This topic covers solving systems by substitution from word problems for Algebra II students (TEKS 2A.3(A)). Isolate one variable in one equation, substitute into the other, solve. Best when one equation is already solved for a variable. Key vocabulary: substitution, isolate, system, solution. Common errors: distribution mistakes, not solving for both variables, and not verifying."
+      },
+      {
+        "skill": "Solve a system of equations using elimination: word problems",
+        "teks": "2A.3(A)",
+        "prompt": "This topic covers solving systems by elimination from word problems for Algebra II students (TEKS 2A.3(A)). Multiply equations to create opposite coefficients, add to eliminate a variable, solve, back-substitute. Key vocabulary: elimination, linear combination, coefficient. Common errors: forgetting to multiply all terms, sign errors, and not finding both variables."
+      },
+      {
+        "skill": "Solve a system of equations using any method: word problems",
+        "teks": "2A.3(A)",
+        "prompt": "This topic covers solving systems using any method from word problems for Algebra II students (TEKS 2A.3(A)). Students choose the most efficient method (graphing, substitution, elimination) based on problem structure and solve. Key vocabulary: system of equations, method selection, solution. Common errors: choosing an inefficient method, incorrect setup, and not interpreting solutions in context."
+      },
+      {
+        "skill": "Solve a system of equations using augmented matrices: word problems",
+        "teks": "2A.3(B)",
+        "prompt": "This topic covers solve a system of equations using augmented matrices (word problems) for Algebra II students (TEKS 2A.3(B)). Write augmented matrix [A|b], use row operations to reach row-echelon form. Row operations: swap rows, multiply by nonzero constant, add multiple of one row to another. Key vocabulary includes: augmented matrix, row operations, row echelon form, pivot. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve a system of three linear equations in three variables using substitution",
+        "teks": "2A.3(B)",
+        "prompt": "This topic covers solve a system of three linear equations in three variables using substitution for Algebra II students (TEKS 2A.3(B)). Solve 3x3 systems systematically: eliminate one variable using two equation pairs, reduce to 2x2, solve, back-substitute. Key vocabulary includes: three-variable system, elimination, ordered triple, back-substitution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve a system of three linear equations in three variables using elimination",
+        "teks": "2A.3(B)",
+        "prompt": "This topic covers solve a system of three linear equations in three variables using elimination for Algebra II students (TEKS 2A.3(B)). Solve 3x3 systems systematically: eliminate one variable using two equation pairs, reduce to 2x2, solve, back-substitute. Key vocabulary includes: three-variable system, elimination, ordered triple, back-substitution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve, algebraically, systems of two equations in two variables consisting of a linear equation and a quadratic equation;",
+        "teks": "2A.3(C)",
+        "prompt": "This topic covers solve, algebraically, systems of two equations in two variables consisting of a linear equation and a quadratic equation; for Algebra II students (TEKS 2A.3(C)). Use substitution: solve linear for one variable, substitute into quadratic, solve the resulting quadratic. Systems can have 0, 1, or 2 solutions. Key vocabulary includes: linear-quadratic system, substitution, intersection, discriminant. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve a system of linear and quadratic equations: parabolas",
+        "teks": "2A.3(C)",
+        "prompt": "This topic covers solve a system of linear and quadratic equations (parabolas) for Algebra II students (TEKS 2A.3(C)). Use substitution: solve linear for one variable, substitute into quadratic, solve the resulting quadratic. Systems can have 0, 1, or 2 solutions. Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve a system of linear and quadratic equations by graphing: parabolas",
+        "teks": "2A.3(D)",
+        "prompt": "This topic covers solve a system of linear and quadratic equations by graphing (parabolas) for Algebra II students (TEKS 2A.3(D)). Use substitution: solve linear for one variable, substitute into quadratic, solve the resulting quadratic. Systems can have 0, 1, or 2 solutions. Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Formulate systems of at least two linear inequalities in two variables;",
+        "teks": "2A.3(E)",
+        "prompt": "This topic covers formulate systems of at least two linear inequalities in two variables; for Algebra II students (TEKS 2A.3(E)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve systems of two or more linear inequalities in two variables;",
+        "teks": "2A.3(F)",
+        "prompt": "This topic covers solve systems of two or more linear inequalities in two variables; for Algebra II students (TEKS 2A.3(F)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve systems of linear inequalities by graphing",
+        "teks": "2A.3(F)",
+        "prompt": "This topic covers solve systems of linear inequalities by graphing for Algebra II students (TEKS 2A.3(F)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Find the vertices of a solution set for a system of linear inequalities",
+        "teks": "2A.3(F)",
+        "prompt": "This topic covers find the vertices of a solution set for a system of linear inequalities for Algebra II students (TEKS 2A.3(F)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Linear programming",
+        "teks": "2A.3(F)",
+        "prompt": "This topic covers linear programming for Algebra II students (TEKS 2A.3(F)). Optimize an objective function subject to linear inequality constraints. Evaluate objective at each vertex of the feasible region; optimal value occurs at a vertex. Key vocabulary includes: objective function, constraints, feasible region, vertex, optimize. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Determine possible solutions in the solution set of systems of two or more linear inequalities in two variables.",
+        "teks": "2A.3(G)",
+        "prompt": "This topic covers determine possible solutions in the solution set of systems of two or more linear inequalities in two variables. for Algebra II students (TEKS 2A.3(G)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Is (x, y) a solution to the system of inequalities?",
+        "teks": "2A.3(G)",
+        "prompt": "This topic covers is (x, y) a solution to the system of inequalities? for Algebra II students (TEKS 2A.3(G)). The solution is the intersection of all half-planes. Graph each inequality, identify the overlap region. Vertices occur where boundary lines intersect. Key vocabulary includes: system of inequalities, feasible region, half-plane, boundary, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      }
+    ],
+    "Mathematics - Quadratic and square root functions, equations, and inequalities": [
+      {
+        "skill": "Write the quadratic function given three specified points in the plane;",
+        "teks": "2A.4(A)",
+        "prompt": "This topic covers writing the quadratic function through three given points for Algebra II students (TEKS 2A.4(A)). Substitute each point into y = ax^2 + bx + c to create a 3x3 system, then solve for a, b, c. Key vocabulary: quadratic, standard form, system of equations. Students verify the equation passes through all three points. Common errors: setup errors, arithmetic in the 3x3 system, and not verifying."
+      },
+      {
+        "skill": "Write a quadratic function from three points",
+        "teks": "2A.4(A)",
+        "prompt": "This topic covers writing a quadratic function through three given points for Algebra II students (TEKS 2A.4(A)). Since y = ax^2 + bx + c has three parameters, three points determine a unique quadratic. Substitute each point to create a system of three equations in a, b, c, then solve using elimination, substitution, or matrices. Vocabulary: quadratic function, standard form, system of equations, parameter. Students verify by checking all three points satisfy the equation. Common errors: setup errors when substituting, arithmetic in the 3x3 system, and not verifying the answer."
+      },
+      {
+        "skill": "Write a quadratic function from its vertex and another point",
+        "teks": "2A.4(B)",
+        "prompt": "This topic covers writing quadratic functions given a vertex and another point for Algebra II students (TEKS 2A.4(B)). Use vertex form f(x) = a(x-h)^2 + k where (h, k) is the vertex. Substitute the other point for x and f(x) to solve for a. The value of a determines width and direction: a > 0 opens up, a < 0 opens down, larger |a| means narrower. Example: vertex (2,-3), point (4,5) gives 5 = a(4-2)^2 - 3, so a = 2. Vocabulary: vertex form, vertex, parameter a, parabola. Common errors: sign mistakes with (x-h) when h is negative, arithmetic errors solving for a, and forgetting to write the complete equation."
+      },
+      {
+        "skill": "Write a quadratic function from its x-intercepts and another point",
+        "teks": "2A.4(B)",
+        "prompt": "This topic covers writing quadratic functions from x-intercepts and another point for Algebra II students (TEKS 2A.4(B)). Use factored form f(x) = a(x-r)(x-s) where r and s are x-intercepts. Substitute the additional point to find a. Students may leave in factored form or expand to standard form. Vocabulary: x-intercept, zero, root, factored form, parameter a. The x-intercepts are where f(x) = 0, and the extra point determines the stretch factor a. Common errors: sign errors in factors (intercept r gives factor (x-r)), arithmetic errors solving for a, and incorrect expansion."
+      },
+      {
+        "skill": "Write equations of parabolas in vertex form from graphs",
+        "teks": "2A.4(B)",
+        "prompt": "This topic covers write equations of parabolas in vertex form from graphs for Algebra II students (TEKS 2A.4(B)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Write equations of parabolas in vertex form using properties",
+        "teks": "2A.4(B)",
+        "prompt": "This topic covers write equations of parabolas in vertex form using properties for Algebra II students (TEKS 2A.4(B)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Graph square root functions",
+        "teks": "2A.4(C)",
+        "prompt": "This topic covers graphing square root functions for Algebra II students (TEKS 2A.4(C)). For f(x) = a*sqrt(x-h)+k: starting point is (h,k), domain is [h, inf). Plot starting point, use table of values, connect with smooth curve. The function is the inverse of a quadratic (restricted domain). Key vocabulary: square root function, starting point, domain, range, transformation. Common errors: graphing left of starting point, not recognizing transformations, and plotting incorrect points."
+      },
+      {
+        "skill": "Convert equations of parabolas from general to vertex form",
+        "teks": "2A.4(D)",
+        "prompt": "This topic covers convert equations of parabolas from general to vertex form for Algebra II students (TEKS 2A.4(D)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Find properties of a parabola from equations in general form",
+        "teks": "2A.4(D)",
+        "prompt": "This topic covers find properties of a parabola from equations in general form for Algebra II students (TEKS 2A.4(D)). Parabola vertex form: y = a(x-h)^2 + k (vertical) or x = a(y-k)^2 + h (horizontal). Focus-directrix: |4p| = 1/|a| where p is focus-vertex distance. Key vocabulary includes: parabola, vertex, focus, directrix, vertex form, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Formulate quadratic and square root equations using technology given a table of data;",
+        "teks": "2A.4(E)",
+        "prompt": "This topic covers using technology to formulate equations from data tables for Algebra II students (TEKS 2A.4(E)). Students enter data, run quadratic or power regression, interpret the equation and R^2 value. Compare models to select the best fit. Key vocabulary: regression, quadratic model, coefficient of determination, residual. Common errors: wrong regression type, misinterpreting R^2, and extrapolating beyond data range."
+      },
+      {
+        "skill": "Solve quadratic and square root equations;",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving quadratic equations using square roots for Algebra II students (TEKS 2A.4(F)). This method works when the equation has the form (expression)^2 = k. Steps: isolate the squared term, take square root of both sides (remember +/-), solve. If k > 0: two real solutions. If k = 0: one solution. If k < 0: no real solutions (or complex in Algebra II). Example: (x-3)^2 = 16 gives x-3 = +/-4, so x = 7 or x = -1. Vocabulary: square root, principal root, plus or minus. Common errors: forgetting +/-, not isolating the squared term first, and arithmetic mistakes."
+      },
+      {
+        "skill": "Solve a quadratic equation using square roots",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving quadratic equations using square roots for Algebra II students (TEKS 2A.4(F)). This method works when the equation has the form (expression)^2 = k. Steps: isolate the squared term, take square root of both sides (remember +/-), solve. If k > 0: two real solutions. If k = 0: one solution. If k < 0: no real solutions (or complex in Algebra II). Example: (x-3)^2 = 16 gives x-3 = +/-4, so x = 7 or x = -1. Vocabulary: square root, principal root, plus or minus. Common errors: forgetting +/-, not isolating the squared term first, and arithmetic mistakes."
+      },
+      {
+        "skill": "Solve a quadratic equation using the zero product property",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving quadratic equations using the zero product property for Algebra II students (TEKS 2A.4(F)). The zero product property states: if ab = 0, then a = 0 or b = 0. When the equation is in factored form (x-r)(x-s) = 0, set each factor to zero and solve. The solutions are the x-intercepts. Students must ensure the equation equals zero and is factored. Vocabulary: zero product property, factor, root, zero, solution, x-intercept. Verify solutions by substituting back. Common errors: forgetting to set the equation equal to zero, sign errors when finding solutions from factors, and not factoring completely."
+      },
+      {
+        "skill": "Solve a quadratic equation by factoring",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving quadratic equations by factoring for Algebra II students (TEKS 2A.4(F)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+      },
+      {
+        "skill": "Solve a quadratic equation by completing the square",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving quadratic equations by completing the square for Algebra II students (TEKS 2A.4(F)). Steps: move constant to right, divide by a if needed, add (b/2)^2 to both sides, factor left as perfect square, take square root of both sides (+/-), solve. Example: x^2 + 6x = 7 becomes (x+3)^2 = 16, x+3 = +/-4, giving x = 1 or x = -7. This method always works, even when factoring does not. Vocabulary: completing the square, perfect square trinomial. Common errors: forgetting to add to both sides, errors dividing by a, and sign mistakes with +/-."
+      },
+      {
+        "skill": "Solve a quadratic equation using the quadratic formula",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving quadratic equations using the quadratic formula for Algebra II students (TEKS 2A.4(F)). Formula: x = (-b +/- sqrt(b^2 - 4ac))/(2a) for ax^2 + bx + c = 0. The discriminant D = b^2 - 4ac determines solution type: D > 0 gives 2 real solutions, D = 0 gives 1 repeated, D < 0 gives no real solutions (complex in Algebra II). Students identify a, b, c from standard form and substitute carefully. Vocabulary: quadratic formula, discriminant, standard form. Common errors: sign errors with negative b, forgetting 2a divides the entire numerator, and discriminant computation errors."
+      },
+      {
+        "skill": "Solve quadratic equations: word problems",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving quadratic equations in word problem contexts for Algebra II students (TEKS 2A.4(F)). Common contexts: projectile motion (h = -16t^2 + v0t + h0), area problems, revenue optimization, and falling objects. Steps: define variables, write the quadratic equation, solve using any method, interpret solutions in context (reject negative time, unreasonable dimensions). Vocabulary: projectile, maximum height, time of flight, area, optimization. Common errors: not rejecting extraneous solutions, setting up equations incorrectly, and misinterpreting context."
+      },
+      {
+        "skill": "Solve radical equations",
+        "teks": "2A.4(F)",
+        "prompt": "This topic covers solving radical equations for Algebra II students (TEKS 2A.4(F)). Steps: isolate the radical, raise both sides to appropriate power, solve, CHECK for extraneous solutions. Squaring can introduce extraneous solutions. Some equations require squaring twice. Example: sqrt(x+3) = x-1; square both sides: x+3 = (x-1)^2; solve and verify. Vocabulary: radical equation, extraneous solution, isolate, verify. Common errors: forgetting to check, not isolating first, and squaring errors."
+      },
+      {
+        "skill": "Identify extraneous solutions of square root equations;",
+        "teks": "2A.4(G)",
+        "prompt": "This topic covers identifying extraneous solutions of square root equations for Algebra II students (TEKS 2A.4(G)). Extraneous solutions arise when squaring both sides (a non-reversible operation). Students must substitute all solutions back into the original equation to verify. Key vocabulary: extraneous solution, verify, square root equation, valid solution. Common errors: accepting all algebraic solutions without checking, and errors during verification."
+      },
+      {
+        "skill": "Solve quadratic inequalities.",
+        "teks": "2A.4(H)",
+        "prompt": "This topic covers solving quadratic inequalities for Algebra II students (TEKS 2A.4(H)). Steps: write in standard form, find zeros by factoring or quadratic formula, test intervals, determine which satisfy the inequality, write in interval notation. The solution depends on parabola direction and zeros. Graphically, solutions correspond to where the parabola is above or below the x-axis. Include/exclude endpoints based on strict or non-strict inequality. Vocabulary: quadratic inequality, zeros, test intervals, interval notation, sign chart. Common errors: incorrect interval testing, forgetting endpoint inclusion/exclusion, and factoring mistakes."
+      },
+      {
+        "skill": "Graph solutions to quadratic inequalities",
+        "teks": "2A.4(H)",
+        "prompt": "This topic covers solving quadratic inequalities for Algebra II students (TEKS 2A.4(H)). Steps: write in standard form, find zeros by factoring or quadratic formula, test intervals, determine which satisfy the inequality, write in interval notation. The solution depends on parabola direction and zeros. Graphically, solutions correspond to where the parabola is above or below the x-axis. Include/exclude endpoints based on strict or non-strict inequality. Vocabulary: quadratic inequality, zeros, test intervals, interval notation, sign chart. Common errors: incorrect interval testing, forgetting endpoint inclusion/exclusion, and factoring mistakes."
+      },
+      {
+        "skill": "Solve quadratic inequalities",
+        "teks": "2A.4(H)",
+        "prompt": "This topic covers solving quadratic inequalities for Algebra II students (TEKS 2A.4(H)). Steps: write in standard form, find zeros by factoring or quadratic formula, test intervals, determine which satisfy the inequality, write in interval notation. The solution depends on parabola direction and zeros. Graphically, solutions correspond to where the parabola is above or below the x-axis. Include/exclude endpoints based on strict or non-strict inequality. Vocabulary: quadratic inequality, zeros, test intervals, interval notation, sign chart. Common errors: incorrect interval testing, forgetting endpoint inclusion/exclusion, and factoring mistakes."
+      }
+    ],
+    "Mathematics - Exponential and logarithmic functions and equations": [
+      {
+        "skill": "Determine the effects on the key attributes on the graphs of f(x) = b to the x power and f(x) = logb (x) where b is 2, 10, and e when f(x) is replaced by af(x), f(x) + d, and f(x - c) for specific positive and negative real values of a, c, and d;",
+        "teks": "2A.5(A)",
+        "prompt": "This topic covers analyzing transformations of exponential and logarithmic functions for Algebra II students (TEKS 2A.5(A)). Explore how af(x), f(x)+d, and f(x-c) affect f(x)=b^x and f(x)=log_b(x) for b=2,10,e. Effects: a stretches/reflects vertically, d shifts vertically (moves asymptote), c shifts horizontally. Key vocabulary: transformation, asymptote, stretch, compression, reflection, shift. Common errors: confusing shift directions, not tracking asymptote changes, and applying shifts in wrong direction for f(x-c)."
+      },
+      {
+        "skill": "Match exponential functions and graphs",
+        "teks": "2A.5(A)",
+        "prompt": "This topic covers matching exponential functions to their graphs for Algebra II students (TEKS 2A.5(A)). Students analyze key features: y-intercept f(0), growth vs decay (b>1 or 0<b<1), horizontal asymptote, and transformation effects. For f(x)=ab^x+d: asymptote is y=d, y-intercept is a+d. Bases 2, 10, and e are emphasized. Key vocabulary: exponential, base, growth, decay, asymptote, transformation. Common errors: not computing y-intercepts, confusing transformations, and misidentifying asymptotes."
+      },
+      {
+        "skill": "Formulate exponential and logarithmic equations that model real-world situations, including exponential relationships written in recursive notation;",
+        "teks": "2A.5(B)",
+        "prompt": "This topic covers formulating exponential and logarithmic equations for real-world situations for Algebra II students (TEKS 2A.5(B)). Students write models using f(t)=a*b^t or f(t)=a*e^(kt) for growth/decay. Recursive notation: a_(n+1) = r*a_n. Key vocabulary: exponential model, recursive notation, growth factor, decay rate, initial value, continuous growth. Common errors: confusing discrete and continuous models, using wrong base, and misidentifying rates."
+      },
+      {
+        "skill": "Write exponential functions: word problems",
+        "teks": "2A.5(B)",
+        "prompt": "This topic covers writing exponential functions from word problems for Algebra II students (TEKS 2A.5(B)). Students identify initial value a and growth/decay factor b from context and write f(x) = ab^x. For percentage growth r, b = 1+r; for decay, b = 1-r. Process: identify initial amount, determine rate, classify as growth or decay, write equation, make predictions. Common contexts: population, investment, depreciation, bacterial growth. Vocabulary: exponential function, initial value, growth factor, decay factor, model. Common errors: writing linear instead of exponential models, confusing rate with factor, and not defining variables."
+      },
+      {
+        "skill": "Exponential growth and decay: word problems",
+        "teks": "2A.5(B)",
+        "prompt": "This topic covers exponential growth and decay word problems for Algebra II students (TEKS 2A.5(B)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+      },
+      {
+        "skill": "Compound interest: word problems",
+        "teks": "2A.5(B)",
+        "prompt": "This topic covers compound interest word problems for Algebra II students (TEKS 2A.5(B)). Formula: A=P(1+r/n)^(nt) where P=principal, r=annual rate, n=compounding frequency, t=years. Common periods: annually(1), quarterly(4), monthly(12), daily(365). Key vocabulary: principal, compound interest, compounding period, future value. Common errors: not converting rate to decimal, incorrect n, and confusing A with interest earned."
+      },
+      {
+        "skill": "Continuously compounded interest: word problems",
+        "teks": "2A.5(B)",
+        "prompt": "This topic covers continuously compounded interest for Algebra II students (TEKS 2A.5(B)). Formula: A=Pe^(rt). Solving for t requires ln: t=ln(A/P)/r. This represents the limit of discrete compounding. Key vocabulary: continuous compounding, e, natural logarithm, principal. Common errors: confusing with discrete formula, not using ln for t, and calculator errors with e."
+      },
+      {
+        "skill": "Rewrite exponential equations as their corresponding logarithmic equations and logarithmic equations as their corresponding exponential equations;",
+        "teks": "2A.5(C)",
+        "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The key relationship: b^x = y is equivalent to log_b(y) = x. Students convert fluently in both directions. Understanding this equivalence is foundational for solving both types of equations. Key vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing positions of exponent and argument, and not recognizing ln as log base e."
+      },
+      {
+        "skill": "Convert between exponential and logarithmic form: rational bases",
+        "teks": "2A.5(C)",
+        "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The fundamental relationship: b^x = y is equivalent to log_b(y) = x. Students practice converting in both directions with various bases including 2, 10, e, and rational bases. Remember: log (no base) means log_10 (common) and ln means log_e (natural). Vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing the position of exponent and argument, and not recognizing special notation for bases 10 and e."
+      },
+      {
+        "skill": "Convert between natural exponential and logarithmic form",
+        "teks": "2A.5(C)",
+        "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The fundamental relationship: b^x = y is equivalent to log_b(y) = x. Students practice converting in both directions with various bases including 2, 10, e, and rational bases. Remember: log (no base) means log_10 (common) and ln means log_e (natural). Vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing the position of exponent and argument, and not recognizing special notation for bases 10 and e."
+      },
+      {
+        "skill": "Convert between exponential and logarithmic form: all bases",
+        "teks": "2A.5(C)",
+        "prompt": "This topic covers converting between exponential and logarithmic forms for Algebra II students (TEKS 2A.5(C)). The fundamental relationship: b^x = y is equivalent to log_b(y) = x. Students practice converting in both directions with various bases including 2, 10, e, and rational bases. Remember: log (no base) means log_10 (common) and ln means log_e (natural). Vocabulary: exponential form, logarithmic form, base, exponent, argument. Common errors: confusing the position of exponent and argument, and not recognizing special notation for bases 10 and e."
+      },
+      {
+        "skill": "Solve exponential equations by rewriting the base",
+        "teks": "2A.5(D)",
+        "prompt": "This topic covers solving exponential equations by rewriting bases for Algebra II students (TEKS 2A.5(D)). When both sides can share a base, set exponents equal. Example: 8^x=32 becomes (2^3)^x=2^5, so 3x=5, x=5/3. Key vocabulary: common base, exponent equality. Students must know powers of common bases. Common errors: not finding a common base, exponent arithmetic errors, and not recognizing applicability."
+      },
+      {
+        "skill": "Solve exponential equations using common logarithms",
+        "teks": "2A.5(D)",
+        "prompt": "This topic covers solving exponential equations using common logarithms for Algebra II students (TEKS 2A.5(D)). When bases cannot be made equal, take log of both sides. Example: 3^x = 20 gives x*log(3) = log(20), so x = log(20)/log(3). Steps: isolate the exponential, take log_10 of both sides, apply power rule log(a^n) = n*log(a), solve. Vocabulary: common logarithm, log base 10, power rule. Students use calculators to evaluate. Common errors: not isolating the exponential first, forgetting the power rule, and rounding too early."
+      },
+      {
+        "skill": "Solve exponential equations using natural logarithms",
+        "teks": "2A.5(D)",
+        "prompt": "This topic covers solving exponential equations using natural logarithms for Algebra II students (TEKS 2A.5(D)). Especially useful for equations involving e. Take ln of both sides: for ae^(bx) = c, isolate e^(bx), then bx = ln(c/a). For non-base-e: a^x = b gives x = ln(b)/ln(a). Vocabulary: natural logarithm, ln, base e, exponential equation, solve. Common errors: not isolating the exponential before taking ln, logarithm property errors, and calculator errors."
+      },
+      {
+        "skill": "Solve logarithmic equations I",
+        "teks": "2A.5(D)",
+        "prompt": "This topic covers solving logarithmic equations for Algebra II students (TEKS 2A.5(D)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+      },
+      {
+        "skill": "Determine the reasonableness of a solution to a logarithmic equation.",
+        "teks": "2A.5(E)",
+        "prompt": "This topic covers determining reasonableness of solutions to logarithmic equations for Algebra II students (TEKS 2A.5(E)). After solving, verify that all logarithmic arguments remain positive (log is only defined for positive arguments). Substitute solutions back to check: if any argument is negative or zero, the solution is extraneous. Vocabulary: extraneous solution, domain restriction, argument, verify, reasonable. Common errors: accepting solutions without checking, not checking all logarithmic arguments, and arithmetic errors during verification."
+      }
+    ],
+    "Mathematics - Cubic, cube root, absolute value and rational functions, equations, and inequalities": [
+      {
+        "skill": "Analyze the effect on the graphs of f(x) = x³ and f(x) = ³√x when f(x) is replaced by af(x), f(bx), f(x - c), and f(x) + d for specific positive and negative real values of a, b, c, and d;",
+        "teks": "2A.6(A)",
+        "prompt": "This topic covers analyze the effect on the graphs of f(x) = x³ and f(x) = ³√x when f(x) is replaced by af(x), f(bx), f(x (c), and f(x) + d for specific positive and negative real values of a, b, c, and d;) for Algebra II students (TEKS 2A.6(A)). Analyze transformations of f(x) = x^3 and f(x) = cbrt(x): af(x) stretches/reflects vertically, f(bx) stretches horizontally, f(x-c)+d shifts. Both have domain/range of all reals. Key vocabulary includes: cubic function, cube root function, transformation, inflection point. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Graph cube root functions",
+        "teks": "2A.6(A)",
+        "prompt": "This topic covers graph cube root functions for Algebra II students (TEKS 2A.6(A)). Parent f(x) = cbrt(x) has S-shape through origin, defined for all reals. Key points: (-8,-2), (-1,-1), (0,0), (1,1), (8,2). Transformations shift the inflection point. Key vocabulary includes: cube root function, S-curve, inflection point, transformation, domain. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve cube root equations that have real roots;",
+        "teks": "2A.6(B)",
+        "prompt": "This topic covers solve cube root equations that have real roots; for Algebra II students (TEKS 2A.6(B)). Isolate the cube root, cube both sides. Unlike square root equations, cubing does not introduce extraneous solutions since the cube function is one-to-one. Key vocabulary includes: cube root equation, isolate, cube both sides, one-to-one, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Analyze the effect on the graphs of f(x) = |x| when f(x) is replaced by af(x), f(bx), f(x-c), and f(x) + d for specific positive and negative real values of a, b, c, and d;",
+        "teks": "2A.6(C)",
+        "prompt": "This topic covers analyzing transformations of the absolute value function for Algebra II students (TEKS 2A.6(C)). Examine how af(x), f(bx), f(x-c), f(x)+d transform f(x) = |x|. The V-shaped parent has vertex at origin. a changes steepness/direction, b stretches horizontally, c shifts vertex horizontally, d shifts vertically. Vertex moves to (c, d). Key vocabulary: absolute value, V-shape, vertex, transformation. Common errors: confusing horizontal shift direction and not applying transformations to both branches."
+      },
+      {
+        "skill": "Graph an absolute value function",
+        "teks": "2A.6(C)",
+        "prompt": "This topic covers graph an absolute value function for Algebra II students (TEKS 2A.6(C)). For f(x) = a|x-h| + k: vertex at (h, k), V opens up if a > 0 and down if a < 0. Slope of right branch is a, left branch is -a. Plot the vertex, use slope to find points on each branch, connect with straight lines forming a V-shape. Key vocabulary includes: absolute value function, vertex, V-shape, slope, piecewise linear. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Transformations of absolute value functions",
+        "teks": "2A.6(C)",
+        "prompt": "This topic covers transformations of absolute value functions for Algebra II students (TEKS 2A.6(C)). Transformations of f(x) = |x|: vertical stretch/compression by |a|, reflection if a < 0, horizontal shift h, vertical shift k in g(x) = a|x-h| + k. Key vocabulary includes: transformation, stretch, compression, reflection, translation, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Formulate absolute value linear equations;",
+        "teks": "2A.6(D)",
+        "prompt": "This topic covers formulate absolute value linear equations; for Algebra II students (TEKS 2A.6(D)). Translate real-world tolerance/distance problems into absolute value equations. |x - target| = tolerance means x is exactly 'tolerance' units from 'target.' Key vocabulary includes: absolute value, tolerance, target, deviation, distance, formulate. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Write absolute value equations from graphs",
+        "teks": "2A.6(D)",
+        "prompt": "This topic covers write absolute value equations from graphs for Algebra II students (TEKS 2A.6(D)). For f(x) = a|x-h| + k: vertex at (h, k), V opens up if a > 0 and down if a < 0. Slope of right branch is a, left branch is -a. Plot the vertex, use slope to find points on each branch, connect with straight lines forming a V-shape. Key vocabulary includes: absolute value function, vertex, V-shape, slope, piecewise linear. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve absolute value linear equations;",
+        "teks": "2A.6(E)",
+        "prompt": "This topic covers solve absolute value linear equations; for Algebra II students (TEKS 2A.6(E)). For |expression| = k: if k > 0, split into expression = k and expression = -k; if k = 0, solve expression = 0; if k < 0, no solution. Key vocabulary includes: absolute value equation, isolate, two cases, verify, no solution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve absolute value equations",
+        "teks": "2A.6(E)",
+        "prompt": "This topic covers solve absolute value equations for Algebra II students (TEKS 2A.6(E)). For |expression| = k: if k > 0, split into expression = k and expression = -k; if k = 0, solve expression = 0; if k < 0, no solution. Key vocabulary includes: absolute value equation, isolate, two cases, verify, no solution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Graph solutions to absolute value equations",
+        "teks": "2A.6(E)",
+        "prompt": "This topic covers graph solutions to absolute value equations for Algebra II students (TEKS 2A.6(E)). After solving, plot solutions on a number line. For |x-a| = b: solutions at x = a+b and x = a-b, symmetric about x = a. Key vocabulary includes: absolute value equation, number line, solution, symmetric, distance. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve absolute value linear inequalities;",
+        "teks": "2A.6(F)",
+        "prompt": "This topic covers solve absolute value linear inequalities; for Algebra II students (TEKS 2A.6(F)). For |expression| < k: write as -k < expression < k (AND). For |expression| > k: expression < -k OR expression > k. Isolate the absolute value first. Key vocabulary includes: absolute value inequality, compound inequality, conjunction, disjunction, interval notation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve absolute value inequalities",
+        "teks": "2A.6(F)",
+        "prompt": "This topic covers solve absolute value inequalities for Algebra II students (TEKS 2A.6(F)). For |expression| < k: write as -k < expression < k (AND). For |expression| > k: expression < -k OR expression > k. Isolate the absolute value first. Key vocabulary includes: absolute value inequality, compound inequality, conjunction, disjunction, interval notation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Graph solutions to absolute value inequalities",
+        "teks": "2A.6(F)",
+        "prompt": "This topic covers graph solutions to absolute value inequalities for Algebra II students (TEKS 2A.6(F)). Graph absolute value inequality solutions on a number line. Less-than type gives a bounded interval; greater-than type gives two unbounded rays. Key vocabulary includes: number line, interval, open/closed circle, ray, solution set. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Analyze the effect on the graphs of f(x) = 1/x when f(x) is replaced by af(x), f(bx), f(x - c), and f(x) + d for specific positive and negative real values of a, b, c, and d;",
+        "teks": "2A.6(G)",
+        "prompt": "This topic covers analyze the effect on the graphs of f(x) = 1/x when f(x) is replaced by af(x), f(bx), f(x (c), and f(x) + d for specific positive and negative real values of a, b, c, and d;) for Algebra II students (TEKS 2A.6(G)). The parent f(x) = 1/x has vertical asymptote x=0 and horizontal asymptote y=0. Transformations: a/(b(x-c))+d shifts asymptotes to x=c and y=d. Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, hyperbola, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Formulate rational equations that model real-world situations;",
+        "teks": "2A.6(H)",
+        "prompt": "This topic covers formulate rational equations that model real-world situations; for Algebra II students (TEKS 2A.6(H)). Set up equations involving ratios, rates, or proportions. Common contexts: work rate (1/t = 1/t1 + 1/t2), mixture concentrations, speed/distance/time. Key vocabulary includes: rational equation, rate, proportion, work rate, concentration. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve rational equations that have real solutions;",
+        "teks": "2A.6(I)",
+        "prompt": "This topic covers solve rational equations that have real solutions; for Algebra II students (TEKS 2A.6(I)). Find LCD, multiply every term to clear fractions, solve the resulting equation, CHECK all solutions against original denominators for extraneous solutions. Key vocabulary includes: rational equation, LCD, extraneous solution, excluded value, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Solve rational equations",
+        "teks": "2A.6(I)",
+        "prompt": "This topic covers solve rational equations for Algebra II students (TEKS 2A.6(I)). Find LCD, multiply every term to clear fractions, solve the resulting equation, CHECK all solutions against original denominators for extraneous solutions. Key vocabulary includes: rational equation, LCD, extraneous solution, excluded value, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Determine the reasonableness of a solution to a rational equation;",
+        "teks": "2A.6(J)",
+        "prompt": "This topic covers determining reasonableness of solutions to rational equations for Algebra II students (TEKS 2A.6(J)). After solving, verify solutions do not make any denominator zero. Substitute back to check validity. If a solution equals an excluded value, it is extraneous. Key vocabulary: extraneous solution, excluded value, domain restriction, verify. Common errors: accepting solutions without checking denominators, and not identifying all excluded values."
+      },
+      {
+        "skill": "Solve rational equations",
+        "teks": "2A.6(J)",
+        "prompt": "This topic covers solve rational equations for Algebra II students (TEKS 2A.6(J)). Find LCD, multiply every term to clear fractions, solve the resulting equation, CHECK all solutions against original denominators for extraneous solutions. Key vocabulary includes: rational equation, LCD, extraneous solution, excluded value, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Determine the asymptotic restrictions on the domain of a rational function and represent domain and range using interval notation, inequalities, and set notation;",
+        "teks": "2A.6(K)",
+        "prompt": "This topic covers determine the asymptotic restrictions on the domain of a rational function and represent domain and range using interval notation, inequalities, and set notation; for Algebra II students (TEKS 2A.6(K)). For f(x) = p(x)/q(x): vertical asymptotes where q(x) = 0 and the factor does not cancel. Horizontal asymptote depends on degree comparison. Degrees rule: num < den gives HA y=0; equal degrees gives HA = leading coeff ratio; num > den gives no HA (possible oblique). Express domain/range three ways: interval notation (-inf, 3) U (3, inf), inequality notation x < 3 or x > 3, set notation {x | x is not 3}. Key vocabulary includes: domain, range, interval notation, set notation, inequality notation, union. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not factoring first, confusing holes with asymptotes, misapplying degree rules."
+      },
+      {
+        "skill": "Rational functions: asymptotes and excluded values",
+        "teks": "2A.6(K)",
+        "prompt": "This topic covers rational functions (asymptotes and excluded values) for Algebra II students (TEKS 2A.6(K)). For f(x) = p(x)/q(x): vertical asymptotes where q(x) = 0 and the factor does not cancel. Horizontal asymptote depends on degree comparison. Degrees rule: num < den gives HA y=0; equal degrees gives HA = leading coeff ratio; num > den gives no HA (possible oblique). Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, excluded value, hole, degree. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not factoring first, confusing holes with asymptotes, misapplying degree rules."
+      },
+      {
+        "skill": "Formulate and solve equations involving inverse variation.",
+        "teks": "2A.6(L)",
+        "prompt": "This topic covers formulate and solve equations involving inverse variation. for Algebra II students (TEKS 2A.6(L)). In inverse variation y = k/x (or xy = k), as x increases y decreases proportionally. The graph is a hyperbola. Find k from given values, then solve for unknowns. Key vocabulary includes: inverse variation, constant of variation, hyperbola, reciprocal. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Write and solve inverse variation equations",
+        "teks": "2A.6(L)",
+        "prompt": "This topic covers write and solve inverse variation equations for Algebra II students (TEKS 2A.6(L)). In inverse variation y = k/x (or xy = k), as x increases y decreases proportionally. The graph is a hyperbola. Find k from given values, then solve for unknowns. Key vocabulary includes: inverse variation, constant of variation, hyperbola, reciprocal. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      }
+    ],
+    "Mathematics - Number and algebraic methods": [
+      {
+        "skill": "Add, subtract, and multiply complex numbers;",
+        "teks": "2A.7(A)",
+        "prompt": "This topic covers operations with complex numbers for Algebra II students (TEKS 2A.7(A)). Complex numbers: a+bi where i=sqrt(-1), i^2=-1. Add/subtract: combine real and imaginary parts separately. Multiply using FOIL and replace i^2 with -1. Key vocabulary: complex number, real part, imaginary part, imaginary unit. Write answers in a+bi form. Common errors: forgetting i^2=-1, sign errors, and not separating real/imaginary parts."
+      },
+      {
+        "skill": "Add and subtract complex numbers",
+        "teks": "2A.7(A)",
+        "prompt": "This topic covers adding and subtracting complex numbers for Algebra II students (TEKS 2A.7(A)). For a+bi form: add/subtract real parts and imaginary parts separately. (3+4i)+(2-7i)=5-3i. Treat i as a variable and combine like terms. Key vocabulary: complex number, real part, imaginary part, like terms. Common errors: combining real with imaginary, sign errors, and not writing in a+bi form."
+      },
+      {
+        "skill": "Complex conjugates",
+        "teks": "2A.7(A)",
+        "prompt": "This topic covers complex conjugates for Algebra II students (TEKS 2A.7(A)). The conjugate of a+bi is a-bi. Product: (a+bi)(a-bi)=a^2+b^2 (always real). Used for division and rationalizing. Complex roots come in conjugate pairs. Key vocabulary: conjugate, rationalize, conjugate pair. Common errors: not negating only the imaginary part, and confusing conjugate with negative."
+      },
+      {
+        "skill": "Multiply complex numbers",
+        "teks": "2A.7(A)",
+        "prompt": "This topic covers multiplying complex numbers for Algebra II students (TEKS 2A.7(A)). Use FOIL and replace i^2 with -1. (a+bi)(c+di)=(ac-bd)+(ad+bc)i. Powers of i cycle: i, -1, -i, 1. Key vocabulary: FOIL, i^2=-1, powers of i, standard form a+bi. Common errors: forgetting i^2=-1, not combining terms, and sign errors."
+      },
+      {
+        "skill": "Add, subtract, and multiply polynomials;",
+        "teks": "2A.7(B)",
+        "prompt": "This topic covers adding and subtracting polynomials for Algebra II students (TEKS 2A.7(B)). To add: combine like terms (same variable, same power). To subtract: distribute the negative sign, then combine like terms. Like terms have identical variable parts. Write results in standard form (descending powers). Vocabulary: polynomial, like terms, coefficient, degree, standard form, distribute. Common errors: not distributing the negative to all terms when subtracting, combining unlike terms, and not writing in standard form."
+      },
+      {
+        "skill": "Add and subtract polynomials",
+        "teks": "2A.7(B)",
+        "prompt": "This topic covers adding and subtracting polynomials for Algebra II students (TEKS 2A.7(B)). To add: combine like terms (same variable, same power). To subtract: distribute the negative sign, then combine like terms. Like terms have identical variable parts. Write results in standard form (descending powers). Vocabulary: polynomial, like terms, coefficient, degree, standard form, distribute. Common errors: not distributing the negative to all terms when subtracting, combining unlike terms, and not writing in standard form."
+      },
+      {
+        "skill": "Multiply polynomials",
+        "teks": "2A.7(B)",
+        "prompt": "This topic covers multiply polynomials for Algebra II students (TEKS 2A.7(B)). Students distribute each term of one polynomial to every term of the other, then combine like terms. The degree of the product equals the sum of the factors' degrees. Write results in standard form (descending degree). Key vocabulary includes: polynomial, distribute, product, like terms, degree, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: missing terms during distribution, exponent errors, sign mistakes, not combining all like terms."
+      },
+      {
+        "skill": "Determine the quotient of a polynomial of degree three and of degree four when divided by a polynomial of degree one and of degree two;",
+        "teks": "2A.7(C)",
+        "prompt": "This topic covers dividing polynomials of degree 3-4 by degree 1-2 divisors for Algebra II students (TEKS 2A.7(C)). Use long division or synthetic division. The Remainder Theorem: f(c) equals the remainder when dividing by (x-c). Results: quotient + remainder/divisor. Key vocabulary: polynomial division, quotient, remainder, long division, synthetic division, Remainder Theorem. Common errors: missing placeholder terms, subtraction errors, and setup mistakes."
+      },
+      {
+        "skill": "Divide polynomials using long division",
+        "teks": "2A.7(C)",
+        "prompt": "This topic covers dividing polynomials using long division for Algebra II students (TEKS 2A.7(C)). Process mirrors numerical long division: divide leading terms, multiply divisor by result, subtract, bring down next term, repeat until remainder has degree less than divisor. Include placeholder terms (0x^n) for missing degrees. Result: quotient + remainder/divisor. Vocabulary: dividend, divisor, quotient, remainder, leading term. Common errors: forgetting placeholders, subtraction errors, and stopping too early."
+      },
+      {
+        "skill": "Divide polynomials using synthetic division",
+        "teks": "2A.7(C)",
+        "prompt": "This topic covers dividing polynomials using synthetic division for Algebra II students (TEKS 2A.7(C)). A shortcut for dividing by (x-c). Setup: write c on left, coefficients across top (include 0 for missing terms). Process: bring down first coefficient, multiply by c, add to next, repeat. Last number is remainder; others are quotient coefficients. By the Factor Theorem, remainder 0 means (x-c) is a factor. Vocabulary: synthetic division, coefficient, remainder, Factor Theorem. Common errors: using wrong sign for c, missing placeholder coefficients, and arithmetic errors."
+      },
+      {
+        "skill": "Determine the linear factors of a polynomial function of degree three and of degree four using algebraic methods;",
+        "teks": "2A.7(D)",
+        "prompt": "This topic covers factoring polynomials for Algebra II students (TEKS 2A.7(D)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+      },
+      {
+        "skill": "Factor polynomials",
+        "teks": "2A.7(D)",
+        "prompt": "This topic covers factoring polynomials for Algebra II students (TEKS 2A.7(D)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+      },
+      {
+        "skill": "Determine linear and quadratic factors of a polynomial expression of degree three and of degree four, including factoring the sum and difference of two cubes and factoring by grouping;",
+        "teks": "2A.7(E)",
+        "prompt": "This topic covers solving quadratic equations by factoring for Algebra II students (TEKS 2A.7(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+      },
+      {
+        "skill": "Factor using a quadratic pattern",
+        "teks": "2A.7(E)",
+        "prompt": "This topic covers factoring using a quadratic pattern for Algebra II students (TEKS 2A.7(E)). Some degree-4 polynomials are quadratics in disguise: x^4-5x^2+6=(x^2-2)(x^2-3) using u=x^2 substitution. Steps: identify pattern, substitute u=x^n, factor as quadratic, substitute back. Key vocabulary: quadratic pattern, u-substitution, factor. Common errors: not recognizing the pattern, forgetting to substitute back."
+      },
+      {
+        "skill": "Factor by grouping",
+        "teks": "2A.7(E)",
+        "prompt": "This topic covers factoring by grouping for Algebra II students (TEKS 2A.7(E)). For four-term polynomials: group into pairs, factor GCF from each, extract common binomial. Example: x^3+3x^2+2x+6=x^2(x+3)+2(x+3)=(x^2+2)(x+3). Key vocabulary: grouping, GCF, common factor, binomial factor. Common errors: wrong grouping, sign errors, and groups not sharing a common binomial."
+      },
+      {
+        "skill": "Factor sums and differences of cubes",
+        "teks": "2A.7(E)",
+        "prompt": "This topic covers factoring sums/differences of cubes for Algebra II students (TEKS 2A.7(E)). a^3+b^3=(a+b)(a^2-ab+b^2), a^3-b^3=(a-b)(a^2+ab+b^2). SOAP mnemonic: Same, Opposite, Always Positive. Perfect cubes: 1,8,27,64,125,216. Key vocabulary: sum of cubes, difference of cubes, SOAP. The trinomial factor is irreducible. Common errors: confusing with difference of squares, sign errors."
+      },
+      {
+        "skill": "Factor polynomials",
+        "teks": "2A.7(E)",
+        "prompt": "This topic covers factoring polynomials for Algebra II students (TEKS 2A.7(E)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+      },
+      {
+        "skill": "Determine the sum, difference, product, and quotient of rational expressions with integral exponents of degree one and of degree two;",
+        "teks": "2A.7(F)",
+        "prompt": "This topic covers operations with rational expressions for Algebra II students (TEKS 2A.7(F)). Add/subtract using LCD. Multiply: factor, cancel, multiply. Divide: multiply by reciprocal. Factor completely before canceling. State domain restrictions. Key vocabulary: rational expression, LCD, factor, reciprocal, excluded value, simplify. Common errors: canceling terms instead of factors, wrong LCD, and forgetting domain restrictions."
+      },
+      {
+        "skill": "Multiply and divide rational expressions",
+        "teks": "2A.7(F)",
+        "prompt": "This topic covers multiplying and dividing rational expressions for Algebra II students (TEKS 2A.7(F)). Multiply: factor all, cancel common factors, multiply remaining. Divide: multiply by reciprocal. State all excluded values. Key vocabulary: rational expression, factor, cancel, reciprocal, excluded value. Common errors: canceling before factoring, forgetting to flip divisor, and missing excluded values."
+      },
+      {
+        "skill": "Add and subtract rational expressions",
+        "teks": "2A.7(F)",
+        "prompt": "This topic covers adding and subtracting rational expressions for Algebra II students (TEKS 2A.7(F)). Steps: factor denominators, find LCD, multiply each fraction to achieve LCD, add/subtract numerators, simplify. State excluded values. Key vocabulary: rational expression, LCD, common denominator, simplify, excluded value. Common errors: wrong LCD, not adjusting numerators, sign errors when subtracting."
+      },
+      {
+        "skill": "Rewrite radical expressions that contain variables to equivalent forms;",
+        "teks": "2A.7(G)",
+        "prompt": "This topic covers rewriting radical expressions with variables for Algebra II students (TEKS 2A.7(G)). Convert between radical and rational exponent notation: nth root of x^m = x^(m/n). Simplify by extracting perfect powers. Consider absolute value for even-index roots with variable expressions. Key vocabulary: radical, rational exponent, simplify, rationalize, absolute value. Common errors: not considering even-root sign issues and incomplete simplification."
+      },
+      {
+        "skill": "Simplify radical expressions with variables I",
+        "teks": "2A.7(G)",
+        "prompt": "This topic covers simplifying radical expressions with variables (introductory) for Algebra II students (TEKS 2A.7(G)). Students simplify expressions like sqrt(x^6), cbrt(8x^3y^9) by extracting perfect powers. For sqrt(x^n): divide exponent by 2; quotient goes outside, remainder stays inside. Factor coefficients into perfect squares/cubes, divide variable exponents by index. Assume variables are positive unless stated otherwise. Vocabulary: radical, index, perfect square, perfect cube, simplify. Common errors: not fully extracting, exponent division errors, and forgetting to simplify coefficients."
+      },
+      {
+        "skill": "Simplify radical expressions with variables II",
+        "teks": "2A.7(G)",
+        "prompt": "This topic covers simplifying more complex radical expressions with variables for Algebra II students (TEKS 2A.7(G)). Problems involve products and quotients of radicals, rationalizing denominators with variables, and combining operations. Apply: sqrt(a)*sqrt(b) = sqrt(ab), sqrt(a/b) = sqrt(a)/sqrt(b), and rationalization. Multiple steps may be needed. Vocabulary: radical, product rule, quotient rule, rationalize, conjugate. Common errors: not simplifying completely, rationalization errors, and errors combining radical expressions."
+      },
+      {
+        "skill": "Convert between rational exponents and radicals",
+        "teks": "2A.7(G)",
+        "prompt": "This topic covers converting between rational exponents and radical notation for Algebra II students (TEKS 2A.7(G)). Key relationships: x^(1/n) = nth root of x, x^(m/n) = nth root of (x^m) = (nth root of x)^m. Convert fluently in both directions. Examples: x^(2/3) = cbrt(x^2); sqrt[4](x^3) = x^(3/4). Vocabulary: rational exponent, radical, nth root, index, radicand, equivalent forms. Common errors: confusing root vs power in m/n, and notation errors."
+      },
+      {
+        "skill": "Solve equations involving rational exponents;",
+        "teks": "2A.7(H)",
+        "prompt": "This topic covers solving equations with rational exponents for Algebra II students (TEKS 2A.7(H)). Steps: isolate the term with rational exponent, raise both sides to reciprocal power, solve, check for extraneous solutions. Example: x^(2/3) = 9 gives x = 9^(3/2) = 27. For even-index roots, check non-negativity. Vocabulary: rational exponent, reciprocal power, isolate, extraneous solution. Common errors: not using reciprocal exponent, forgetting +/- for even roots, and not checking."
+      },
+      {
+        "skill": "Solve equations with rational exponents",
+        "teks": "2A.7(H)",
+        "prompt": "This topic covers solving equations with rational exponents for Algebra II students (TEKS 2A.7(H)). Steps: isolate the term with rational exponent, raise both sides to reciprocal power, solve, check for extraneous solutions. Example: x^(2/3) = 9 gives x = 9^(3/2) = 27. For even-index roots, check non-negativity. Vocabulary: rational exponent, reciprocal power, isolate, extraneous solution. Common errors: not using reciprocal exponent, forgetting +/- for even roots, and not checking."
+      },
+      {
+        "skill": "Write the domain and range of a function in interval notation, inequalities, and set notation.",
+        "teks": "2A.7(I)",
+        "prompt": "This topic covers write the domain and range of a function in interval notation, inequalities, and set notation. for Algebra II students (TEKS 2A.7(I)). Express domain/range three ways: interval notation (-inf, 3) U (3, inf), inequality notation x < 3 or x > 3, set notation {x | x is not 3}. Key vocabulary includes: domain, range, interval notation, set notation, inequality notation, union. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Domain and range",
+        "teks": "2A.7(I)",
+        "prompt": "This topic covers determining domain and range of various function types for Algebra II students (TEKS 2A.7(I)). Rational: exclude denominator zeros. Radical (even index): radicand>=0. Log: argument>0. Polynomial: domain always all reals. Express in interval, inequality, or set notation. Key vocabulary: domain, range, restriction, excluded value, asymptote. Common errors: missing restrictions, confusing domain/range, and notation errors."
+      },
+      {
+        "skill": "Domain and range of quadratic functions: graphs",
+        "teks": "2A.7(I)",
+        "prompt": "This topic covers domain and range of quadratic functions from graphs for Algebra II students (TEKS 2A.7(I)). The domain of any quadratic function is all real numbers. The range depends on direction: if the parabola opens up (a > 0), range is [vertex y-value, infinity); if down (a < 0), range is (-infinity, vertex y-value]. Students identify the vertex as the minimum or maximum point on the graph and read its coordinates carefully. They express answers in interval notation, inequality notation, or set-builder notation. Vocabulary: parabola, vertex, minimum, maximum, domain, range, opens up, opens down. Common errors: stating range as all real numbers, confusing minimum with maximum, using parentheses instead of brackets at the vertex, and misreading vertex coordinates."
+      },
+      {
+        "skill": "Domain and range of polynomials",
+        "teks": "2A.7(I)",
+        "prompt": "This topic covers domain and range of polynomial functions for Algebra II students (TEKS 2A.7(I)). Domain is always all real numbers. Range: odd-degree has all reals; even-degree is restricted by the global minimum or maximum. Analyze end behavior and extrema. Key vocabulary: polynomial, degree, domain, range, end behavior, extrema. Common errors: assuming all polynomials have range of all reals."
+      },
+      {
+        "skill": "Domain and range of radical functions",
+        "teks": "2A.7(I)",
+        "prompt": "This topic covers domain and range of radical functions for Algebra II students (TEKS 2A.7(I)). For square root functions f(x) = a*sqrt(x-h) + k: domain is [h, inf) since radicand must be >= 0. Range is [k, inf) if a > 0 or (-inf, k] if a < 0. For cube root functions: domain and range are both all real numbers since cube roots exist for all reals. Key vocabulary includes: radical function, radicand, domain restriction, square root, cube root, index. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: forgetting domain restrictions for even-index roots, applying restrictions to odd-index roots."
+      },
+      {
+        "skill": "Domain and range of logarithmic functions",
+        "teks": "2A.7(I)",
+        "prompt": "This topic covers domain and range of logarithmic functions for Algebra II students (TEKS 2A.7(I)). For f(x) = a*log_b(x-h) + k: domain is (h, infinity) because the argument must be positive, range is all real numbers. The vertical asymptote is x = h. The logarithmic function is the inverse of exponential, so domain/range are swapped. Vocabulary: logarithmic function, domain, range, vertical asymptote, argument. Common errors: including the asymptote in the domain, incorrectly stating range is restricted, and sign errors finding h."
+      }
+    ],
+    "Mathematics - Data": [
+      {
+        "skill": "Analyze data to select the appropriate model from among linear, quadratic, and exponential models;",
+        "teks": "2A.8(A)",
+        "prompt": "This topic covers analyze data to select the appropriate model from among linear, quadratic, and exponential models; for Algebra II students (TEKS 2A.8(A)). Examine data patterns: constant rate of change = linear; U-shape/constant second differences = quadratic; constant percentage change = exponential. Key vocabulary includes: linear model, quadratic model, exponential model, scatter plot, regression. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Identify linear, quadratic, and exponential functions from graphs",
+        "teks": "2A.8(A)",
+        "prompt": "This topic covers identify linear, quadratic, and exponential functions from graphs for Algebra II students (TEKS 2A.8(A)). Linear: straight line. Quadratic: parabola (U-shaped). Exponential: rapid growth/decay with horizontal asymptote. Distinguish by shape, symmetry, and behavior. Key vocabulary includes: linear, quadratic, exponential, parabola, asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Identify linear, quadratic, and exponential functions from tables",
+        "teks": "2A.8(A)",
+        "prompt": "This topic covers identify linear, quadratic, and exponential functions from tables for Algebra II students (TEKS 2A.8(A)). First differences constant = linear. Second differences constant = quadratic. Consecutive ratios constant = exponential. Use equally spaced x-values. Key vocabulary includes: first differences, second differences, common ratio, linear, quadratic, exponential. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Use regression methods available through technology to write a linear function, a quadratic function, and an exponential function from a given set of data;",
+        "teks": "2A.8(B)",
+        "prompt": "This topic covers exponential regression for Algebra II students (TEKS 2A.8(B)). Students use technology to find y = ab^x that best fits data. Steps: enter data, run exponential regression, interpret a and b, use for predictions. Correlation coefficient r indicates fit quality. Students compare exponential vs linear models. Vocabulary: regression, exponential model, correlation coefficient, residual, best fit, interpolation, extrapolation. Common errors: using model far outside data range, confusing with linear regression, and misinterpreting R^2."
+      },
+      {
+        "skill": "Find the equation of a regression line",
+        "teks": "2A.8(B)",
+        "prompt": "This topic covers find the equation of a regression line for Algebra II students (TEKS 2A.8(B)). Use technology to compute least-squares regression. Interpret slope and intercept in context. Evaluate fit using R^2. Key vocabulary includes: regression line, least squares, slope, y-intercept, R^2. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Interpret regression lines",
+        "teks": "2A.8(B)",
+        "prompt": "This topic covers interpret regression lines for Algebra II students (TEKS 2A.8(B)). Explain slope as average rate of change per unit increase in x. Y-intercept is predicted value when x = 0 (may not be meaningful). Assess reliability using R^2. Key vocabulary includes: regression line, slope, y-intercept, interpret, R^2, context. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Analyze a regression line of a data set",
+        "teks": "2A.8(B)",
+        "prompt": "This topic covers analyze a regression line of a data set for Algebra II students (TEKS 2A.8(B)). Evaluate model fit using R^2 value and residual plots. Random residuals indicate good fit; patterned residuals suggest a different model type. Compare models. Key vocabulary includes: regression analysis, R^2, residual, residual plot, goodness of fit. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Predict and make decisions and critical judgments from a given set of data using linear, quadratic, and exponential models.",
+        "teks": "2A.8(C)",
+        "prompt": "This topic covers using regression models for prediction and decision-making for Algebra II students (TEKS 2A.8(C)). Use equations for interpolation (reliable, within data range) and extrapolation (less reliable, beyond data). Evaluate model appropriateness critically. Key vocabulary: prediction, interpolation, extrapolation, reliability, model limitations. Common errors: trusting extrapolation too far, using poorly-fitting models, and not considering context."
+      },
+      {
+        "skill": "Interpret regression lines",
+        "teks": "2A.8(C)",
+        "prompt": "This topic covers interpret regression lines for Algebra II students (TEKS 2A.8(C)). Explain slope as average rate of change per unit increase in x. Y-intercept is predicted value when x = 0 (may not be meaningful). Assess reliability using R^2. Key vocabulary includes: regression line, slope, y-intercept, interpret, R^2, context. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "Analyze a regression line of a data set",
+        "teks": "2A.8(C)",
+        "prompt": "This topic covers analyze a regression line of a data set for Algebra II students (TEKS 2A.8(C)). Evaluate model fit using R^2 value and residual plots. Random residuals indicate good fit; patterned residuals suggest a different model type. Compare models. Key vocabulary includes: regression analysis, R^2, residual, residual plot, goodness of fit. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Integration and Accumulation of Change",
+  "skills": [
+    {
+      "skill": "Change: Exploring Accumulations of Change",
+      "ref": "CHA-4.A",
+      "prompt": "This topic introduces accumulation for AP Calculus BC (CED: CHA-4.A, Unit 6). The total change in a quantity equals the integral of its rate of change. If f(t) is a rate, integral from a to b of f(t)dt gives total accumulation. Key concepts: area under a positive rate curve = total accumulation; net area = net change; connecting rate graphs to total change. BC students apply this in more complex contexts including parametric motion (integral of speed = distance traveled) and series (partial sums as accumulations). AP exam note: interpreting integrals as accumulated change is essential for BC free-response. Students must explain what the integral represents with correct units and context. Vocabulary: accumulation, total change, rate of change, area under curve, net change, integral, parametric."
+    },
+    {
+      "skill": "Limits: Approximating Areas with Riemann Sums",
+      "ref": "LIM-5.A",
+      "prompt": "This topic covers Riemann sums for AP Calculus BC (CED: LIM-5.A, Unit 6). Types: Left, Right, Midpoint, and Trapezoidal sums approximate the area under f on [a,b]. For n equal subintervals of width Delta_x = (b-a)/n, sum heights times widths. For increasing f: left sums underestimate, right overestimate. Trapezoidal sum = average of left and right. BC students use Riemann sums as the foundation for defining the definite integral as a limit of sums, and for understanding series as discrete analogs of integrals. AP exam note: Riemann sum calculations from tables (often with unequal subintervals) are common BC free-response questions. Vocabulary: Riemann sum, left, right, midpoint, trapezoidal, partition, overestimate, underestimate, approximation."
+    },
+    {
+      "skill": "Limits: Riemann Sums, Summation Notation, and Definite Integral Notation",
+      "ref": "LIM-5.B, LIM-5.C",
+      "prompt": "This topic connects Riemann sums to definite integrals for AP Calculus BC (CED: LIM-5.B, LIM-5.C, Unit 6). The definite integral = lim[n->infinity] sum[i=1 to n] f(x_i*)*Delta_x. The integral exists when f is continuous. It represents net signed area. Key notation: integral symbol, limits a (lower) and b (upper), integrand f(x), differential dx. BC students connect this to infinite series: a series is a 'discrete integral.' Understanding the limit process in both contexts deepens comprehension. AP exam note: students should express Riemann sums in sigma notation and connect them to definite integrals. Vocabulary: definite integral, limit of Riemann sums, summation notation, net signed area, integrand, limits of integration."
+    },
+    {
+      "skill": "Analysis of Functions: The Fundamental Theorem of Calculus and Accumulation Functions",
+      "ref": "FUN-5.A",
+      "prompt": "This topic covers FTC Part 1 for AP Calculus BC (CED: FUN-5.A, Unit 6). If f is continuous, then g(x) = integral from a to x of f(t)dt has g'(x) = f(x). With Chain Rule: d/dx[integral from a to h(x) of f(t)dt] = f(h(x))*h'(x). Key analysis: g increases where f > 0, decreases where f < 0; g has extrema where f changes sign; g has inflection points where f has extrema. BC students extend FTC1 to parametric contexts and connect it to power series (term-by-term integration creates new series whose derivative returns the original). AP exam note: analyzing accumulation functions from graphs of f is a signature BC free-response question. Students must systematically connect properties of g to features of f's graph. Vocabulary: FTC Part 1, accumulation function, integrand, Chain Rule extension, increasing, decreasing, inflection point."
+    },
+    {
+      "skill": "Analysis of Functions: Interpreting the Behavior of Accumulation Functions Involving Area",
+      "ref": "FUN-5.A",
+      "prompt": "This topic covers interpreting accumulation functions for AP Calculus BC (CED: FUN-5.A, Unit 6). For g(x) = integral from a to x of f(t)dt: g(a) = 0; g increases where f > 0, decreases where f < 0; g has relative max where f goes from + to -, relative min where f goes from - to +; g is concave up where f increases, concave down where f decreases; g has inflection points at extrema of f. Evaluate g at specific points by computing net area (using geometric shapes). BC students should fluently analyze accumulation functions and connect this to series partial sums. AP exam note: this is among the most frequently tested topics on both AB and BC exams. Students must clearly reason from the graph of f to properties of g. Vocabulary: accumulation function, net area, increasing, decreasing, concavity, extrema, inflection point, geometric area."
+    },
+    {
+      "skill": "Analysis of Functions: Applying Properties of Definite Integrals",
+      "ref": "FUN-6.A",
+      "prompt": "This topic covers properties of definite integrals for AP Calculus BC (CED: FUN-6.A, Unit 6). Key properties: integral(a to a) = 0; integral(a to b) = -integral(b to a); linearity (sum and constant multiple); additivity: integral(a to c) = integral(a to b) + integral(b to c). BC students use these properties to manipulate integrals in applied contexts, evaluate integrals from given partial information, and in series-related arguments. Students should break apart or combine integrals strategically. AP exam note: questions provide integral values and ask students to compute related integrals using properties. This appears in both multiple-choice and free-response. Vocabulary: properties of integrals, linearity, additivity, reversing limits, constant multiple, combination."
+    },
+    {
+      "skill": "Analysis of Functions: The Fundamental Theorem of Calculus and Definite Integrals",
+      "ref": "FUN-6.B",
+      "prompt": "This topic covers FTC Part 2 for AP Calculus BC (CED: FUN-6.B, Unit 6). If f is continuous and F' = f, then integral from a to b of f(x)dx = F(b) - F(a). This enables evaluating definite integrals via antiderivatives. The Net Change Theorem follows: integral of f'(x)dx from a to b = f(b) - f(a). BC students use FTC2 extensively with all integration techniques (substitution, parts, partial fractions) and in parametric/polar area/volume calculations. AP exam note: FTC2 is used in nearly every integral computation. Students must find correct antiderivatives and evaluate at both bounds accurately. Vocabulary: FTC Part 2, antiderivative, evaluation, Net Change Theorem, bounds, parametric integration."
+    },
+    {
+      "skill": "Analysis of Functions: Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation",
+      "ref": "FUN-6.C",
+      "prompt": "This topic covers basic antiderivative rules for AP Calculus BC (CED: FUN-6.C, Unit 6). Key rules: integral of x^n = x^(n+1)/(n+1) + C (n!=-1); integral of 1/x = ln|x| + C; integral of e^x = e^x + C; integral of sin x = -cos x + C; integral of cos x = sin x + C; integral of sec^2 x = tan x + C; integral of 1/(1+x^2) = arctan x + C; integral of 1/sqrt(1-x^2) = arcsin x + C. Always include +C for indefinite integrals. BC students use these as building blocks for more advanced techniques (parts, partial fractions) and for term-by-term integration of power series. AP exam note: these basic formulas must be memorized and applied fluently. Forgetting +C is a common error. Vocabulary: antiderivative, indefinite integral, constant of integration, basic rules, reverse differentiation."
+    },
+    {
+      "skill": "Analysis of Functions: Integrating Using Substitution",
+      "ref": "FUN-6.D",
+      "prompt": "This topic covers u-substitution for AP Calculus BC (CED: FUN-6.D, Unit 6). U-substitution reverses the Chain Rule: integral of f(g(x))*g'(x)dx = integral of f(u)du with u = g(x). Steps: identify inner function u, compute du, rewrite integral in u, integrate, substitute back. For definite integrals, change limits to u-values or substitute back after integrating. BC students use substitution in more complex settings including within integration by parts and for series-defined integrals. AP exam note: u-substitution is the most frequently tested integration technique. Students should be comfortable adjusting for missing constant factors. Vocabulary: u-substitution, change of variable, inner function, differential, reverse Chain Rule, limits."
+    },
+    {
+      "skill": "Analysis of Functions: Integrating Functions Using Long Division and Completing the Square",
+      "ref": "FUN-6.D",
+      "prompt": "This topic covers long division and completing the square for integration in AP Calculus BC (CED: FUN-6.D, Unit 6). Long division: when numerator degree >= denominator degree, divide to get polynomial + proper fraction, then integrate. Completing the square: rewrite quadratics to match arctan or arcsin forms. Example: integral of 1/(x^2+6x+13) = integral of 1/((x+3)^2+4) = (1/2)arctan((x+3)/2) + C. BC students encounter these techniques in partial fraction contexts and when evaluating improper integrals. AP exam note: recognizing when long division or completing the square is needed is key. These techniques transform intractable integrals into standard forms. Vocabulary: long division, completing the square, proper fraction, arctan form, arcsin form, standard form."
+    },
+    {
+      "skill": "Analysis of Functions: Integrating Using Integration by Parts (BC ONLY)",
+      "ref": "FUN-6.E",
+      "prompt": "This topic covers integration by parts for AP Calculus BC (CED: FUN-6.E, Unit 6). The formula integral of u dv = uv - integral of v du reverses the Product Rule. Use LIATE to choose u: Logarithmic, Inverse trig, Algebraic, Trigonometric, Exponential. Key applications: integral of x*e^x dx, integral of ln(x)dx, integral of x^2*sin(x)dx (apply twice), integral of e^x*sin(x)dx (apply twice, solve algebraically for original integral). The tabular method streamlines repeated application. For definite integrals, apply bounds to the uv term and remaining integral. This technique is BC ONLY. AP exam note: integration by parts is commonly tested on the BC exam. Students should practice efficient u/dv selection and handle cases requiring multiple applications. Vocabulary: integration by parts, LIATE, Product Rule reversal, tabular method, repeated application, BC only."
+    },
+    {
+      "skill": "Analysis of Functions: Using Linear Partial Fractions (BC ONLY)",
+      "ref": "FUN-6.F",
+      "prompt": "This topic covers partial fraction decomposition for AP Calculus BC (CED: FUN-6.F, Unit 6). For rational functions with distinct linear factors in the denominator, decompose: p(x)/((x-r1)(x-r2)...) = A/(x-r1) + B/(x-r2) + .... Find constants by multiplying through and substituting roots or equating coefficients. Each fraction integrates to a natural log. Prerequisite: numerator degree < denominator degree (else do long division first). This technique is BC ONLY. AP exam note: partial fractions on BC is limited to non-repeated linear factors. Students should practice the full process: factor, decompose, solve for constants, integrate. Vocabulary: partial fractions, decomposition, linear factors, coefficients, rational function, natural logarithm, BC only."
+    },
+    {
+      "skill": "Limits: Evaluating Improper Integrals (BC ONLY)",
+      "ref": "LIM-6.A",
+      "prompt": "This topic covers improper integrals for AP Calculus BC (CED: LIM-6.A, Unit 6). Improper integrals have infinite bounds or discontinuous integrands. Evaluation: replace infinite bounds with a variable and take the limit. Type 1: integral from a to infinity of f(x)dx = lim[t->inf] integral from a to t of f(x)dx. Type 2: if f has a discontinuity at c in [a,b], split and use limits. Converges if limit is finite; diverges otherwise. Key result: integral of 1/x^p from 1 to infinity converges iff p > 1. This connects to the Integral Test for series. This is BC ONLY. AP exam note: students must show the limit process explicitly. Improper integrals connect to series convergence via the Integral Test. Vocabulary: improper integral, convergent, divergent, infinite bound, discontinuity, limit process, p-integral, BC only."
+    },
+    {
+      "skill": "Analysis of Functions: Selecting Techniques for Antidifferentiation",
+      "ref": "FUN-6.D, FUN-6.E, FUN-6.F",
+      "prompt": "This topic covers selecting integration techniques for AP Calculus BC (CED: FUN-6.D, FUN-6.E, FUN-6.F, Unit 6). BC students choose from: basic rules, u-substitution, integration by parts, partial fractions, long division, completing the square. Decision strategy: (1) basic rule? (2) composition suggesting u-sub? (3) product suggesting parts? (4) rational function suggesting partial fractions or long division? (5) quadratic denominator suggesting completing the square? BC students face a wider range of integrands than AB and must be fluent with all techniques. Sometimes multiple techniques combine (e.g., u-sub followed by parts). AP exam note: efficient technique identification is critical for BC time management. Mixed practice is essential preparation. Vocabulary: technique selection, u-substitution, integration by parts, partial fractions, long division, completing the square."
+    }
+  ]
+}

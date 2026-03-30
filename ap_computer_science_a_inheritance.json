@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Inheritance",
+  "skills": [
+    {
+      "skill": "9.1 Creating Superclasses and Subclasses",
+      "ref": "MOD-3.A (Unit 9, Topic 9.1)",
+      "prompt": "This topic covers creating superclasses and subclasses for AP CSA students (CED: MOD-3.A, Unit 9, Topic 9.1). Students should understand that inheritance establishes an 'is-a' relationship between classes, allowing a subclass to inherit attributes and behaviors from a superclass. Key concepts: the extends keyword creates a subclass (class Dog extends Animal); the subclass inherits all public and protected methods and instance variables from the superclass; private instance variables are inherited but not directly accessible (use accessor/mutator methods); a subclass can add new instance variables and methods, and can override inherited methods. Inheritance promotes code reuse and creates a class hierarchy. Students should design class hierarchies, determine what is inherited, and understand that Java supports single inheritance only (a class can extend only one class). Vocabulary: superclass, subclass, inheritance, extends, is-a relationship, class hierarchy, code reuse, single inheritance."
+    },
+    {
+      "skill": "9.2 Writing Constructors for Subclasses",
+      "ref": "MOD-3.B (Unit 9, Topic 9.2)",
+      "prompt": "This topic covers writing constructors for subclasses for AP CSA students (CED: MOD-3.B, Unit 9, Topic 9.2). Students should understand that subclass constructors must initialize both the superclass portion and the subclass-specific portion of an object. Key concepts: the super keyword calls the superclass constructor (super(args)); super() must be the first statement in the subclass constructor; if super() is not explicitly called, Java inserts a no-argument super() call automatically (which fails if the superclass has no no-arg constructor); the superclass constructor runs first, then the subclass constructor completes initialization. Students should write subclass constructors that properly chain to superclass constructors, pass appropriate arguments, and initialize subclass-specific instance variables. Common error: forgetting to call super() when the superclass requires parameters. Vocabulary: super keyword, constructor chaining, superclass constructor, subclass constructor, initialization order."
+    },
+    {
+      "skill": "9.3 Overriding Methods",
+      "ref": "MOD-3.C (Unit 9, Topic 9.3)",
+      "prompt": "This topic covers overriding methods for AP CSA students (CED: MOD-3.C, Unit 9, Topic 9.3). Students should understand that a subclass can override an inherited method by providing its own implementation with the same method signature. Key concepts: the overriding method must have the exact same name, return type, and parameter list as the superclass method; @Override annotation is optional but recommended; the overriding method replaces the superclass behavior for objects of the subclass type; overriding differs from overloading (overloading uses different parameter lists within the same class). Students should write overriding methods, understand when the subclass version vs. superclass version is called, and use super.methodName() to call the original superclass version from within the override. Vocabulary: method overriding, method signature, @Override, superclass method, subclass method, overriding vs. overloading, super.method()."
+    },
+    {
+      "skill": "9.4 Keyword super",
+      "ref": "MOD-3.D (Unit 9, Topic 9.4)",
+      "prompt": "This topic covers the super keyword for AP CSA students (CED: MOD-3.D, Unit 9, Topic 9.4). Students should understand the two uses of the super keyword in Java. Key concepts: super(args) calls the superclass constructor and must be the first line in a subclass constructor; super.methodName(args) calls the superclass version of an overridden method from within the subclass. Using super allows the subclass to leverage existing superclass functionality while extending or modifying behavior. Common pattern: overriding a method but calling super.method() first to execute the superclass behavior, then adding additional subclass-specific behavior. Students should trace through code involving super in both constructors and methods, understanding the order of execution. Important: super cannot be used in static methods. Vocabulary: super keyword, superclass constructor call, superclass method call, constructor chaining, method extension, execution order."
+    },
+    {
+      "skill": "9.5 Creating References Using Inheritance Hierarchies",
+      "ref": "MOD-3.E (Unit 9, Topic 9.5)",
+      "prompt": "This topic covers creating references using inheritance hierarchies for AP CSA students (CED: MOD-3.E, Unit 9, Topic 9.5). Students should understand polymorphic references and the compile-time vs. runtime type distinction. Key concepts: a superclass reference variable can hold a subclass object (Animal a = new Dog()); the declared type (compile-time type) determines which methods can be called; the actual object type (runtime type) determines which version of an overridden method executes; a subclass reference cannot hold a superclass object without casting. Students should determine what is legal to call based on the declared type, predict which overridden method version runs based on the actual type, and understand that this enables flexible, extensible code. Casting: (Dog) a converts the reference but throws ClassCastException if the object is not actually a Dog. Vocabulary: polymorphic reference, declared type, actual type, compile-time type, runtime type, upcasting, downcasting, ClassCastException."
+    },
+    {
+      "skill": "9.6 Polymorphism",
+      "ref": "MOD-3.F (Unit 9, Topic 9.6)",
+      "prompt": "This topic covers polymorphism for AP CSA students (CED: MOD-3.F, Unit 9, Topic 9.6). Students should understand that polymorphism allows objects of different subclass types to be treated uniformly through a common superclass reference. Key concepts: when a method is called on a superclass reference, Java uses dynamic binding (late binding) to determine at runtime which overridden version to execute based on the actual object type; this enables writing general code that works with any subclass. Example: an array of Animal references can hold Dog, Cat, and Bird objects, and calling speak() on each invokes the correct subclass version. Polymorphism is a cornerstone of object-oriented design, enabling extensibility (new subclasses can be added without modifying existing code). Students should trace through polymorphic method calls and predict output. Vocabulary: polymorphism, dynamic binding, late binding, runtime dispatch, extensibility, abstraction, uniform interface."
+    },
+    {
+      "skill": "9.7 Object Superclass",
+      "ref": "MOD-3.G (Unit 9, Topic 9.7)",
+      "prompt": "This topic covers the Object superclass for AP CSA students (CED: MOD-3.G, Unit 9, Topic 9.7). Students should understand that Object is the root of Java's class hierarchy; every class implicitly extends Object. Key concepts: the Object class provides methods that all classes inherit, including toString() and equals(); toString() returns a String representation of the object (default is className@hashCode); equals() by default compares references (same as ==); subclasses should override both methods to provide meaningful behavior. Students should override toString() to return a descriptive String and override equals() to compare relevant instance variables. Understanding Object enables polymorphism at the highest level: an Object reference can hold any Java object. The instanceof operator tests whether an object is an instance of a particular class. Vocabulary: Object class, root class, toString, equals, override, class hierarchy, instanceof, default implementation, hashCode."
+    }
+  ]
+}

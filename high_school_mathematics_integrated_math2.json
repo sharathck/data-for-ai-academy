@@ -1,0 +1,156 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Integrated Math-2",
+  "skills": [
+    {
+      "skill": "Quadratic Functions and Equations",
+      "teks": "A.8(A)",
+      "teks_description": "Solve quadratic equations by factoring, square roots, completing the square, and quadratic formula",
+      "prompt": "This topic covers solving quadratic equations for Integrated Math-2 students (TEKS A.8A). Students should solve using four methods: factoring, square roots, completing the square, and the quadratic formula x = (-b +/- sqrt(b^2-4ac))/(2a). Key concepts: standard form ax^2+bx+c=0, discriminant (b^2-4ac) determines nature of solutions, zero product property. Vocabulary: quadratic equation, roots, zeros, solutions, discriminant, factoring, completing the square, quadratic formula. Common errors: sign errors in the quadratic formula, forgetting +/- with square roots, and incomplete factoring."
+    },
+    {
+      "skill": "Complex Numbers",
+      "teks": "2A.7(A)",
+      "teks_description": "Add, subtract, and multiply complex numbers",
+      "prompt": "This topic covers operations with complex numbers for Integrated Math-2 students (TEKS 2A.7A). Students should understand that i = sqrt(-1) and i^2 = -1, and perform addition, subtraction, and multiplication of complex numbers in the form a + bi. Key concepts: real part and imaginary part, combining like parts, multiplying using distribution and replacing i^2 with -1, complex conjugates, and dividing by multiplying by the conjugate. Vocabulary: complex number, imaginary unit, real part, imaginary part, complex conjugate, complex plane. Common errors: forgetting that i^2 = -1, sign errors in multiplication, and treating i as a variable."
+    },
+    {
+      "skill": "Polynomials and Factoring",
+      "teks": "A.10(E)",
+      "teks_description": "Factor trinomials with real factors in form ax^2+bx+c including perfect square trinomials",
+      "prompt": "This topic covers factoring trinomials for Integrated Math-2 students (TEKS A.10E). Students should factor trinomials of the form ax^2+bx+c using various methods: finding two numbers that multiply to ac and add to b, grouping, and recognizing special patterns. Key patterns: perfect square trinomials, difference of squares. Vocabulary: factor, trinomial, leading coefficient, GCF, perfect square trinomial, difference of squares, prime polynomial. Common errors: forgetting the GCF, sign errors in factored form, and incomplete factoring."
+    },
+    {
+      "skill": "Rational Exponents and Radicals",
+      "teks": "2A.7(G)",
+      "teks_description": "Rewrite radical expressions that contain variables to equivalent forms",
+      "prompt": "This topic covers rewriting radical expressions for Integrated Math-2 students (TEKS 2A.7G). Students should convert between radical and exponential forms: a^(m/n) = (nth root of a)^m, simplify radicals, and rationalize denominators. Key concepts: rational exponent rules extend integer exponent rules, simplifying radicals by extracting perfect powers, adding/subtracting like radicals, and multiplying/dividing radical expressions. Vocabulary: radical, radicand, index, rational exponent, simplify, rationalize, conjugate, like radicals. Common errors: applying radical rules to sums (sqrt(a+b) is not sqrt(a)+sqrt(b)), forgetting absolute values, and exponent arithmetic mistakes."
+    },
+    {
+      "skill": "Exponential Functions and Logarithms",
+      "teks": "2A.5(C)",
+      "teks_description": "Rewrite exponential equations as logarithmic equations and vice versa",
+      "prompt": "This topic covers the relationship between exponential and logarithmic forms for Integrated Math-2 students (TEKS 2A.5C). Students should convert between b^x = y and log_b(y) = x, and understand that logarithms answer 'what exponent gives this result?' Key concepts: common logarithm (base 10), natural logarithm (base e), properties of logarithms (product, quotient, power rules). Vocabulary: exponential function, logarithm, base, common log, natural log, inverse functions. Common errors: log(a+b) is not log(a)+log(b), confusing log rules, and domain errors."
+    },
+    {
+      "skill": "Transformations of Functions",
+      "teks": "A.7(C)",
+      "teks_description": "Determine effects on parent function when replaced by af(x), f(x)+d, f(x-c), f(bx)",
+      "prompt": "This topic covers parent function transformations for Integrated Math-2 students (TEKS A.7C). Students should determine the effects of replacing f(x) with af(x), f(x)+d, f(x-c), and f(bx). Key concepts: identifying the parent function, describing transformations, writing transformed equations, and graphing. Vocabulary: parent function, transformation, translation, reflection, stretch, compression, vertical, horizontal, scale factor. Common errors: confusing horizontal shift direction (f(x-c) shifts right), mixing up vertical and horizontal effects, and order of transformations."
+    },
+    {
+      "skill": "Comparing Linear, Exponential, and Quadratic Models",
+      "teks": "2A.8(A)",
+      "teks_description": "Analyze data to select appropriate model from linear, quadratic, and exponential models",
+      "prompt": "This topic covers selecting appropriate function models for Integrated Math-2 students (TEKS 2A.8A). Students should analyze data patterns to determine whether linear (constant first differences), quadratic (constant second differences), or exponential (constant ratios) models best fit. Key concepts: first and second differences, constant ratios, regression, R-squared values. Vocabulary: linear model, quadratic model, exponential model, first differences, second differences, common ratio, regression, residual. Common errors: forcing linear models on curved data, confusing exponential with quadratic growth, and extrapolating without considering model limitations."
+    },
+    {
+      "skill": "Rational Functions",
+      "teks": "2A.6(G)",
+      "teks_description": "Analyze transformation effects on reciprocal function graphs",
+      "prompt": "This topic covers reciprocal function transformations for Integrated Math-2 students (TEKS 2A.6G). Students should analyze f(x) = 1/x and its transformations. Key concepts: vertical asymptote, horizontal asymptote, domain and range exclusions, and graphing transformed rational functions. Vocabulary: rational function, asymptote, vertical asymptote, horizontal asymptote, discontinuity, reciprocal function, end behavior. Common errors: forgetting domain restrictions, misidentifying asymptote shifts, and confusing holes with vertical asymptotes."
+    },
+    {
+      "skill": "Conic Sections (Circles, Parabolas)",
+      "teks": "G.12(E)",
+      "teks_description": "Determine equations of circles with center at origin and at any point",
+      "prompt": "This topic covers equations of circles for Integrated Math-2 students (TEKS G.12E). Students should write equations in standard form (x-h)^2 + (y-k)^2 = r^2 and convert between standard and general form using completing the square. Key concepts: deriving from the distance formula, completing the square, graphing circles, identifying center and radius, parabolas with directrix and focus. Vocabulary: circle, center, radius, standard form, general form, completing the square, conic section, parabola, focus, directrix. Common errors: sign errors reading center from standard form, and confusing r with r^2."
+    },
+    {
+      "skill": "Probability Rules and Models",
+      "teks": "G.13(A)",
+      "teks_description": "Develop strategies using permutations and combinations",
+      "prompt": "This topic covers permutations and combinations for Integrated Math-2 students (TEKS G.13A). Students should distinguish between permutations (nPr = n!/(n-r)!) and combinations (nCr = n!/((n-r)!r!)), and apply the fundamental counting principle. Vocabulary: permutation, combination, factorial, fundamental counting principle. Common errors: using permutations when order doesn't matter, factorial computation errors, and overcounting."
+    },
+    {
+      "skill": "Conditional Probability and Independence",
+      "teks": "G.13(D)",
+      "teks_description": "Apply conditional probability in contextual problems",
+      "prompt": "This topic covers conditional probability for Integrated Math-2 students (TEKS G.13D). Students should calculate P(A|B) = P(A and B)/P(B) and determine independence. Key concepts: two-way tables, tree diagrams, multiplication rule, testing for independence. Vocabulary: conditional probability, independent events, dependent events, two-way table, joint probability, marginal probability. Common errors: confusing P(A|B) with P(B|A), assuming independence without verification, and misreading two-way tables."
+    },
+    {
+      "skill": "Data Analysis and Statistical Reasoning",
+      "teks": "S.4(C)",
+      "teks_description": "Analyze distribution characteristics of quantitative data including existence and impact of outliers",
+      "prompt": "This topic covers analyzing distributions for Integrated Math-2 students (TEKS S.4C). Students should describe distributions using shape, center, and spread, and analyze the impact of outliers. Key concepts: comparing distributions using box plots, identifying outliers using 1.5*IQR rule, choosing appropriate summary statistics. Vocabulary: distribution, skewed, symmetric, outlier, resistant measure, five-number summary, box plot, IQR. Common errors: using mean for skewed data, miscalculating IQR, and ignoring outlier effects."
+    },
+    {
+      "skill": "Similarity and Dilations",
+      "teks": "G.7(A)",
+      "teks_description": "Apply similarity definitions using dilations to identify similar figures",
+      "prompt": "This topic covers applying similarity through dilations for Integrated Math-2 students (TEKS G.7A). Students should perform dilations, verify similarity using AA/SAS/SSS criteria, and solve problems. Key concepts: scale factor, center of dilation, proportional sides, congruent angles, perimeter scales by k, area scales by k^2. Vocabulary: dilation, scale factor, center of dilation, similar figures, proportion, corresponding parts. Common errors: confusing congruence with similarity, setting up proportions incorrectly, and not accounting for area scaling as k^2."
+    },
+    {
+      "skill": "Trigonometric Ratios and Functions",
+      "teks": "G.9(A)",
+      "teks_description": "Determine side lengths and angle measures using sine, cosine, and tangent ratios",
+      "prompt": "This topic covers right triangle trigonometry for Integrated Math-2 students (TEKS G.9A). Students should use SOH-CAH-TOA to find unknown sides and angles in right triangles. Key concepts: identifying opposite, adjacent, hypotenuse, using inverse trig functions, angles of elevation and depression. Vocabulary: sine, cosine, tangent, opposite, adjacent, hypotenuse, angle of elevation, angle of depression. Common errors: mislabeling sides, calculator in wrong mode, and confusing elevation with depression angles."
+    },
+    {
+      "skill": "Right Triangle Trigonometry",
+      "teks": "G.9(B)",
+      "teks_description": "Apply 30-60-90 and 45-45-90 triangle relationships and Pythagorean theorem",
+      "prompt": "This topic covers special right triangles and the Pythagorean theorem for Integrated Math-2 students (TEKS G.9B). Students should apply 30-60-90 (sides 1:sqrt(3):2) and 45-45-90 (sides 1:1:sqrt(2)) relationships and a^2+b^2=c^2. Key concepts: recognizing when to use special triangles, Pythagorean triples, converse for classifying triangles. Vocabulary: Pythagorean theorem, hypotenuse, leg, special right triangle, Pythagorean triple. Common errors: applying the ratio to the wrong sides, forgetting which side is longest, and using a^2+b^2=c^2 in non-right triangles."
+    },
+    {
+      "skill": "Transformations and Symmetry",
+      "teks": "G.3(D)",
+      "teks_description": "Identify reflectional and rotational symmetry in shapes",
+      "prompt": "This topic covers reflectional and rotational symmetry for Integrated Math-2 students (TEKS G.3D). Students should identify lines of symmetry and orders of rotational symmetry. Key concepts: a figure has rotational symmetry of order n if it maps onto itself n times in 360 degrees; angle of rotation = 360/n. Vocabulary: line of symmetry, reflectional symmetry, rotational symmetry, order of symmetry, angle of rotation, tessellation. Common errors: confusing lines of symmetry count, miscounting rotational order, and forgetting identity rotation."
+    },
+    {
+      "skill": "Proof and Geometric Reasoning",
+      "teks": "G.6(B)",
+      "teks_description": "Prove triangle congruence using SAS, ASA, SSS, AAS, and HL conditions",
+      "prompt": "This topic covers triangle congruence proofs for Integrated Math-2 students (TEKS G.6B). Students should prove congruence using SAS, ASA, SSS, AAS, and HL. Key concepts: CPCTC, two-column and paragraph proofs, and why SSA and AAA are not valid. Vocabulary: congruent, corresponding parts, CPCTC, included angle, included side, hypotenuse, proof. Common errors: using SSA as a congruence shortcut, misidentifying included angles/sides, and skipping proof steps."
+    },
+    {
+      "skill": "Geometric Constructions and Loci",
+      "teks": "G.5(C)",
+      "teks_description": "Use constructions to make conjectures about geometric relationships",
+      "prompt": "This topic covers constructions to explore geometric relationships for Integrated Math-2 students (TEKS G.5C). Students should perform constructions and make conjectures. Key constructions: circumscribed and inscribed circles, perpendicular bisectors (circumcenter), angle bisectors (incenter). Vocabulary: locus, circumscribed circle, inscribed circle, circumcenter, incenter, centroid, concurrent, construction. Common errors: imprecise compass work, confusing circumcenter with incenter, and misunderstanding locus definitions."
+    },
+    {
+      "skill": "Congruence and Similarity in the Coordinate Plane",
+      "teks": "G.2(B)",
+      "teks_description": "Derive and use distance, slope, and midpoint formulas to verify geometric properties",
+      "prompt": "This topic covers using formulas to verify geometric properties for Integrated Math-2 students (TEKS G.2B). Students should use distance, slope, and midpoint formulas. Key concepts: proving quadrilateral types, verifying perpendicularity (negative reciprocal slopes) and parallelism (equal slopes). Vocabulary: distance formula, midpoint formula, slope, parallel, perpendicular, negative reciprocal, coordinate proof. Common errors: arithmetic errors in formulas, confusing parallel and perpendicular conditions, and incomplete proofs."
+    },
+    {
+      "skill": "Circles: Properties and Equations",
+      "teks": "G.12(A)",
+      "teks_description": "Apply theorems about angles, radii, chords, tangents, and secants of circles",
+      "prompt": "This topic covers circle theorems for Integrated Math-2 students (TEKS G.12A). Students should apply theorems about central angles, inscribed angles, arcs, chords, tangents, and secants. Key theorems: inscribed angle is half the central angle; tangent perpendicular to radius at tangency point; two tangent segments from an external point are congruent. Vocabulary: central angle, inscribed angle, arc, chord, tangent, secant, intercepted arc. Common errors: confusing inscribed and central angle measures, and errors in arc-angle relationships."
+    },
+    {
+      "skill": "Modeling with Functions",
+      "teks": "A.8(B)",
+      "teks_description": "Write quadratic functions using technology providing reasonable fit to data",
+      "prompt": "This topic covers writing quadratic functions to fit data for Integrated Math-2 students (TEKS A.8B). Students should use technology for quadratic regression, interpret parameters in context. Key concepts: vertex as maximum/minimum, x-intercepts as meaningful zeros, model fit evaluation. Vocabulary: quadratic regression, parabola, vertex, maximum, minimum, model, residual, curve fitting. Common errors: extrapolating beyond reasonable domain, ignoring non-physical solutions, and confusing correlation with causation."
+    },
+    {
+      "skill": "Arithmetic and Geometric Sequences",
+      "teks": "A.12(D)",
+      "teks_description": "Write formula for nth term of arithmetic and geometric sequences given several terms",
+      "prompt": "This topic covers writing explicit formulas for sequences for Integrated Math-2 students (TEKS A.12D). Key formulas: arithmetic a_n = a_1 + (n-1)d, geometric a_n = a_1 * r^(n-1). Key concepts: identifying d and r, finding any term, connecting arithmetic to linear and geometric to exponential functions. Vocabulary: arithmetic sequence, geometric sequence, common difference, common ratio, explicit formula, nth term, recursive formula. Common errors: confusing d and r, off-by-one index errors, and not recognizing negative common ratios."
+    },
+    {
+      "skill": "Inverse Functions",
+      "teks": "2A.2(B)",
+      "teks_description": "Graph and write the inverse of a function using notation such as f^-1(x)",
+      "prompt": "This topic covers graphing and finding inverse functions for Integrated Math-2 students (TEKS 2A.2B). Students should find inverses by swapping x and y, verify using composition, and graph as reflections over y = x. Key concepts: one-to-one functions (horizontal line test), domain restrictions, notation f^(-1)(x). Vocabulary: inverse function, one-to-one, horizontal line test, composition, reflection. Common errors: confusing f^(-1)(x) with 1/f(x), forgetting to restrict domain, and algebraic errors."
+    },
+    {
+      "skill": "Systems of Equations and Inequalities (Linear and Quadratic)",
+      "teks": "2A.3(C)",
+      "teks_description": "Solve algebraically systems of two equations consisting of a linear and quadratic equation",
+      "prompt": "This topic covers solving systems with linear and quadratic equations for Integrated Math-2 students (TEKS 2A.3C). Students should solve algebraically and graphically. Key concepts: substituting linear into quadratic, 0/1/2 solutions, discriminant connection. Vocabulary: system of equations, substitution, intersection, discriminant, tangent line, secant line, no solution. Common errors: algebraic errors during substitution, forgetting to find both coordinates, and misinterpreting graphs."
+    },
+    {
+      "skill": "Modeling Periodic Phenomena",
+      "teks": "P.2(O)",
+      "teks_description": "Develop and use a sinusoidal function that models a situation in mathematical and real-world problems",
+      "prompt": "This topic covers sinusoidal modeling for Integrated Math-2 students (TEKS P.2O). Students should develop functions y = A*sin(B(x-C))+D or y = A*cos(B(x-C))+D. Key concepts: amplitude |A|, period 2pi/B, phase shift C, vertical shift D (midline). Applications: tides, temperature cycles, Ferris wheels. Vocabulary: sinusoidal, amplitude, period, frequency, phase shift, midline, periodic function, cycle. Common errors: confusing period with frequency, incorrect phase shift sign, and misidentifying amplitude from shifted graphs."
+    }
+  ]
+}

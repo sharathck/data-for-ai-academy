@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "ArrayList",
+  "skills": [
+    {
+      "skill": "7.1 Introduction to ArrayList",
+      "ref": "VAR-2.E (Unit 7, Topic 7.1)",
+      "prompt": "This topic covers introduction to ArrayList for AP CSA students (CED: VAR-2.E, Unit 7, Topic 7.1). Students should understand that ArrayList is a resizable collection class from java.util that stores objects (not primitives). Key concepts: import java.util.ArrayList; declare and create with ArrayList<Type> list = new ArrayList<Type>(); ArrayList automatically resizes as elements are added or removed; only object types are allowed (use Integer instead of int, Double instead of double); generics (<Type>) specify the element type at compile time, providing type safety. Contrast with arrays: arrays have fixed size and can store primitives; ArrayList is dynamic and stores objects only. Students should understand when to choose ArrayList over arrays (when size is unknown or changes frequently) and vice versa. Vocabulary: ArrayList, dynamic sizing, generics, type parameter, wrapper class, import, java.util, type safety, resizable."
+    },
+    {
+      "skill": "7.2 ArrayList Methods",
+      "ref": "VAR-2.F (Unit 7, Topic 7.2)",
+      "prompt": "This topic covers ArrayList methods for AP CSA students (CED: VAR-2.F, Unit 7, Topic 7.2). Students should understand the key methods of the ArrayList class. Key methods: add(E obj) appends to the end; add(int index, E obj) inserts at the specified index, shifting subsequent elements right; get(int index) returns the element at index; set(int index, E obj) replaces the element at index and returns the old element; remove(int index) removes and returns the element at index, shifting subsequent elements left; size() returns the number of elements. Students should trace through sequences of ArrayList operations, predict the state of the list after multiple add/remove/set calls, and understand how indices shift when elements are inserted or removed. Important: size() uses parentheses (unlike array's length). Vocabulary: add, get, set, remove, size, index shifting, dynamic resizing, insert, append."
+    },
+    {
+      "skill": "7.3 Traversing ArrayLists",
+      "ref": "VAR-2.G (Unit 7, Topic 7.3)",
+      "prompt": "This topic covers traversing ArrayLists for AP CSA students (CED: VAR-2.G, Unit 7, Topic 7.3). Students should understand how to iterate through an ArrayList using standard for loops, enhanced for loops, and while loops. Key concepts: use for (int i = 0; i < list.size(); i++) with list.get(i) for index-based traversal; use for (Type item : list) for read-only traversal; ConcurrentModificationException can occur if you modify an ArrayList during enhanced for loop traversal. Critical pitfall: when removing elements during traversal with a standard for loop, decrement the index after removal (i--) or traverse backwards to avoid skipping elements. Students should choose the appropriate loop type for the task and handle modifications during traversal correctly. Vocabulary: traversal, for loop, enhanced for loop, while loop, ConcurrentModificationException, index adjustment, forward traversal, backward traversal."
+    },
+    {
+      "skill": "7.4 Developing Algorithms Using ArrayLists",
+      "ref": "VAR-2.H (Unit 7, Topic 7.4)",
+      "prompt": "This topic covers developing algorithms using ArrayLists for AP CSA students (CED: VAR-2.H, Unit 7, Topic 7.4). Students should understand how to implement standard algorithms with ArrayLists, leveraging their dynamic sizing. Key algorithms: inserting elements in sorted order; removing all elements that meet a condition (traversing backwards to avoid index issues); finding and removing duplicates; merging two sorted lists; partitioning elements based on a condition; accumulating results into a new ArrayList. Students should implement these algorithms, understand the performance implications of frequent insertions and removals (elements shift), and compare ArrayList algorithms to their array counterparts. Common patterns: building a result list by selectively adding elements, using multiple passes to process data. Vocabulary: insertion, removal, duplicate detection, merge, partition, filter, accumulate, dynamic algorithm, index management."
+    },
+    {
+      "skill": "7.5 Searching",
+      "ref": "CON-2.F (Unit 7, Topic 7.5)",
+      "prompt": "This topic covers searching for AP CSA students (CED: CON-2.F, Unit 7, Topic 7.5). Students should understand linear (sequential) search and binary search algorithms. Key concepts: linear search checks each element from start to end until the target is found or the list is exhausted; it works on any list, sorted or unsorted, with O(n) worst-case performance. Binary search requires a sorted list and repeatedly divides the search space in half, achieving O(log n) performance; it compares the target to the middle element and eliminates half the remaining elements each step. Students should implement both algorithms, trace through examples, compare their efficiency, and understand when each is appropriate. Important: binary search only works on sorted data. Students should be able to determine the maximum number of comparisons for binary search (log2(n) + 1). Vocabulary: linear search, binary search, sequential search, sorted, target, comparisons, efficiency, O(n), O(log n)."
+    },
+    {
+      "skill": "7.6 Sorting",
+      "ref": "CON-2.G (Unit 7, Topic 7.6)",
+      "prompt": "This topic covers sorting for AP CSA students (CED: CON-2.G, Unit 7, Topic 7.6). Students should understand selection sort and insertion sort algorithms. Selection sort: repeatedly find the minimum element from the unsorted portion and swap it with the first unsorted element; makes n-1 passes; O(n^2) time complexity. Insertion sort: for each element, insert it into its correct position among the previously sorted elements by shifting larger elements right; efficient on nearly sorted data; also O(n^2) worst case but can be O(n) best case. Students should trace through both algorithms step by step, implement them for arrays and ArrayLists, compare their behavior on different inputs, and understand that both are comparison-based sorts. AP exam note: students must trace these algorithms but may not need to write them from scratch. Vocabulary: selection sort, insertion sort, swap, pass, comparison, shift, sorted portion, unsorted portion, time complexity."
+    },
+    {
+      "skill": "7.7 Ethical Issues Around Data Collection",
+      "ref": "IOC-1.B (Unit 7, Topic 7.7)",
+      "prompt": "This topic covers ethical issues around data collection for AP CSA students (CED: IOC-1.B, Unit 7, Topic 7.7). Students should understand the ethical considerations involved in collecting, storing, and using data in computing systems. Key concepts: data collection can invade privacy if done without informed consent; large datasets can reveal sensitive patterns even from anonymized data (re-identification); data breaches expose personal information; algorithms trained on biased data perpetuate and amplify existing biases; the trade-off between data utility and privacy; regulations like GDPR and COPPA attempt to protect users. Students should analyze real-world scenarios involving data ethics, consider who benefits and who is harmed by data collection practices, and understand their responsibilities as future software developers. Connect to ArrayList and array storage: the data structures students learn to manipulate hold real people's information. Vocabulary: privacy, consent, data breach, anonymization, re-identification, bias, surveillance, regulation, GDPR, ethics."
+    }
+  ]
+}

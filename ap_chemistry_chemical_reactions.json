@@ -1,0 +1,51 @@
+{
+  "grade": "AP - Chemistry",
+  "subject": "Chemical Reactions",
+  "skills": [
+    {
+      "skill": "4.1 Introduction for Reactions",
+      "ref": "TRA-1.A (Unit 4, Topic 4.1)",
+      "prompt": "This topic introduces chemical reactions for AP Chemistry students (CED: TRA-1.A, Unit 4, Topic 4.1). Students should understand that chemical reactions involve the rearrangement of atoms through breaking and forming of bonds. A balanced chemical equation represents conservation of mass: atoms of each element are equal on both sides. Students must balance equations by adjusting coefficients (not subscripts) and classify reactions as synthesis, decomposition, single replacement, double replacement, or combustion. Physical evidence of reactions includes color change, gas production, precipitate formation, temperature change, and odor. Students must distinguish chemical changes from physical changes. Connect to stoichiometry, reaction types, and conservation laws. AP exam note: balanced equations are the starting point for nearly all quantitative problems. Vocabulary: reactant, product, coefficient, balanced equation, conservation of mass, synthesis, decomposition, combustion."
+    },
+    {
+      "skill": "4.2 Net Ionic Equations",
+      "ref": "TRA-1.B (Unit 4, Topic 4.2)",
+      "prompt": "This topic covers net ionic equations for AP Chemistry students (CED: TRA-1.B, Unit 4, Topic 4.2). Students should understand the three forms of aqueous reaction equations: molecular (complete formula), complete ionic (all strong electrolytes shown as ions), and net ionic (only species that undergo change, with spectator ions removed). Solubility rules predict which ionic compounds are soluble or insoluble. Strong acids, strong bases, and soluble salts dissociate completely in water. Students must write molecular, complete ionic, and net ionic equations for precipitation, acid-base, and oxidation-reduction reactions. Spectator ions appear unchanged on both sides and are removed. Connect to solubility, electrolyte behavior, and reaction types. AP exam note: writing net ionic equations is a core skill tested in free-response questions. Vocabulary: molecular equation, complete ionic equation, net ionic equation, spectator ion, precipitate, solubility rules, strong electrolyte."
+    },
+    {
+      "skill": "4.3 Representations of Reactions",
+      "ref": "TRA-1.C (Unit 4, Topic 4.3)",
+      "prompt": "This topic covers representations of reactions for AP Chemistry students (CED: TRA-1.C, Unit 4, Topic 4.3). Students should understand that chemical reactions can be represented at three levels: macroscopic (observable changes), particulate (molecular-level diagrams showing atoms and molecules), and symbolic (chemical equations). Particulate diagrams must show conservation of atoms, correct molecular formulas, and appropriate phase representations. Students must translate between these three representations and identify discrepancies. Balanced equations convey mole ratios, physical states (s, l, g, aq), and energy changes. Students must interpret and draw particulate diagrams for reactions and connect them to balanced equations. Connect to stoichiometry, reaction types, and laboratory observations. AP exam note: particulate diagram interpretation is heavily emphasized. Vocabulary: macroscopic, particulate, symbolic, balanced equation, conservation of atoms, phase notation, mole ratio."
+    },
+    {
+      "skill": "4.4 Physical and Chemical Changes",
+      "ref": "TRA-1.D (Unit 4, Topic 4.4)",
+      "prompt": "This topic covers physical and chemical changes for AP Chemistry students (CED: TRA-1.D, Unit 4, Topic 4.4). Students should understand that physical changes alter the form or state of matter without changing its chemical identity (phase changes, dissolving, mixing). Chemical changes produce new substances with different properties through bond breaking and formation. Evidence of chemical change includes energy changes, gas production, precipitate formation, color changes, and irreversibility. At the particulate level, physical changes rearrange particles without altering their composition, while chemical changes rearrange atoms into new combinations. Students must distinguish between physical and chemical changes and support their reasoning with evidence. Connect to conservation of mass, phase diagrams, and thermochemistry. AP exam note: distinguishing physical from chemical changes at the particulate level is tested. Vocabulary: physical change, chemical change, phase change, conservation of mass, dissolving, bond breaking, bond formation."
+    },
+    {
+      "skill": "4.5 Stoichiometry",
+      "ref": "SPQ-4.A (Unit 4, Topic 4.5)",
+      "prompt": "This topic covers stoichiometry for AP Chemistry students (CED: SPQ-4.A, Unit 4, Topic 4.5). Students should understand that stoichiometry uses mole ratios from balanced chemical equations to relate amounts of reactants and products. Key concepts: converting between mass, moles, and particles using molar mass and Avogadro's number; using coefficients as mole ratios; identifying limiting and excess reagents; calculating theoretical yield, actual yield, and percent yield. The problem-solving sequence: balanced equation, then mole ratio, then moles of desired substance, then convert to requested units. Students must be able to balance equations and recognize that conservation of mass underlies all stoichiometric calculations. Connect to gas stoichiometry (using PV=nRT) and solution stoichiometry (using molarity M=mol/L). AP exam note: stoichiometry appears in both multiple-choice calculations and free-response experimental design questions. Vocabulary: stoichiometry, mole ratio, limiting reagent, excess reagent, theoretical yield, percent yield, molar mass, Avogadro's number."
+    },
+    {
+      "skill": "4.6 Introduction to Titration",
+      "ref": "SPQ-4.B (Unit 4, Topic 4.6)",
+      "prompt": "This topic covers titration for AP Chemistry students (CED: SPQ-4.B, Unit 4, Topic 4.6). Students should understand that titration is a technique for determining the concentration of an unknown solution by reacting it with a solution of known concentration (standard solution). At the equivalence point, moles of acid equal moles of base (for a 1:1 reaction) according to stoichiometry. Indicators change color near the equivalence point, and the endpoint is when the indicator changes. Students must perform titration calculations using M1V1 relationships adjusted for stoichiometric ratios, and distinguish between equivalence point and endpoint. Connect to acid-base reactions, stoichiometry, and laboratory techniques. AP exam note: titration calculations and interpretation of titration curves appear in later units. Vocabulary: titration, titrant, analyte, equivalence point, endpoint, indicator, standard solution, buret."
+    },
+    {
+      "skill": "4.7 Types of Chemical Reactions",
+      "ref": "TRA-2.A (Unit 4, Topic 4.7)",
+      "prompt": "This topic covers types of chemical reactions for AP Chemistry students (CED: TRA-2.A, Unit 4, Topic 4.7). Students should understand the main categories: synthesis (A + B -> AB), decomposition (AB -> A + B), single replacement (A + BC -> AC + B, governed by activity series), double replacement (AB + CD -> AD + CB, including precipitation and neutralization), and combustion (hydrocarbon + O2 -> CO2 + H2O). The activity series predicts whether single replacement reactions occur. Driving forces for double replacement include precipitate formation, water formation, or gas production. Students must predict products and determine if a reaction will occur. Connect to solubility rules, acid-base chemistry, and redox reactions. AP exam note: predicting products and reaction types is a key analytical skill. Vocabulary: synthesis, decomposition, single replacement, double replacement, combustion, activity series, driving force, precipitate."
+    },
+    {
+      "skill": "4.8 Introduction to Acid-Base Reactions",
+      "ref": "TRA-2.B (Unit 4, Topic 4.8)",
+      "prompt": "This topic introduces acid-base reactions for AP Chemistry students (CED: TRA-2.B, Unit 4, Topic 4.8). Students should understand that Arrhenius acids produce H+ in water and bases produce OH-. Bronsted-Lowry theory expands this: acids donate protons and bases accept protons. In a neutralization reaction, acid + base produce salt + water. Strong acids (HCl, HNO3, H2SO4, HBr, HI, HClO4) and strong bases (Group 1 and 2 hydroxides) completely dissociate. Conjugate acid-base pairs differ by one proton. Students must identify acids, bases, and conjugate pairs, write neutralization equations, and predict products. Connect to pH, buffer chemistry, and titration. AP exam note: identifying Bronsted-Lowry pairs and writing acid-base reactions are foundational for Units 8 and beyond. Vocabulary: Arrhenius acid/base, Bronsted-Lowry acid/base, conjugate pair, neutralization, proton donor, proton acceptor, strong acid, strong base."
+    },
+    {
+      "skill": "4.9 Oxidation-Reduction (Redox) Reactions",
+      "ref": "TRA-2.C (Unit 4, Topic 4.9)",
+      "prompt": "This topic covers oxidation-reduction reactions for AP Chemistry students (CED: TRA-2.C, Unit 4, Topic 4.9). Students should understand that redox reactions involve the transfer of electrons between species. Oxidation is loss of electrons (increase in oxidation number); reduction is gain of electrons (decrease in oxidation number). OIL RIG: Oxidation Is Loss, Reduction Is Gain. The oxidizing agent is reduced; the reducing agent is oxidized. Students must assign oxidation numbers using rules (elements = 0, monatomic ions = charge, O = -2, H = +1 in most compounds), identify what is oxidized and reduced, and balance simple redox equations. Connect to electrochemistry, activity series, and energy production. AP exam note: identifying oxidation and reduction and assigning oxidation states are tested skills. Vocabulary: oxidation, reduction, oxidizing agent, reducing agent, oxidation number, electron transfer, half-reaction, redox."
+    }
+  ]
+}

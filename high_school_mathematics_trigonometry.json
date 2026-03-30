@@ -1,0 +1,162 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Trigonometry",
+  "skills": [
+    {
+      "skill": "Trigonometric Ratios (Sine, Cosine, Tangent)",
+      "teks": "P.4(E)",
+      "teks_description": "Determine the value of trigonometric ratios of angles and solve problems involving trigonometric ratios",
+      "prompt": "This topic covers trigonometric ratios for Trigonometry students (TEKS P.4E). Students should determine values of sine, cosine, and tangent for any angle and solve problems using these ratios. Key definitions: sin(theta) = opposite/hypotenuse, cos(theta) = adjacent/hypotenuse, tan(theta) = opposite/adjacent (SOH-CAH-TOA) for right triangles, extended to all angles via the unit circle. Key concepts: evaluating trig functions for standard angles, using reference angles, reciprocal functions (csc, sec, cot), and solving for unknown sides or angles. Vocabulary: sine, cosine, tangent, cosecant, secant, cotangent, reference angle, quadrant. Common errors: mislabeling opposite and adjacent sides, calculator degree/radian mode confusion, and not considering the correct quadrant for the angle."
+    },
+    {
+      "skill": "Unit Circle",
+      "teks": "P.4(A)",
+      "teks_description": "Determine the relationship between the unit circle and the definition of a periodic function",
+      "prompt": "This topic covers the unit circle and trigonometric functions for Trigonometry students (TEKS P.4A). Students should understand that the unit circle (radius = 1, centered at origin) defines sine and cosine for all real angles, not just acute angles in right triangles. Key concepts: coordinates on the unit circle give (cos theta, sin theta), reference angles, quadrant signs (All Students Take Calculus mnemonic), special angles (0, 30, 45, 60, 90 degrees and their radian equivalents), and periodicity. Students should convert between degrees and radians (multiply by pi/180 or 180/pi). Tangent is defined as sin/cos. Vocabulary: unit circle, radian, reference angle, quadrantal angle, terminal side, standard position, coterminal angles, periodic. Common errors: confusing radian and degree mode, sign errors in quadrants II-IV, and misidentifying reference angles."
+    },
+    {
+      "skill": "Graphs of Trigonometric Functions",
+      "teks": "P.2(G)",
+      "teks_description": "Graph functions including sine, cosine, rational, polynomial, and power functions and their transformations",
+      "prompt": "This topic covers graphing all six trigonometric functions for Trigonometry students (TEKS P.2G). Students should graph sine, cosine, tangent, cotangent, secant, and cosecant, identifying key features. Key concepts: amplitude (|A|) and period (2pi/B for sin/cos, pi/B for tan/cot), vertical asymptotes for tan, cot, sec, csc, phase shifts, vertical shifts, and plotting key points per cycle. Students should graph at least two full periods showing maxima, minima, zeros, and asymptotes. Vocabulary: amplitude, period, frequency, phase shift, vertical shift, midline, asymptote, sinusoidal curve. Common errors: incorrect period calculation, misplacing asymptotes for tangent and cotangent, and confusing amplitude with range for shifted functions."
+    },
+    {
+      "skill": "Trigonometric Identities",
+      "teks": "P.5(M)",
+      "teks_description": "Use trigonometric identities: reciprocal, quotient, Pythagorean, cofunctions, even/odd, sum and difference",
+      "prompt": "This topic covers fundamental trigonometric identities for Trigonometry students (TEKS P.5M). Students should verify and apply: reciprocal identities (csc = 1/sin, sec = 1/cos, cot = 1/tan), quotient identities (tan = sin/cos, cot = cos/sin), Pythagorean identities (sin^2+cos^2 = 1, 1+tan^2 = sec^2, 1+cot^2 = csc^2), cofunction identities, and even/odd identities (cos(-x) = cos(x), sin(-x) = -sin(x)). Key concepts: proving identities by transforming one side, strategic substitutions, factoring, and combining fractions. Vocabulary: identity, reciprocal, quotient, Pythagorean identity, cofunction, even function, odd function. Common errors: treating identities as equations, working both sides simultaneously, and algebraic manipulation mistakes."
+    },
+    {
+      "skill": "Inverse Trigonometric Functions",
+      "teks": "P.2(H)",
+      "teks_description": "Graph arcsin x and arccos x and describe the limitations on the domain",
+      "prompt": "This topic covers arcsin, arccos, and arctan for Trigonometry students (TEKS P.2H). Students should graph inverse trig functions and understand domain restrictions needed for invertibility. Key concepts: sin^(-1)(x) has domain [-1,1] and range [-pi/2, pi/2]; cos^(-1)(x) has domain [-1,1] and range [0, pi]; tan^(-1)(x) has domain all reals and range (-pi/2, pi/2). Students should evaluate compositions like sin(arccos(3/5)) and understand why restrictions are necessary. Vocabulary: inverse function, arcsine, arccosine, arctangent, restricted domain, principal value. Common errors: confusing sin^(-1)(x) with 1/sin(x), giving answers outside principal value range, and domain errors."
+    },
+    {
+      "skill": "Solving Trigonometric Equations",
+      "teks": "P.5(N)",
+      "teks_description": "Generate and solve trigonometric equations in mathematical and real-world problems",
+      "prompt": "This topic covers solving equations involving trigonometric functions for Trigonometry students (TEKS P.5N). Students should solve equations like 2sin(x) - 1 = 0 by isolating the trig function, finding reference angles, and determining all solutions within a given interval or using general solutions with period multiples. Key concepts: using inverse trig functions, finding solutions in all relevant quadrants, general solution notation (x = a + 2kpi), factoring trig equations, and using identities to simplify before solving. Vocabulary: general solution, particular solution, reference angle, quadrant, period, identity. Common errors: finding only one solution instead of all, not using identities to simplify, and losing solutions when dividing by trig functions."
+    },
+    {
+      "skill": "Law of Sines and Law of Cosines",
+      "teks": "P.4(G)",
+      "teks_description": "Use the Law of Sines in mathematical and real-world problems; P.4(H) Law of Cosines",
+      "prompt": "This topic covers solving oblique (non-right) triangles for Trigonometry students (TEKS P.4G, P.4H). Law of Sines: a/sin(A) = b/sin(B) = c/sin(C). Law of Cosines: c^2 = a^2 + b^2 - 2ab*cos(C). Key concepts: when to use each law (Sines for AAS, ASA, SSA; Cosines for SAS, SSS), the ambiguous case (SSA may yield 0, 1, or 2 triangles), and finding area with A = (1/2)ab*sin(C). Vocabulary: oblique triangle, ambiguous case, included angle, solving a triangle, Law of Sines, Law of Cosines. Applications: surveying, navigation, indirect measurement. Common errors: forgetting the ambiguous case, using the wrong law, and calculator mode errors."
+    },
+    {
+      "skill": "Radian and Degree Measure",
+      "teks": "P.4(B)",
+      "teks_description": "Describe the relationship between degree and radian measure on the unit circle",
+      "prompt": "This topic covers angle measurement systems for Trigonometry students (TEKS P.4B). Students should convert between degrees and radians: radians = degrees * pi/180, degrees = radians * 180/pi. Key concepts: one radian is the angle subtended by an arc equal in length to the radius; a full circle = 2pi radians = 360 degrees; common radian values (pi/6, pi/4, pi/3, pi/2, pi, etc.); arc length s = r*theta (theta in radians); sector area A = (1/2)r^2*theta. Vocabulary: radian, degree, arc length, sector area, central angle, subtend, unit circle. Common errors: forgetting to use radians in arc length/sector area formulas, incorrect conversions, and mixing radian and degree values in calculations."
+    },
+    {
+      "skill": "Trigonometric Applications (Solving Triangles)",
+      "teks": "P.4(F)",
+      "teks_description": "Use trigonometry in mathematical and real-world problems, including directional bearing",
+      "prompt": "This topic covers real-world applications of trigonometry for Trigonometry students (TEKS P.4F). Students should use trig ratios, Law of Sines, and Law of Cosines to solve problems involving angles of elevation and depression, directional bearing, navigation, and indirect measurement. Key concepts: drawing diagrams from word descriptions, identifying right triangles within complex figures, using complementary angle relationships, and applying bearing notation (N30E, S45W). Vocabulary: angle of elevation, angle of depression, bearing, heading, line of sight, indirect measurement. Common errors: confusing elevation and depression angles, misinterpreting bearing directions, and not drawing accurate diagrams before solving."
+    },
+    {
+      "skill": "Amplitude, Period, and Phase Shift",
+      "teks": "P.2(G)",
+      "teks_description": "Graph trigonometric functions and their transformations including amplitude, period, and phase shift",
+      "prompt": "This topic covers parameters of sinusoidal functions for Trigonometry students (TEKS P.2G). For y = A*sin(B(x-C))+D: amplitude = |A| (half the vertical distance between max and min), period = 2pi/|B| (horizontal length of one cycle), phase shift = C (horizontal translation), vertical shift = D (midline). Key concepts: determining parameters from equations, writing equations from graphs, and understanding how each parameter transforms the parent function. Vocabulary: amplitude, period, frequency, phase shift, vertical shift, midline, sinusoidal. Common errors: forgetting absolute value for amplitude, incorrect period formula, wrong sign on phase shift, and confusing B with the period itself."
+    },
+    {
+      "skill": "Trigonometric Form of Complex Numbers",
+      "teks": "P.2(F)",
+      "teks_description": "Graph trigonometric and power functions; represent complex numbers in trigonometric form",
+      "prompt": "This topic covers representing complex numbers in trigonometric form for Trigonometry students (TEKS P.2F). Students should convert a + bi to r(cos theta + i*sin theta) where r = sqrt(a^2+b^2) and theta = arctan(b/a), adjusted for quadrant. Key concepts: modulus (r), argument (theta), multiplication in trig form (multiply moduli, add arguments), division (divide moduli, subtract arguments), and connection to polar coordinates. Vocabulary: complex number, modulus, argument, trigonometric form, polar form, rectangular form. Common errors: incorrect quadrant for argument, confusing modulus with absolute value of real part only, and arithmetic errors in conversion."
+    },
+    {
+      "skill": "Polar Coordinates and Graphs",
+      "teks": "P.3(D)",
+      "teks_description": "Graph points in the polar coordinate system and convert between rectangular and polar coordinates",
+      "prompt": "This topic covers the polar coordinate system for Trigonometry students (TEKS P.3D). Students should plot points (r, theta), convert between rectangular and polar coordinates using x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Key concepts: multiple representations of the same point, negative r values, graphing polar equations (circles, cardioids, rose curves, limacons, lemniscates), and converting equations between coordinate systems. Vocabulary: polar coordinates, pole, polar axis, cardioid, rose curve, limacon, lemniscate, spiral. Common errors: incorrect quadrant for theta, confusing (r,theta) plotting with (x,y), and not considering negative r."
+    },
+    {
+      "skill": "Vectors and Their Applications",
+      "teks": "P.4(K)",
+      "teks_description": "Apply vector addition and multiplication of a vector by a scalar in mathematical and real-world problems",
+      "prompt": "This topic covers vector operations and applications for Trigonometry students (TEKS P.4K). Students should add vectors graphically and algebraically, multiply vectors by scalars, find magnitude and direction, and apply vectors to real-world problems. Key concepts: component form <a,b>, magnitude ||v|| = sqrt(a^2+b^2), unit vectors, dot product (u dot v = |u||v|cos theta), and resolving vectors into components. Applications: force decomposition, velocity, displacement, navigation, work. Vocabulary: vector, scalar, magnitude, direction, component, unit vector, dot product, resultant, equilibrium. Common errors: treating vectors as scalars, sign errors in components, and confusing direction angle with reference angle."
+    },
+    {
+      "skill": "Sum and Difference Formulas",
+      "teks": "P.5(M)",
+      "teks_description": "Use sum and difference identities for cosine and sine to simplify trigonometric expressions",
+      "prompt": "This topic covers sum and difference identities for Trigonometry students (TEKS P.5M). Key formulas: sin(A+B) = sin(A)cos(B)+cos(A)sin(B), sin(A-B) = sin(A)cos(B)-cos(A)sin(B), cos(A+B) = cos(A)cos(B)-sin(A)sin(B), cos(A-B) = cos(A)cos(B)+sin(A)sin(B), tan(A+B) = (tan(A)+tan(B))/(1-tan(A)tan(B)). Key concepts: using these to find exact values of non-standard angles (e.g., sin(75) = sin(45+30)), simplifying expressions, and deriving other identities (double angle). Vocabulary: sum formula, difference formula, exact value, identity, derive. Common errors: sign errors in cosine sum/difference, misremembering which signs go where, and incorrect angle decomposition."
+    },
+    {
+      "skill": "Double Angle and Half Angle Identities",
+      "teks": "P.5(M)",
+      "teks_description": "Use trigonometric identities to simplify expressions including double and half angle formulas",
+      "prompt": "This topic covers double angle and half angle formulas for Trigonometry students (TEKS P.5M). Double angle: sin(2A) = 2sin(A)cos(A), cos(2A) = cos^2(A)-sin^2(A) = 2cos^2(A)-1 = 1-2sin^2(A), tan(2A) = 2tan(A)/(1-tan^2(A)). Half angle: sin(A/2) = +/-sqrt((1-cos(A))/2), cos(A/2) = +/-sqrt((1+cos(A))/2). Key concepts: deriving from sum formulas, choosing the correct sign for half angle based on quadrant, solving equations using these identities, and power-reducing formulas. Vocabulary: double angle, half angle, power-reducing formula, identity, quadrant. Common errors: wrong sign choice for half angle, misapplying power-reducing forms, and confusing the three forms of cos(2A)."
+    },
+    {
+      "skill": "Product-to-Sum and Sum-to-Product Identities",
+      "teks": "P.5(M)",
+      "teks_description": "Use trigonometric identities including product-to-sum and sum-to-product formulas",
+      "prompt": "This topic covers product-to-sum and sum-to-product conversion formulas for Trigonometry students (TEKS P.5M). Product-to-sum: sin(A)cos(B) = (1/2)[sin(A+B)+sin(A-B)], cos(A)cos(B) = (1/2)[cos(A-B)+cos(A+B)], sin(A)sin(B) = (1/2)[cos(A-B)-cos(A+B)]. Sum-to-product: sin(A)+sin(B) = 2sin((A+B)/2)cos((A-B)/2). Key concepts: simplifying products of trig functions into sums (useful in calculus integration), combining sums into products for solving equations, and applications in signal processing. Vocabulary: product-to-sum, sum-to-product, identity, simplify. Common errors: misremembering formulas, sign errors, and misidentifying when to use each direction of conversion."
+    },
+    {
+      "skill": "Trigonometric Equations and Inequalities",
+      "teks": "P.5(N)",
+      "teks_description": "Generate and solve trigonometric equations in mathematical and real-world problems",
+      "prompt": "This topic covers solving trigonometric equations and inequalities for Trigonometry students (TEKS P.5N). Students should solve equations involving single and multiple trig functions, apply identities to reduce complexity, handle equations with multiple angles (e.g., sin(2x) = 1/2), and solve trig inequalities on specified intervals. Key concepts: general solutions using periodicity, substitution techniques for multiple-angle equations, factoring trig expressions, and graphical methods for inequalities. Vocabulary: trigonometric equation, general solution, particular solution, inequality, interval, period. Common errors: losing solutions by dividing by trig functions instead of factoring, not finding all solutions in the interval, and domain errors."
+    },
+    {
+      "skill": "Angular Velocity and Linear Velocity",
+      "teks": "P.4(D)",
+      "teks_description": "Represent angles in radians or degrees for problems including linear and angular velocity",
+      "prompt": "This topic covers angular and linear velocity for Trigonometry students (TEKS P.4D). Students should relate angular velocity (omega = theta/t, in radians per unit time) to linear velocity (v = r*omega). Key concepts: distinguishing between angular measure (radians) and linear measure (arc length), converting RPM to radians per second, relating the velocities of gears or wheels of different radii, and applications to rotating machinery, satellites, and planetary motion. Vocabulary: angular velocity, linear velocity, radian, revolution, RPM, arc length, radius, period. Common errors: forgetting to convert degrees to radians, mixing up angular and linear velocity formulas, and unit conversion mistakes."
+    },
+    {
+      "skill": "Harmonic Motion",
+      "teks": "P.2(O)",
+      "teks_description": "Develop and use a sinusoidal function that models harmonic motion situations",
+      "prompt": "This topic covers simple harmonic motion modeling for Trigonometry students (TEKS P.2O). Students should model oscillating systems using d(t) = A*sin(omega*t + phi) or d(t) = A*cos(omega*t + phi). Key concepts: amplitude (maximum displacement), angular frequency (omega = 2pi/period), phase angle (initial condition), equilibrium position, and the relationship between period and frequency (f = 1/T). Applications: springs, pendulums, sound waves, electrical circuits. Vocabulary: simple harmonic motion, amplitude, period, frequency, angular frequency, phase angle, equilibrium, oscillation, damping. Common errors: confusing frequency and period, incorrect phase angle determination from initial conditions, and not using radians consistently."
+    },
+    {
+      "skill": "Circular Functions and Their Applications",
+      "teks": "P.4(A)",
+      "teks_description": "Determine relationship between unit circle and periodic function to evaluate trigonometric functions",
+      "prompt": "This topic covers circular (wrapping) function interpretation for Trigonometry students (TEKS P.4A). Students should understand how the unit circle defines sin and cos as functions of real numbers (not just angles), wrapping the real number line around the circle. Key concepts: the wrapping function, domain of circular functions (all reals for sin/cos), range [-1,1], periodicity (sin and cos have period 2pi, tan has period pi), and evaluating trig functions for any real input. Vocabulary: circular function, wrapping function, periodic, period, domain, range, unit circle. Applications: modeling cyclic phenomena. Common errors: restricting trig functions to acute angles only, not recognizing periodicity patterns, and confusing circular and right-triangle definitions."
+    },
+    {
+      "skill": "De Moivre's Theorem",
+      "teks": "P.5(F)",
+      "teks_description": "Apply the Binomial Theorem for expansion of (a+b)^n in powers of a and b",
+      "prompt": "This topic covers De Moivre's Theorem and its applications for Trigonometry students (TEKS P.5F). The theorem states [r(cos theta + i*sin theta)]^n = r^n(cos(n*theta) + i*sin(n*theta)). Key concepts: raising complex numbers to integer powers, finding nth roots of complex numbers (n distinct roots equally spaced around a circle), roots of unity, and connection to the Binomial Theorem. Students should find all nth roots: r^(1/n)[cos((theta+2kpi)/n) + i*sin((theta+2kpi)/n)] for k = 0, 1, ..., n-1. Vocabulary: De Moivre's Theorem, nth root, root of unity, polar form, argument, modulus. Common errors: forgetting all n roots, incorrect angle division, and arithmetic errors with complex polar multiplication."
+    },
+    {
+      "skill": "Graphical Transformations of Trigonometric Functions",
+      "teks": "P.2(G)",
+      "teks_description": "Graph functions and their transformations including translations, reflections, and stretches",
+      "prompt": "This topic covers transformations applied to trigonometric function graphs for Trigonometry students (TEKS P.2G). Students should apply translations (horizontal and vertical shifts), reflections (over x-axis and y-axis), and stretches/compressions (vertical amplitude changes and horizontal period changes) to sin, cos, tan, and their reciprocals. Key concepts: writing equations from transformed graphs, identifying transformations from equations, combining multiple transformations, and understanding order of operations for transformations. Vocabulary: transformation, translation, reflection, stretch, compression, amplitude, period, phase shift, midline. Common errors: incorrect horizontal shift direction, applying vertical transformations to period, and order-of-transformation mistakes."
+    },
+    {
+      "skill": "Trigonometric Modeling",
+      "teks": "P.2(O)",
+      "teks_description": "Develop and use a sinusoidal function that models a situation in real-world problems",
+      "prompt": "This topic covers using sinusoidal functions to model real-world periodic phenomena for Trigonometry students (TEKS P.2O). Students should build models from data by determining amplitude (half the difference of max and min), vertical shift (average of max and min), period (time for one full cycle), and phase shift (alignment to start of cycle). Applications: tides, temperature, Ferris wheels, daylight hours, sound, electricity. Vocabulary: sinusoidal model, amplitude, period, phase shift, midline, fit, regression. Students should evaluate model accuracy and use models for prediction. Common errors: misidentifying period from data, confusing amplitude with maximum value, and incorrect B calculation (B = 2pi/period)."
+    },
+    {
+      "skill": "Trigonometric Limits and Precalculus Concepts",
+      "teks": "P.2(L)",
+      "teks_description": "Determine various types of discontinuities as they relate to functions including trigonometric",
+      "prompt": "This topic covers limits involving trigonometric functions for Trigonometry students (TEKS P.2L). Students should evaluate special trig limits: lim(x->0) sin(x)/x = 1 and lim(x->0) (1-cos(x))/x = 0, identify discontinuities in trig functions (vertical asymptotes of tan, cot, sec, csc), and understand continuity of sin and cos on all reals. Key concepts: squeeze theorem intuition, behavior near asymptotes, one-sided limits, and connecting limit concepts to derivative preparation. Vocabulary: limit, continuity, discontinuity, asymptote, squeeze theorem, indeterminate form. Common errors: evaluating sin(x)/x at x=0 directly, not recognizing indeterminate forms, and mislocating asymptotes."
+    },
+    {
+      "skill": "Solving Right and Oblique Triangles",
+      "teks": "P.4(G)",
+      "teks_description": "Use the Law of Sines and Law of Cosines to solve oblique triangles",
+      "prompt": "This topic covers comprehensive triangle solving for Trigonometry students (TEKS P.4G). Students should solve right triangles using SOH-CAH-TOA and the Pythagorean theorem, and oblique triangles using Law of Sines and Law of Cosines. Key concepts: choosing the appropriate method based on given information (AAS, ASA, SSA, SAS, SSS), the ambiguous case for SSA, finding all unknown sides and angles, and computing area. Vocabulary: right triangle, oblique triangle, solve a triangle, ambiguous case, angle of elevation, angle of depression. Applications: surveying, navigation, engineering. Common errors: using right-triangle methods on non-right triangles, forgetting the ambiguous case, and not finding all solutions."
+    },
+    {
+      "skill": "Polar Form of Complex Numbers",
+      "teks": "P.3(E)",
+      "teks_description": "Graph polar equations by plotting points and using technology",
+      "prompt": "This topic covers graphing polar equations and complex number representations for Trigonometry students (TEKS P.3E). Students should graph polar equations using technology and by plotting points, convert complex numbers between rectangular (a+bi) and polar (r*cis(theta)) forms, and perform operations in polar form. Key concepts: graphing rose curves (r = a*cos(n*theta)), limacons, cardioids, lemniscates, and spirals; symmetry tests for polar graphs; and multiplying/dividing complex numbers in polar form. Vocabulary: polar equation, polar graph, cis notation, symmetry, rose curve, limacon, cardioid, lemniscate. Common errors: incorrect symmetry analysis, missing petals in rose curves, and confusing multiplication rules in polar form."
+    }
+  ]
+}

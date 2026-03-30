@@ -1,0 +1,91 @@
+{
+  "grade": "High School - Geometry",
+  "subject": "Geometry - Probability",
+  "skills": [
+    {
+      "skill": "Permutations and combinations - develop strategies to use permutations and combinations to solve contextual problems;",
+      "teks": "G.13(A)",
+      "prompt": "This topic covers permutations and combinations (develop strategies to use permutations and combinations to solve contextual problems;) for Geometry students (TEKS G.13(A)). Permutations (nPr) count arrangements where order matters; combinations (nCr) count selections where order does not matter. Key vocabulary includes: combination, counting principle, factorial, nCr, nPr, permutation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Permutations and combinations - Permutations",
+      "teks": "G.13(A)",
+      "prompt": "This topic covers permutations and combinations (permutations) for Geometry students (TEKS G.13(A)). Permutations (nPr) count arrangements where order matters; combinations (nCr) count selections where order does not matter. Key vocabulary includes: combination, counting principle, factorial, nCr, nPr, permutation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Permutations and combinations - Permutation and combination notation",
+      "teks": "G.13(A)",
+      "prompt": "This topic covers permutations and combinations (permutation and combination notation) for Geometry students (TEKS G.13(A)). Permutations (nPr) count arrangements where order matters; combinations (nCr) count selections where order does not matter. Key vocabulary includes: combination, counting principle, factorial, nCr, nPr, permutation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Permutations and combinations - Find probabilities using combinations and permutations",
+      "teks": "G.13(A)",
+      "prompt": "This topic covers permutations and combinations (find probabilities using combinations and permutations) for Geometry students (TEKS G.13(A)). Permutations (nPr) count arrangements where order matters; combinations (nCr) count selections where order does not matter. Key vocabulary includes: combination, counting principle, factorial, nCr, nPr, permutation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Area probability - determine probabilities based on area to solve contextual problems;",
+      "teks": "G.13(B)",
+      "prompt": "This topic covers geometric probability using area for Geometry students (TEKS G.13(B)). P(event) = favorable area / total area. Students find probabilities by computing area ratios. Applies to dart boards, random point selection, and shaded regions. Key vocabulary: geometric probability, area ratio, favorable, total, random. Common errors: computing areas incorrectly, not using the correct regions, and confusing area with perimeter."
+    },
+    {
+      "skill": "Area probability - Geometric probability",
+      "teks": "G.13(B)",
+      "prompt": "This topic covers area probability (geometric probability) for Geometry students (TEKS G.13(B)). Geometric probability uses area ratios: P = favorable area / total area. Key vocabulary includes: event, outcome, probability, sample space. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Independent events - identify whether two events are independent and compute the probability of the two events occurring together with or without replacement;",
+      "teks": "G.13(C)",
+      "prompt": "This topic covers independent events (identify whether two events are independent and compute the probability of the two events occurring together with or without replacement;) for Geometry students (TEKS G.13(C)). Independent events: P(A and B) = P(A)*P(B). With replacement maintains independence; without replacement creates dependence. Key vocabulary includes: event, outcome, probability, sample space. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Independent events - Identify independent and dependent events",
+      "teks": "G.13(C)",
+      "prompt": "This topic covers identifying independent and dependent events for Geometry students (TEKS G.13(C)). Independent: one event does not affect the other's probability. Dependent: one event changes the probability of the other. With replacement = independent; without replacement = dependent. Key vocabulary: independent, dependent, with replacement, without replacement. Common errors: assuming events are always independent, and confusing the two types."
+    },
+    {
+      "skill": "Independent events - Probability of independent and dependent events",
+      "teks": "G.13(C)",
+      "prompt": "This topic covers independent events (probability of independent and dependent events) for Geometry students (TEKS G.13(C)). Independent events: P(A and B) = P(A)*P(B). With replacement maintains independence; without replacement creates dependence. Key vocabulary includes: event, outcome, probability, sample space. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Independent events - Identify independent events",
+      "teks": "G.13(C)",
+      "prompt": "This topic covers identifying independent events for Geometry students (TEKS G.13(C)). Two events are independent if P(A and B) = P(A)*P(B). Students verify independence algebraically or contextually. Key vocabulary: independent events, probability, product rule, verify. Common errors: assuming independence without checking, and confusing with mutually exclusive."
+    },
+    {
+      "skill": "Conditional probability - apply conditional probability in contextual problems;",
+      "teks": "G.13(D)",
+      "prompt": "This topic covers conditional probability (apply conditional probability in contextual problems;) for Geometry students (TEKS G.13(D)). Conditional probability P(A|B) = P(A and B)/P(B). Two-way frequency tables organize data for computing conditional probabilities. Key vocabulary includes: event, outcome, probability, sample space. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional probability - Find conditional probabilities",
+      "teks": "G.13(D)",
+      "prompt": "This topic covers conditional probability (find conditional probabilities) for Geometry students (TEKS G.13(D)). Conditional probability P(A|B) = P(A and B)/P(B). Two-way frequency tables organize data for computing conditional probabilities. Key vocabulary includes: event, outcome, probability, sample space. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional probability - Find conditional probabilities using two-way frequency tables",
+      "teks": "G.13(D)",
+      "prompt": "This topic covers conditional probability (find conditional probabilities using two-way frequency tables) for Geometry students (TEKS G.13(D)). Conditional probability P(A|B) = P(A and B)/P(B). Two-way frequency tables organize data for computing conditional probabilities. Key vocabulary includes: event, outcome, probability, sample space. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Independence - apply independence in contextual problems.",
+      "teks": "G.13(E)",
+      "prompt": "This topic covers applying independence concepts in contextual problems for Geometry students (TEKS G.13(E)). Students determine independence in real-world scenarios and compute compound probabilities accordingly. For independent events: P(A and B)=P(A)*P(B). Key vocabulary: independence, contextual, compound probability, product rule. Common errors: assuming independence when events are actually dependent."
+    },
+    {
+      "skill": "Independence - Identify independent events",
+      "teks": "G.13(E)",
+      "prompt": "This topic covers identifying independent events in context for Geometry students (TEKS G.13(E)). Students analyze whether knowledge of one event's outcome affects the probability of another. Test: does P(A|B)=P(A)? If yes, A and B are independent. Key vocabulary: independent, conditional probability, test for independence. Common errors: confusing independent with mutually exclusive, and not testing the condition properly."
+    },
+    {
+      "skill": "Independence - Independence and conditional probability",
+      "teks": "G.13(E)",
+      "prompt": "This topic covers independence (independence and conditional probability) for Geometry students (TEKS G.13(E)). Conditional probability P(A|B) = P(A and B)/P(B). Two-way frequency tables organize data for computing conditional probabilities. Key vocabulary includes: event, outcome, probability, sample space. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Independence - Checkpoint: Probability",
+      "teks": "G.13(E)",
+      "prompt": "This is a checkpoint assessment covering independence for Geometry students (TEKS G.13(E)). Students demonstrate comprehensive mastery of the unit's concepts by applying key definitions, formulas, and procedures to varied problems. They show clear mathematical reasoning, use precise vocabulary, and verify their answers. This assessment identifies areas needing additional practice and consolidates understanding of essential skills in probability."
+    }
+  ]
+}

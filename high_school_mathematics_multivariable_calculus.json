@@ -1,0 +1,168 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Multivariable Calculus",
+  "skills": [
+    {
+      "skill": "Vectors and Vector-Valued Functions",
+      "teks": "College.MVC.1",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.4(I) vectors and P.3(A) parametric equations",
+      "prompt": "This topic covers vectors in 2D and 3D and vector-valued functions for Multivariable Calculus students (College.MVC.1). Students should work with vectors in R^2 and R^3: addition, scalar multiplication, dot product, cross product, and vector-valued functions r(t) = <f(t), g(t), h(t)>. Key concepts: magnitude, unit vectors, direction cosines, parametric curves in space, velocity and acceleration vectors, derivatives and integrals of vector functions, arc length parameterization. Vocabulary: vector-valued function, dot product, cross product, parametric curve, tangent vector, velocity, acceleration, arc length parameterization. Common errors: cross product order matters (non-commutative), confusing dot and cross product, and forgetting vector function derivatives are component-wise."
+    },
+    {
+      "skill": "Multivariable Functions and Their Graphs",
+      "teks": "College.MVC.2",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.2(F) graphing multiple function types",
+      "prompt": "This topic covers functions of two or more variables for Multivariable Calculus students (College.MVC.2). Students should graph surfaces in 3D using level curves (contour maps), traces (cross-sections with coordinate planes), and technology. Key surfaces: planes, spheres, cylinders, cones, paraboloids, hyperboloids, and ellipsoids. Key concepts: domain as a region in R^2 or R^3, range as subset of R, level curves f(x,y) = c, and level surfaces f(x,y,z) = c. Vocabulary: multivariable function, level curve, contour map, trace, surface, domain, range, quadric surface. Common errors: misinterpreting level curves, confusing function value with distance, and sketching 3D surfaces incorrectly."
+    },
+    {
+      "skill": "Partial Derivatives and Gradient Vectors",
+      "teks": "College.MVC.3",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.2(I) analyzing key features of functions",
+      "prompt": "This topic covers partial differentiation for Multivariable Calculus students (College.MVC.3). Students should compute partial derivatives f_x and f_y by differentiating with respect to one variable while holding others constant, compute higher-order partials (f_xx, f_xy, f_yy), and form the gradient vector nabla f = <f_x, f_y, f_z>. Key concepts: gradient points in direction of steepest ascent, Clairaut's theorem (f_xy = f_yx for continuous second partials), and the gradient's magnitude gives the maximum rate of change. Vocabulary: partial derivative, gradient, nabla, mixed partial, Clairaut's theorem, rate of change, steepest ascent. Common errors: not treating other variables as constants, mixed partial order errors, and misinterpreting gradient direction."
+    },
+    {
+      "skill": "Multiple Integration (Double and Triple Integrals)",
+      "teks": "College.MVC.4",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.5(A) evaluating finite sums",
+      "prompt": "This topic covers iterated integration for Multivariable Calculus students (College.MVC.4). Students should evaluate double integrals over rectangular and non-rectangular regions using iterated integration, choose appropriate order of integration, and extend to triple integrals. Key concepts: Fubini's theorem, Type I and Type II regions, setting up integration bounds from region descriptions, and applications (area, volume, average value). Vocabulary: double integral, triple integral, iterated integral, Fubini's theorem, region of integration, order of integration, Type I/II region. Common errors: incorrect integration bounds, wrong order of integration, and not sketching the region before setting up integrals."
+    },
+    {
+      "skill": "Line Integrals and Surface Integrals",
+      "teks": "College.MVC.5",
+      "teks_description": "College-level: Extends beyond HS TEKS; advanced calculus topic",
+      "prompt": "This topic covers integration along curves and over surfaces for Multivariable Calculus students (College.MVC.5). Students should evaluate scalar line integrals (integral of f ds along curve C), vector line integrals (integral of F dot dr for work), scalar surface integrals (integral of f dS), and vector surface integrals (flux). Key concepts: parameterizing curves and surfaces, ds = ||r'(t)|| dt, work = integral F dot dr, flux = integral F dot n dS, and orientation. Vocabulary: line integral, surface integral, work, flux, parameterization, orientation, scalar field, vector field. Common errors: incorrect parameterization, forgetting the magnitude of r'(t), and orientation sign errors."
+    },
+    {
+      "skill": "Vector Fields and Flows",
+      "teks": "College.MVC.6",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.4(K) vector applications",
+      "prompt": "This topic covers vector fields for Multivariable Calculus students (College.MVC.6). Students should sketch and interpret vector fields F(x,y) = <P(x,y), Q(x,y)>, understand flow lines (integral curves), and identify properties like source, sink, and circulation. Key concepts: velocity fields, force fields, gradient fields (conservative), plotting vector fields by evaluating at sample points, and streamlines as tangent to the field at every point. Vocabulary: vector field, flow line, streamline, source, sink, conservative field, gradient field, circulation. Applications: fluid flow, electric/magnetic fields, gravitational fields. Common errors: confusing flow lines with level curves, misidentifying conservative fields, and direction errors in plotting."
+    },
+    {
+      "skill": "Divergence and Curl",
+      "teks": "College.MVC.7",
+      "teks_description": "College-level: Extends beyond HS TEKS; advanced vector calculus",
+      "prompt": "This topic covers differential operators on vector fields for Multivariable Calculus students (College.MVC.7). Divergence: div F = nabla dot F = dP/dx + dQ/dy + dR/dz (scalar output, measures source/sink strength). Curl: curl F = nabla x F (vector output, measures rotation tendency). Key concepts: divergence-free fields (incompressible), curl-free fields (irrotational/conservative), and the relationships curl(grad f) = 0 and div(curl F) = 0. Vocabulary: divergence, curl, irrotational, incompressible, solenoidal, conservative, source, sink, vorticity. Common errors: computing curl with wrong sign pattern, confusing divergence (scalar) and curl (vector), and misinterpreting physical meaning."
+    },
+    {
+      "skill": "Green's Theorem, Stokes' Theorem, and Divergence Theorem",
+      "teks": "College.MVC.8",
+      "teks_description": "College-level: Extends beyond HS TEKS; fundamental theorems of vector calculus",
+      "prompt": "This topic covers the fundamental theorems of vector calculus for Multivariable Calculus students (College.MVC.8). Green's Theorem: relates a line integral around a simple closed curve to a double integral over the enclosed region. Stokes' Theorem: relates a surface integral of curl F to a line integral around the boundary. Divergence Theorem: relates a surface integral of flux to a triple integral of divergence. Key concepts: orientation conventions, when each theorem applies, simplifying calculations by choosing the easier side. Vocabulary: Green's Theorem, Stokes' Theorem, Divergence Theorem, boundary, orientation, closed surface, flux, circulation. Common errors: wrong orientation, applying theorems when hypotheses aren't met, and setup errors."
+    },
+    {
+      "skill": "Parametric Surfaces and Surface Area",
+      "teks": "College.MVC.9",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.3(A) parametric equations",
+      "prompt": "This topic covers parametric representations of surfaces for Multivariable Calculus students (College.MVC.9). A parametric surface is r(u,v) = <x(u,v), y(u,v), z(u,v)>. Surface area = double integral of ||r_u x r_v|| dA. Key concepts: parameterizing common surfaces (spheres, cylinders, cones, graphs z = f(x,y)), tangent planes from r_u x r_v, normal vectors, and computing surface area using the cross product magnitude. Vocabulary: parametric surface, parameter domain, tangent plane, normal vector, surface area element, cross product. Common errors: incorrect parameterization bounds, cross product errors, and forgetting the magnitude when computing surface area."
+    },
+    {
+      "skill": "Coordinate Systems (Cartesian, Cylindrical, Spherical)",
+      "teks": "College.MVC.10",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.3(D) polar coordinates",
+      "prompt": "This topic covers multiple coordinate systems for Multivariable Calculus students (College.MVC.10). Cylindrical: (r, theta, z) where x = r*cos(theta), y = r*sin(theta), z = z; volume element dV = r dr d(theta) dz. Spherical: (rho, phi, theta) where x = rho*sin(phi)*cos(theta), y = rho*sin(phi)*sin(theta), z = rho*cos(phi); volume element dV = rho^2*sin(phi) d(rho) d(phi) d(theta). Key concepts: choosing the best coordinate system based on symmetry, converting between systems, and adjusting integration bounds. Vocabulary: cylindrical, spherical, Cartesian, coordinate transformation, Jacobian, volume element. Common errors: confusing phi and theta conventions, forgetting the Jacobian factors, and incorrect bounds."
+    },
+    {
+      "skill": "Lagrange Multipliers and Optimization",
+      "teks": "College.MVC.11",
+      "teks_description": "College-level: Extends beyond HS TEKS; constrained optimization",
+      "prompt": "This topic covers constrained optimization for Multivariable Calculus students (College.MVC.11). To optimize f(x,y,z) subject to constraint g(x,y,z) = c, solve nabla f = lambda * nabla g and g = c simultaneously. Key concepts: the geometric insight (gradients are parallel at extrema), multiple constraints (two Lagrange multipliers), second-order conditions, comparing critical values to find absolute extrema, and unconstrained optimization using critical points and the Second Derivative Test. Vocabulary: Lagrange multiplier, constraint, optimization, critical point, saddle point, Second Derivative Test, Hessian. Common errors: forgetting the constraint equation, not finding all solutions, and not checking boundary cases."
+    },
+    {
+      "skill": "Chain Rule for Multivariable Functions",
+      "teks": "College.MVC.12",
+      "teks_description": "College-level: Extends beyond HS TEKS; multivariable chain rule",
+      "prompt": "This topic covers the multivariable chain rule for Multivariable Calculus students (College.MVC.12). If z = f(x,y) where x = g(t), y = h(t), then dz/dt = (df/dx)(dx/dt) + (df/dy)(dy/dt). For functions of multiple intermediate variables, use tree diagrams to organize partial derivative chains. Key concepts: tree diagrams for chain rule, implicit differentiation using partial derivatives, and applications to related rates in multiple dimensions. Vocabulary: chain rule, partial derivative, implicit differentiation, tree diagram, intermediate variable, dependent variable. Common errors: missing terms in the chain, confusing partial and total derivatives, and incorrect tree diagram construction."
+    },
+    {
+      "skill": "Directional Derivatives and Tangent Planes",
+      "teks": "College.MVC.13",
+      "teks_description": "College-level: Extends beyond HS TEKS; directional derivatives",
+      "prompt": "This topic covers directional derivatives and tangent plane approximation for Multivariable Calculus students (College.MVC.13). The directional derivative D_u f = nabla f dot u gives the rate of change in direction u (unit vector). The tangent plane to z = f(x,y) at (a,b) is z - f(a,b) = f_x(a,b)(x-a) + f_y(a,b)(y-b). Key concepts: maximum directional derivative equals ||nabla f|| in the gradient direction, linear approximation using the tangent plane, differentials dz = f_x dx + f_y dy, and normal lines to surfaces. Vocabulary: directional derivative, gradient, tangent plane, normal line, linear approximation, differential, total differential. Common errors: using non-unit direction vectors, tangent plane formula errors, and confusing normal to surface with gradient of f(x,y)."
+    },
+    {
+      "skill": "Jacobians and Change of Variables",
+      "teks": "College.MVC.14",
+      "teks_description": "College-level: Extends beyond HS TEKS; coordinate transformations",
+      "prompt": "This topic covers coordinate transformations in integration for Multivariable Calculus students (College.MVC.14). When changing variables in a multiple integral, the Jacobian determinant J = det(d(x,y)/d(u,v)) accounts for how areas/volumes scale. Key formula: double integral of f(x,y) dA = double integral of f(x(u,v), y(u,v)) |J| du dv. Key concepts: computing 2x2 and 3x3 Jacobian determinants, polar, cylindrical, and spherical Jacobians as special cases, and designing custom transformations for specific integrals. Vocabulary: Jacobian, change of variables, coordinate transformation, determinant, mapping, image, preimage. Common errors: forgetting absolute value of Jacobian, computing the inverse Jacobian, and incorrect transformation of integration bounds."
+    },
+    {
+      "skill": "Applications of Multiple Integrals (Volume, Mass, Center of Mass)",
+      "teks": "College.MVC.15",
+      "teks_description": "College-level: Extends beyond HS TEKS; physical applications of integration",
+      "prompt": "This topic covers physical applications of double and triple integrals for Multivariable Calculus students (College.MVC.15). Key applications: volume = triple integral of 1 dV, mass = integral of density rho dV, center of mass coordinates (x-bar = integral of x*rho dV / mass), moments of inertia (I = integral of r^2*rho dV). Key concepts: setting up integrals with variable density, choosing appropriate coordinate systems for the geometry, and computing moments about axes and planes. Vocabulary: volume, mass, density, center of mass, centroid, moment of inertia, moment, lamina, solid. Common errors: incorrect density setup, wrong coordinate system choice, and bounds errors for irregular regions."
+    },
+    {
+      "skill": "Conservative Fields and Potential Functions",
+      "teks": "College.MVC.16",
+      "teks_description": "College-level: Extends beyond HS TEKS; potential theory",
+      "prompt": "This topic covers conservative vector fields for Multivariable Calculus students (College.MVC.16). A vector field F is conservative if F = nabla f for some potential function f, equivalently if curl F = 0 (in simply connected domains). Key concepts: Fundamental Theorem of Line Integrals (integral of nabla f dot dr = f(B) - f(A)), path independence, finding potential functions by integration, and testing for conservativeness. Vocabulary: conservative field, potential function, path independence, exact differential, simply connected, Fundamental Theorem of Line Integrals. Common errors: assuming curl = 0 implies conservative in non-simply connected domains, integration constant errors when finding potential functions, and missing partial derivative checks."
+    },
+    {
+      "skill": "Arc Length and Curvature",
+      "teks": "College.MVC.17",
+      "teks_description": "College-level: Extends beyond HS TEKS; differential geometry",
+      "prompt": "This topic covers arc length and curvature of curves for Multivariable Calculus students (College.MVC.17). Arc length L = integral of ||r'(t)|| dt. Curvature kappa = ||T'(t)|| / ||r'(t)|| = ||r'(t) x r''(t)|| / ||r'(t)||^3. Key concepts: unit tangent vector T = r'/||r'||, unit normal vector N = T'/||T'||, binormal vector B = T x N, Frenet-Serret formulas, radius of curvature R = 1/kappa, osculating circle and plane. Vocabulary: arc length, curvature, unit tangent, unit normal, binormal, Frenet frame, osculating circle, radius of curvature, torsion. Common errors: forgetting to normalize for unit tangent, cross product errors in curvature formula, and confusing curvature with slope."
+    },
+    {
+      "skill": "Improper Integrals in Multiple Dimensions",
+      "teks": "College.MVC.18",
+      "teks_description": "College-level: Extends beyond HS TEKS; convergence of improper integrals",
+      "prompt": "This topic covers convergence of improper multiple integrals for Multivariable Calculus students (College.MVC.18). Students should evaluate double and triple integrals over unbounded regions or with unbounded integrands by taking appropriate limits. Key concepts: comparison tests for convergence, converting to polar/cylindrical/spherical coordinates to simplify improper integrals, iterated limits, and recognizing when symmetry or coordinate changes resolve improper behavior. Vocabulary: improper integral, convergent, divergent, comparison test, unbounded region, unbounded integrand, limit. Common errors: assuming convergence without testing, incorrect limit setup, and not recognizing improper behavior at boundary points."
+    },
+    {
+      "skill": "Differential Equations in Several Variables",
+      "teks": "College.MVC.19",
+      "teks_description": "College-level: Extends beyond HS TEKS; partial differential equations",
+      "prompt": "This topic introduces partial differential equations (PDEs) for Multivariable Calculus students (College.MVC.19). Students should recognize and classify common PDEs: Laplace's equation (nabla^2 u = 0), heat equation (u_t = k*nabla^2 u), and wave equation (u_tt = c^2*nabla^2 u). Key concepts: separation of variables technique, boundary conditions, initial conditions, and the Laplacian operator in different coordinate systems. Vocabulary: partial differential equation, Laplace equation, heat equation, wave equation, Laplacian, separation of variables, boundary condition, initial condition, harmonic function. Common errors: applying ODE techniques directly to PDEs, incorrect separation of variables setup, and mishandling boundary conditions."
+    },
+    {
+      "skill": "Taylor Series for Multivariable Functions",
+      "teks": "College.MVC.20",
+      "teks_description": "College-level: Extends beyond HS TEKS; multivariable Taylor expansions",
+      "prompt": "This topic covers Taylor expansions in multiple variables for Multivariable Calculus students (College.MVC.20). The second-order Taylor expansion of f(x,y) about (a,b): f(a,b) + f_x(a,b)(x-a) + f_y(a,b)(y-b) + (1/2)[f_xx(a,b)(x-a)^2 + 2f_xy(a,b)(x-a)(y-b) + f_yy(a,b)(y-b)^2]. Key concepts: linear approximation (first-order), quadratic approximation (second-order), error estimation, and connection to the Second Derivative Test for classification of critical points. Vocabulary: Taylor expansion, linear approximation, quadratic approximation, Hessian matrix, remainder, order of approximation. Common errors: missing cross-term (2f_xy), incorrect factorial denominators, and not centering the expansion properly."
+    },
+    {
+      "skill": "Gradient, Divergence, and Laplacian Operators",
+      "teks": "College.MVC.21",
+      "teks_description": "College-level: Extends beyond HS TEKS; differential operators",
+      "prompt": "This topic covers differential operators for Multivariable Calculus students (College.MVC.21). Gradient: nabla f = <f_x, f_y, f_z> (scalar to vector). Divergence: nabla dot F = P_x + Q_y + R_z (vector to scalar). Laplacian: nabla^2 f = f_xx + f_yy + f_zz (scalar to scalar). Key concepts: operator algebra (nabla^2 f = div(grad f)), physical interpretations (gradient = direction of steepest increase, divergence = source density, Laplacian = concavity in all directions), and harmonic functions (nabla^2 f = 0). Vocabulary: gradient, divergence, Laplacian, nabla, harmonic function, operator, scalar field, vector field. Common errors: confusing which operators take scalars vs. vectors, and computation errors in higher dimensions."
+    },
+    {
+      "skill": "Differential Forms and Integration",
+      "teks": "College.MVC.22",
+      "teks_description": "College-level: Extends beyond HS TEKS; differential forms theory",
+      "prompt": "This topic covers differential forms for Multivariable Calculus students (College.MVC.22). Students should understand 0-forms (functions), 1-forms (P dx + Q dy + R dz), 2-forms, and 3-forms, and how exterior derivative d unifies gradient, curl, and divergence. Key concepts: wedge product (dx wedge dy = -dy wedge dx), exterior derivative, generalized Stokes' theorem (integral over boundary M of omega = integral over M of d*omega), and how this framework unifies Green's, Stokes', and Divergence theorems. Vocabulary: differential form, exterior derivative, wedge product, closed form, exact form, generalized Stokes' theorem. Common errors: sign errors in wedge products, confusing closed with exact forms, and applying the generalized theorem incorrectly."
+    },
+    {
+      "skill": "Applications to Physics and Engineering",
+      "teks": "College.MVC.23",
+      "teks_description": "College-level: Extends beyond HS TEKS; physical and engineering applications",
+      "prompt": "This topic covers physical and engineering applications of multivariable calculus for Multivariable Calculus students (College.MVC.23). Key applications: gravitational and electromagnetic fields, fluid dynamics (continuity equation, Euler's equation), heat transfer (Fourier's law), work done by variable forces, and center of mass/moments of inertia for 3D objects. Key concepts: using vector calculus to express physical laws (Maxwell's equations, conservation laws), modeling real-world phenomena with multiple integrals, and interpreting mathematical results physically. Vocabulary: flux, circulation, work, potential energy, field, flow rate, conservation law, continuity equation. Common errors: misinterpreting physical units, incorrect coordinate system selection, and sign convention inconsistencies."
+    },
+    {
+      "skill": "Vector Calculus Identities",
+      "teks": "College.MVC.24",
+      "teks_description": "College-level: Extends beyond HS TEKS; vector calculus identities and proofs",
+      "prompt": "This topic covers fundamental identities in vector calculus for Multivariable Calculus students (College.MVC.24). Key identities: curl(grad f) = 0, div(curl F) = 0, div(fF) = f*div(F) + F dot grad(f), curl(fF) = f*curl(F) + grad(f) x F, and the vector Laplacian. Key concepts: proving identities using component calculations, understanding why these identities hold geometrically, and using them to simplify calculations and verify results. Vocabulary: identity, curl, divergence, gradient, Laplacian, product rule, vector identity, proof. Students should be able to verify and apply these identities. Common errors: misremembering product rule analogs, component calculation mistakes, and applying identities to wrong types of fields."
+    },
+    {
+      "skill": "Triple Integrals in Various Coordinate Systems",
+      "teks": "College.MVC.25",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.3(D) coordinate systems",
+      "prompt": "This topic covers evaluating triple integrals using Cartesian, cylindrical, and spherical coordinates for Multivariable Calculus students (College.MVC.25). Students should choose the coordinate system that best matches the region's symmetry. Key volume elements: Cartesian dV = dx dy dz, cylindrical dV = r dr d(theta) dz, spherical dV = rho^2 sin(phi) d(rho) d(phi) d(theta). Key concepts: setting up integration bounds for each system, converting between systems, and recognizing which system simplifies a given problem. Vocabulary: triple integral, cylindrical coordinates, spherical coordinates, volume element, Jacobian, bounds of integration. Common errors: forgetting Jacobian factors (r for cylindrical, rho^2 sin(phi) for spherical), incorrect bound conversion, and mismatching coordinate conventions."
+    },
+    {
+      "skill": "Surface Integrals and Flux",
+      "teks": "College.MVC.26",
+      "teks_description": "College-level: Extends beyond HS TEKS; surface integration and flux",
+      "prompt": "This topic covers surface integrals for Multivariable Calculus students (College.MVC.26). Scalar surface integral: integral of f(x,y,z) dS where dS = ||r_u x r_v|| du dv. Flux integral: integral of F dot dS = integral of F dot (r_u x r_v) du dv. Key concepts: parameterizing surfaces, choosing orientation (outward normal convention for closed surfaces), computing the normal vector via cross product, and applications to fluid flow and electric flux. Vocabulary: surface integral, flux, orientation, outward normal, inward normal, parameterization, surface element. Common errors: orientation errors (affects sign of flux), incorrect parameterization, and forgetting magnitude for scalar surface integrals."
+    },
+    {
+      "skill": "Parametric Equations for Surfaces",
+      "teks": "College.MVC.27",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.3(B) parametric/rectangular conversions",
+      "prompt": "This topic covers representing surfaces parametrically for Multivariable Calculus students (College.MVC.27). Students should write parametric representations r(u,v) = <x(u,v), y(u,v), z(u,v)> for common surfaces and convert between parametric and implicit/explicit forms. Key parameterizations: sphere (using phi, theta), cylinder (using theta, z), cone, torus, and surfaces of revolution. Key concepts: parameter domain, tangent vectors r_u and r_v, normal vector r_u x r_v, and using parameterization for surface integrals and surface area calculations. Vocabulary: parametric surface, parameter domain, parameterization, surface of revolution, tangent vector, normal vector. Common errors: incorrect parameter ranges, ambiguous parameterization orientation, and confusing parameterizations of similar surfaces."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "grade": "High School - Geometry",
+  "subject": "Geometry - Circles",
+  "skills": [
+    {
+      "skill": "Theorems about circles - apply theorems about circles, including relationships among angles, radii, chords, tangents, and secants, to solve non-contextual problems;",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (apply theorems about circles, including relationships among angles, radii, chords, tangents, and secants, to solve non-contextual problems;) for Geometry students (TEKS G.12(A)). A tangent line is perpendicular to the radius at the point of tangency. Chords equidistant from center are congruent; a perpendicular from center to a chord bisects the chord. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Arcs and chords",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (arcs and chords) for Geometry students (TEKS G.12(A)). Chords equidistant from center are congruent; a perpendicular from center to a chord bisects the chord. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Tangent lines",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (tangent lines) for Geometry students (TEKS G.12(A)). A tangent line is perpendicular to the radius at the point of tangency. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Perimeter of polygons with an inscribed circle",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (perimeter of polygons with an inscribed circle) for Geometry students (TEKS G.12(A)). An inscribed angle is half the central angle that subtends the same arc; inscribed angle = arc/2. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Inscribed angles",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (inscribed angles) for Geometry students (TEKS G.12(A)). An inscribed angle is half the central angle that subtends the same arc; inscribed angle = arc/2. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Angles in inscribed right triangles",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (angles in inscribed right triangles) for Geometry students (TEKS G.12(A)). An inscribed angle is half the central angle that subtends the same arc; inscribed angle = arc/2. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Angles in inscribed quadrilaterals I",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (angles in inscribed quadrilaterals i) for Geometry students (TEKS G.12(A)). An inscribed angle is half the central angle that subtends the same arc; inscribed angle = arc/2. Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: arc, center, chord, circle, diagonal, parallelogram, quadrilateral, radius, rectangle, rhombus, secant, square, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Angles in inscribed quadrilaterals II",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (angles in inscribed quadrilaterals ii) for Geometry students (TEKS G.12(A)). An inscribed angle is half the central angle that subtends the same arc; inscribed angle = arc/2. Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: arc, center, chord, circle, diagonal, parallelogram, quadrilateral, radius, rectangle, rhombus, secant, square, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Angles formed by chords, secants, and tangents",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (angles formed by chords, secants, and tangents) for Geometry students (TEKS G.12(A)). A tangent line is perpendicular to the radius at the point of tangency. Chords equidistant from center are congruent; a perpendicular from center to a chord bisects the chord. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Theorems about circles - Segments formed by chords, secants, and tangents",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers theorems about circles (segments formed by chords, secants, and tangents) for Geometry students (TEKS G.12(A)). A tangent line is perpendicular to the radius at the point of tangency. Chords equidistant from center are congruent; a perpendicular from center to a chord bisects the chord. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Arc length - apply the proportional relationship between the measure of an arc length of a circle and the circumference of the circle to solve problems;",
+      "teks": "G.12(B)",
+      "prompt": "This topic covers arc length (apply the proportional relationship between the measure of an arc length of a circle and the circumference of the circle to solve problems;) for Geometry students (TEKS G.12(B)). Arc length = (central angle/360)*2*pi*r for degree measure, or s = r*theta for radian measure. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Arc length - Understand arc length and sector area of a circle",
+      "teks": "G.12(B)",
+      "prompt": "This topic covers arc length (understand arc length and sector area of a circle) for Geometry students (TEKS G.12(B)). Arc length = (central angle/360)*2*pi*r for degree measure, or s = r*theta for radian measure. Sector area = (central angle/360)*pi*r^2, proportional to the central angle. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Arc length - Arc length",
+      "teks": "G.12(B)",
+      "prompt": "This topic covers computing arc length for Geometry students (TEKS G.12(B)). Arc length = (central angle/360)*2*pi*r for degrees, or s=r*theta for radians. The arc length is proportional to the central angle. Key vocabulary: arc length, central angle, radius, circumference, proportion. Common errors: not converting angles properly, confusing arc length with sector area, and using diameter instead of radius."
+    },
+    {
+      "skill": "Sector area - apply the proportional relationship between the measure of the area of a sector of a circle and the area of the circle to solve problems;",
+      "teks": "G.12(C)",
+      "prompt": "This topic covers sector area (apply the proportional relationship between the measure of the area of a sector of a circle and the area of the circle to solve problems;) for Geometry students (TEKS G.12(C)). Sector area = (central angle/360)*pi*r^2, proportional to the central angle. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Sector area - Understand arc length and sector area of a circle",
+      "teks": "G.12(C)",
+      "prompt": "This topic covers sector area (understand arc length and sector area of a circle) for Geometry students (TEKS G.12(C)). Arc length = (central angle/360)*2*pi*r for degree measure, or s = r*theta for radian measure. Sector area = (central angle/360)*pi*r^2, proportional to the central angle. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Sector area - Area of sectors",
+      "teks": "G.12(C)",
+      "prompt": "This topic covers computing area of sectors for Geometry students (TEKS G.12(C)). Sector area = (central angle/360)*pi*r^2. The sector area is proportional to the central angle. Key vocabulary: sector, central angle, radius, area, proportion. Common errors: confusing with arc length formula, using diameter, and not reducing angles."
+    },
+    {
+      "skill": "Radian measure - describe radian measure of an angle as the ratio of the length of an arc intercepted by a central angle and the radius of the circle;",
+      "teks": "G.12(D)",
+      "prompt": "This topic covers radian measure (describe radian measure of an angle as the ratio of the length of an arc intercepted by a central angle and the radius of the circle;) for Geometry students (TEKS G.12(D)). Radian measure: the ratio of arc length to radius; 2*pi radians = 360 degrees; 1 radian approximately 57.3 degrees. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Radian measure - Convert between radians and degrees",
+      "teks": "G.12(D)",
+      "prompt": "This topic covers radian measure (convert between radians and degrees) for Geometry students (TEKS G.12(D)). Convert: degrees * pi/180 = radians, radians * 180/pi = degrees. Key values: 180 = pi, 90 = pi/2, 60 = pi/3, 45 = pi/4, 30 = pi/6. Key vocabulary includes: radian, degree, conversion, pi, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Radian measure - Radians and arc length",
+      "teks": "G.12(D)",
+      "prompt": "This topic covers radian measure (radians and arc length) for Geometry students (TEKS G.12(D)). Arc length s = r*theta (theta in radians). For degrees: s = (theta/360)*2*pi*r. Students apply to real-world circular motion problems. Key vocabulary includes: arc length, radian, radius, central angle, formula. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Equation of a circle - show that the equation of a circle with center at the origin and radius r is x² + y² = r² and determine the equation for the graph of a circle with radius r and center (h, k), (x - h)² + (y - k)² =r².",
+      "teks": "G.12(E)",
+      "prompt": "This topic covers equation of a circle (show that the equation of a circle with center at the origin and radius r is x² + y² = r² and determine the equation for the graph of a circle with radius r and center (h, k), (x - h)² + (y - k)² =r².) for Geometry students (TEKS G.12(E)). Circle equation: (x-h)^2 + (y-k)^2 = r^2 with center (h,k) and radius r. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Equation of a circle - Derive equations of circles using the Pythagorean theorem",
+      "teks": "G.12(E)",
+      "prompt": "This topic covers equation of a circle (derive equations of circles using the pythagorean theorem) for Geometry students (TEKS G.12(E)). Circle equation: (x-h)^2 + (y-k)^2 = r^2 with center (h,k) and radius r. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Equation of a circle - Write equations of circles in standard form from graphs",
+      "teks": "G.12(E)",
+      "prompt": "This topic covers equation of a circle (write equations of circles in standard form from graphs) for Geometry students (TEKS G.12(E)). Circle equation: (x-h)^2 + (y-k)^2 = r^2 with center (h,k) and radius r. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Equation of a circle - Checkpoint: Angles and lines in circles",
+      "teks": "G.12(A)",
+      "prompt": "This topic covers equation of a circle (checkpoint: angles and lines in circles) for Geometry students (TEKS G.12(A)). Circle equation: (x-h)^2 + (y-k)^2 = r^2 with center (h,k) and radius r. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Equation of a circle - Checkpoint: Arc length and area of sectors",
+      "teks": "G.12(B)",
+      "prompt": "This topic covers equation of a circle (checkpoint: arc length and area of sectors) for Geometry students (TEKS G.12(B)). Circle equation: (x-h)^2 + (y-k)^2 = r^2 with center (h,k) and radius r. Arc length = (central angle/360)*2*pi*r for degree measure, or s = r*theta for radian measure. Sector area = (central angle/360)*pi*r^2, proportional to the central angle. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Equation of a circle - Checkpoint: Equations of circles",
+      "teks": "G.12(E)",
+      "prompt": "This topic covers equation of a circle (checkpoint: equations of circles) for Geometry students (TEKS G.12(E)). Circle equation: (x-h)^2 + (y-k)^2 = r^2 with center (h,k) and radius r. Key vocabulary includes: arc, center, chord, circle, radius, secant, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

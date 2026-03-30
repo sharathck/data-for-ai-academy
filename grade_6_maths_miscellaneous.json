@@ -1,0 +1,116 @@
+{
+  "grade": "Grade 6",
+  "subject": "Maths - Miscellaneous",
+  "skills": [
+    {
+      "skill": "Ratios and rates",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers ratios and rates for Grade 6 students (TEKS 6.4(B)). Students should understand how ratios compare two quantities and rates compare two quantities with different units. Key concepts: a ratio compares two quantities (e.g., 3 boys to 5 girls = 3:5); a rate compares quantities with different units (e.g., 60 miles per 2 hours); a unit rate has a denominator of 1 (e.g., 30 miles per hour); ratios can be expressed as fractions, with colons, or with the word 'to'; equivalent ratios represent the same relationship. Vocabulary: ratio, rate, unit rate, equivalent, compare, quantity, proportion, per, fraction, colon, simplify, relationship. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Unit rates and percentages",
+      "teks": "6.4(D)",
+      "prompt": "This topic covers unit rates and percentages for Grade 6 students (TEKS 6.4(D)). Students should understand how to calculate unit rates and work with percentages fluently. Key concepts: a unit rate expresses a quantity per one unit (divide to find it); unit rates are useful for comparison (best buy, fastest speed); percent means per hundred; converting between fractions, decimals, and percents; finding a percent of a number by multiplying; percentages are used in sales tax, tips, discounts, and interest. Vocabulary: unit rate, percent, per, rate, fraction, decimal, convert, calculate, compare, proportion, hundred, percentage point. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Dividing fractions by fractions",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing fractions by fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide any fraction by another fraction using the reciprocal. Key concepts: dividing by a fraction is equivalent to multiplying by its reciprocal (a/b divided by c/d = a/b x d/c); the reciprocal of c/d is d/c; convert mixed numbers to improper fractions before dividing; interpret division of fractions in context (how many groups of the divisor fit into the dividend); simplify results when possible. Vocabulary: divide, fraction, reciprocal, invert, multiply, mixed number, improper fraction, simplify, quotient, divisor, dividend, context. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Operations with multi-digit decimals",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers operations with multi-digit decimals for Grade 6 students (TEKS 6.3(E)). Students should understand how to add, subtract, multiply, and divide decimal numbers fluently. Key concepts: for addition and subtraction, align decimal points and compute as with whole numbers; for multiplication, multiply as whole numbers then count total decimal places for the product; for division, adjust the divisor to a whole number by moving decimal points equally; estimate to verify reasonableness for all operations. Vocabulary: decimal, add, subtract, multiply, divide, decimal point, align, estimate, place value, tenths, hundredths, thousandths, operation, algorithm. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Greatest common factor and least common multiple",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers factors and multiples for Grade 6 students (TEKS 6.7(A)). Students should understand the relationship between factors, multiples, and divisibility. Key concepts: a factor of a number divides it evenly (no remainder); a multiple of a number is the product of that number and any whole number; factor pairs multiply to give the original number; the GCF (greatest common factor) is the largest factor shared by two numbers; the LCM (least common multiple) is the smallest multiple shared by two numbers; divisibility rules help identify factors quickly. Vocabulary: factor, multiple, divisible, GCF, LCM, factor pair, product, remainder, divisibility rule, prime, composite. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Distributive property",
+      "teks": "6.7(D)",
+      "prompt": "This topic covers the distributive property for Grade 6 students (TEKS 6.7(D)). Students should understand how to apply the distributive property to expand and factor expressions. Key concepts: a(b + c) = ab + ac; the property works with both numerical and algebraic expressions; area models visually demonstrate distribution; factoring is the reverse process (finding the GCF and writing as a product); the distributive property simplifies mental math and helps generate equivalent expressions. Vocabulary: distributive property, expand, factor, expression, GCF, product, sum, area model, equivalent, simplify, coefficient, term, algebraic. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Understanding positive and negative numbers",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers introduction to integers and negative numbers for Grade 6 students (TEKS 6.2(B)). Students should understand that negative numbers extend the number line below zero and are used in many real-world contexts. Key concepts: integers include positive numbers, negative numbers, and zero; negative numbers are less than zero; on a number line, negative numbers are to the left of zero; real-world contexts include temperature below zero, below sea level, debt, and loss; opposite integers are equidistant from zero on opposite sides. Vocabulary: integer, positive, negative, zero, opposite, number line, below zero, debt, sea level, temperature, sign, distance. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Absolute value",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers absolute value for Grade 6 students (TEKS 6.2(B)). Students should understand that absolute value represents the distance of a number from zero on the number line. Key concepts: absolute value is always non-negative; the absolute value of both 5 and -5 is 5; notation uses vertical bars: |n|; absolute value represents magnitude without direction; it is useful for real-world contexts like distance, temperature change, and debt. Students should evaluate absolute value expressions and compare values using absolute value. Vocabulary: absolute value, distance, zero, number line, magnitude, positive, non-negative, notation, bars, opposite, integer, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Coordinate plane (four quadrants)",
+      "teks": "6.11(A)",
+      "prompt": "This topic covers the coordinate plane for Grade 6 students (TEKS 6.11(A)). Students should understand how to use the coordinate system with all four quadrants. Key concepts: the coordinate plane has a horizontal x-axis and vertical y-axis intersecting at the origin (0,0); four quadrants are numbered I through IV counterclockwise from the upper right; points are identified by ordered pairs (x, y); the x-coordinate indicates horizontal position and the y-coordinate indicates vertical position; points can have positive or negative coordinates. Vocabulary: coordinate plane, x-axis, y-axis, origin, quadrant, ordered pair, positive, negative, plot, graph, horizontal, vertical. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Writing and evaluating numerical expressions with exponents",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers exponents for Grade 6 students (TEKS 6.7(A)). Students should understand that an exponent indicates repeated multiplication of a base number. Key concepts: in b^n, b is the base and n is the exponent; the exponent tells how many times to multiply the base by itself; any number to the power of 1 equals itself; any nonzero number to the power of 0 equals 1; students should evaluate expressions with exponents and write repeated multiplication using exponential notation. Vocabulary: exponent, base, power, squared, cubed, repeated multiplication, evaluate, expression, notation, exponential. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Writing algebraic expressions",
+      "teks": "6.7(B)",
+      "prompt": "This topic covers writing algebraic expressions from verbal descriptions for Grade 6 students (TEKS 6.7(B)). Students should translate real-world situations and word phrases into algebraic expressions using variables. Key concepts: assign variables to unknown quantities; identify operations from context words (added to, less than, times, divided by, product of); coefficients multiply variables; constants are fixed values; the order of terms matters for subtraction and division. Vocabulary: algebraic expression, variable, coefficient, constant, term, translate, verbal, operation, add, subtract, multiply, divide, represent, write. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Evaluating algebraic expressions",
+      "teks": "6.7(A)",
+      "prompt": "This topic covers evaluating algebraic expressions by substituting values for Grade 6 students (TEKS 6.7(A)). Students should understand how to replace variables with given values and compute the result. Key concepts: substitute the given value for each variable in the expression; follow the order of operations to evaluate; expressions with exponents require computing powers before multiplication; expressions may contain multiple variables each with their own value; evaluate step by step showing work. Vocabulary: evaluate, algebraic expression, substitute, variable, value, order of operations, exponent, compute, simplify, replace, result. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solving one-variable equations and inequalities",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers solving one-variable equations and inequalities for Grade 6 students (TEKS 6.10(A)). Students should understand how to isolate a variable using inverse operations. Key concepts: use inverse operations (addition/subtraction, multiplication/division) to isolate the variable; maintain balance by performing the same operation on both sides; equations have one solution while inequalities have many; when multiplying or dividing an inequality by a negative number, reverse the inequality sign; graph solutions on number lines. Vocabulary: equation, inequality, variable, solve, inverse operation, isolate, balance, solution, graph, number line, one-step, verify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Dependent and independent variables",
+      "teks": "6.6(A)",
+      "prompt": "This topic covers dependent and independent variables for Grade 6 students (TEKS 6.6(A)). Students should understand how to identify which variable depends on the other in a relationship. Key concepts: the independent variable is what is changed or controlled (input); the dependent variable responds to or depends on the independent variable (output); in y = 2x + 3, x is independent and y is dependent; in tables, the independent variable is usually in the left column; in graphs, it goes on the x-axis. Vocabulary: independent variable, dependent variable, input, output, relationship, cause, effect, table, graph, x-axis, y-axis, equation, change. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Area of triangles and quadrilaterals",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers calculating the area of triangles and quadrilaterals for Grade 6 students (TEKS 6.8(D)). Students should apply area formulas for various shapes. Key concepts: area of a rectangle = length x width; area of a parallelogram = base x height; area of a triangle = 1/2 x base x height; area of a trapezoid = 1/2 x (base1 + base2) x height; the height is always perpendicular to the base; composite figures can be decomposed into these simpler shapes. Vocabulary: area, triangle, quadrilateral, rectangle, parallelogram, trapezoid, base, height, perpendicular, formula, square units, decompose. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Volume of right rectangular prisms",
+      "teks": "6.8(D)",
+      "prompt": "This topic covers volume of right rectangular prisms for Grade 6 students (TEKS 6.8(D)). Students should understand how to calculate the volume of rectangular boxes using the formula and by reasoning about layers. Key concepts: volume = length x width x height (V = lwh); volume can also be computed as base area x height (V = Bh); volume is measured in cubic units; packing unit cubes into a prism demonstrates the formula; students should solve both computation and word problems involving volume. Vocabulary: volume, rectangular prism, length, width, height, cubic units, formula, base area, three-dimensional, capacity, space, layer, unit cube. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Surface area using nets",
+      "teks": "6.8(B)",
+      "prompt": "This topic covers surface area using nets for Grade 6 students (TEKS 6.8(B)). Students should understand that surface area is the total area of all faces of a 3D figure. Key concepts: a net is a 2D pattern that folds into a 3D shape; the surface area equals the sum of the areas of all faces; for rectangular prisms, there are three pairs of congruent rectangular faces; for cubes, all six faces are congruent squares; students should unfold figures into nets and calculate each face's area. Vocabulary: surface area, net, face, edge, rectangular prism, cube, congruent, unfold, fold, square units, three-dimensional, calculate. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Statistical variability",
+      "teks": "6.13(B)",
+      "prompt": "This topic covers statistical variability for Grade 6 students (TEKS 6.13(B)). Students should understand that data naturally varies and that statistical measures help describe this variability. Key concepts: variability describes how spread out data values are; measures of center (mean, median) describe the typical value; measures of spread (range, IQR, MAD) describe how much values differ; data distributions can be described by their shape, center, and spread; understanding variability helps make informed conclusions from data. Vocabulary: variability, spread, center, distribution, range, IQR, mean absolute deviation, mean, median, data, describe, compare, typical, variation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Measures of center (mean, median, mode)",
+      "teks": "6.12(C)",
+      "prompt": "This topic covers measures of center for Grade 6 students (TEKS 6.12(C)). Students should understand how mean, median, and mode each describe the center of a data set differently. Key concepts: mean is the sum of all values divided by the count (sensitive to outliers); median is the middle value when data is ordered (resistant to outliers); mode is the most frequent value (may not exist or may be multiple); each measure has advantages depending on the data distribution; understanding when to use each measure is important for data analysis. Vocabulary: mean, median, mode, average, center, data set, outlier, sum, count, order, frequency, measure of center, distribution, resistant. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Data displays (histograms, box plots)",
+      "teks": "6.12(A)",
+      "prompt": "This topic covers data displays including histograms and box plots for Grade 6 students (TEKS 6.12(A)). Students should understand how to create and interpret various data displays to analyze distributions. Key concepts: histograms display frequency of data within intervals; box plots show the five-number summary (minimum, Q1, median, Q3, maximum); different displays highlight different aspects of the data; choosing the right display depends on the question being asked. Vocabulary: histogram, box plot, frequency, interval, five-number summary, median, quartile, distribution, display, create, interpret, compare, analyze. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Summarizing data distributions",
+      "teks": "6.12(B)",
+      "prompt": "This topic covers summarizing data distributions for Grade 6 students (TEKS 6.12(B)). Students should understand how to describe data sets using measures of center, spread, and shape. Key concepts: a complete summary includes the shape of the distribution (symmetric, skewed), a measure of center (mean or median), and a measure of spread (range, IQR); for symmetric distributions, mean and median are close; for skewed distributions, median is more representative; outliers affect mean but not median significantly. Vocabulary: summarize, distribution, shape, center, spread, symmetric, skewed, mean, median, range, IQR, outlier, describe, representative. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Proportional relationships",
+      "teks": "6.5(A)",
+      "prompt": "This topic covers proportional relationships for Grade 6 students (TEKS 6.5(A)). Students should understand that two quantities are in a proportional relationship when their ratio is constant. Key concepts: in a proportional relationship, y = kx where k is the constant of proportionality (unit rate); tables show a constant ratio between corresponding values; graphs of proportional relationships are straight lines through the origin; equivalent ratios form proportional relationships. Vocabulary: proportional, relationship, constant of proportionality, unit rate, ratio, equivalent, graph, table, equation, origin, straight line, scale factor. Problems should be appropriate for 11-12 year olds."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Differential Equations",
+  "skills": [
+    {
+      "skill": "First-Order Differential Equations",
+      "teks": "College.DE.1",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.5(I) solving exponential equations",
+      "prompt": "This topic covers first-order ODEs for Differential Equations students (College.DE.1). Students should classify first-order equations (separable, linear, exact, Bernoulli) and apply the appropriate solution method. Key concepts: general vs. particular solutions, initial value problems (IVPs), direction fields for visualizing solutions, and existence/uniqueness conditions. The general first-order linear ODE dy/dx + P(x)y = Q(x) is solved using an integrating factor mu(x) = e^(integral P(x)dx). Vocabulary: ordinary differential equation, order, degree, general solution, particular solution, initial condition, initial value problem. Common errors: misclassifying the equation type, forgetting the constant of integration, and not verifying solutions."
+    },
+    {
+      "skill": "Separable Equations",
+      "teks": "College.DE.2",
+      "teks_description": "College-level: Extends beyond HS TEKS; separation of variables technique",
+      "prompt": "This topic covers separable differential equations for Differential Equations students (College.DE.2). A separable equation can be written as dy/dx = f(x)*g(y), solved by separating: integral of dy/g(y) = integral of f(x)dx + C. Key concepts: identifying separability, separating variables, integrating both sides, solving for y (when possible), and handling implicit solutions. Applications: exponential growth/decay, Newton's law of cooling, logistic growth. Vocabulary: separable equation, separation of variables, implicit solution, explicit solution, autonomous equation. Common errors: dividing by g(y) without considering g(y)=0 (singular solutions), integration errors, and forgetting absolute values in logarithms."
+    },
+    {
+      "skill": "Linear Differential Equations",
+      "teks": "College.DE.3",
+      "teks_description": "College-level: Extends beyond HS TEKS; linear ODE methods",
+      "prompt": "This topic covers first-order linear ODEs for Differential Equations students (College.DE.3). Standard form: dy/dx + P(x)y = Q(x). Solution method: multiply by integrating factor mu(x) = e^(integral P(x)dx), which makes the left side d/dx[mu*y]. Key concepts: identifying linear form, computing the integrating factor, recognizing that the method always works for continuous P and Q, and solving initial value problems. Vocabulary: linear ODE, integrating factor, standard form, homogeneous, nonhomogeneous, superposition. Common errors: not putting the equation in standard form first, integrating factor computation errors, and forgetting to divide by mu when solving for y."
+    },
+    {
+      "skill": "Exact Equations and Integrating Factors",
+      "teks": "College.DE.4",
+      "teks_description": "College-level: Extends beyond HS TEKS; exact equations and integrating factor technique",
+      "prompt": "This topic covers exact differential equations for Differential Equations students (College.DE.4). The equation M(x,y)dx + N(x,y)dy = 0 is exact if dM/dy = dN/dx, meaning there exists F(x,y) such that dF = Mdx + Ndy. Key concepts: testing for exactness, finding the potential function F by integration, using integrating factors to make non-exact equations exact (mu(x) or mu(y)), and the relationship to conservative vector fields. Vocabulary: exact equation, potential function, integrating factor, total differential, conservative, test for exactness. Common errors: integration errors when finding F, forgetting to include the function of the other variable, and incorrect integrating factor determination."
+    },
+    {
+      "skill": "Second-Order Linear Differential Equations",
+      "teks": "College.DE.5",
+      "teks_description": "College-level: Extends beyond HS TEKS; second-order ODEs",
+      "prompt": "This topic covers second-order linear ODEs for Differential Equations students (College.DE.5). General form: y'' + P(x)y' + Q(x)y = R(x). Key concepts: homogeneous (R=0) vs. nonhomogeneous, the superposition principle for homogeneous equations, general solution = complementary solution + particular solution, Wronskian for testing linear independence, and reduction of order when one solution is known. Vocabulary: second-order, homogeneous, nonhomogeneous, complementary solution, particular solution, Wronskian, linear independence, fundamental set. Common errors: confusing homogeneous equation with homogeneous function, Wronskian computation errors, and incomplete general solutions."
+    },
+    {
+      "skill": "Homogeneous Equations with Constant Coefficients",
+      "teks": "College.DE.6",
+      "teks_description": "College-level: Extends beyond HS TEKS; characteristic equation method",
+      "prompt": "This topic covers constant-coefficient second-order ODEs for Differential Equations students (College.DE.6). For ay'' + by' + cy = 0, substitute y = e^(rt) to get characteristic equation ar^2 + br + c = 0. Three cases: distinct real roots r1, r2 give y = c1*e^(r1*x) + c2*e^(r2*x); repeated root r gives y = (c1+c2*x)*e^(rx); complex roots alpha +/- beta*i give y = e^(alpha*x)*(c1*cos(beta*x)+c2*sin(beta*x)). Vocabulary: characteristic equation, auxiliary equation, distinct roots, repeated roots, complex roots, damped oscillation. Common errors: sign errors in the characteristic equation, mishandling complex roots, and forgetting the x-factor for repeated roots."
+    },
+    {
+      "skill": "Nonhomogeneous Equations and Method of Undetermined Coefficients",
+      "teks": "College.DE.7",
+      "teks_description": "College-level: Extends beyond HS TEKS; particular solution methods",
+      "prompt": "This topic covers finding particular solutions for Differential Equations students (College.DE.7). For ay'' + by' + cy = g(x), guess a particular solution y_p of the same form as g(x): polynomials for polynomial g, exponentials for exponential g, sin/cos for sinusoidal g. Key concepts: forming the correct trial function, modifying the trial when it overlaps with the complementary solution (multiply by x), and the annihilator method. Vocabulary: method of undetermined coefficients, trial solution, particular solution, complementary solution, annihilator, superposition. Common errors: wrong trial function form, forgetting to multiply by x when overlap occurs, and algebraic errors when solving for coefficients."
+    },
+    {
+      "skill": "Variation of Parameters",
+      "teks": "College.DE.8",
+      "teks_description": "College-level: Extends beyond HS TEKS; variation of parameters technique",
+      "prompt": "This topic covers the variation of parameters method for Differential Equations students (College.DE.8). For y'' + P(x)y' + Q(x)y = g(x) with complementary solutions y1, y2, the particular solution is y_p = u1*y1 + u2*y2 where u1' = -y2*g/W and u2' = y1*g/W (W = Wronskian). Key concepts: this method works for any g(x) (unlike undetermined coefficients), computing the Wronskian, integrating u1' and u2', and the method extends to higher-order equations. Vocabulary: variation of parameters, Wronskian, particular solution, complementary solution, general method. Common errors: Wronskian calculation errors, integration difficulties, and sign errors in the formulas for u1' and u2'."
+    },
+    {
+      "skill": "Laplace Transforms",
+      "teks": "College.DE.9",
+      "teks_description": "College-level: Extends beyond HS TEKS; integral transform methods",
+      "prompt": "This topic covers Laplace transform methods for Differential Equations students (College.DE.9). The Laplace transform L{f(t)} = F(s) = integral from 0 to infinity of e^(-st)*f(t)dt converts ODEs to algebraic equations. Key transforms: L{1} = 1/s, L{t^n} = n!/s^(n+1), L{e^(at)} = 1/(s-a), L{sin(bt)} = b/(s^2+b^2). Key concepts: linearity, first/second shift theorems, transforms of derivatives, inverse transforms using partial fractions, and solving IVPs by transforming, solving algebraically, and inverting. Vocabulary: Laplace transform, inverse transform, transfer function, shift theorem, convolution, partial fractions, s-domain. Common errors: forgetting initial conditions when transforming derivatives, partial fraction errors, and incorrect inverse transforms."
+    },
+    {
+      "skill": "Series Solutions of Differential Equations",
+      "teks": "College.DE.10",
+      "teks_description": "College-level: Extends beyond HS TEKS; power series solutions",
+      "prompt": "This topic covers power series solutions for Differential Equations students (College.DE.10). For equations with variable coefficients, assume y = sum a_n*x^n, substitute into the ODE, and match coefficients to find a recurrence relation. Key concepts: ordinary points vs. singular points, radius of convergence, Frobenius method for regular singular points (y = x^r * sum a_n*x^n), indicial equation, and recognizing solutions as known functions. Vocabulary: power series solution, ordinary point, singular point, regular singular point, Frobenius method, indicial equation, recurrence relation. Common errors: index shifting mistakes, incorrect recurrence relations, and not checking the radius of convergence."
+    },
+    {
+      "skill": "Systems of Differential Equations",
+      "teks": "College.DE.11",
+      "teks_description": "College-level: Extends beyond HS TEKS; coupled ODE systems",
+      "prompt": "This topic covers coupled ODE systems for Differential Equations students (College.DE.11). Students should write systems in matrix form x' = Ax, find eigenvalues and eigenvectors of A, and construct general solutions. Key concepts: for distinct real eigenvalues x(t) = c1*v1*e^(lambda1*t) + c2*v2*e^(lambda2*t), complex eigenvalues give oscillatory solutions, repeated eigenvalues may require generalized eigenvectors, and nonhomogeneous systems x' = Ax + g(t). Vocabulary: system of ODEs, matrix form, eigenvalue, eigenvector, generalized eigenvector, fundamental matrix, matrix exponential. Common errors: eigenvector computation errors, mishandling complex eigenvalues, and forgetting generalized eigenvectors for repeated eigenvalues."
+    },
+    {
+      "skill": "Phase Plane Analysis",
+      "teks": "College.DE.12",
+      "teks_description": "College-level: Extends beyond HS TEKS; qualitative analysis of systems",
+      "prompt": "This topic covers qualitative analysis of 2D systems for Differential Equations students (College.DE.12). Students should classify equilibrium points and sketch phase portraits. Key concepts: equilibrium points (where x' = 0), classification based on eigenvalues of the Jacobian (node, saddle, spiral, center), stability (stable if Re(lambda) < 0), nullclines, and direction field sketching. Vocabulary: phase plane, phase portrait, equilibrium point, node, saddle, spiral, center, stable, unstable, nullcline, trajectory, orbit. Common errors: misclassifying equilibrium types, confusing stable and unstable directions, and incorrect nullcline sketching."
+    },
+    {
+      "skill": "Stability and Autonomous Equations",
+      "teks": "College.DE.13",
+      "teks_description": "College-level: Extends beyond HS TEKS; stability theory",
+      "prompt": "This topic covers stability theory for Differential Equations students (College.DE.13). For autonomous equations y' = f(y), equilibrium solutions occur where f(y) = 0. Key concepts: stable (nearby solutions approach), unstable (nearby solutions diverge), semistable equilibria, Lyapunov stability, linearization at equilibrium points, and the connection between eigenvalue signs and stability. Vocabulary: autonomous equation, equilibrium, stable, unstable, semistable, asymptotically stable, Lyapunov function, linearization, basin of attraction. Applications: population models, mechanical systems. Common errors: confusing stability types, linearizing incorrectly, and not considering nonlinear effects near equilibria."
+    },
+    {
+      "skill": "Fourier Series and Boundary Value Problems",
+      "teks": "College.DE.14",
+      "teks_description": "College-level: Extends beyond HS TEKS; Fourier analysis",
+      "prompt": "This topic covers Fourier analysis for Differential Equations students (College.DE.14). Students should expand periodic functions as Fourier series: f(x) = a0/2 + sum[a_n*cos(n*pi*x/L) + b_n*sin(n*pi*x/L)]. Key concepts: computing Fourier coefficients using orthogonality integrals, convergence properties, even/odd function simplifications (cosine/sine series), Gibbs phenomenon, and applying Fourier series to solve boundary value problems (heat, wave, Laplace equations). Vocabulary: Fourier series, Fourier coefficients, orthogonality, convergence, Gibbs phenomenon, boundary value problem, eigenfunction. Common errors: incorrect integration limits, forgetting the L in period adjustment, and convergence at discontinuities."
+    },
+    {
+      "skill": "Partial Differential Equations",
+      "teks": "College.DE.15",
+      "teks_description": "College-level: Extends beyond HS TEKS; PDEs introduction",
+      "prompt": "This topic introduces PDEs for Differential Equations students (College.DE.15). Students should classify PDEs (elliptic, parabolic, hyperbolic) and solve basic PDEs using separation of variables. Key equations: heat equation u_t = k*u_xx, wave equation u_tt = c^2*u_xx, and Laplace's equation u_xx + u_yy = 0. Key concepts: boundary and initial conditions, separation of variables (assume u(x,t) = X(x)*T(t)), resulting eigenvalue problems, superposition of solutions, and physical interpretation. Vocabulary: partial differential equation, classification, separation of variables, boundary condition, initial condition, eigenvalue problem, superposition. Common errors: incorrect separation setup, missing boundary condition cases, and forgetting to superpose."
+    },
+    {
+      "skill": "Eigenvalues and Eigenvectors Applications",
+      "teks": "College.DE.16",
+      "teks_description": "College-level: Extends beyond HS TEKS; eigenvalue methods for ODEs",
+      "prompt": "This topic covers eigenvalue methods applied to ODE systems for Differential Equations students (College.DE.16). Students should find eigenvalues (det(A-lambda*I) = 0) and eigenvectors of coefficient matrices to solve x' = Ax. Key concepts: diagonalizable systems, matrix exponential e^(At), Jordan normal form for defective matrices, and using eigendecomposition for decoupling systems. Vocabulary: eigenvalue, eigenvector, characteristic polynomial, diagonalization, matrix exponential, Jordan form, defective matrix, algebraic multiplicity, geometric multiplicity. Common errors: eigenvalue computation errors, missing eigenvectors for repeated eigenvalues, and confusing algebraic with geometric multiplicity."
+    },
+    {
+      "skill": "Modeling with Differential Equations",
+      "teks": "College.DE.17",
+      "teks_description": "College-level: Extends beyond HS TEKS; mathematical modeling with ODEs",
+      "prompt": "This topic covers mathematical modeling with ODEs for Differential Equations students (College.DE.17). Students should derive and solve differential equation models for real-world phenomena. Key models: exponential growth/decay (dP/dt = kP), logistic growth (dP/dt = rP(1-P/K)), mixing problems (dA/dt = rate_in - rate_out), Newton's law of cooling (dT/dt = k(T-T_env)), and predator-prey (Lotka-Volterra). Vocabulary: mathematical model, growth rate, carrying capacity, logistic equation, mixing problem, Newton's cooling, predator-prey, equilibrium. Common errors: incorrect model formulation, unit inconsistencies, and misinterpreting parameters in context."
+    },
+    {
+      "skill": "Numerical Methods (Euler's Method, Runge-Kutta Methods)",
+      "teks": "College.DE.18",
+      "teks_description": "College-level: Extends beyond HS TEKS; numerical approximation methods",
+      "prompt": "This topic covers numerical ODE approximation methods for Differential Equations students (College.DE.18). Euler's method: y_{n+1} = y_n + h*f(t_n, y_n). Improved Euler (Heun's): average of slopes at start and end. Classical RK4: fourth-order Runge-Kutta with four slope evaluations per step. Key concepts: step size h affects accuracy and stability, local vs. global truncation error, order of a method, stability regions, and comparing method accuracy. Vocabulary: numerical method, Euler's method, Runge-Kutta, step size, truncation error, local error, global error, order, stability, convergence. Common errors: step size too large causing instability, accumulation of rounding errors, and misunderstanding order of accuracy."
+    },
+    {
+      "skill": "Linearization and Stability of Equilibria",
+      "teks": "College.DE.19",
+      "teks_description": "College-level: Extends beyond HS TEKS; linearization techniques",
+      "prompt": "This topic covers linearization techniques for Differential Equations students (College.DE.19). For a nonlinear system x' = f(x,y), y' = g(x,y), linearize at equilibrium (x0,y0) using the Jacobian matrix J = [[f_x, f_y],[g_x, g_y]] evaluated at (x0,y0). Key concepts: equilibria as solutions of f=g=0, the linearized system approximates behavior near equilibria, eigenvalues of J determine local stability and type, limitations (centers in linear may be spirals in nonlinear), and Hartman-Grobman theorem. Vocabulary: linearization, Jacobian, equilibrium, hyperbolic, non-hyperbolic, Hartman-Grobman theorem, local stability. Common errors: Jacobian computation errors, applying linearization conclusions to non-hyperbolic equilibria, and confusing local with global stability."
+    },
+    {
+      "skill": "Sturm-Liouville Theory",
+      "teks": "College.DE.20",
+      "teks_description": "College-level: Extends beyond HS TEKS; eigenvalue boundary value problems",
+      "prompt": "This topic covers eigenvalue boundary value problems for Differential Equations students (College.DE.20). The Sturm-Liouville problem: (p(x)y')' + (q(x) + lambda*w(x))y = 0 with boundary conditions. Key concepts: eigenvalues form an infinite sequence, eigenfunctions are orthogonal with respect to weight function w(x), eigenfunction expansions (generalized Fourier series), and self-adjoint operators. Vocabulary: Sturm-Liouville problem, eigenvalue, eigenfunction, weight function, orthogonality, self-adjoint, eigenfunction expansion, boundary condition. Applications: vibrating strings, heat conduction. Common errors: misidentifying p, q, w functions, orthogonality weight errors, and incorrect boundary condition application."
+    },
+    {
+      "skill": "Green's Functions",
+      "teks": "College.DE.21",
+      "teks_description": "College-level: Extends beyond HS TEKS; Green's function methods",
+      "prompt": "This topic covers Green's function methods for Differential Equations students (College.DE.21). Green's function G(x,t) for L[y] = f(x) satisfies L[G] = delta(x-t) (Dirac delta). The solution is y(x) = integral of G(x,t)*f(t)dt. Key concepts: Green's function as impulse response, construction using homogeneous solutions and matching conditions (continuity, jump in derivative), connection to variation of parameters, and physical interpretation as influence function. Vocabulary: Green's function, impulse response, Dirac delta, influence function, boundary value problem, superposition integral. Common errors: incorrect matching conditions at x=t, forgetting boundary conditions for G, and confusing Green's function for different operators."
+    },
+    {
+      "skill": "Applications to Mechanics and Circuit Theory",
+      "teks": "College.DE.22",
+      "teks_description": "College-level: Extends beyond HS TEKS; physical applications of ODEs",
+      "prompt": "This topic covers physical applications of ODEs for Differential Equations students (College.DE.22). Spring-mass systems: my'' + by' + ky = F(t) modeling free/forced, damped/undamped oscillations. RLC circuits: LQ'' + RQ' + Q/C = E(t) (charge equation). Key concepts: natural frequency, damping ratio, resonance, transient vs. steady-state solutions, impedance, and analogies between mechanical and electrical systems. Vocabulary: spring constant, damping coefficient, natural frequency, resonance, overdamped, underdamped, critically damped, transient, steady-state, impedance. Common errors: incorrect sign conventions, confusing displacement with velocity, and misidentifying resonance conditions."
+    },
+    {
+      "skill": "Direction Fields and Qualitative Methods",
+      "teks": "College.DE.23",
+      "teks_description": "College-level: Extends beyond HS TEKS; graphical ODE analysis",
+      "prompt": "This topic covers graphical ODE analysis for Differential Equations students (College.DE.23). Students should sketch direction fields (slope fields) for y' = f(x,y) by computing slopes at grid points, identify equilibrium solutions, and predict solution behavior qualitatively without solving. Key concepts: isoclines (curves where slope is constant), solution curves follow the field, autonomous equations have horizontal isoclines, and using direction fields to understand existence of solutions. Vocabulary: direction field, slope field, isocline, equilibrium solution, qualitative analysis, phase line, trajectory. Common errors: inaccurate slope calculations, not recognizing equilibrium solutions, and drawing solution curves that cross each other (violates uniqueness)."
+    },
+    {
+      "skill": "Existence and Uniqueness Theorems",
+      "teks": "College.DE.24",
+      "teks_description": "College-level: Extends beyond HS TEKS; theoretical foundations of ODEs",
+      "prompt": "This topic covers theoretical foundations for Differential Equations students (College.DE.24). Picard's Existence and Uniqueness Theorem: if f(t,y) and df/dy are continuous in a rectangle containing (t0,y0), then y' = f(t,y), y(t0) = y0 has a unique solution in some interval. Key concepts: conditions for existence (continuity of f) vs. uniqueness (Lipschitz condition or continuity of df/dy), Picard iteration, maximal interval of existence, and examples where existence or uniqueness fails. Vocabulary: existence theorem, uniqueness theorem, Picard iteration, Lipschitz condition, maximal interval, singular solution, envelope. Common errors: assuming solutions exist globally, confusing existence with uniqueness conditions, and not checking hypotheses."
+    },
+    {
+      "skill": "Bifurcation Theory (Introduction)",
+      "teks": "College.DE.25",
+      "teks_description": "College-level: Extends beyond HS TEKS; qualitative changes in system behavior",
+      "prompt": "This topic introduces bifurcation theory for Differential Equations students (College.DE.25). A bifurcation occurs when a small change in a parameter causes a qualitative change in system behavior. Key types: saddle-node (two equilibria appear/disappear), transcritical (equilibria exchange stability), pitchfork (one equilibrium splits into three), and Hopf (equilibrium changes stability and limit cycle appears/disappears). Key concepts: bifurcation diagram, bifurcation parameter, structural stability, and normal forms. Vocabulary: bifurcation, bifurcation parameter, bifurcation diagram, saddle-node, transcritical, pitchfork, Hopf, limit cycle, normal form. Common errors: misclassifying bifurcation type, confusing subcritical and supercritical cases, and incomplete bifurcation diagrams."
+    },
+    {
+      "skill": "Applications to Population Dynamics",
+      "teks": "College.DE.26",
+      "teks_description": "College-level: Extends beyond HS TEKS; population modeling with ODEs",
+      "prompt": "This topic covers population modeling with ODEs for Differential Equations students (College.DE.26). Key models: exponential growth dP/dt = rP, logistic growth dP/dt = rP(1-P/K), Lotka-Volterra predator-prey dx/dt = ax-bxy, dy/dt = -cy+dxy, competing species, and harvesting models dP/dt = rP(1-P/K)-h. Key concepts: carrying capacity, phase plane analysis of interacting populations, equilibria and their stability, coexistence conditions, and bifurcation in harvesting models. Vocabulary: population dynamics, carrying capacity, logistic growth, predator-prey, Lotka-Volterra, competitive exclusion, coexistence, harvesting, sustainable yield. Common errors: sign errors in interaction terms, misinterpreting phase plane trajectories, and ignoring biological constraints."
+    },
+    {
+      "skill": "Chaos and Nonlinear Systems (Introduction)",
+      "teks": "College.DE.27",
+      "teks_description": "College-level: Extends beyond HS TEKS; introduction to nonlinear dynamics and chaos",
+      "prompt": "This topic introduces chaos and nonlinear dynamics for Differential Equations students (College.DE.27). Students should understand that deterministic systems can exhibit unpredictable behavior due to sensitive dependence on initial conditions. Key concepts: nonlinear systems, limit cycles, strange attractors, Poincare maps, Lyapunov exponents (positive implies chaos), period doubling route to chaos, and the Lorenz system as a canonical example. Vocabulary: chaos, sensitive dependence, butterfly effect, strange attractor, Lorenz system, Lyapunov exponent, limit cycle, period doubling, fractal, Poincare map. Common errors: confusing randomness with chaos, assuming all nonlinear systems are chaotic, and overgeneralizing from low-dimensional examples."
+    }
+  ]
+}

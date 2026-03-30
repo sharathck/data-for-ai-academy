@@ -1,0 +1,180 @@
+{
+  "grade": "Grade 8",
+  "subject": "Science - Earth and space",
+  "skills": [
+    {
+      "skill": "Earth, Sun, and Moon: Model and illustrate how the tilted Earth rotates on its axis, causing day and night, and revolves around the Sun, causing changes in seasons",
+      "teks": "8.9(A)",
+      "teks_description": "Describe life cycle of stars and classify using Hertzsprung-Russell diagram",
+      "prompt": "This topic covers Earth's rotation and revolution for Grade 8 science students (TEKS 8.9(A)). Students model how the tilted Earth's rotation causes day/night and revolution around the Sun causes seasons. Key concepts include: Earth rotates on its axis once per 24 hours (day/night), Earth revolves around the Sun once per year, the 23.5-degree axial tilt causes seasons, and hemispheres experience opposite seasons. Vocabulary: rotation, revolution, axis, tilt, day, night, seasons, hemisphere, equinox, solstice. Common misconceptions: thinking seasons are caused by distance from the Sun and confusing rotation with revolution. Practice should include modeling activities appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Earth, Sun, and Moon: Analyze models of the Earth-Sun-Moon system",
+      "teks": "8.10(A)",
+      "teks_description": "Describe how energy from Sun and atmosphere influence weather and climate",
+      "prompt": "This topic covers analyzing models of the Earth-Sun-Moon system for Grade 8 science students (TEKS 8.10(A)). Students evaluate models that represent the relationships and movements within this system. Key concepts include: Earth's rotation (day/night), Earth's revolution around the Sun (seasons), Moon's revolution around Earth (lunar phases), eclipses, and the advantages and limitations of various models. Vocabulary: rotation, revolution, orbit, axis, tilt, eclipse, lunar phases, model, scale, limitation. Common misconceptions: thinking seasons are caused by distance from the Sun, confusing rotation with revolution, and not recognizing model limitations. Practice should include model evaluation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Earth, Sun, and Moon: What causes the seasons on Earth?",
+      "teks": "8.10(A)",
+      "teks_description": "Describe how energy from Sun and atmosphere influence weather and climate",
+      "prompt": "This topic covers what causes seasons on Earth for Grade 8 science students (TEKS 8.10(A)). Students understand that Earth's axial tilt, not distance from the Sun, causes seasons. Key concepts include: the 23.5-degree tilt causes different amounts of direct sunlight at different times of year, summer occurs when a hemisphere tilts toward the Sun, direct sunlight is more intense than angled sunlight, and the equator has relatively constant seasons. Vocabulary: seasons, axial tilt, direct sunlight, indirect sunlight, hemisphere, solstice, equinox, summer, winter. Common misconceptions: thinking seasons are caused by changing distance from the Sun, that the entire Earth has the same season, and confusing weather with seasons. Practice should include seasonal analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Lunar cycle: Demonstrate and predict the sequence of events in the lunar cycle",
+      "teks": "8.9(A)",
+      "teks_description": "Describe life cycle of stars (Earth-Sun-Moon system patterns)",
+      "prompt": "This topic covers the lunar cycle for Grade 8 science students (TEKS 8.9(A)). Students demonstrate and predict the sequence of Moon phases. Key concepts include: the Moon orbits Earth approximately every 29.5 days, phases result from the changing angle of sunlight on the Moon as seen from Earth, the eight main phases (new, waxing crescent, first quarter, waxing gibbous, full, waning gibbous, third quarter, waning crescent), and predicting upcoming phases. Vocabulary: lunar cycle, phase, new moon, full moon, waxing, waning, crescent, gibbous, quarter, orbit. Common misconceptions: thinking phases are caused by Earth's shadow and confusing waxing with waning. Practice should include phase prediction appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Lunar cycle: Identify phases of the Moon",
+      "teks": "8.9(A)",
+      "teks_description": "Describe characteristics of celestial objects",
+      "prompt": "This topic covers identifying Moon phases for Grade 8 science students (TEKS 8.9(A)). Students recognize and name the eight phases of the Moon from visual representations. Key phases: new moon (not visible), waxing crescent, first quarter (right half illuminated), waxing gibbous, full moon, waning gibbous, third quarter (left half illuminated), waning crescent. Key concepts include: the illuminated portion changes predictably, waxing means growing, waning means shrinking. Vocabulary: new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, third quarter, waning crescent. Common misconceptions: confusing first and third quarter, reversing waxing and waning, and thinking the Moon produces its own light. Practice should include phase identification appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Tides: Relate the positions of the Moon and Sun to their effect on ocean tides",
+      "teks": "8.10(C)",
+      "teks_description": "Describe interactions between ocean currents and air masses producing cyclones",
+      "prompt": "This topic covers the relationship between celestial positions and ocean tides for Grade 8 science students (TEKS 8.10(C)). Students understand how the Moon's and Sun's gravitational pulls create tides. Key concepts include: the Moon's gravity is the primary cause of tides, spring tides occur when Sun and Moon align (new/full moon), neap tides occur when Sun and Moon are at right angles (quarter moons), and tidal patterns repeat approximately every 12.5 hours. Vocabulary: tide, spring tide, neap tide, gravitational pull, Moon, Sun, high tide, low tide, alignment, lunar phase. Common misconceptions: thinking only the Moon causes tides, confusing spring tides with the spring season, and not connecting tide type to Moon phase. Practice should include tide prediction appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Universe: Describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
+      "teks": "8.9(A)",
+      "teks_description": "Describe life cycle of stars and classify using Hertzsprung-Russell diagram",
+      "prompt": "This topic covers components of the universe for Grade 8 science students (TEKS 8.9(A)). Students describe stars, nebulae, and galaxies and use classification models. Key concepts include: stars form from nebulae, stars have life cycles (main sequence, red giant, white dwarf, supernova, neutron star, black hole), the Hertzsprung-Russell diagram classifies stars by temperature and luminosity, and galaxies contain billions of stars. Vocabulary: star, nebula, galaxy, Hertzsprung-Russell diagram, luminosity, temperature, main sequence, red giant, white dwarf, supernova. Common misconceptions: thinking all stars are the same size/color and confusing nebulae with galaxies. Practice should include classification activities appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Universe: Recognize that the Sun is a medium-sized star located in a spiral arm of the Milky Way galaxy and that the Sun is many thousands of times closer to Earth than any other star",
+      "teks": "8.9(B)",
+      "teks_description": "Categorize galaxies and locate Earth's solar system in Milky Way",
+      "prompt": "This topic covers the Sun's position in the Milky Way for Grade 8 science students (TEKS 8.9(B)). Students understand that the Sun is an average star in one arm of our spiral galaxy. Key concepts include: the Sun is a medium-sized, main sequence star, it is located in the Orion arm of the Milky Way spiral galaxy, the Sun is thousands of times closer than other stars, and our solar system is one of billions in the galaxy. Vocabulary: Sun, star, Milky Way, spiral galaxy, solar system, light-year, Orion arm, main sequence. Common misconceptions: thinking the Sun is the largest or brightest star, that it is at the center of the galaxy, and not understanding the vast distances to other stars. Practice should include scale and position analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Universe: Identify how different wavelengths of the electromagnetic spectrum such as visible light and radio waves are used to gain information about components in the universe",
+      "teks": "8.8(B)",
+      "teks_description": "Explain uses of electromagnetic waves in applications",
+      "prompt": "This topic covers using electromagnetic spectrum wavelengths to study the universe for Grade 8 science students (TEKS 8.8(B)). Students understand how different wavelengths provide different information about celestial objects. Key concepts include: the electromagnetic spectrum ranges from radio waves to gamma rays, visible light is only a small portion, radio telescopes detect radio waves from space, infrared reveals heat and hidden objects, ultraviolet shows hot stars, and X-rays reveal high-energy phenomena. Vocabulary: electromagnetic spectrum, wavelength, radio waves, infrared, visible light, ultraviolet, X-ray, gamma ray, telescope. Common misconceptions: thinking only visible light comes from space and confusing wavelength with amplitude. Practice should include spectrum application analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Universe: Applications of infrared waves",
+      "teks": "8.8(B)",
+      "teks_description": "Explain uses of electromagnetic waves in applications",
+      "prompt": "This topic covers applications of infrared waves for Grade 8 science students (TEKS 8.8(B)). Students explore how infrared radiation is used in science and technology. Key applications include: thermal imaging cameras, remote controls, night vision, heat lamps, weather satellite imaging, and studying the universe through infrared telescopes. Key concepts include: all objects emit infrared based on temperature, infrared has longer wavelength than visible light, and its uses in medicine, military, and astronomy. Vocabulary: infrared, thermal imaging, wavelength, electromagnetic spectrum, heat, radiation, temperature, thermal energy. Common misconceptions: thinking infrared is the same as heat and that it can only be detected by special equipment. Practice should include application exploration appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Universe: Effects of ultraviolet waves",
+      "teks": "8.8(B)",
+      "teks_description": "Explain uses of electromagnetic waves in applications",
+      "prompt": "This topic covers the effects of ultraviolet waves for Grade 8 science students (TEKS 8.8(B)). Students understand the properties and effects of UV radiation. Key concepts include: UV radiation from the Sun has shorter wavelength than visible light, the ozone layer blocks most UV radiation, UV causes sunburn and can lead to skin cancer, UV is used for sterilization and blacklights, and the importance of UV protection. Vocabulary: ultraviolet, UV radiation, ozone layer, wavelength, electromagnetic spectrum, sunburn, sterilization, SPF, skin cancer. Common misconceptions: thinking UV radiation is always harmful and that clouds block all UV rays. Practice should include UV awareness activities appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Universe: Research how scientific data are used as evidence to develop scientific theories to describe the origin of the universe",
+      "teks": "8.9(C)",
+      "teks_description": "Research and analyze evidence for theories describing universe origin",
+      "prompt": "This topic covers evidence for theories about the origin of the universe for Grade 8 science students (TEKS 8.9(C)). Students research how scientific data supports theories like the Big Bang. Key evidence includes: cosmic microwave background radiation, redshift of galaxies (universe is expanding), abundance of hydrogen and helium, and the age of the universe (~13.8 billion years). Key concepts include: the Big Bang theory, how evidence is gathered using telescopes, and the difference between theory and hypothesis in science. Vocabulary: Big Bang, cosmic microwave background, redshift, expanding universe, evidence, theory, galaxy, telescope. Common misconceptions: thinking the Big Bang was an explosion in space and confusing scientific theory with everyday use of theory. Practice should include evidence analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Plate tectonics: Describe the historical development of evidence that supports plate tectonic theory",
+      "teks": "8.10(A)",
+      "teks_description": "Describe how energy from Sun and atmosphere influence weather and climate",
+      "prompt": "This topic covers the historical evidence for plate tectonics for Grade 8 science students (TEKS 8.10(A)). Students trace how evidence accumulated to support this theory. Key evidence includes: continental fit (puzzle-like coastlines), matching fossils across continents, rock type and mountain chain alignment, paleoclimate evidence, seafloor spreading, and magnetic striping. Key scientists: Wegener (continental drift), Hess (seafloor spreading). Vocabulary: plate tectonics, continental drift, Wegener, Pangaea, seafloor spreading, evidence, fossil, magnetic striping. Common misconceptions: thinking Wegener's theory was immediately accepted and that plate tectonics was one discovery rather than accumulated evidence. Practice should include evidence evaluation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Plate tectonics: Relate plate tectonics to the formation of crustal features",
+      "teks": "8.10(B)",
+      "teks_description": "Identify global patterns of atmospheric movement",
+      "prompt": "This topic covers how plate tectonics forms crustal features for Grade 8 science students (TEKS 8.10(B)). Students connect plate boundary types to landforms. Key concepts include: convergent boundaries create mountains and subduction zones, divergent boundaries create rift valleys and mid-ocean ridges, transform boundaries cause earthquakes, and volcanic activity occurs at convergent and divergent boundaries and hot spots. Vocabulary: plate tectonics, convergent, divergent, transform, subduction, mid-ocean ridge, rift valley, mountain, volcano, earthquake. Common misconceptions: thinking plates are continent-sized chunks and that earthquakes only occur at faults. Practice should include boundary-landform connections appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Plate tectonics: Label Earth features at tectonic plate boundaries",
+      "teks": "8.10(B)",
+      "teks_description": "Identify global patterns of atmospheric movement",
+      "prompt": "This topic covers labeling Earth features at tectonic plate boundaries for Grade 8 science students (TEKS 8.10(B)). Students identify and label features formed at different plate boundary types. Key features include: mountains (convergent), volcanoes (convergent/hot spots), ocean trenches (subduction), mid-ocean ridges (divergent), rift valleys (divergent), and fault lines (transform). Key concepts include: connecting each feature to the type of plate interaction that creates it. Vocabulary: convergent boundary, divergent boundary, transform boundary, trench, mid-ocean ridge, rift valley, subduction zone, fault, mountain chain. Common misconceptions: confusing feature types and not connecting features to boundary types. Practice should include diagram labeling appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Plate tectonics: Describe tectonic plate boundaries around the world",
+      "teks": "8.10(B)",
+      "teks_description": "Identify global patterns of atmospheric movement",
+      "prompt": "This topic covers tectonic plate boundaries around the world for Grade 8 science students (TEKS 8.10(B)). Students identify and describe major plate boundaries globally. Key concepts include: the Ring of Fire (Pacific Plate boundaries), Mid-Atlantic Ridge (divergent), Himalayan boundary (convergent), San Andreas Fault (transform), major plates and their movements, and why certain regions are geologically active. Vocabulary: tectonic plate, plate boundary, Ring of Fire, Mid-Atlantic Ridge, Himalayas, San Andreas Fault, convergent, divergent, transform. Common misconceptions: thinking plate boundaries are evenly distributed and that all earthquakes occur at the Ring of Fire. Practice should include global plate boundary mapping appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Weathering and erosion: Interpret topographic maps and satellite views to identify land and erosional features and predict how these features may be reshaped by weathering",
+      "teks": "8.11(A)",
+      "teks_description": "Use evidence to describe how natural events influence climate",
+      "prompt": "This topic covers interpreting topographic maps and satellite views for Grade 8 science students (TEKS 8.11(A)). Students use maps and imagery to identify land features and predict weathering effects. Key concepts include: contour lines show elevation, close contour lines indicate steep terrain, satellite images reveal vegetation, water, and geological features, and predicting how weathering and erosion will reshape observed features. Vocabulary: topographic map, contour line, elevation, satellite image, relief, slope, erosion, weathering, landform. Common misconceptions: thinking contour lines show actual ground features, confusing elevation with distance, and not understanding map scale. Practice should include map interpretation appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Weathering and erosion: Identify Earth's land features using satellite images",
+      "teks": "8.11(A)",
+      "teks_description": "Use evidence to describe how natural events influence climate",
+      "prompt": "This topic covers identifying land features from satellite images for Grade 8 science students (TEKS 8.11(A)). Students recognize geological and geographical features in satellite imagery. Key features include: mountains, valleys, rivers, deltas, coastlines, deserts, forests, glaciers, and volcanic formations. Key concepts include: using color and texture to identify features, understanding scale, and recognizing evidence of erosion and deposition. Vocabulary: satellite image, landform, mountain, valley, river, delta, coastline, desert, glacier, erosion. Common misconceptions: confusing natural and human-made features and misinterpreting scale. Practice should include satellite image analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Weathering and erosion: Select parts of a topographic map",
+      "teks": "8.11(A)",
+      "teks_description": "Use evidence to describe how natural events influence climate",
+      "prompt": "This topic covers selecting and interpreting parts of topographic maps for Grade 8 science students (TEKS 8.11(A)). Students read and analyze topographic map features. Key concepts include: understanding contour lines and contour intervals, identifying peaks, valleys, ridges, and depressions, reading map legends and scales, and using topographic features to plan routes or predict water flow. Vocabulary: topographic map, contour line, contour interval, peak, valley, ridge, depression, legend, scale, elevation. Common misconceptions: thinking contour lines represent trails, not understanding that closer lines mean steeper slopes, and misreading contour intervals. Practice should include map reading exercises appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Climate: Recognize that the Sun provides the energy that drives convection within the atmosphere and oceans, producing winds",
+      "teks": "8.10(A)",
+      "teks_description": "Describe how energy from Sun and atmosphere influence weather and climate",
+      "prompt": "This topic covers how the Sun drives atmospheric and oceanic convection for Grade 8 science students (TEKS 8.10(A)). Students understand that solar energy powers wind and ocean currents. Key concepts include: unequal solar heating creates temperature differences, warm air/water rises and cool air/water sinks (convection), this creates convection currents that drive winds and ocean circulation, and the Coriolis effect deflects moving air and water. Vocabulary: convection, solar energy, convection current, wind, ocean current, heating, cooling, Coriolis effect, circulation. Common misconceptions: thinking wind is caused by Earth's rotation alone and not connecting solar heating to global circulation patterns. Practice should include convection analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Climate: Factors affecting climate: distance from the ocean",
+      "teks": "8.10(A)",
+      "teks_description": "Describe how energy from Sun and atmosphere influence weather and climate",
+      "prompt": "This topic covers how distance from the ocean affects climate for Grade 8 science students (TEKS 8.10(A)). Students understand the ocean's moderating effect on climate. Key concepts include: water has a high specific heat capacity, coastal areas have milder temperatures (cooler summers, warmer winters), inland areas have more extreme temperature variations, and marine vs. continental climate types. Vocabulary: climate, maritime, continental, specific heat, moderate, temperature range, coastal, inland, ocean influence. Common misconceptions: thinking distance from the ocean only affects rainfall and not understanding why water moderates temperature. Practice should include climate comparison appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Climate: Factors affecting climate: surface ocean currents",
+      "teks": "8.10(C)",
+      "teks_description": "Describe interactions between ocean currents and air masses",
+      "prompt": "This topic covers how surface ocean currents affect climate for Grade 8 science students (TEKS 8.10(C)). Students understand the influence of ocean currents on regional climate. Key concepts include: warm currents bring warmer temperatures to coastal areas, cold currents bring cooler temperatures, the Gulf Stream warms Western Europe, currents are driven by wind, temperature, and the Coriolis effect. Vocabulary: ocean current, Gulf Stream, warm current, cold current, climate, Coriolis effect, circulation, coastal. Common misconceptions: thinking currents only move in straight lines and not understanding how currents transport heat globally. Practice should include current-climate connections appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Climate: Identify how global patterns of atmospheric movement influence local weather using weather maps that show high and low pressures and fronts",
+      "teks": "8.10(B)",
+      "teks_description": "Identify global patterns of atmospheric movement",
+      "prompt": "This topic covers how global atmospheric patterns influence local weather for Grade 8 science students (TEKS 8.10(B)). Students use weather maps to connect global patterns to local conditions. Key concepts include: high and low pressure systems, weather fronts (warm, cold, stationary, occluded), global wind patterns (trade winds, westerlies, polar easterlies), and how these systems produce local weather. Vocabulary: atmospheric movement, pressure system, high pressure, low pressure, front, warm front, cold front, weather map, wind pattern. Common misconceptions: thinking weather and climate are the same and not connecting large-scale patterns to local conditions. Practice should include weather map analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Climate: Explore air masses",
+      "teks": "8.10(B)",
+      "teks_description": "Identify global patterns of atmospheric movement",
+      "prompt": "This topic covers exploring air masses for Grade 8 science students (TEKS 8.10(B)). Students understand how air masses form and influence weather. Key concepts include: air masses take on temperature and moisture characteristics of their source regions, major air mass types (maritime tropical, maritime polar, continental tropical, continental polar), air masses move and interact creating weather fronts, and fronts produce precipitation and temperature changes. Vocabulary: air mass, maritime, continental, tropical, polar, source region, weather front, temperature, moisture. Common misconceptions: thinking air masses stay stationary and that all fronts produce the same weather. Practice should include air mass analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Climate: Identify and compare air masses",
+      "teks": "8.10(B)",
+      "teks_description": "Identify global patterns of atmospheric movement",
+      "prompt": "This topic covers identifying and comparing air masses for Grade 8 science students (TEKS 8.10(B)). Students classify and compare different types of air masses. Key types: maritime tropical (warm, moist), continental tropical (warm, dry), maritime polar (cool, moist), continental polar (cool, dry), and arctic (very cold, dry). Key concepts include: comparing temperature and humidity characteristics, understanding how each type affects weather, and tracing air mass movements across continents. Vocabulary: air mass, maritime tropical, continental polar, maritime polar, continental tropical, arctic, classify, compare, humidity, temperature. Common misconceptions: thinking air masses don't change as they move and confusing maritime with continental. Practice should include classification activities appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Climate: How do air masses form?",
+      "teks": "8.10(B)",
+      "teks_description": "Identify global patterns of atmospheric movement",
+      "prompt": "This topic covers how air masses form for Grade 8 science students (TEKS 8.10(B)). Students understand the formation process of air masses over source regions. Key concepts include: air masses form when air sits over a large, uniform surface for an extended time, they take on the temperature and moisture of the surface, source regions include oceans, continents, polar regions, and tropics, and once formed, air masses move and bring their characteristics to new areas. Vocabulary: air mass, source region, formation, temperature, moisture, maritime, continental, tropical, polar, uniform. Common misconceptions: thinking air masses form quickly and that they don't change as they move. Practice should include formation analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Weather systems: Identify the role of the oceans in the formation of weather systems such as hurricanes",
+      "teks": "8.10(C)",
+      "teks_description": "Describe interactions between ocean currents and air masses producing cyclones",
+      "prompt": "This topic covers the oceans' role in forming weather systems like hurricanes for Grade 8 science students (TEKS 8.10(C)). Students understand how warm ocean water fuels tropical storms and hurricanes. Key concepts include: warm ocean water (above 26.5 C) provides energy through evaporation, the Coriolis effect causes rotation, hurricanes weaken over land without the ocean's energy, and ocean currents transport warm water. Vocabulary: hurricane, tropical storm, ocean, warm water, evaporation, Coriolis effect, eye, storm surge, formation. Common misconceptions: thinking hurricanes can form over land and that the eye is the most dangerous part. Practice should include hurricane formation analysis appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Weather systems: Label parts of water cycle diagrams",
+      "teks": "8.11(C)",
+      "teks_description": "Describe the carbon cycle",
+      "prompt": "This topic covers labeling water cycle diagrams for Grade 8 science students (TEKS 8.11(C)). Students identify and label the key processes in the water cycle. Key processes include: evaporation (water to vapor), condensation (vapor to droplets forming clouds), precipitation (rain, snow, sleet, hail), collection (in oceans, lakes, groundwater), transpiration (plants releasing water vapor), and runoff (water flowing over land). Vocabulary: water cycle, evaporation, condensation, precipitation, collection, transpiration, runoff, groundwater, cloud formation. Common misconceptions: thinking the water cycle is a simple loop and forgetting transpiration and groundwater flow. Practice should include diagram labeling appropriate for 13-14 year olds."
+    },
+    {
+      "skill": "Weather systems: Select parts of water cycle diagrams",
+      "teks": "8.11(C)",
+      "teks_description": "Describe the carbon cycle",
+      "prompt": "This topic covers selecting and identifying water cycle components from diagrams for Grade 8 science students (TEKS 8.11(C)). Students demonstrate understanding by correctly identifying processes and components in water cycle representations. Key concepts include: recognizing each process (evaporation, condensation, precipitation, runoff, infiltration, transpiration), understanding where each process occurs, and connecting processes to form the complete cycle. Vocabulary: water cycle, evaporation, condensation, precipitation, runoff, infiltration, transpiration, aquifer. Common misconceptions: confusing similar-looking processes and not understanding the connections between stages. Practice should include diagram interpretation appropriate for 13-14 year olds."
+    }
+  ]
+}

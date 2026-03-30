@@ -1,0 +1,26 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Linear Momentum",
+  "skills": [
+    {
+      "skill": "Linear Momentum",
+      "ref": "Unit 4, Topic 4.1",
+      "prompt": "This topic covers linear momentum for AP Physics 1 students (CED: Unit 4, Topic 4.1). Students should understand that linear momentum is a vector quantity defined as p = mv, where m is mass and v is velocity. Momentum has the same direction as velocity. The SI unit is kg*m/s. Newton's second law can be expressed as F_net = dp/dt (rate of change of momentum). For a system of objects, total momentum is the vector sum of individual momenta. Students must calculate momentum for single objects and systems, and relate momentum to force using Newton's second law. Connect to impulse, conservation of momentum, and collisions. AP exam note: momentum is a fundamental concept tested in collision and explosion problems. Vocabulary: linear momentum, mass, velocity, vector, system momentum, Newton's second law, rate of change."
+    },
+    {
+      "skill": "Change in Momentum and Impulse",
+      "ref": "Unit 4, Topic 4.2",
+      "prompt": "This topic covers change in momentum and impulse for AP Physics 1 students (CED: Unit 4, Topic 4.2). Students should understand that impulse is the change in momentum of an object: J = delta-p = F_avg * delta-t. The impulse-momentum theorem states that the net impulse equals the change in momentum. For a constant force, impulse equals force times time interval. For a variable force, impulse is the area under the force-time graph. Increasing the time of interaction (e.g., airbags, crumple zones, catching a ball) reduces the average force for the same impulse. Students must calculate impulse from force-time data and graphs, and apply the impulse-momentum theorem. Connect to collisions, safety design, and Newton's laws. AP exam note: force-time graph interpretation is commonly tested. Vocabulary: impulse, change in momentum, impulse-momentum theorem, force-time graph, average force, contact time."
+    },
+    {
+      "skill": "Conservation of Linear Momentum",
+      "ref": "Unit 4, Topic 4.3",
+      "prompt": "This topic covers conservation of linear momentum for AP Physics 1 students (CED: Unit 4, Topic 4.3). Students should understand that when no net external force acts on a system, total momentum is conserved: p_initial = p_final. This applies to collisions, explosions, and any interaction where external forces are negligible. For two-object collisions: m1*v1i + m2*v2i = m1*v1f + m2*v2f. In explosions, initial momentum (often zero) equals total final momentum. Conservation of momentum holds in all directions independently. Students must identify when momentum conservation applies, set up and solve conservation equations, and analyze systems in one and two dimensions. Connect to collisions, center of mass, and Newton's third law. AP exam note: momentum conservation is a primary problem-solving tool for collision problems. Vocabulary: conservation of momentum, isolated system, external force, internal force, collision, explosion, system momentum."
+    },
+    {
+      "skill": "Elastic and Inelastic Collisions",
+      "ref": "Unit 4, Topic 4.4",
+      "prompt": "This topic covers elastic and inelastic collisions for AP Physics 1 students (CED: Unit 4, Topic 4.4). Students should understand that momentum is conserved in all collisions (when external forces are negligible). In elastic collisions, kinetic energy is also conserved (objects bounce apart). In perfectly inelastic collisions, the objects stick together and KE loss is maximum. In general inelastic collisions, some KE is lost to thermal energy, sound, or deformation. To determine collision type, compare KE before and after. For perfectly inelastic: m1v1i + m2v2i = (m1+m2)v_f. For elastic collisions in 1D, use both momentum and KE conservation equations. Students must classify collisions and solve for unknown velocities and energy changes. Connect to energy conservation, momentum, and real-world impacts. AP exam note: distinguishing elastic from inelastic collisions and calculating energy loss are tested. Vocabulary: elastic collision, inelastic collision, perfectly inelastic, kinetic energy conservation, momentum conservation, energy loss."
+    }
+  ]
+}

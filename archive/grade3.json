@@ -1,0 +1,1125 @@
+{
+    
+    "Grade 3": {
+        "Maths - Number and operations": [
+            {
+                "skill": "Place value models up to thousands",
+                "teks": "3.2(A)"
+            },
+            {
+                "skill": "Value of a digit up to ten thousands",
+                "teks": "3.2(A)"
+            },
+            {
+                "skill": "Convert to/from a number",
+                "teks": "3.2(A)"
+            },
+            {
+                "skill": "Convert between standard and expanded form",
+                "teks": "3.2(A)"
+            },
+            {
+                "skill": "Convert from expanded form",
+                "teks": "3.2(A)"
+            },
+            {
+                "skill": "Convert between place values",
+                "teks": "3.2(B)"
+            },
+            {
+                "skill": "Rounding: up to ten thousands place",
+                "teks": "3.2(C)"
+            },
+            {
+                "skill": "Round using a number line",
+                "teks": "3.2(C)"
+            },
+            {
+                "skill": "Which number is greatest/least?",
+                "teks": "3.2(D)"
+            },
+            {
+                "skill": "Compare numbers up to 100,000",
+                "teks": "3.2(D)"
+            },
+            {
+                "skill": "Order numbers up to 100,000",
+                "teks": "3.2(D)"
+            },
+            {
+                "skill": "Understand fractions: fraction bars",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Understand fractions: area models",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Show fractions: fraction bars",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Show fractions: area models",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Match fractions to models: halves, thirds, and fourths",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Match unit fractions to models",
+                "teks": "3.3(C)"
+            },
+            {
+                "skill": "Match fractions to models",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Fractions of number lines: unit fractions",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Fractions of number lines: halves, fourths, and eighths",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Fractions of number lines",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Graph unit fractions on number lines",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Graph fractions on number lines",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Fractions of number lines: unit fractions (2)",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Identify unit fractions on number lines",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Identify fractions on number lines",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Match unit fractions to models (2)",
+                "teks": "3.3(C)"
+            },
+            {
+                "skill": "Unit fractions: modeling word problems",
+                "teks": "3.3(C)"
+            },
+            {
+                "skill": "Understand fractions: fraction bars (2)",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Understand fractions: area models (2)",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Decompose fractions into unit fractions",
+                "teks": "3.3(D)"
+            },
+            {
+                "skill": "Fractions of number lines (2)",
+                "teks": "3.3(B)"
+            },
+            {
+                "skill": "Unit fractions: modeling word problems (2)",
+                "teks": "3.3(E)"
+            },
+            {
+                "skill": "Unit fractions: word problems",
+                "teks": "3.3(E)"
+            },
+            {
+                "skill": "Fractions of a whole: modeling word problems",
+                "teks": "3.3(E)"
+            },
+            {
+                "skill": "Fractions of a whole: word problems",
+                "teks": "3.3(E)"
+            },
+            {
+                "skill": "Find equivalent fractions using fraction strips",
+                "teks": "3.3(F)"
+            },
+            {
+                "skill": "Find equivalent fractions using area models: one model",
+                "teks": "3.3(F)"
+            },
+            {
+                "skill": "Identify equivalent fractions on number lines",
+                "teks": "3.3(G)"
+            },
+            {
+                "skill": "Graph equivalent fractions on number lines",
+                "teks": "3.3(G)"
+            },
+            {
+                "skill": "Graph fractions equivalent to 1 on number lines",
+                "teks": "3.3(G)"
+            },
+            {
+                "skill": "Find equivalent fractions using area models: two models",
+                "teks": "3.3(F)"
+            },
+            {
+                "skill": "Find equivalent fractions using area models: one model (2)",
+                "teks": "3.3(F)"
+            },
+            {
+                "skill": "Find equivalent fractions using number lines",
+                "teks": "3.3(G)"
+            },
+            {
+                "skill": "Graph and compare fractions with like denominators on number lines",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Graph and compare fractions with like numerators on number lines",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Compare fractions using models",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Compare fractions using number lines",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Graph and compare fractions on number lines",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Compare fractions",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Compare fractions in recipes",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Use number lines to add three-digit numbers",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Use compensation to add: up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Use expanded form to add three-digit numbers",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Add two numbers up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Add two numbers up to three digits: word problems",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Complete the addition sentence: up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Balance addition equations: up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Addition up to three digits: fill in the missing digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Add three numbers up to three digits each",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Add three numbers up to three digits each: word problems",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Use number lines to subtract three-digit numbers",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Use compensation to subtract: up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Subtract numbers up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Subtract numbers up to three digits: word problems",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Complete the subtraction sentence: up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Balance subtraction equations: up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Complete the addition or subtraction sentence: up to three digits",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Addition and subtraction word problems",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Complete the equation using properties of addition",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Add, subtract, multiply, and divide",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Addition, subtraction, multiplication, and division word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Two-step addition and subtraction word problems",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Comparing: with addition and subtraction",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Round to the nearest ten or hundred",
+                "teks": "3.4(B)"
+            },
+            {
+                "skill": "Rounding puzzles",
+                "teks": "3.4(B)"
+            },
+            {
+                "skill": "Estimate sums by rounding: up to 1,000",
+                "teks": "3.4(B)"
+            },
+            {
+                "skill": "Estimate sums using compatible numbers",
+                "teks": "3.4(B)"
+            },
+            {
+                "skill": "Estimate differences by rounding: up to 1,000",
+                "teks": "3.4(B)"
+            },
+            {
+                "skill": "Estimate differences using compatible numbers",
+                "teks": "3.4(B)"
+            },
+            {
+                "skill": "Count coins and bills - up to $5 bill",
+                "teks": "3.4(C)"
+            },
+            {
+                "skill": "Count coins and bills word problems - up to $5 bill",
+                "teks": "3.4(C)"
+            },
+            {
+                "skill": "Purchases - do you have enough money - up to $10",
+                "teks": "3.4(C)"
+            },
+            {
+                "skill": "Which picture shows more?",
+                "teks": "3.4(D)"
+            },
+            {
+                "skill": "Count equal groups",
+                "teks": "3.4(D)"
+            },
+            {
+                "skill": "Skip-counting",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Skip-counting puzzles",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Identify multiplication expressions for equal groups",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Write multiplication sentences for equal groups",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Relate addition and multiplication for equal groups",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Multiply by 0 or 1 with equal groups",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Identify multiplication expressions for arrays",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Write multiplication sentences for arrays",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Make arrays to model multiplication",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Write multiplication sentences for number lines",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Relate addition and multiplication",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Write two multiplication sentences for an array",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Multiply one-digit numbers using grids",
+                "teks": "3.4(E)"
+            },
+            {
+                "skill": "Multiply one-digit numbers by two-digit numbers using area models I",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply by 2",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 3",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 4",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 5",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 6",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 7",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 8",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 9",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiply by 10",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication facts for 2, 3, 4, 5, and 10",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication facts for 2, 3, 4, 5, and 10: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication facts for 6, 7, 8, and 9",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication facts for 6, 7, 8, and 9: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication facts up to 10",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication facts up to 10: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication sentences up to 10: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 2",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 3",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 4",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 5",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 6",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 7",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 8",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 9",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Divide by 10",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division facts for 2, 3, 4, 5, and 10",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division facts for 2, 3, 4, 5, and 10: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division facts for 6, 7, 8, and 9",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division facts for 6, 7, 8, and 9: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division facts up to 10",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division facts up to 10: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division sentences up to 10: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication and division facts up to 5: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication and division facts up to 10: true or false?",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Properties of multiplication",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Solve using properties of multiplication",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Distributive property: find the missing factor",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply using the distributive property",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply by a multiple of ten using place value",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply by a multiple of ten",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply one-digit numbers by teen numbers using grids",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply one-digit numbers by two-digit numbers using area models I (2)",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply one-digit numbers by two-digit numbers using area models II",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply one-digit numbers by two-digit numbers",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Multiply one-digit numbers by two-digit numbers: word problems",
+                "teks": "3.4(G)"
+            },
+            {
+                "skill": "Divide by counting equal groups",
+                "teks": "3.4(H)"
+            },
+            {
+                "skill": "Write division sentences for groups",
+                "teks": "3.4(H)"
+            },
+            {
+                "skill": "Even or odd",
+                "teks": "3.4(I)"
+            },
+            {
+                "skill": "Multiplication facts up to 10: find the missing factor",
+                "teks": "3.4(J)"
+            },
+            {
+                "skill": "Multiplication word problems with factors up to 10: find the missing number",
+                "teks": "3.4(J)"
+            },
+            {
+                "skill": "Relate multiplication and division",
+                "teks": "3.4(J)"
+            },
+            {
+                "skill": "Division facts up to 10: find the missing number",
+                "teks": "3.4(J)"
+            },
+            {
+                "skill": "Use equal groups and arrays to solve multiplication word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Use strip models to solve multiplication word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Multiplication word problems with factors up to 10",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Compare numbers using multiplication: word problems",
+                "teks": "3.5(C)"
+            },
+            {
+                "skill": "Use equal groups to solve division word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Use arrays to solve division word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Use equal groups and arrays to solve division word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Division word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Multiplication and division word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Two-step multiplication and division word problems",
+                "teks": "3.4(K)"
+            }
+        ],
+        "Maths - Algebraic reasoning": [
+            {
+                "skill": "Add two numbers up to three digits: word problems",
+                "teks": "3.5(A)"
+            },
+            {
+                "skill": "Subtract numbers up to three digits: word problems",
+                "teks": "3.5(A)"
+            },
+            {
+                "skill": "Addition and subtraction word problems",
+                "teks": "3.5(A)"
+            },
+            {
+                "skill": "Two-step addition and subtraction word problems",
+                "teks": "3.5(A)"
+            },
+            {
+                "skill": "Multiplication word problems with factors up to 10",
+                "teks": "3.5(B)"
+            },
+            {
+                "skill": "Division word problems",
+                "teks": "3.5(B)"
+            },
+            {
+                "skill": "Two-step multiplication and division word problems",
+                "teks": "3.5(B)"
+            },
+            {
+                "skill": "Compare numbers using multiplication",
+                "teks": "3.5(C)"
+            },
+            {
+                "skill": "Compare numbers using multiplication: word problems",
+                "teks": "3.5(C)"
+            },
+            {
+                "skill": "Comparison word problems: addition or multiplication?",
+                "teks": "3.5(C)"
+            },
+            {
+                "skill": "Multiplication facts up to 10: find the missing factor",
+                "teks": "3.5(D)"
+            },
+            {
+                "skill": "Multiplication facts up to 12: find the missing factor",
+                "teks": "3.5(D)"
+            },
+            {
+                "skill": "Multiplication facts up to 12: select the missing factors",
+                "teks": "3.5(D)"
+            },
+            {
+                "skill": "Division facts up to 10: find the missing number",
+                "teks": "3.5(D)"
+            },
+            {
+                "skill": "Division facts up to 12: find the missing number",
+                "teks": "3.5(D)"
+            },
+            {
+                "skill": "Solve for the unknown number: multiplication and division only",
+                "teks": "3.5(D)"
+            },
+            {
+                "skill": "Multiplication input/output tables",
+                "teks": "3.5(E)"
+            },
+            {
+                "skill": "Multiplication input/output tables: find the rule",
+                "teks": "3.5(E)"
+            },
+            {
+                "skill": "Addition input/output tables: up to three digits",
+                "teks": "3.5(E)"
+            },
+            {
+                "skill": "Subtraction input/output tables: up to three digits",
+                "teks": "3.5(E)"
+            },
+            {
+                "skill": "Division input/output tables",
+                "teks": "3.5(E)"
+            },
+            {
+                "skill": "Division input/output tables: find the rule",
+                "teks": "3.5(E)"
+            }
+        ],
+        "Maths - Geometry and measurement": [
+            {
+                "skill": "Three-dimensional shapes in the real world I",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Three-dimensional shapes in the real world II",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Attributes of polygons",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Identify polygons: up to 12 sides",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Count and compare sides and vertices",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Acute, obtuse, and right triangles",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Scalene, isosceles, and equilateral triangles",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Identify three-dimensional shapes",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Count vertices, edges, and faces",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Identify faces of three-dimensional shapes",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Parallel sides in quadrilaterals",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Attributes of quadrilaterals",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Identify rectangles",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Identify parallelograms",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Identify rhombuses",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Identify trapezoids",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Classify squares, rectangles, rhombuses, parallelograms, and trapezoids",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Draw squares, rectangles, rhombuses, parallelograms, and trapezoids",
+                "teks": "3.6(B)"
+            },
+            {
+                "skill": "Find the area of rectangles and squares",
+                "teks": "3.6(C)"
+            },
+            {
+                "skill": "Find the missing side length of a rectangle",
+                "teks": "3.6(C)"
+            },
+            {
+                "skill": "Find the area of rectangles with missing unit squares",
+                "teks": "3.6(C)"
+            },
+            {
+                "skill": "Find the area of rectangles: word problems",
+                "teks": "3.6(C)"
+            },
+            {
+                "skill": "Find the area of complex figures by dividing them into rectangles",
+                "teks": "3.6(D)"
+            },
+            {
+                "skill": "Find the area of complex figures",
+                "teks": "3.6(D)"
+            },
+            {
+                "skill": "Fractions of number lines: halves, fourths, and eighths",
+                "teks": "3.7(A)"
+            },
+            {
+                "skill": "Graph unit fractions on number lines",
+                "teks": "3.7(A)"
+            },
+            {
+                "skill": "Graph fractions on number lines",
+                "teks": "3.7(A)"
+            },
+            {
+                "skill": "Perimeter of figures on grids",
+                "teks": "3.7(B)"
+            },
+            {
+                "skill": "Perimeter of rectangles",
+                "teks": "3.7(B)"
+            },
+            {
+                "skill": "Perimeter of rectilinear shapes",
+                "teks": "3.7(B)"
+            },
+            {
+                "skill": "Perimeter of polygons",
+                "teks": "3.7(B)"
+            },
+            {
+                "skill": "Perimeter: find the missing side length",
+                "teks": "3.7(B)"
+            },
+            {
+                "skill": "Perimeter: word problems",
+                "teks": "3.7(B)"
+            },
+            {
+                "skill": "Compare area and perimeter of two figures",
+                "teks": "3.7(B)"
+            },
+            {
+                "skill": "Find the end time",
+                "teks": "3.7(C)"
+            },
+            {
+                "skill": "Time patterns",
+                "teks": "3.7(C)"
+            },
+            {
+                "skill": "Which customary unit of weight is appropriate?",
+                "teks": "3.7(D)"
+            },
+            {
+                "skill": "Which customary unit of volume is appropriate?",
+                "teks": "3.7(D)"
+            },
+            {
+                "skill": "Which metric unit of volume is appropriate?",
+                "teks": "3.7(D)"
+            },
+            {
+                "skill": "Choose the appropriate measuring tool",
+                "teks": "3.7(E)"
+            }
+        ],
+        "Maths - Data analysis": [
+            {
+                "skill": "Create scaled bar graphs",
+                "teks": "3.8(A)"
+            },
+            {
+                "skill": "Create scaled picture graphs",
+                "teks": "3.8(A)"
+            },
+            {
+                "skill": "Create line plots",
+                "teks": "3.8(A)"
+            },
+            {
+                "skill": "Interpret tally charts",
+                "teks": "3.8(B)"
+            },
+            {
+                "skill": "Interpret scaled bar graphs",
+                "teks": "3.8(B)"
+            },
+            {
+                "skill": "Use bar graphs to solve problems",
+                "teks": "3.8(B)"
+            },
+            {
+                "skill": "Interpret scaled picture graphs",
+                "teks": "3.8(B)"
+            },
+            {
+                "skill": "Interpret line plots",
+                "teks": "3.8(B)"
+            },
+            {
+                "skill": "Read a table",
+                "teks": "3.8(B)"
+            }
+        ],
+        "Maths - Miscellaneous": [
+            {
+                "skill": "Single Digit to Single Digit Multiplications",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication facts (0-10)",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Division concepts",
+                "teks": "3.4(H)"
+            },
+            {
+                "skill": "Division facts (0-10)",
+                "teks": "3.4(F)"
+            },
+            {
+                "skill": "Multiplication and division word problems",
+                "teks": "3.4(K)"
+            },
+            {
+                "skill": "Four-digit numbers",
+                "teks": "3.2(A)"
+            },
+            {
+                "skill": "Addition and subtraction with regrouping",
+                "teks": "3.4(A)"
+            },
+            {
+                "skill": "Introduction to fractions",
+                "teks": "3.3(A)"
+            },
+            {
+                "skill": "Equivalent fractions",
+                "teks": "3.3(F)"
+            },
+            {
+                "skill": "Comparing fractions",
+                "teks": "3.3(H)"
+            },
+            {
+                "skill": "Area and perimeter",
+                "teks": "3.6(C)"
+            },
+            {
+                "skill": "Data analysis and graphs",
+                "teks": "3.8(A)"
+            },
+            {
+                "skill": "Measurement of time, liquid volume, and mass",
+                "teks": "3.7(C)"
+            },
+            {
+                "skill": "Basic geometry: shapes and their properties",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Lines and polygons",
+                "teks": "3.6(A)"
+            },
+            {
+                "skill": "Scaled pictographs",
+                "teks": "3.8(A)"
+            },
+            {
+                "skill": "Problem-solving strategies",
+                "teks": "3.1(B)"
+            },
+            {
+                "skill": "Number patterns",
+                "teks": "3.5(E)"
+            },
+            {
+                "skill": "Place value",
+                "teks": "3.2(A)"
+            },
+            {
+                "skill": "Rounding numbers",
+                "teks": "3.2(C)"
+            }
+        ],
+        "Science": [
+            {
+                "skill": "Ecosystems and their components",
+                "teks": "3.12(B)",
+                "teks_description": "Identify and describe the flow of energy in a food chain and predict how changes affect the ecosystem"
+            },
+            {
+                "skill": "Forces and motion",
+                "teks": "3.7(B)",
+                "teks_description": "Conduct investigations demonstrating how position and motion change through pushing and pulling"
+            },
+            {
+                "skill": "Adaptations of plants and animals",
+                "teks": "3.13(A)",
+                "teks_description": "Explore and explain how external structures and functions of animals enable them to survive"
+            },
+            {
+                "skill": "Fossils and the study of the past",
+                "teks": "3.12(D)",
+                "teks_description": "Identify fossils as evidence of past organisms and environments"
+            },
+            {
+                "skill": "Climate and weather patterns",
+                "teks": "3.10(A)",
+                "teks_description": "Compare and describe day-to-day weather in different locations including air temperature, wind direction, and precipitation"
+            },
+            {
+                "skill": "The solar system",
+                "teks": "3.9(B)",
+                "teks_description": "Identify planetary order in Earth's solar system"
+            },
+            {
+                "skill": "Earth and space",
+                "teks": "3.9(A)",
+                "teks_description": "Construct models explaining orbits of the Sun, Earth, and Moon"
+            },
+            {
+                "skill": "Plant structures and functions",
+                "teks": "3.13(A)",
+                "teks_description": "Explore and explain how external structures and functions enable organisms to survive"
+            },
+            {
+                "skill": "Plant responses",
+                "teks": "3.12(A)",
+                "teks_description": "Explain how temperature and precipitation affect animal behavior and plant responses"
+            },
+            {
+                "skill": "Animal classification",
+                "teks": "3.13(B)",
+                "teks_description": "Explore, illustrate, and compare life cycles in organisms such as beetles, crickets, radishes, or lima beans"
+            },
+            {
+                "skill": "Animal adaptations",
+                "teks": "3.13(A)",
+                "teks_description": "Explore and explain how external structures and functions of animals enable them to survive"
+            },
+            {
+                "skill": "Properties of matter",
+                "teks": "3.6(A)",
+                "teks_description": "Measure, test, and record physical properties of matter, including temperature, mass, magnetism, and the ability to sink or float"
+            },
+            {
+                "skill": "Changes in matter",
+                "teks": "3.6(C)",
+                "teks_description": "Predict and record state changes caused by heating or cooling"
+            },
+            {
+                "skill": "Forms of energy: motion, heat, and light",
+                "teks": "3.8(A)",
+                "teks_description": "Identify everyday energy examples including light, sound, thermal, and mechanical"
+            },
+            {
+                "skill": "Gravity",
+                "teks": "3.7(A)",
+                "teks_description": "Demonstrate and describe forces acting on an object including magnetism, gravity, and pushes and pulls"
+            },
+            {
+                "skill": "Stars",
+                "teks": "3.9(A)",
+                "teks_description": "Construct models explaining orbits of the Sun, Earth, and Moon (celestial bodies)"
+            },
+            {
+                "skill": "Electricity and magnetism",
+                "teks": "3.7(A)",
+                "teks_description": "Demonstrate and describe forces acting on an object including magnetism, gravity, and pushes and pulls"
+            },
+            {
+                "skill": "Heat and light",
+                "teks": "3.8(A)",
+                "teks_description": "Identify everyday energy examples including light, sound, thermal, and mechanical"
+            },
+            {
+                "skill": "Scientific investigations",
+                "teks": "3.1(B)",
+                "teks_description": "Apply scientific practices to plan investigations and engineering practices for problem-solving"
+            },
+            {
+                "skill": "Making predictions",
+                "teks": "3.5(B)",
+                "teks_description": "Investigate cause-and-effect relationships"
+            }
+        ]
+    }
+}

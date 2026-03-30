@@ -1,0 +1,61 @@
+{
+  "grade": "AP - Statistics",
+  "subject": "Inference for Categorical Data: Proportions",
+  "skills": [
+    {
+      "skill": "6.1 Introducing Statistics: Why Be Normal?",
+      "ref": "VAR-1.H",
+      "prompt": "This topic introduces the rationale for normal-based inference for AP Statistics (CED: VAR-1.H, Unit 6, Topic 6.1). Normal distributions arise naturally in sampling distributions (via CLT), making them the foundation for inference procedures. Key concepts: the sampling distribution of a statistic must be approximately normal for z-based procedures to be valid; checking conditions (Large Counts, sample size) ensures this approximation is reasonable; the normal model allows us to quantify how unusual a sample result is. This topic connects the probability foundations (Units 4-5) to the inference procedures that follow. Students should understand why checking conditions is essential before performing inference. AP exam note: always check and state conditions before performing inference procedures. Skipping conditions loses points on free-response. Vocabulary: inference, normal approximation, conditions, sampling distribution, z-procedure, Central Limit Theorem."
+    },
+    {
+      "skill": "6.2 Constructing a Confidence Interval for a Population Proportion",
+      "ref": "UNC-4.A, UNC-4.B, UNC-4.C",
+      "prompt": "This topic covers one-proportion z-intervals for AP Statistics (CED: UNC-4.A, UNC-4.B, UNC-4.C, Unit 6, Topic 6.2). The confidence interval for p is p-hat +/- z* * sqrt(p-hat(1-p-hat)/n). Conditions: random sample/assignment, Large Counts (n*p-hat >= 10 and n*(1-p-hat) >= 10), and 10% condition. Key concepts: the confidence level (e.g., 95%) means that if we repeated the sampling process many times, about 95% of the resulting intervals would capture the true p; z* is the critical value (1.96 for 95%); the margin of error z*sqrt(p-hat(1-p-hat)/n) quantifies precision. Students should construct and interpret confidence intervals in context. AP exam note: interpretation must say 'We are 95% confident that the true proportion of [context] is between [lower] and [upper].' NOT 'There is a 95% probability.' Vocabulary: confidence interval, margin of error, critical value, confidence level, sample proportion, interpret, conditions."
+    },
+    {
+      "skill": "6.3 Justifying a Claim Based on a Confidence Interval for a Population Proportion",
+      "ref": "UNC-4.D, UNC-4.E",
+      "prompt": "This topic covers using confidence intervals to justify claims for AP Statistics (CED: UNC-4.D, UNC-4.E, Unit 6, Topic 6.3). A confidence interval can be used to assess a claim about a population proportion: if the claimed value is within the interval, the data is consistent with the claim; if outside, the data provides evidence against the claim. Key concepts: a 95% CI is related to a two-sided test at alpha = 0.05; if p0 is not in the CI, we reject H0: p = p0 at the corresponding alpha level; wider intervals (higher confidence) are less likely to exclude p0. Students should use CIs to evaluate claims and understand the connection between CIs and significance tests. AP exam note: students should clearly state whether the claimed value falls inside or outside the interval and draw the appropriate conclusion. Vocabulary: confidence interval, claim, justification, reject, consistent, evidence, significance level, two-sided."
+    },
+    {
+      "skill": "6.4 Setting Up a Test for a Population Proportion",
+      "ref": "VAR-6.D, VAR-6.E",
+      "prompt": "This topic covers setting up a one-proportion z-test for AP Statistics (CED: VAR-6.D, VAR-6.E, Unit 6, Topic 6.4). Steps: (1) state hypotheses: H0: p = p0 (null) and Ha: p < p0, p > p0, or p != p0 (alternative); (2) check conditions: random, Large Counts (np0 >= 10 and n(1-p0) >= 10, using p0 not p-hat), 10% condition; (3) identify the test (one-proportion z-test). Key concepts: H0 represents no effect/difference; Ha represents the claim to be tested; the significance level alpha (typically 0.05) is the threshold for evidence; one-sided vs. two-sided tests depend on the research question. Students should write hypotheses using proper notation and check conditions. AP exam note: hypotheses must use parameter notation (p, not p-hat) and be stated in context. Conditions use p0 for the Large Counts check. Vocabulary: null hypothesis, alternative hypothesis, significance level, one-sided, two-sided, conditions, z-test."
+    },
+    {
+      "skill": "6.5 Interpreting p-Values",
+      "ref": "DAT-3.A, DAT-3.B",
+      "prompt": "This topic covers interpreting p-values for AP Statistics (CED: DAT-3.A, DAT-3.B, Unit 6, Topic 6.5). The p-value is the probability of obtaining a result as extreme as (or more extreme than) the observed statistic, assuming H0 is true. Key concepts: small p-value (typically < alpha = 0.05) provides evidence against H0; large p-value means the data is consistent with H0 (but does not prove H0); the p-value is NOT the probability that H0 is true; the p-value is calculated assuming H0 is true. Students should interpret p-values in context: 'Assuming the true proportion is p0, the probability of observing a sample proportion as extreme as p-hat is [p-value].' AP exam note: correct p-value interpretation is essential. Common errors: saying p-value is 'the probability H0 is true' or 'the probability of the event occurring.' Vocabulary: p-value, extreme, assuming H0 true, evidence, significance, probability, interpretation."
+    },
+    {
+      "skill": "6.6 Concluding a Test for a Population Proportion",
+      "ref": "DAT-3.C",
+      "prompt": "This topic covers drawing conclusions from hypothesis tests for AP Statistics (CED: DAT-3.C, Unit 6, Topic 6.6). Decision rule: if p-value <= alpha, reject H0 (sufficient evidence for Ha); if p-value > alpha, fail to reject H0 (insufficient evidence for Ha). Key concepts: 'fail to reject' is not the same as 'accept H0'; conclusions should be stated in context; always link the conclusion to the p-value and alpha comparison. Template: 'Since the p-value of [value] is less than alpha = 0.05, we reject H0. There is convincing evidence that [Ha in context].' Or: 'Since the p-value of [value] is greater than alpha = 0.05, we fail to reject H0. There is not convincing evidence that [Ha in context].' AP exam note: conclusions must be in context and reference the p-value/alpha comparison. Never say 'accept H0.' Vocabulary: reject, fail to reject, conclusion, context, p-value, alpha, convincing evidence, insufficient evidence."
+    },
+    {
+      "skill": "6.7 Potential Errors When Performing Tests",
+      "ref": "UNC-5.A, UNC-5.B, UNC-5.C, UNC-5.D",
+      "prompt": "This topic covers Type I and Type II errors and power for AP Statistics (CED: UNC-5.A, UNC-5.B, UNC-5.C, UNC-5.D, Unit 6, Topic 6.7). Type I error: rejecting H0 when H0 is true (false positive, probability = alpha). Type II error: failing to reject H0 when H0 is false (false negative, probability = beta). Power = 1 - beta = probability of correctly rejecting H0 when it is false. Key concepts: increasing alpha increases power but also increases Type I error risk; increasing n increases power and decreases both error probabilities; the effect size (how far the true parameter is from p0) affects power. Students should describe errors in context and understand the tradeoffs. AP exam note: describe errors in context: 'A Type I error would mean concluding that [Ha] when in fact [H0 is true].' Power and error relationships are commonly tested. Vocabulary: Type I error, Type II error, alpha, beta, power, false positive, false negative, sample size, effect size."
+    },
+    {
+      "skill": "6.8 Confidence Intervals for the Difference of Two Proportions",
+      "ref": "UNC-4.F, UNC-4.G, UNC-4.H",
+      "prompt": "This topic covers two-proportion z-intervals for AP Statistics (CED: UNC-4.F, UNC-4.G, UNC-4.H, Unit 6, Topic 6.8). The CI for p1-p2 is (p-hat_1 - p-hat_2) +/- z* * sqrt(p-hat_1(1-p-hat_1)/n_1 + p-hat_2(1-p-hat_2)/n_2). Conditions: random samples/assignment for both groups, Large Counts for both (n_i*p-hat_i >= 10 and n_i*(1-p-hat_i) >= 10), 10% condition for both, independence between groups. Key concepts: if 0 is in the interval, there is no significant difference; the interval estimates the true difference p1-p2. AP exam note: interpretation should reference the difference: 'We are 95% confident that the true difference in proportions is between [lower] and [upper].' Check all conditions for both groups. Vocabulary: two-proportion z-interval, difference in proportions, margin of error, conditions, independent samples, confidence."
+    },
+    {
+      "skill": "6.9 Justifying a Claim Based on a Confidence Interval for a Difference of Population Proportions",
+      "ref": "UNC-4.I, UNC-4.J",
+      "prompt": "This topic covers using two-proportion CIs to justify claims for AP Statistics (CED: UNC-4.I, UNC-4.J, Unit 6, Topic 6.9). If the CI for p1-p2 does not contain 0, there is evidence of a difference; if it contains 0, there is not convincing evidence of a difference. Key concepts: the direction of the difference matters (if the entire interval is positive, p1 > p2; if negative, p1 < p2); CIs provide more information than tests alone (they estimate the size of the difference, not just whether it exists). Students should use two-proportion CIs to evaluate claims about differences and interpret results in context. AP exam note: students should clearly state whether 0 is in the interval and draw the appropriate conclusion about the difference. Vocabulary: confidence interval, difference, claim, contains zero, evidence, direction, magnitude."
+    },
+    {
+      "skill": "6.10 Setting Up a Test for the Difference of Two Population Proportions",
+      "ref": "VAR-6.F, VAR-6.G, VAR-6.H",
+      "prompt": "This topic covers setting up a two-proportion z-test for AP Statistics (CED: VAR-6.F, VAR-6.G, VAR-6.H, Unit 6, Topic 6.10). Hypotheses: H0: p1 = p2 (or p1 - p2 = 0) vs. Ha: p1 < p2, p1 > p2, or p1 != p2. Under H0, use the pooled proportion p-hat_c = (X1+X2)/(n1+n2) for the standard error and condition checks. Conditions: random, Large Counts (using p-hat_c: n1*p-hat_c >= 10, n1*(1-p-hat_c) >= 10, and same for n2), 10%, independent groups. Key concepts: the pooled proportion combines both samples under the assumption H0 is true (p1 = p2); the test statistic z = (p-hat_1 - p-hat_2)/sqrt(p-hat_c(1-p-hat_c)(1/n1 + 1/n2)). AP exam note: using the pooled proportion for the test (not the CI) is important. Hypotheses use p1 and p2, not p-hat. Vocabulary: two-proportion z-test, pooled proportion, null hypothesis, alternative, conditions, test statistic."
+    },
+    {
+      "skill": "6.11 Carrying Out a Test for the Difference of Two Population Proportions",
+      "ref": "VAR-6.I, VAR-6.J, VAR-6.K, DAT-3.D",
+      "prompt": "This topic covers carrying out and concluding a two-proportion z-test for AP Statistics (CED: VAR-6.I, VAR-6.J, VAR-6.K, DAT-3.D, Unit 6, Topic 6.11). After setup: compute the pooled proportion p-hat_c, the test statistic z, and the p-value from the standard normal distribution. Compare p-value to alpha and draw a conclusion in context. Key steps: (1) state hypotheses and check conditions (Topic 6.10); (2) compute z = (p-hat_1-p-hat_2)/SE with pooled SE; (3) find p-value; (4) conclude: 'Since p-value [< or >] alpha, we [reject/fail to reject] H0. There is [convincing/not convincing] evidence that [Ha in context].' Students should carry out the complete procedure and communicate results clearly. AP exam note: all four steps (hypotheses, conditions, calculations, conclusion) must be present for full credit on free-response questions. Vocabulary: two-proportion z-test, pooled proportion, test statistic, p-value, conclusion, reject, fail to reject, context."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "grade": "Grade 5",
+  "subject": "Maths - Algebraic reasoning",
+  "skills": [
+    {
+      "skill": "Prime and composite numbers",
+      "teks": "5.4(A)",
+      "prompt": "This topic covers prime and composite numbers for Grade 5 students (TEKS 5.4(A)). Students should understand how to classify whole numbers as prime or composite based on their factors. Key concepts: a prime number has exactly two factors (1 and itself); a composite number has more than two factors; 1 is neither prime nor composite; 2 is the only even prime number; students can test if a number is prime by checking for divisibility by numbers up to its square root. Vocabulary: prime, composite, factor, divisible, multiple, product, whole number, classify, divisibility rules, sieve of Eratosthenes. Students should practice identifying prime and composite numbers and explaining their reasoning. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multi-step word problems",
+      "teks": "5.4(B)",
+      "prompt": "This topic covers multi-step word problems for Grade 5 students (TEKS 5.4(B)). Students should understand how to solve word problems that require two or more operations. Key concepts: read carefully to identify what is being asked; determine the operations needed and their order; use estimation to check if answers are reasonable; strip diagrams and equations can help organize thinking; problems may involve all four operations and may include whole numbers, fractions, or decimals. Vocabulary: multi-step, operation, equation, variable, estimate, reasonable, strategy, sum, difference, product, quotient, solve, interpret, remainder. Problems should involve realistic scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multi-step word problems involving remainders",
+      "teks": "5.4(B)",
+      "prompt": "This topic covers multi-step word problems for Grade 5 students (TEKS 5.4(B)). Students should understand how to solve word problems that require two or more operations. Key concepts: read carefully to identify what is being asked; determine the operations needed and their order; use estimation to check if answers are reasonable; strip diagrams and equations can help organize thinking; problems may involve all four operations and may include whole numbers, fractions, or decimals. Vocabulary: multi-step, operation, equation, variable, estimate, reasonable, strategy, sum, difference, product, quotient, solve, interpret, remainder. Problems should involve realistic scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Which value makes the equation true?",
+      "teks": "5.4(B)",
+      "prompt": "This topic covers finding which value makes an equation true for Grade 5 students (TEKS 5.4(B)). Students should understand how to test values to determine which one satisfies a given equation. Key concepts: substitute each possible value into the equation and check if both sides are equal; use inverse operations to solve for the unknown; understand that an equation is a statement of equality; a solution is a value that makes the equation true. Vocabulary: equation, value, solution, substitute, true, false, equal, variable, unknown, check, verify, satisfy, inverse operation. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Represent multi-step problems using equations",
+      "teks": "5.4(B)",
+      "prompt": "This topic covers Represent multi-step problems using equations for Grade 5 students (TEKS 5.4(B)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Compare patterns",
+      "teks": "5.4(D)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 5 students (TEKS 5.4(D)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete a table for a two-variable relationship",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers two-variable relationships for Grade 5 students (TEKS 5.4(C)). Students should understand how to represent relationships between two quantities using tables, graphs, and equations. Key concepts: one variable depends on the other (independent and dependent variables); the relationship can be expressed as a rule or equation (e.g., y = 2x + 1); tables show corresponding values; graphs plot the ordered pairs on a coordinate plane; students should move fluently between representations. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, rule, relationship, independent, dependent, input, output, pattern. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete a table from a graph",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers Complete a table from a graph for Grade 5 students (TEKS 5.4(C)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Graph patterns using rules",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 5 students (TEKS 5.4(C)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete an input/output table",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 5 students (TEKS 5.4(C)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Write a two-variable equation",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers two-variable relationships for Grade 5 students (TEKS 5.4(C)). Students should understand how to represent relationships between two quantities using tables, graphs, and equations. Key concepts: one variable depends on the other (independent and dependent variables); the relationship can be expressed as a rule or equation (e.g., y = 2x + 1); tables show corresponding values; graphs plot the ordered pairs on a coordinate plane; students should move fluently between representations. Vocabulary: variable, equation, table, graph, ordered pair, coordinate plane, rule, relationship, independent, dependent, input, output, pattern. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Find pattern rules from graphs",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers patterns and input/output tables for Grade 5 students (TEKS 5.4(C)). Students should understand how to identify, describe, and extend patterns using rules and tables. Key concepts: a pattern follows a consistent rule; input/output tables show the relationship between input values and their corresponding output values; the rule can involve one or more operations (add, subtract, multiply, divide); students should identify the rule from given pairs and use it to find missing values; patterns can be represented with tables, graphs, and equations. Vocabulary: pattern, rule, input, output, table, relationship, sequence, extend, predict, operation, function. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Find the rule from a table: word problems",
+      "teks": "5.4(C)",
+      "prompt": "This topic covers Find the rule from a table: word problems for Grade 5 students (TEKS 5.4(C)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Write numerical expressions: two operations",
+      "teks": "5.4(E)",
+      "prompt": "This topic covers writing numerical expressions for Grade 5 students (TEKS 5.4(E)). Students should understand how to translate verbal descriptions of calculations into mathematical expressions using numbers, operations, and grouping symbols. Key concepts: identify the operations described in words; use parentheses to show which operations should be performed first; 'the sum of' means addition, 'the product of' means multiplication, 'the difference between' means subtraction, 'the quotient of' means division; expressions may involve two or more operations. Vocabulary: expression, operation, parentheses, sum, difference, product, quotient, translate, verbal, numerical, grouping symbols, write. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Identify mistakes involving the order of operations",
+      "teks": "5.4(F)",
+      "prompt": "This topic covers evaluating numerical expressions using the order of operations for Grade 5 students (TEKS 5.4(F)). Students should understand that mathematical expressions must be evaluated in a specific order. Key concepts: the order of operations is Parentheses/Brackets first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); parentheses and brackets change the order in which operations are performed; the same numbers with the same operations can give different results depending on where parentheses are placed. Vocabulary: order of operations, parentheses, brackets, evaluate, expression, exponent, operation, simplify, PEMDAS, grouping symbols. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions with and without parentheses",
+      "teks": "5.4(F)",
+      "prompt": "This topic covers evaluating numerical expressions using the order of operations for Grade 5 students (TEKS 5.4(F)). Students should understand that mathematical expressions must be evaluated in a specific order. Key concepts: the order of operations is Parentheses/Brackets first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); parentheses and brackets change the order in which operations are performed; the same numbers with the same operations can give different results depending on where parentheses are placed. Vocabulary: order of operations, parentheses, brackets, evaluate, expression, exponent, operation, simplify, PEMDAS, grouping symbols. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions with parentheses",
+      "teks": "5.4(F)",
+      "prompt": "This topic covers evaluating numerical expressions using the order of operations for Grade 5 students (TEKS 5.4(F)). Students should understand that mathematical expressions must be evaluated in a specific order. Key concepts: the order of operations is Parentheses/Brackets first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); parentheses and brackets change the order in which operations are performed; the same numbers with the same operations can give different results depending on where parentheses are placed. Vocabulary: order of operations, parentheses, brackets, evaluate, expression, exponent, operation, simplify, PEMDAS, grouping symbols. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions with parentheses and brackets",
+      "teks": "5.4(F)",
+      "prompt": "This topic covers evaluating numerical expressions using the order of operations for Grade 5 students (TEKS 5.4(F)). Students should understand that mathematical expressions must be evaluated in a specific order. Key concepts: the order of operations is Parentheses/Brackets first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); parentheses and brackets change the order in which operations are performed; the same numbers with the same operations can give different results depending on where parentheses are placed. Vocabulary: order of operations, parentheses, brackets, evaluate, expression, exponent, operation, simplify, PEMDAS, grouping symbols. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions with parentheses in different places",
+      "teks": "5.4(F)",
+      "prompt": "This topic covers evaluating numerical expressions using the order of operations for Grade 5 students (TEKS 5.4(F)). Students should understand that mathematical expressions must be evaluated in a specific order. Key concepts: the order of operations is Parentheses/Brackets first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right); parentheses and brackets change the order in which operations are performed; the same numbers with the same operations can give different results depending on where parentheses are placed. Vocabulary: order of operations, parentheses, brackets, evaluate, expression, exponent, operation, simplify, PEMDAS, grouping symbols. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Volume of rectangular prisms made of unit cubes",
+      "teks": "5.4(G)",
+      "prompt": "This topic covers volume of rectangular prisms and cubes for Grade 5 students (TEKS 5.4(G)). Students should understand volume as a measure of the space inside a 3D figure. Key concepts: volume of a rectangular prism = length x width x height (V = lwh); volume of a cube = side^3 (V = s^3); volume is measured in cubic units; students should connect counting unit cubes to using the formula; packing layers of unit cubes demonstrates why the formula works. Vocabulary: volume, rectangular prism, cube, length, width, height, cubic units, formula, three-dimensional, space, layer, unit cube, capacity. Problems should include both computation and word problems appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Volume of rectangular prisms",
+      "teks": "5.4(G)",
+      "prompt": "This topic covers volume of rectangular prisms and cubes for Grade 5 students (TEKS 5.4(G)). Students should understand volume as a measure of the space inside a 3D figure. Key concepts: volume of a rectangular prism = length x width x height (V = lwh); volume of a cube = side^3 (V = s^3); volume is measured in cubic units; students should connect counting unit cubes to using the formula; packing layers of unit cubes demonstrates why the formula works. Vocabulary: volume, rectangular prism, cube, length, width, height, cubic units, formula, three-dimensional, space, layer, unit cube, capacity. Problems should include both computation and word problems appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Perimeter with whole number side lengths",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers Perimeter with whole number side lengths for Grade 5 students (TEKS 5.4(H)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Perimeter with decimal side lengths",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers Perimeter with decimal side lengths for Grade 5 students (TEKS 5.4(H)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Perimeter with fractional side lengths",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers Perimeter with fractional side lengths for Grade 5 students (TEKS 5.4(H)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Perimeter of figures on grids",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers Perimeter of figures on grids for Grade 5 students (TEKS 5.4(H)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Area of squares and rectangles",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers Area of squares and rectangles for Grade 5 students (TEKS 5.4(H)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Area of compound figures",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers area of complex (compound) figures for Grade 5 students (TEKS 5.4(H)). Students should understand how to find the area of shapes that combine multiple rectangles or other simple figures. Key concepts: decompose the complex figure into non-overlapping simple shapes (usually rectangles); find the area of each simple shape using the appropriate formula; add the individual areas to find the total area; alternatively, enclose the figure in a larger rectangle and subtract unused regions. Vocabulary: complex figure, compound figure, decompose, area, rectangle, subtract, add, total, strategy, non-overlapping, composite. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Area of figures on grids",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers Area of figures on grids for Grade 5 students (TEKS 5.4(H)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Area and perimeter: word problems",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers perimeter word problems for Grade 5 students (TEKS 5.4(H)). Students should apply their understanding of perimeter to solve real-world problems. Key concepts: identify the shape and its dimensions from the problem context; apply the appropriate perimeter formula or add all side lengths; answer the question asked (which may involve finding perimeter, a missing side, or the amount of material needed); multi-step problems may require additional operations. Vocabulary: perimeter, distance around, fence, border, frame, edge, length, width, side, total, formula, units. Problems should involve realistic contexts like fencing a yard, framing a picture, or walking around a field, appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Volume of cubes and rectangular prisms",
+      "teks": "5.4(G)",
+      "prompt": "This topic covers volume of rectangular prisms and cubes for Grade 5 students (TEKS 5.4(G)). Students should understand volume as a measure of the space inside a 3D figure. Key concepts: volume of a rectangular prism = length x width x height (V = lwh); volume of a cube = side^3 (V = s^3); volume is measured in cubic units; students should connect counting unit cubes to using the formula; packing layers of unit cubes demonstrates why the formula works. Vocabulary: volume, rectangular prism, cube, length, width, height, cubic units, formula, three-dimensional, space, layer, unit cube, capacity. Problems should include both computation and word problems appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Volume of cubes and rectangular prisms: word problems",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers volume of rectangular prisms and cubes for Grade 5 students (TEKS 5.4(H)). Students should understand volume as a measure of the space inside a 3D figure. Key concepts: volume of a rectangular prism = length x width x height (V = lwh); volume of a cube = side^3 (V = s^3); volume is measured in cubic units; students should connect counting unit cubes to using the formula; packing layers of unit cubes demonstrates why the formula works. Vocabulary: volume, rectangular prism, cube, length, width, height, cubic units, formula, three-dimensional, space, layer, unit cube, capacity. Problems should include both computation and word problems appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Volume of cubes and rectangular prisms with decimal side lengths",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers volume of rectangular prisms and cubes for Grade 5 students (TEKS 5.4(H)). Students should understand volume as a measure of the space inside a 3D figure. Key concepts: volume of a rectangular prism = length x width x height (V = lwh); volume of a cube = side^3 (V = s^3); volume is measured in cubic units; students should connect counting unit cubes to using the formula; packing layers of unit cubes demonstrates why the formula works. Vocabulary: volume, rectangular prism, cube, length, width, height, cubic units, formula, three-dimensional, space, layer, unit cube, capacity. Problems should include both computation and word problems appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Area of rectangles with a fractional side",
+      "teks": "5.4(H)",
+      "prompt": "This topic covers Area of rectangles with a fractional side for Grade 5 students (TEKS 5.4(H)) in the area of algebraic reasoning. Students should understand fundamental algebraic concepts including writing and evaluating expressions, solving equations, identifying patterns, and representing relationships using tables, graphs, and formulas. Key skills include translating between verbal descriptions and mathematical representations, using variables and symbols, and applying properties of operations. Vocabulary related to algebra, patterns, and equations should be explicitly taught. Problems should be developmentally appropriate for 10-11 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Volume of rectangular prisms",
+      "teks": "5.4(G)",
+      "prompt": "This topic covers volume of rectangular prisms and cubes for Grade 5 students (TEKS 5.4(G)). Students should understand volume as a measure of the space inside a 3D figure. Key concepts: volume of a rectangular prism = length x width x height (V = lwh); volume of a cube = side^3 (V = s^3); volume is measured in cubic units; students should connect counting unit cubes to using the formula; packing layers of unit cubes demonstrates why the formula works. Vocabulary: volume, rectangular prism, cube, length, width, height, cubic units, formula, three-dimensional, space, layer, unit cube, capacity. Problems should include both computation and word problems appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Volume of cubes",
+      "teks": "5.4(G)",
+      "prompt": "This topic covers volume of rectangular prisms and cubes for Grade 5 students (TEKS 5.4(G)). Students should understand volume as a measure of the space inside a 3D figure. Key concepts: volume of a rectangular prism = length x width x height (V = lwh); volume of a cube = side^3 (V = s^3); volume is measured in cubic units; students should connect counting unit cubes to using the formula; packing layers of unit cubes demonstrates why the formula works. Vocabulary: volume, rectangular prism, cube, length, width, height, cubic units, formula, three-dimensional, space, layer, unit cube, capacity. Problems should include both computation and word problems appropriate for 10-11 year olds."
+    }
+  ]
+}

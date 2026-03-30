@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Differentiation: Composite, Implicit, and Inverse Functions",
+  "skills": [
+    {
+      "skill": "Analysis of Functions: The Chain Rule",
+      "ref": "FUN-3.C",
+      "prompt": "This topic covers the Chain Rule for AP Calculus BC (CED: FUN-3.C, Unit 3). If y = f(g(x)), then dy/dx = f'(g(x))*g'(x). In Leibniz notation: dy/dx = (dy/du)(du/dx). Key concepts: identify outer and inner functions, apply the Chain Rule with all function types, combine with Product and Quotient Rules. BC students use the Chain Rule extensively in parametric differentiation (dy/dx = (dy/dt)/(dx/dt) is a Chain Rule application), polar differentiation, implicit differentiation, and when differentiating series representations. The Chain Rule also appears in u-substitution (its integration counterpart). AP exam note: the Chain Rule is arguably the most important differentiation rule and appears in virtually every BC differentiation problem. Vocabulary: Chain Rule, composition, outer function, inner function, nested, Leibniz notation, parametric."
+    },
+    {
+      "skill": "Analysis of Functions: Implicit Differentiation",
+      "ref": "FUN-3.D",
+      "prompt": "This topic covers implicit differentiation for AP Calculus BC (CED: FUN-3.D, Unit 3). For relations defined implicitly (e.g., x^2 + y^2 = 25), differentiate both sides with respect to x, applying the Chain Rule to y-terms (multiply by dy/dx), then solve for dy/dx. BC students use implicit differentiation for: finding slopes of tangent lines to implicit curves, related rates problems, analyzing implicit relations (Topic 5.12), and working with polar curves where implicit relationships arise. Second implicit derivatives require differentiating dy/dx again, substituting the first derivative expression. AP exam note: implicit differentiation appears in BC free-response, often in conjunction with related rates or analysis of implicit relations. Students must show clear use of the Chain Rule on y-terms. Vocabulary: implicit differentiation, implicit relation, Chain Rule, dy/dx, tangent line, second derivative."
+    },
+    {
+      "skill": "Analysis of Functions: Differentiating Inverse Functions",
+      "ref": "FUN-3.D",
+      "prompt": "This topic covers differentiating inverse functions for AP Calculus BC (CED: FUN-3.D, Unit 3). If g = f^(-1), then g'(x) = 1/f'(g(x)), provided f'(g(x)) != 0. Equivalently, (f^(-1))'(b) = 1/f'(a) where f(a) = b. Key concepts: the derivative of an inverse at a point is the reciprocal of the original function's derivative at the corresponding point; graphically, slopes at corresponding points on f and f^(-1) are reciprocals (reflection over y = x). BC students use this for deriving inverse trig derivatives and understanding relationships between function-inverse pairs in various contexts. AP exam note: questions often provide tabular data for f and f' and ask for derivatives of f^(-1) at specific points. Vocabulary: inverse function, one-to-one, reciprocal, corresponding points, reflection, derivative of inverse."
+    },
+    {
+      "skill": "Analysis of Functions: Differentiating Inverse Trigonometric Functions",
+      "ref": "FUN-3.E",
+      "prompt": "This topic covers inverse trig derivatives for AP Calculus BC (CED: FUN-3.E, Unit 3). Key formulas: d/dx[arcsin x] = 1/sqrt(1-x^2), d/dx[arccos x] = -1/sqrt(1-x^2), d/dx[arctan x] = 1/(1+x^2). With Chain Rule: d/dx[arctan(u)] = u'/(1+u^2). BC students use these in both differentiation and integration contexts: recognizing 1/(1+x^2) as the derivative of arctan(x) is crucial for integration. The arctan derivative appears in series (Maclaurin series for arctan: sum((-1)^n x^(2n+1)/(2n+1))). Students should know domains and ranges of inverse trig functions. AP exam note: inverse trig derivatives and their integral counterparts are commonly tested. BC students should recognize these forms fluently for antidifferentiation. Vocabulary: inverse trigonometric, arcsine, arctan, restricted domain, Chain Rule, integration connection."
+    },
+    {
+      "skill": "Analysis of Functions: Selecting Procedures for Calculating Derivatives",
+      "ref": "FUN-3.C, FUN-3.D, FUN-3.E",
+      "prompt": "This topic covers selecting differentiation procedures for AP Calculus BC (CED: FUN-3.C, FUN-3.D, FUN-3.E, Unit 3). Students identify which rules apply based on function structure: Power Rule, Product Rule, Quotient Rule, Chain Rule, implicit differentiation, or inverse function formulas. Often multiple rules combine. Strategy: identify the outermost operation and apply the corresponding rule first. BC students face more complex combinations involving parametric derivatives (dy/dx = (dy/dt)/(dx/dt)), polar derivatives (using Product Rule for x = r cos(theta)), and derivatives of series representations. AP exam note: efficient procedure selection is critical for the BC exam's broader scope. Students should practice with mixed problem sets requiring multiple techniques. Vocabulary: procedure selection, combined rules, parametric, polar, implicit, efficiency, strategy."
+    },
+    {
+      "skill": "Analysis of Functions: Calculating Higher-Order Derivatives",
+      "ref": "FUN-3.F",
+      "prompt": "This topic covers higher-order derivatives for AP Calculus BC (CED: FUN-3.F, Unit 3). The second derivative f''(x) = d/dx[f'(x)] relates to concavity (f'' > 0: concave up; f'' < 0: concave down) and acceleration. Higher derivatives cycle for trig functions (period 4) and eventually vanish for polynomials. BC students compute higher-order derivatives in parametric contexts: d^2y/dx^2 = (d/dt[dy/dx])/(dx/dt), which requires careful application of the Quotient Rule. Higher derivatives also appear in Taylor polynomial coefficients: the nth coefficient is f^(n)(a)/n!. AP exam note: second derivatives in parametric form are commonly tested on BC exams. Students must use the correct formula and not simply take d^2y/dt^2 / d^2x/dt^2. Vocabulary: second derivative, higher-order, concavity, acceleration, parametric second derivative, Taylor coefficient."
+    }
+  ]
+}

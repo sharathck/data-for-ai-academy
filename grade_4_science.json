@@ -1,0 +1,126 @@
+{
+  "grade": "Grade 4",
+  "subject": "Science",
+  "skills": [
+    {
+      "skill": "States of matter (solid, liquid, gas)",
+      "teks": "4.6(A)",
+      "teks_description": "Classify and describe matter using observable properties",
+      "prompt": "This topic covers the states of matter (solid, liquid, gas) for Grade 4 students (TEKS 4.6(A)). The TEKS standard states: Classify and describe matter using observable properties. Students should understand that matter exists in three common states and that each state has distinct observable properties. Key concepts: solids have a definite shape and volume, liquids have a definite volume but take the shape of their container, gases have neither definite shape nor volume and expand to fill their container. Students should understand that temperature changes can cause matter to change state (melting, freezing, evaporation, condensation). Vocabulary: matter, solid, liquid, gas, properties, volume, shape, temperature, melting point, boiling point, freezing point, evaporation, condensation. Students should be able to classify everyday materials by their state and describe the particle arrangement in each state. Activities should involve observing and comparing properties of different states and predicting state changes. Problems should be appropriate for 9-10 year olds and connect to real-world examples like ice melting, water boiling, and air filling a balloon."
+    },
+    {
+      "skill": "Properties of matter",
+      "teks": "4.6(A)",
+      "teks_description": "Classify and describe matter using observable properties",
+      "prompt": "This topic covers properties of matter for Grade 4 students (TEKS 4.6(A)). The TEKS standard states: Classify and describe matter using observable properties. Students should understand that matter can be described and classified using observable and measurable physical properties. Key concepts: mass, volume, density, color, texture, hardness, flexibility, magnetism, solubility, and conductivity. Students should distinguish between physical properties that can be observed (color, shape, texture) and those that must be measured (mass, volume, temperature). They should understand that physical properties can be used to identify, classify, and compare different substances. Vocabulary: matter, property, mass, volume, density, texture, hardness, magnetism, solubility, conductivity, classify, observe, measure. Students should practice describing substances using multiple properties and sorting materials into groups based on shared characteristics. Problems should include hands-on observation scenarios and comparison tasks appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Matter and mass",
+      "teks": "4.6(C)",
+      "teks_description": "Demonstrate matter conservation",
+      "prompt": "This topic covers matter and mass conservation for Grade 4 students (TEKS 4.6(C)). The TEKS standard states: Demonstrate matter conservation. Students should understand the law of conservation of matter: matter is neither created nor destroyed in ordinary physical and chemical changes. Key concepts: mass remains constant when matter changes form (e.g., ice melting into water), mass is conserved in chemical reactions (e.g., combining baking soda and vinegar), and the total mass of a closed system does not change. Students should be able to predict and verify that the mass before and after a change remains the same using a balance. Vocabulary: matter, mass, conservation, physical change, chemical change, balance, closed system, reaction. Activities should involve measuring mass before and after changes. Problems should be grade-appropriate for 9-10 year olds and include real-world examples."
+    },
+    {
+      "skill": "Heat and thermal energy",
+      "teks": "4.8(A)",
+      "teks_description": "Investigate energy transfer",
+      "prompt": "This topic covers heat and thermal energy for Grade 4 students (TEKS 4.8(A)). The TEKS standard states: Investigate energy transfer. Students should understand that thermal energy (heat) is the energy of moving particles in matter and that heat transfers from warmer objects to cooler objects. Key concepts: conduction (heat transfer through direct contact), convection (heat transfer through fluid movement), radiation (heat transfer through electromagnetic waves), and insulators versus conductors. Students should understand that temperature measures the average kinetic energy of particles. Vocabulary: thermal energy, heat, temperature, conduction, convection, radiation, conductor, insulator, kinetic energy, transfer, thermometer. Students should explore real-world examples like metal spoons heating up in soup (conduction), warm air rising (convection), and sunshine warming skin (radiation). Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Physical and chemical changes",
+      "teks": "4.6(B)",
+      "teks_description": "Investigate and compare mixtures",
+      "prompt": "This topic covers physical and chemical changes for Grade 4 students (TEKS 4.6(B)). The TEKS standard states: Investigate and compare mixtures. Students should understand the difference between physical changes (changes in appearance without forming new substances) and chemical changes (changes that produce new substances with different properties). Key concepts: physical changes include cutting, melting, dissolving, and changes of state; chemical changes include burning, rusting, cooking, and combining substances that produce gas, color change, or temperature change. Signs of chemical change: gas production, color change, temperature change, new odor, precipitate formation. Vocabulary: physical change, chemical change, reversible, irreversible, substance, reaction, evidence, property. Students should be able to identify whether a change is physical or chemical and cite evidence. Problems should include everyday scenarios appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Mixtures and solutions",
+      "teks": "4.6(B)",
+      "teks_description": "Investigate and compare mixtures",
+      "prompt": "This topic covers mixtures and solutions for Grade 4 students (TEKS 4.6(B)). The TEKS standard states: Investigate and compare mixtures. Students should understand that a mixture is a combination of two or more substances that are not chemically combined and retain their individual properties. Key concepts: mixtures can be separated by physical means (filtering, evaporation, magnetism, sifting); solutions are a special type of mixture where one substance dissolves in another; the substance that dissolves is the solute, the substance doing the dissolving is the solvent. Students should understand the difference between heterogeneous mixtures (visibly different parts) and homogeneous mixtures (solutions that look uniform). Vocabulary: mixture, solution, solute, solvent, dissolve, filter, evaporate, separate, heterogeneous, homogeneous, concentration. Problems should involve identifying mixtures and solutions in everyday life, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Erosion",
+      "teks": "4.10(B)",
+      "teks_description": "Model slow changes from weathering and erosion",
+      "prompt": "This topic covers erosion for Grade 4 students (TEKS 4.10(B)). The TEKS standard states: Model slow changes from weathering and erosion. Students should understand that erosion is the process by which weathered rock and soil are moved from one location to another by natural forces. Key concepts: agents of erosion include water (rivers, waves, rain), wind, ice (glaciers), and gravity; weathering breaks rocks into smaller pieces while erosion transports those pieces; deposition occurs when eroded material is dropped in a new location. Students should understand slow versus rapid changes to Earth's surface and how human activities can increase or decrease erosion. Vocabulary: erosion, weathering, deposition, sediment, glacier, landslide, delta, canyon, sand dune, prevention, conservation. Problems should include real-world examples and modeling activities appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Waves and their properties",
+      "teks": "4.8(A)",
+      "teks_description": "Investigate energy transfer",
+      "prompt": "This topic covers waves and their properties for Grade 4 students (TEKS 4.8(A)). The TEKS standard states: Investigate energy transfer. Students should understand that waves transfer energy from one place to another without transferring matter. Key concepts: waves have measurable properties including wavelength (distance between wave peaks), amplitude (height of wave), and frequency (number of waves per second); there are two main types of waves: transverse (particles move perpendicular to wave direction) and longitudinal (particles move parallel to wave direction). Students should understand that sound travels as longitudinal waves and light travels as transverse waves. Vocabulary: wave, energy, wavelength, amplitude, frequency, crest, trough, transverse, longitudinal, medium, vibration. Problems should involve identifying wave properties and comparing different waves, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Human body systems",
+      "teks": "4.13(A)",
+      "teks_description": "Explore how plant/organism structures enable survival",
+      "prompt": "This topic covers human body systems for Grade 4 students (TEKS 4.13(A)). The TEKS standard states: Explore how plant/organism structures enable survival. Students should understand that the human body is organized into systems that work together to carry out life functions. Key concepts: major body systems include skeletal (support and protection), muscular (movement), digestive (breaking down food), circulatory (transporting blood, oxygen, nutrients), respiratory (gas exchange), nervous (sending signals), and excretory (removing waste). Students should understand how structures within each system are specialized for their function and how systems interact with each other. Vocabulary: organ, tissue, system, function, structure, skeleton, muscle, digestion, circulation, respiration, nerve, cell. Students should connect body system functions to everyday experiences like breathing, eating, and moving. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Light and energy transfer",
+      "teks": "4.8(A)",
+      "teks_description": "Investigate energy transfer",
+      "prompt": "This topic covers light and energy transfer for Grade 4 students (TEKS 4.8(A)). The TEKS standard states: Investigate energy transfer. Students should understand that light is a form of energy that travels in straight lines and can be reflected, refracted, or absorbed by different materials. Key concepts: transparent materials allow light to pass through, translucent materials allow some light through, opaque materials block light; reflection occurs when light bounces off a surface; refraction occurs when light bends as it passes from one material to another; absorption occurs when materials take in light energy. Vocabulary: light, energy, reflection, refraction, absorption, transparent, translucent, opaque, shadow, lens, prism, spectrum. Students should explore how light interacts with various materials and understand that the color of an object depends on which wavelengths of light it reflects. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Electricity and magnetism",
+      "teks": "4.8(C)",
+      "teks_description": "Demonstrate electrical energy in closed paths",
+      "prompt": "This topic covers electricity and magnetism for Grade 4 students (TEKS 4.8(C)). The TEKS standard states: Demonstrate electrical energy in closed paths. Students should understand that electrical energy flows through closed circuits and that magnetism is a force that can attract or repel certain materials. Key concepts: closed versus open circuits, conductors (materials that allow electricity to flow) versus insulators (materials that block electricity), series versus parallel circuits, magnets have north and south poles, like poles repel and opposite poles attract, electromagnets are created when electricity flows through a coil of wire around a metal core. Vocabulary: circuit, conductor, insulator, current, battery, switch, series circuit, parallel circuit, magnet, magnetic field, poles, attract, repel, electromagnet. Students should understand practical applications of circuits and magnets. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Structure and function in organisms",
+      "teks": "4.13(A)",
+      "teks_description": "Explore how plant structures enable survival",
+      "prompt": "This topic covers structure and function in organisms for Grade 4 students (TEKS 4.13(A)). The TEKS standard states: Explore how plant structures enable survival. Students should understand that plants and animals have specialized structures that serve specific functions for survival. Key concepts: plant structures include roots (absorb water and nutrients, anchor plant), stems (transport water and nutrients, provide support), leaves (photosynthesis, gas exchange), and flowers/seeds (reproduction); animal structures include eyes, ears, claws, beaks, and camouflage patterns that help with survival. Students should understand the relationship between a structure and its function, and how these adaptations help organisms survive in their environments. Vocabulary: structure, function, adaptation, survival, root, stem, leaf, flower, seed, organ, tissue. Problems should involve identifying structures and explaining how they help organisms survive, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "The water cycle",
+      "teks": "4.10(A)",
+      "teks_description": "Describe water cycle movement",
+      "prompt": "This topic covers the water cycle for Grade 4 students (TEKS 4.10(A)). The TEKS standard states: Describe water cycle movement. Students should understand that water continuously moves through Earth's systems in a cycle driven by the Sun's energy. Key concepts: evaporation (liquid water becomes water vapor due to heat), condensation (water vapor cools and forms clouds), precipitation (water falls as rain, snow, sleet, or hail), collection/runoff (water gathers in oceans, lakes, rivers, and groundwater). Students should understand that the Sun provides the energy that drives the water cycle and that the total amount of water on Earth remains relatively constant. Vocabulary: water cycle, evaporation, condensation, precipitation, runoff, groundwater, collection, water vapor, clouds, transpiration, aquifer. Students should be able to model and describe each stage of the cycle. Problems should connect to real-world weather observations appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "The solar system and movement of Earth",
+      "teks": "4.9(A)",
+      "teks_description": "Collect data on seasonal patterns (Earth-Sun relationship)",
+      "prompt": "This topic covers the solar system and movement of Earth for Grade 4 students (TEKS 4.9(A)). The TEKS standard states: Collect data on seasonal patterns (Earth-Sun relationship). Students should understand that Earth rotates on its axis causing day and night and revolves around the Sun causing seasons. Key concepts: Earth's rotation takes approximately 24 hours (one day); Earth's revolution around the Sun takes approximately 365.25 days (one year); Earth's tilted axis (23.5 degrees) causes seasonal changes as different parts of Earth receive varying amounts of direct sunlight throughout the year. Students should understand the order of planets from the Sun and basic characteristics of inner versus outer planets. Vocabulary: rotation, revolution, axis, tilt, orbit, season, planet, Sun, solar system, inner planets, outer planets. Problems should include predicting seasonal patterns and understanding day/night cycles, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Photosynthesis",
+      "teks": "4.12(A)",
+      "teks_description": "Investigate how producers make food",
+      "prompt": "This topic covers photosynthesis for Grade 4 students (TEKS 4.12(A)). The TEKS standard states: Investigate how producers make food. Students should understand that photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce food (glucose) and release oxygen. Key concepts: plants are producers because they make their own food; photosynthesis occurs primarily in leaves using chlorophyll (the green pigment); the equation for photosynthesis involves sunlight + water + carbon dioxide producing glucose + oxygen; plants need sunlight, water, carbon dioxide, and nutrients from soil to grow. Students should understand that photosynthesis is the foundation of most food chains because it converts light energy into chemical energy stored in food. Vocabulary: photosynthesis, chlorophyll, producer, glucose, carbon dioxide, oxygen, sunlight, chloroplast, energy, food chain. Problems should involve tracing energy flow and explaining what plants need to make food, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Rock formations",
+      "teks": "4.11(C)",
+      "teks_description": "Determine rock properties for resource storage",
+      "prompt": "This topic covers rock formations for Grade 4 students (TEKS 4.11(C)). The TEKS standard states: Determine rock properties for resource storage. Students should understand that rocks are classified into three types based on how they form. Key concepts: igneous rocks form from cooled magma or lava (e.g., granite, obsidian); sedimentary rocks form from layers of sediment compressed over time (e.g., sandstone, limestone); metamorphic rocks form when existing rocks are changed by heat and pressure (e.g., marble, slate). The rock cycle describes how rocks continuously change from one type to another over long periods. Students should understand that rocks have different properties (texture, color, hardness, layers) based on how they formed. Vocabulary: igneous, sedimentary, metamorphic, magma, lava, sediment, weathering, erosion, rock cycle, mineral, crystal, fossil. Problems should include identifying rock types and describing formation processes, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Aquatic biomes",
+      "teks": "4.12(B)",
+      "teks_description": "Describe matter cycling and energy flow in food webs",
+      "prompt": "This topic covers aquatic biomes for Grade 4 students (TEKS 4.12(B)). The TEKS standard states: Describe matter cycling and energy flow in food webs. Students should understand that aquatic biomes are large regions of water characterized by distinct environmental conditions and organisms. Key concepts: freshwater biomes include lakes, ponds, rivers, and streams; marine biomes include oceans, coral reefs, and estuaries; organisms in aquatic biomes are adapted to their specific water conditions (salinity, temperature, depth, light). Students should understand food webs in aquatic environments and how energy flows from producers (algae, aquatic plants) to consumers. Vocabulary: biome, freshwater, marine, estuary, salinity, coral reef, plankton, algae, food web, producer, consumer, decomposer, ecosystem, habitat. Students should compare different aquatic environments and the organisms that live in them. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Scientific investigations",
+      "teks": "4.1(B)",
+      "teks_description": "Use scientific/engineering practices for investigations",
+      "prompt": "This topic covers scientific investigations and the scientific method for Grade 4 students (TEKS 4.1(B)). The TEKS standard states: Use scientific/engineering practices for investigations. Students should understand that scientific investigations follow systematic processes to explore questions about the natural world. Key concepts: asking testable questions, forming hypotheses, designing fair tests with controlled variables, collecting and recording data, analyzing results, and drawing evidence-based conclusions. Students should understand the difference between independent variables (what you change), dependent variables (what you measure), and controlled variables (what you keep the same). They should also understand the importance of repeating trials for reliability. Vocabulary: hypothesis, variable, independent variable, dependent variable, controlled variable, data, evidence, conclusion, experiment, observation, prediction, fair test, trial, reliability. Problems should involve designing experiments and identifying variables, appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Representing data in graphs and tables",
+      "teks": "4.1(F)",
+      "teks_description": "Construct graphic organizers for data collection",
+      "prompt": "This topic covers representing data in graphs and tables for Grade 4 students (TEKS 4.1(F)). The TEKS standard states: Construct graphic organizers for data collection. Students should understand how to organize, display, and interpret scientific data using various formats. Key concepts: data tables organize raw observations and measurements in rows and columns; bar graphs compare categories of data; line graphs show changes over time; pictographs use symbols to represent quantities; circle graphs show parts of a whole. Students should choose the most appropriate graph type for different kinds of data and be able to draw conclusions from data displays. Vocabulary: data, table, graph, bar graph, line graph, pictograph, circle graph, axis, label, title, scale, trend, conclusion, variable. Students should practice creating graphs from collected data and interpreting graphs made by others. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Using science notebooks",
+      "teks": "4.1(E)",
+      "teks_description": "Collect observations and measurements as evidence",
+      "prompt": "This topic covers using science notebooks for Grade 4 students (TEKS 4.1(E)). The TEKS standard states: Collect observations and measurements as evidence. Students should understand that science notebooks are essential tools for recording observations, measurements, data, and reflections during scientific investigations. Key concepts: recording detailed observations using words, numbers, and drawings; organizing data in tables and charts; labeling diagrams accurately; writing procedures so investigations can be repeated; recording measurements with appropriate units; reflecting on results and drawing conclusions from evidence. Students should understand that good scientific records are detailed, accurate, organized, and dated. Vocabulary: observation, measurement, data, evidence, record, diagram, procedure, conclusion, units, accuracy, precision, organize. Students should practice maintaining organized notebooks throughout investigations. Problems should be appropriate for 9-10 year olds."
+    }
+  ]
+}

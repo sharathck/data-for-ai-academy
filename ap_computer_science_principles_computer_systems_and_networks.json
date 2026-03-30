@@ -1,0 +1,21 @@
+{
+  "grade": "AP - Computer Science Principles",
+  "subject": "Computer Systems and Networks",
+  "skills": [
+    {
+      "skill": "4.1 The Internet",
+      "ref": "CSN-1.A (Unit 4, Topic 4.1)",
+      "prompt": "This topic covers the Internet for AP CSP students (CED: CSN-1.A, Unit 4, Topic 4.1). Students should understand the structure and function of the Internet as a global network of interconnected networks. Key concepts: the Internet uses open protocols (TCP/IP, HTTP, DNS) that enable universal communication; data is transmitted in packets that can take different routes (packet switching); IP addresses uniquely identify devices; DNS translates domain names to IP addresses; HTTP/HTTPS governs web communication; the Internet is scalable, redundant, and decentralized by design. Students should understand the layered architecture (application, transport, network, link), how data travels from sender to receiver, and that the Internet was designed to be open and interoperable. The World Wide Web is an application built on top of the Internet, not the Internet itself. Vocabulary: Internet, protocol, TCP/IP, HTTP, DNS, IP address, packet, routing, bandwidth, latency, scalability."
+    },
+    {
+      "skill": "4.2 Fault Tolerance",
+      "ref": "CSN-2.A (Unit 4, Topic 4.2)",
+      "prompt": "This topic covers fault tolerance for AP CSP students (CED: CSN-2.A, Unit 4, Topic 4.2). Students should understand how the Internet is designed to continue functioning even when individual components fail. Key concepts: redundancy means having multiple paths between any two points in a network; if one path fails, data is rerouted through alternative paths; fault tolerance is achieved through redundant connections, not by making individual components failure-proof. Students should analyze network diagrams to determine if a network is fault tolerant (can a message still be delivered if any single connection fails?), identify single points of failure, and understand that adding redundant connections increases fault tolerance but also increases cost. The Internet's packet-switching design inherently supports fault tolerance since packets can take any available route. Vocabulary: fault tolerance, redundancy, routing, network diagram, single point of failure, packet switching, reliability, rerouting."
+    },
+    {
+      "skill": "4.3 Parallel and Distributed Computing",
+      "ref": "CSN-2.C (Unit 4, Topic 4.3)",
+      "prompt": "This topic covers parallel and distributed computing for AP CSP students (CED: CSN-2.C, Unit 4, Topic 4.3). Students should understand how tasks can be divided across multiple processors or computers to improve performance. Key concepts: sequential computing executes operations one at a time; parallel computing divides a task across multiple processors that work simultaneously; distributed computing spreads a task across multiple networked computers. Speedup from parallelism is limited by the sequential portion of the task (Amdahl's Law concept); some tasks are 'embarrassingly parallel' while others have dependencies that prevent parallelization. Students should calculate speedup for parallel solutions, identify which portions of a task can be parallelized, and understand that parallel computing does not always produce proportional speedup. Examples: web search, video rendering, scientific simulations. Vocabulary: sequential, parallel, distributed, speedup, processor, thread, dependency, synchronization, scalability, Amdahl's Law."
+    }
+  ]
+}

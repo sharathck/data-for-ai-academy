@@ -1,0 +1,76 @@
+{
+  "grade": "Grade 5",
+  "subject": "Maths - Data analysis",
+  "skills": [
+    {
+      "skill": "Create line plots with fractions",
+      "teks": "5.9(A)",
+      "prompt": "This topic covers creating line plots with fractions for Grade 5 students (TEKS 5.9(A)). Students should understand how to organize fractional data on a number line using X marks or dots to create a line plot. Key concepts: line plots display data along a number line; each data point is represented by a mark above the corresponding value; when data involves fractions, the number line must include fractional increments (halves, quarters, eighths); data should be sorted and counted before plotting. Students should choose appropriate scales with fractional values and accurately place data points. Vocabulary: line plot, data, fraction, number line, frequency, scale, increment, mark, value, half, quarter, eighth. Common errors include using incorrect scales, miscounting data points, or placing marks at wrong positions. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Create bar graphs",
+      "teks": "5.9(A)",
+      "prompt": "This topic covers creating bar graphs for Grade 5 students (TEKS 5.9(A)). Students should understand how to display categorical data using bars of varying heights or lengths. Key concepts: bar graphs use rectangular bars to represent data for different categories; the height or length of each bar corresponds to the frequency or value; bars should be equal in width with equal spacing; axes must be labeled with the category names and numerical scale; a title describes the data being shown. Students should choose appropriate scales and accurately draw bars. Vocabulary: bar graph, category, axis, scale, title, label, frequency, horizontal, vertical, data, height, interval. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Create frequency charts",
+      "teks": "5.9(A)",
+      "prompt": "This topic covers creating frequency charts for Grade 5 students (TEKS 5.9(A)). Students should understand how to organize data into a frequency chart (frequency table) that shows how often each value or category occurs. Key concepts: frequency is the number of times a value appears in a data set; data is organized into categories or intervals; tally marks can be used to count occurrences; the frequency column shows the total count for each category. Students should accurately count and record data, choose appropriate categories or intervals, and verify that the total of all frequencies equals the number of data points. Vocabulary: frequency, chart, table, tally, category, interval, data, count, total, organize, value. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Create stem-and-leaf plots",
+      "teks": "5.9(A)",
+      "prompt": "This topic covers creating stem-and-leaf plots for Grade 5 students (TEKS 5.9(A)). Students should understand how to organize numerical data into a stem-and-leaf plot that shows the shape and distribution of data. Key concepts: the stem represents the leading digit(s) (usually tens place) and the leaf represents the trailing digit (usually ones place); leaves must be ordered from least to greatest; a key explains how to read the values; stem-and-leaf plots preserve individual data values while showing the overall distribution. Students should practice organizing data sets into stem-and-leaf plots accurately. Vocabulary: stem, leaf, plot, data, key, digit, tens place, ones place, distribution, order, organize, leading digit. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Create scatter plots",
+      "teks": "5.9(B)",
+      "prompt": "This topic covers creating scatter plots for Grade 5 students (TEKS 5.9(B)). Students should understand how to display paired numerical data on a coordinate grid to show relationships between two variables. Key concepts: scatter plots use ordered pairs (x, y) to plot data points on a coordinate plane; each axis represents one variable; the x-axis typically shows the independent variable and the y-axis shows the dependent variable; appropriate scales must be chosen for both axes. Students should accurately plot data points and label axes with titles and scales. Vocabulary: scatter plot, data, ordered pair, coordinate plane, x-axis, y-axis, variable, scale, plot, point, independent variable, dependent variable. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interpret line plots with whole numbers",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting line plots for Grade 5 students (TEKS 5.9(C)). Students should understand how to read and analyze data displayed in line plots to answer questions and draw conclusions. Key concepts: identify the most and least common values (mode); find the range (difference between greatest and least values); determine the total number of data points; calculate the sum of all values using the plot; answer comparison questions (how many more/fewer). Students should use operations with the data values, including fractions when applicable, to solve problems. Vocabulary: line plot, data, frequency, mode, range, total, interpret, analyze, compare, most common, least common, sum, difference. Problems should involve drawing conclusions from line plots appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Create and interpret line plots with fractions",
+      "teks": "5.9(A)",
+      "prompt": "This topic covers creating line plots with fractions for Grade 5 students (TEKS 5.9(A)). Students should understand how to organize fractional data on a number line using X marks or dots to create a line plot. Key concepts: line plots display data along a number line; each data point is represented by a mark above the corresponding value; when data involves fractions, the number line must include fractional increments (halves, quarters, eighths); data should be sorted and counted before plotting. Students should choose appropriate scales with fractional values and accurately place data points. Vocabulary: line plot, data, fraction, number line, frequency, scale, increment, mark, value, half, quarter, eighth. Common errors include using incorrect scales, miscounting data points, or placing marks at wrong positions. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interpret bar graphs",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting bar graphs for Grade 5 students (TEKS 5.9(C)). Students should understand how to read and analyze bar graphs to answer questions and make comparisons. Key concepts: reading the value represented by each bar using the scale; comparing values between categories; finding differences and sums; answering multi-step questions about the data; identifying the greatest, least, and trends in the data. Vocabulary: bar graph, category, scale, compare, greatest, least, difference, total, interpret, analyze, data, value. Problems should involve reading bar graphs and answering both one-step and multi-step questions appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interpret bar graphs: multi-step problems",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting bar graphs for Grade 5 students (TEKS 5.9(C)). Students should understand how to read and analyze bar graphs to answer questions and make comparisons. Key concepts: reading the value represented by each bar using the scale; comparing values between categories; finding differences and sums; answering multi-step questions about the data; identifying the greatest, least, and trends in the data. Vocabulary: bar graph, category, scale, compare, greatest, least, difference, total, interpret, analyze, data, value. Problems should involve reading bar graphs and answering both one-step and multi-step questions appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interpret frequency charts: one-step problems",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting frequency charts for Grade 5 students (TEKS 5.9(C)). Students should understand how to read and analyze data from frequency charts to answer questions and draw conclusions. Key concepts: reading frequencies for specific categories; comparing frequencies between categories; finding the total number of data points by adding all frequencies; identifying the most and least frequent categories; using frequency data to make comparisons and solve multi-step problems. Vocabulary: frequency, chart, table, category, interpret, compare, total, most frequent, least frequent, data, analyze, conclusion. Problems should involve answering questions from frequency charts with real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interpret frequency charts: multi-step problems",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting frequency charts for Grade 5 students (TEKS 5.9(C)). Students should understand how to read and analyze data from frequency charts to answer questions and draw conclusions. Key concepts: reading frequencies for specific categories; comparing frequencies between categories; finding the total number of data points by adding all frequencies; identifying the most and least frequent categories; using frequency data to make comparisons and solve multi-step problems. Vocabulary: frequency, chart, table, category, interpret, compare, total, most frequent, least frequent, data, analyze, conclusion. Problems should involve answering questions from frequency charts with real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interpret stem-and-leaf plots",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting stem-and-leaf plots for Grade 5 students (TEKS 5.9(C)). Students should understand how to read and analyze data from stem-and-leaf plots to answer questions. Key concepts: reading individual values by combining the stem and leaf; finding the minimum and maximum values; determining the range, median, and mode from the plot; counting the total number of data points; identifying clusters, gaps, and outliers in the distribution. Vocabulary: stem-and-leaf plot, stem, leaf, key, median, mode, range, minimum, maximum, cluster, gap, outlier, distribution, interpret, analyze. Students should practice extracting information and making comparisons from stem-and-leaf plots. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Interpret scatter plots",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting scatter plots and identifying trends for Grade 5 students (TEKS 5.9(C)). Students should understand how to analyze scatter plots to identify patterns, trends, and relationships between two variables. Key concepts: positive association (as one variable increases, the other increases); negative association (as one variable increases, the other decreases); no association (no clear pattern); clusters and outliers; using trends to make predictions. Students should describe the overall pattern of data and use it to predict values. Vocabulary: scatter plot, trend, association, positive, negative, correlation, cluster, outlier, prediction, pattern, relationship, data, variable. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Predictions and trends in scatter plots",
+      "teks": "5.9(C)",
+      "prompt": "This topic covers interpreting scatter plots and identifying trends for Grade 5 students (TEKS 5.9(C)). Students should understand how to analyze scatter plots to identify patterns, trends, and relationships between two variables. Key concepts: positive association (as one variable increases, the other increases); negative association (as one variable increases, the other decreases); no association (no clear pattern); clusters and outliers; using trends to make predictions. Students should describe the overall pattern of data and use it to predict values. Vocabulary: scatter plot, trend, association, positive, negative, correlation, cluster, outlier, prediction, pattern, relationship, data, variable. Problems should be appropriate for 10-11 year olds."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Biology",
+  "subject": "Ecology",
+  "skills": [
+    {
+      "skill": "ENE 8.1 Responses to the Environment",
+      "ref": "ENE-8.A (Unit 8, Topic 8.1)",
+      "prompt": "This topic covers responses to the environment for AP Biology students (CED: ENE-8.A, Unit 8, Topic 8.1). Students should understand that organisms respond to environmental stimuli through behaviors and physiological mechanisms. Behavioral responses include taxis (directed movement toward or away from a stimulus), kinesis (undirected movement), and circadian rhythms. Physiological responses include hibernation, estivation, migration, and photoperiodism. Plants respond through tropisms (phototropism, gravitropism, thigmotropism) mediated by hormones such as auxin. Communication between organisms involves visual, auditory, chemical (pheromones), and tactile signals. Students must explain how responses increase fitness and reproductive success. Connect to natural selection, signal transduction, and ecology. AP exam note: questions may require explaining how specific behaviors are adaptive. Vocabulary: taxis, kinesis, tropism, photoperiodism, circadian rhythm, pheromone, auxin, innate behavior, learned behavior."
+    },
+    {
+      "skill": "ENE 8.2 Energy Flow Through Ecosystems",
+      "ref": "ENE-8.B (Unit 8, Topic 8.2)",
+      "prompt": "This topic covers energy flow through ecosystems for AP Biology students (CED: ENE-8.B, Unit 8, Topic 8.2). Students should understand that energy flows through ecosystems in one direction: from producers to consumers to decomposers. Only about 10 percent of energy is transferred between trophic levels (10 percent rule); the rest is lost as heat through cellular respiration. Food chains and food webs illustrate feeding relationships. Ecological pyramids display energy, biomass, or numbers at each trophic level. Gross primary productivity (GPP) is total photosynthesis; net primary productivity (NPP = GPP minus respiration) is energy available to consumers. Students must calculate energy transfer between trophic levels and construct or interpret ecological pyramids. Connect to photosynthesis, respiration, and nutrient cycling. AP exam note: energy transfer calculations and pyramid interpretation are common. Vocabulary: trophic level, producer, consumer, decomposer, food web, GPP, NPP, biomass, energy pyramid."
+    },
+    {
+      "skill": "SYI 8.3 Population Ecology",
+      "ref": "SYI-8.A (Unit 8, Topic 8.3)",
+      "prompt": "This topic covers population ecology for AP Biology students (CED: SYI-8.A, Unit 8, Topic 8.3). Students should understand that populations are characterized by size, density, dispersion (clumped, uniform, random), and age structure. Population growth models include exponential growth (J-curve, dN/dt = rN, unlimited resources) and logistic growth (S-curve, dN/dt = rN(K-N)/K, limited by carrying capacity K). Birth rate, death rate, immigration, and emigration determine population change. Age structure diagrams predict future growth trends. Students must interpret and compare growth curves, calculate growth rates, and use age structure diagrams. Connect to carrying capacity, limiting factors, and human population growth. AP exam note: mathematical modeling of population growth is heavily tested. Vocabulary: population density, carrying capacity, exponential growth, logistic growth, r, K, age structure, dispersion."
+    },
+    {
+      "skill": "SYI 8.4 Effect of Density of Populations",
+      "ref": "SYI-8.B (Unit 8, Topic 8.4)",
+      "prompt": "This topic covers the effect of density on populations for AP Biology students (CED: SYI-8.B, Unit 8, Topic 8.4). Students should understand that density-dependent factors limit population growth as population size increases: competition for resources, predation, disease, parasitism, and waste accumulation intensify with higher density. Density-independent factors affect populations regardless of size: natural disasters, weather events, and seasonal changes. K-selected species have traits adapted for life near carrying capacity (low reproduction, long lifespan, high parental care), while r-selected species thrive in unstable environments (high reproduction, short lifespan, little parental care). Students must distinguish factor types and predict their effects on growth. Connect to logistic growth, carrying capacity, and community ecology. AP exam note: questions may present population data and ask which factors are operating. Vocabulary: density-dependent, density-independent, K-selected, r-selected, carrying capacity, intraspecific competition."
+    },
+    {
+      "skill": "ENE 8.5 Community Ecology",
+      "ref": "ENE-8.C (Unit 8, Topic 8.5)",
+      "prompt": "This topic covers community ecology for AP Biology students (CED: ENE-8.C, Unit 8, Topic 8.5). Students should understand that communities consist of interacting populations. Key interactions include competition (interspecific, leading to competitive exclusion or resource partitioning), predation (drives coevolution of defenses and hunting strategies), mutualism (both benefit), commensalism (one benefits, other unaffected), and parasitism (one benefits, other harmed). Keystone species have disproportionate effects on community structure relative to their abundance. Ecological succession involves predictable community changes: primary succession (on bare substrate) and secondary succession (after disturbance). Students must identify interaction types and predict community responses to changes. Connect to biodiversity, evolution, and ecosystem stability. AP exam note: scenarios involving species interactions and succession are common. Vocabulary: niche, competitive exclusion, resource partitioning, keystone species, mutualism, commensalism, parasitism, ecological succession."
+    },
+    {
+      "skill": "SYI 8.6 Biodiversity",
+      "ref": "SYI-8.C (Unit 8, Topic 8.6)",
+      "prompt": "This topic covers biodiversity for AP Biology students (CED: SYI-8.C, Unit 8, Topic 8.6). Students should understand that biodiversity encompasses genetic diversity (variation within species), species diversity (number and relative abundance of species in a community), and ecosystem diversity (variety of ecosystems in a region). High biodiversity increases ecosystem resilience and stability. Species richness and relative abundance together determine species diversity (measured by indices like Shannon diversity). Biodiversity hotspots are regions with exceptionally high species diversity under threat. Threats include habitat loss, invasive species, overexploitation, pollution, and climate change. Students must explain why biodiversity matters for ecosystem function and human well-being. Connect to extinction, conservation, and ecological interactions. AP exam note: data interpretation of diversity indices may appear. Vocabulary: biodiversity, species richness, species evenness, ecosystem services, habitat fragmentation, invasive species, conservation biology."
+    },
+    {
+      "skill": "EVO 8.7 Disruptions to Ecosystems",
+      "ref": "EVO-8.A (Unit 8, Topic 8.7)",
+      "prompt": "This topic covers disruptions to ecosystems for AP Biology students (CED: EVO-8.A, Unit 8, Topic 8.7). Students should understand that ecosystems can be disrupted by natural events (volcanic eruptions, fires, hurricanes) and human activities (deforestation, pollution, urbanization, introduction of invasive species, climate change). Disruptions alter species composition, energy flow, and nutrient cycling. Invasive species outcompete native species by lacking natural predators. Climate change affects habitats, migration patterns, and phenology. Biogeochemical cycles (carbon, nitrogen, phosphorus, water) can be disrupted by human input of pollutants and greenhouse gases. Ecosystems may recover through succession if the disruption is not too severe. Students must analyze the ecological consequences of specific disruptions. Connect to biodiversity, extinction, and sustainability. AP exam note: questions often present data on human impact and ask for analysis. Vocabulary: invasive species, climate change, greenhouse gas, biogeochemical cycle, eutrophication, deforestation, ecological footprint, sustainability."
+    }
+  ]
+}

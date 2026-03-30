@@ -1,0 +1,106 @@
+{
+  "grade": "Grade 4",
+  "subject": "Maths - Miscellaneous",
+  "skills": [
+    {
+      "skill": "Place value to millions",
+      "teks": "4.2(B)",
+      "prompt": "This topic covers place value to millions for Grade 4 students (TEKS 4.2(B)). Students should understand the structure of the place value system extending to millions. Key concepts: the ones period contains ones, tens, hundreds; the thousands period contains thousands, ten thousands, hundred thousands; the millions period contains millions, ten millions, hundred millions; each period groups three digits; commas separate periods; students should read, write, and represent numbers to millions in standard, expanded, and word form. Vocabulary: place value, millions, period, digit, standard form, expanded form, word form, comma, compare, order. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multi-digit multiplication",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multi-digit multiplication for Grade 4 students (TEKS 4.4(D)). Students should understand how to multiply numbers with multiple digits using efficient strategies. Key concepts: the standard algorithm, partial products, area models, and lattice multiplication are all valid strategies; place value understanding is essential for aligning partial products correctly; multiplication properties (commutative, associative, distributive) can simplify computation; estimating products helps check reasonableness. Vocabulary: multiply, product, factor, algorithm, partial product, area model, lattice, place value, regroup, estimate, commutative, distributive. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Division strategies",
+      "teks": "4.4(F)",
+      "prompt": "This topic covers division strategies for Grade 4 students (TEKS 4.4(F)). Students should understand multiple approaches to division problems. Key concepts: standard long division algorithm (divide, multiply, subtract, bring down); partial quotients method (subtract convenient multiples of the divisor); using compatible numbers for estimation; breaking the dividend into friendlier parts using the distributive property; repeated subtraction as a conceptual foundation. Vocabulary: division, strategy, algorithm, partial quotient, compatible numbers, estimate, distributive property, repeated subtraction, dividend, divisor, quotient, remainder. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Factors and multiples",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers factors and multiples for Grade 4 students (TEKS 4.4(D)). Students should understand the relationship between factors, multiples, and divisibility. Key concepts: a factor of a number divides it evenly (no remainder); a multiple of a number is the product of that number and any whole number; factor pairs multiply to give the original number; the GCF (greatest common factor) is the largest factor shared by two numbers; the LCM (least common multiple) is the smallest multiple shared by two numbers; divisibility rules help identify factors quickly. Vocabulary: factor, multiple, divisible, GCF, LCM, factor pair, product, remainder, divisibility rule, prime, composite. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Rounding",
+      "teks": "4.2(D)",
+      "prompt": "This topic covers rounding numbers for Grade 4 students (TEKS 4.2(D)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Addition and subtraction with regrouping",
+      "teks": "4.4(A)",
+      "prompt": "This topic covers addition and subtraction with regrouping for Grade 4 students (TEKS 4.4(A)). Students should master the standard algorithms for multi-digit addition and subtraction that require regrouping (carrying or borrowing). Key concepts: in addition, when the sum of digits in any column exceeds 9, regroup by carrying to the next place; in subtraction, when the top digit is smaller than the bottom digit, regroup by borrowing from the next higher place; proper place value alignment is essential; estimate before computing to check reasonableness. Vocabulary: regroup, carry, borrow, addition, subtraction, place value, align, digit, sum, difference, algorithm, exchange. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Fraction operations (addition, subtraction)",
+      "teks": "4.3(E)",
+      "prompt": "This topic covers adding and subtracting fractions for Grade 4 students (TEKS 4.3(E)). Students should understand how to add and subtract fractions with like denominators and begin exploring unlike denominators. Key concepts: with like denominators, add or subtract numerators and keep the denominator; simplify results when possible; use visual models (area models, number lines, strip diagrams) to support understanding; mixed numbers may require regrouping; estimate sums and differences using benchmark fractions. Vocabulary: fraction, add, subtract, numerator, denominator, like denominator, simplify, mixed number, regroup, benchmark, model, sum, difference. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Comparing fractions and decimals",
+      "teks": "4.3(D)",
+      "prompt": "This topic covers comparing decimals and fractions for Grade 4 students (TEKS 4.3(D)). Students should understand how to compare numbers expressed in different forms (fractions and decimals). Key concepts: convert all values to the same form before comparing; fractions can be converted to decimals by dividing numerator by denominator; decimals can be converted to fractions using place value; common benchmarks (1/2 = 0.5, 1/4 = 0.25) help with quick comparisons; use <, >, or = to express the relationship. Vocabulary: fraction, decimal, compare, convert, equivalent, benchmark, greater than, less than, equal, numerator, denominator, place value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Equivalent fractions",
+      "teks": "4.3(C)",
+      "prompt": "This topic covers equivalent fractions for Grade 4 students (TEKS 4.3(C)). Students should understand that equivalent fractions represent the same value using different numerators and denominators. Key concepts: equivalent fractions can be found by multiplying or dividing both the numerator and denominator by the same nonzero number; visual models (area models, number lines) can demonstrate equivalence; fractions are in simplest form (lowest terms) when the GCF of numerator and denominator is 1; students should generate and identify equivalent fractions. Vocabulary: equivalent, fraction, numerator, denominator, multiply, divide, simplify, lowest terms, GCF, model, equal, same value. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Introduction to decimals",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers introduction to decimals for Grade 4 students (TEKS 4.2(E)). Students should build foundational understanding of decimal notation and meaning. Key concepts: a decimal is a way to represent numbers between whole numbers; the decimal point separates the whole number part from the fractional part; tenths are the first place to the right of the decimal point, hundredths are the second; decimals connect to fractions (0.5 = 5/10 = 1/2); decimals are used in money, measurement, and many real-world contexts. Vocabulary: decimal, decimal point, tenths, hundredths, thousandths, fraction, whole number, place value, notation, represent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Geometric measurements (area, perimeter)",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers geometric measurements including area and perimeter for Grade 4 students (TEKS 4.5(D)). Students should understand the difference between area (space inside a figure) and perimeter (distance around a figure). Key concepts: perimeter = sum of all sides; area of a rectangle = length x width; perimeter is measured in linear units, area in square units; rectangles with the same area can have different perimeters and vice versa; students should solve problems involving both measurements. Vocabulary: area, perimeter, length, width, side, square units, linear units, rectangle, formula, measurement, space, distance, calculate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Lines and angles",
+      "teks": "4.6(A)",
+      "prompt": "This topic covers lines and angles for Grade 4 students (TEKS 4.6(A)). Students should understand the basic geometric concepts of points, lines, line segments, rays, and angles. Key concepts: a line extends infinitely in both directions; a line segment has two endpoints; a ray has one endpoint; parallel lines never intersect; perpendicular lines meet at right angles; angles are classified as acute (less than 90 degrees), right (exactly 90 degrees), obtuse (between 90 and 180 degrees), and straight (180 degrees). Vocabulary: point, line, line segment, ray, angle, parallel, perpendicular, intersecting, acute, right, obtuse, straight, vertex, degree. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Data representation in tables and graphs",
+      "teks": "4.9(A)",
+      "prompt": "This topic covers data representation and graphing for Grade 4 students (TEKS 4.9(A)). Students should understand how to organize, display, and interpret data using various types of graphs and tables. Key concepts: different types of displays include bar graphs, line plots, pictographs, tables, and frequency charts; choose the display that best represents the data type; all displays need titles, labels, and appropriate scales; students should create displays from data sets and interpret existing displays to answer questions. Vocabulary: data, graph, table, bar graph, line plot, frequency, title, label, scale, axis, interpret, display, organize, represent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Analyzing data",
+      "teks": "4.9(B)",
+      "prompt": "This topic covers analyzing data from various representations for Grade 4 students (TEKS 4.9(B)). Students should understand how to interpret data displays to answer questions and draw conclusions. Key concepts: read and interpret line plots, frequency charts, stem-and-leaf plots, and tables; identify the most and least common values; calculate totals and differences from data; answer multi-step questions requiring computation with data values; describe patterns and trends in data. Vocabulary: data, analyze, interpret, line plot, frequency, table, pattern, trend, most common, least common, total, compare, conclusion. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Solving word problems with multiple steps",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers solving word problems for Grade 4 students (TEKS 4.5(A)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Multiplication by 1 and 2 digit numbers",
+      "teks": "4.4(D)",
+      "prompt": "This topic covers multi-digit multiplication for Grade 4 students (TEKS 4.4(D)). Students should understand how to multiply numbers with multiple digits using efficient strategies. Key concepts: the standard algorithm, partial products, area models, and lattice multiplication are all valid strategies; place value understanding is essential for aligning partial products correctly; multiplication properties (commutative, associative, distributive) can simplify computation; estimating products helps check reasonableness. Vocabulary: multiply, product, factor, algorithm, partial product, area model, lattice, place value, regroup, estimate, commutative, distributive. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Decimal points",
+      "teks": "4.2(E)",
+      "prompt": "This topic covers introduction to decimals for Grade 4 students (TEKS 4.2(E)). Students should build foundational understanding of decimal notation and meaning. Key concepts: a decimal is a way to represent numbers between whole numbers; the decimal point separates the whole number part from the fractional part; tenths are the first place to the right of the decimal point, hundredths are the second; decimals connect to fractions (0.5 = 5/10 = 1/2); decimals are used in money, measurement, and many real-world contexts. Vocabulary: decimal, decimal point, tenths, hundredths, thousandths, fraction, whole number, place value, notation, represent. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Creating number sentences and equations",
+      "teks": "4.5(A)",
+      "prompt": "This topic covers creating number sentences and equations for Grade 4 students (TEKS 4.5(A)). Students should understand how to translate word problems and real-world situations into mathematical equations. Key concepts: identify the unknown and represent it with a symbol or variable; determine the operations from the context; write an equation that models the situation; use key vocabulary to identify operations (sum for addition, difference for subtraction, product for multiplication, quotient for division). Vocabulary: equation, number sentence, variable, unknown, operation, translate, model, represent, solve, equal sign, expression, symbol. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Perimeter and area of shapes",
+      "teks": "4.5(D)",
+      "prompt": "This topic covers perimeter and area of shapes for Grade 4 students (TEKS 4.5(D)). Students should understand how to calculate both measurements for rectangles and composite figures. Key concepts: perimeter is found by adding all side lengths; area of a rectangle = length x width; for composite figures, decompose into rectangles, find each area, and add; students should solve word problems involving fencing (perimeter) and covering (area); understand the units differ (linear vs. square). Vocabulary: perimeter, area, length, width, side, rectangle, composite figure, decompose, square units, linear units, formula, measure, calculate. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Introduction to data representation",
+      "teks": "4.9(A)",
+      "prompt": "This topic covers data representation and graphing for Grade 4 students (TEKS 4.9(A)). Students should understand how to organize, display, and interpret data using various types of graphs and tables. Key concepts: different types of displays include bar graphs, line plots, pictographs, tables, and frequency charts; choose the display that best represents the data type; all displays need titles, labels, and appropriate scales; students should create displays from data sets and interpret existing displays to answer questions. Vocabulary: data, graph, table, bar graph, line plot, frequency, title, label, scale, axis, interpret, display, organize, represent. Problems should be appropriate for 9-10 year olds."
+    }
+  ]
+}

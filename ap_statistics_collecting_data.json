@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Statistics",
+  "subject": "Collecting Data",
+  "skills": [
+    {
+      "skill": "3.1 Introducing Statistics: Do the Data We Collected Tell the Truth?",
+      "ref": "VAR-1.E",
+      "prompt": "This topic introduces data collection concepts for AP Statistics (CED: VAR-1.E, Unit 3, Topic 3.1). The quality of statistical conclusions depends on how data is collected. Key concepts: well-designed studies produce reliable data; poorly designed studies introduce bias that undermines conclusions; the population is the entire group of interest, the sample is the subset actually studied; the goal is to make valid inferences from sample to population. Sources of bias include selection bias (some individuals more likely to be selected), response bias (respondents give inaccurate answers), and nonresponse bias (selected individuals do not participate). Students should evaluate data collection methods critically. AP exam note: students must identify sources of bias in study designs and explain how bias affects conclusions. Vocabulary: population, sample, bias, selection bias, response bias, nonresponse bias, inference, reliability."
+    },
+    {
+      "skill": "3.2 Introduction to Planning a Study",
+      "ref": "DAT-2.A",
+      "prompt": "This topic covers planning statistical studies for AP Statistics (CED: DAT-2.A, Unit 3, Topic 3.2). Two main study types: observational studies (observe without imposing treatments) and experiments (deliberately impose treatments on subjects). Key concepts: experiments can establish cause-and-effect; observational studies can only show association; a census measures every individual in the population (often impractical); sampling uses a subset to make inferences about the population. Well-designed samples are representative of the population. The scope of inference depends on study design: random sampling allows generalization, random assignment allows causal conclusions. AP exam note: students must distinguish between observational studies and experiments and understand the scope of inference each allows. Vocabulary: observational study, experiment, census, sample, treatment, cause and effect, association, scope of inference."
+    },
+    {
+      "skill": "3.3 Random Sampling and Data Collection",
+      "ref": "DAT-2.B",
+      "prompt": "This topic covers random sampling methods for AP Statistics (CED: DAT-2.B, Unit 3, Topic 3.3). Simple random sample (SRS): every group of n individuals has an equal chance of being selected; use a random number generator or table. Other methods: stratified random sampling (divide population into strata, SRS from each), cluster sampling (divide into clusters, randomly select entire clusters), systematic sampling (select every kth individual). Key concepts: random sampling reduces bias by giving all individuals a chance of selection; stratified sampling reduces variability by ensuring representation of important subgroups; the sampling frame (list of potential subjects) should match the population. Students should describe sampling methods and identify potential flaws. AP exam note: students must describe how to implement a specific sampling method, including the mechanics of randomization. Vocabulary: simple random sample, stratified, cluster, systematic, sampling frame, randomization, representative, bias."
+    },
+    {
+      "skill": "3.4 Potential Problems with Sampling",
+      "ref": "DAT-2.C",
+      "prompt": "This topic covers potential problems with sampling for AP Statistics (CED: DAT-2.C, Unit 3, Topic 3.4). Key issues: undercoverage (some groups systematically excluded from the sampling frame), nonresponse (selected individuals do not participate), voluntary response (individuals self-select, producing biased results), wording effects (question wording influences responses), convenience sampling (choosing easily accessible individuals, not representative). These problems introduce bias, making sample results systematically different from the population truth. Students should identify potential sampling problems in given scenarios and explain how they bias results. Key concept: no amount of analysis can fix data collected with a fundamentally flawed sampling method. AP exam note: students should explain how a specific bias affects the results (overestimates or underestimates the parameter) and suggest improvements. Vocabulary: undercoverage, nonresponse, voluntary response, convenience sample, bias, wording effects, sampling error."
+    },
+    {
+      "skill": "3.5 Introduction to Experimental Design",
+      "ref": "VAR-3.A, VAR-3.B",
+      "prompt": "This topic covers experimental design for AP Statistics (CED: VAR-3.A, VAR-3.B, Unit 3, Topic 3.5). An experiment imposes treatments on subjects to observe responses. Key principles: control (use a control group to compare against), randomization (randomly assign subjects to treatment groups to balance confounding variables), replication (use enough subjects to detect treatment effects). Key vocabulary: experimental units (subjects), treatments (conditions imposed), response variable (outcome measured), factors (explanatory variables), levels (specific values of factors), confounding variable (affects response and is associated with the factor). Students should identify these components in experimental descriptions. AP exam note: students must identify experimental units, treatments, response variable, and explain the role of randomization and replication. Vocabulary: experiment, treatment, control, randomization, replication, experimental unit, response variable, factor, confounding."
+    },
+    {
+      "skill": "3.6 Selecting an Experimental Design",
+      "ref": "VAR-3.C, VAR-3.D",
+      "prompt": "This topic covers types of experimental designs for AP Statistics (CED: VAR-3.C, VAR-3.D, Unit 3, Topic 3.6). Common designs: completely randomized design (CRD, randomly assign all subjects to treatments), randomized block design (group subjects into blocks based on a relevant characteristic, randomize within blocks), matched pairs design (pair subjects or use subjects as their own controls, randomize treatment order within pairs). Key concepts: blocking reduces variability by accounting for known differences between subjects; matched pairs is a special case of blocking with block size 2; the choice of design depends on the variables and research question. Students should describe how to implement each design for given scenarios. AP exam note: students should explain why blocking is used (to reduce the effect of a confounding variable) and describe the randomization procedure within the chosen design. Vocabulary: completely randomized design, randomized block design, matched pairs, blocking, random assignment, reduce variability."
+    },
+    {
+      "skill": "3.7 Inference and Experiments",
+      "ref": "VAR-3.E, DAT-2.D, DAT-2.E",
+      "prompt": "This topic covers the relationship between experiments and inference for AP Statistics (CED: VAR-3.E, DAT-2.D, DAT-2.E, Unit 3, Topic 3.7). Properly designed experiments with random assignment can support causal conclusions: if treatment groups differ significantly, we can attribute the difference to the treatment rather than confounding variables. Key concepts: random assignment creates groups that are approximately equal in all characteristics except the treatment; statistically significant results (unlikely to occur by chance alone) provide evidence of a treatment effect; scope of inference depends on both sampling and assignment (random sampling allows generalization, random assignment allows causation). Students should determine what conclusions are appropriate based on study design. AP exam note: questions about scope of inference are common. Students must consider both how subjects were selected and how they were assigned to treatments. Vocabulary: causal conclusion, random assignment, statistical significance, scope of inference, generalization, treatment effect."
+    }
+  ]
+}

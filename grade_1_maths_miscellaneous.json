@@ -1,0 +1,56 @@
+{
+  "grade": "Grade 1",
+  "subject": "Maths - Miscellaneous",
+  "skills": [
+    {
+      "skill": "Counting to 120",
+      "teks": "1.5(A)",
+      "prompt": "This topic covers Counting to 120 for Grade 1 students (TEKS 1.5(A)). Students develop counting fluency, understanding the number sequence and its patterns. Key concepts include forward/backward counting, skip counting, place value patterns, and real-world counting. Vocabulary: count, number, sequence, pattern, skip count, forward, backward. Common misconceptions include decade transition errors and losing track. Activities should include manipulatives, charts, games, and real-world tasks appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Understanding place value (ones and tens)",
+      "teks": "1.2(B)",
+      "prompt": "This topic covers Understanding place value (ones and tens) for Grade 1 students (TEKS 1.2(B)). Place value means a digit's position determines its value. Key concepts include decomposing numbers, relationships between adjacent places (each 10x the one right), and representing in multiple forms. Vocabulary: place value, digit, ones, tens, hundreds, thousands, expanded form, standard form. Common misconceptions include confusing face and place value. Activities should include base-ten blocks, charts, and conversion exercises appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Addition and subtraction within 20",
+      "teks": "1.3(D)",
+      "prompt": "This topic covers Addition and subtraction within 20 for Grade 1 students (TEKS 1.3(D)). Students build computational fluency with both operations. Key concepts include conceptual understanding, multiple strategies, operation relationships, and properties. Vocabulary: add, subtract, sum, difference, regroup, strategy, algorithm, inverse. Common misconceptions include regrouping errors and not checking reasonableness. Activities should include strategy instruction, varied practice, and real-world applications appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Adding three numbers",
+      "teks": "1.5(G)",
+      "prompt": "This topic covers Adding three numbers for Grade 1 students (TEKS 1.5(G)). Students add multiple numbers using strategies like associative property, making ten, and efficient grouping. Vocabulary: addend, sum, group, make ten, strategy, associative property. Common misconceptions include always adding left to right. Activities should include strategy discussions and multi-addend practice appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Basic word problems with addition and subtraction",
+      "teks": "1.3(B)",
+      "prompt": "This topic covers Basic word problems with addition and subtraction for Grade 1 students (TEKS 1.3(B)). Students solve real-world problems by identifying operations, writing equations, and computing. Key concepts include reading comprehension, choosing operations, modeling, and checking reasonableness. Vocabulary: word problem, solve, equation, operation, strategy, model, reasonable. Common misconceptions include keyword reliance and not checking answers. Activities should include modeling, acting out, writing original problems, and strategy discussions appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Recognizing and drawing shapes",
+      "teks": "1.6(D)",
+      "prompt": "This topic covers Recognizing and drawing shapes for Grade 1 students (TEKS 1.6(D)). Students learn geometric shapes and properties, building spatial reasoning. Key concepts include identifying/naming shapes, describing by attributes, classifying, and understanding relationships. Vocabulary: shape, polygon, side, vertex, angle, parallel, classify, attribute. Common misconceptions include identifying by appearance only. Activities should include sorting, drawing, real-world identification, and comparing attributes appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Understanding halves and fourths",
+      "teks": "1.6(G)",
+      "prompt": "This topic covers Understanding halves and fourths for Grade 1 students (TEKS 1.6(G)). Students develop mathematical understanding through concrete, representational, and abstract learning. Key concepts connect to prior knowledge and real-world contexts for ages 6-7. Vocabulary should be explicitly taught. Common misconceptions should be anticipated. Activities should progress from concrete to abstract with problems in meaningful contexts. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Telling time to the half-hour",
+      "teks": "1.7(E)",
+      "prompt": "This topic covers Telling time to the half-hour for Grade 1 students (TEKS 1.7(E)). Students read clocks and understand time measurement. Key concepts include hour/minute hands, digital reading, A.M./P.M., elapsed time, and relationships between time units. Vocabulary: hour, minute, analog, digital, A.M., P.M., elapsed time, duration. Common misconceptions include confusing hands and treating time as base-10. Activities should include clock practice, schedule reading, and elapsed time work appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Measuring length using standard units",
+      "teks": "1.7(A)",
+      "prompt": "This topic covers Measuring length using standard units for Grade 1 students (TEKS 1.7(A)). Students measure attributes using standard units and appropriate tools. Key concepts include tool and unit selection, accurate technique, recording with units, and comparing. Vocabulary: measure, length, weight, capacity, unit, ruler, scale, cup, liter. Common misconceptions include wrong units and not starting at zero. Activities should include hands-on measuring, estimating, and word problems appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    },
+    {
+      "skill": "Collecting and organizing data into charts",
+      "teks": "1.8(A)",
+      "prompt": "This topic covers Collecting and organizing data into charts for Grade 1 students (TEKS 1.8(A)). Students collect, organize, display, and interpret data. Key concepts include choosing display types, creating accurate displays, reading/interpreting, and drawing conclusions. Vocabulary: data, graph, chart, table, bar graph, picture graph, line plot, label, scale. Common misconceptions include misreading scales and incomplete labeling. Activities should include real data collection, multiple display types, and multi-step data questions appropriate for ages 6-7. When creating content, build from concrete manipulatives to pictorial representations to abstract notation, ensuring 6-7-year-olds develop both conceptual understanding and procedural fluency. Encourage multiple solution strategies and ask students to explain their thinking. Use error analysis to deepen understanding by presenting common mistakes and asking students to identify and correct them."
+    }
+  ]
+}

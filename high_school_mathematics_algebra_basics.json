@@ -1,0 +1,156 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Algebra Basics",
+  "skills": [
+    {
+      "skill": "Order of Operations (PEMDAS)",
+      "teks": "A.1(C)",
+      "teks_description": "Select tools and techniques including mental math, estimation, and number sense",
+      "prompt": "This topic covers the order of operations for Algebra Basics students (TEKS A.1C). Students should evaluate expressions using PEMDAS: Parentheses, Exponents, Multiplication and Division (left to right), Addition and Subtraction (left to right). Key concepts: grouping symbols (parentheses, brackets, braces, fraction bars) are evaluated first; multiplication and division have equal precedence and are performed left to right, as are addition and subtraction. Vocabulary: order of operations, PEMDAS, grouping symbols, expression, evaluate, simplify. Students should apply these rules to numerical expressions with integers, fractions, decimals, and nested grouping symbols. Common errors: performing multiplication before division regardless of left-to-right order, ignoring the fraction bar as a grouping symbol, and evaluating addition before multiplication."
+    },
+    {
+      "skill": "Basic Properties of Numbers (Associative, Commutative, Distributive)",
+      "teks": "A.10(D)",
+      "teks_description": "Rewrite polynomial expressions using distributive property",
+      "prompt": "This topic covers fundamental number properties for Algebra Basics students (TEKS A.10D). Students should identify and apply: commutative property (a+b = b+a, ab = ba), associative property ((a+b)+c = a+(b+c)), distributive property (a(b+c) = ab+ac), identity properties (a+0 = a, a*1 = a), and inverse properties (a+(-a) = 0, a*(1/a) = 1). Key concepts: these properties justify algebraic manipulations and equation-solving steps. Vocabulary: commutative, associative, distributive, identity element, additive inverse, multiplicative inverse, property. Students should name properties used in each step of simplification. Common errors: applying commutativity to subtraction or division, confusing associative with commutative, and misapplying the distributive property."
+    },
+    {
+      "skill": "Simplifying Algebraic Expressions",
+      "teks": "A.10(A)",
+      "teks_description": "Add and subtract polynomials of degree one and two",
+      "prompt": "This topic covers combining like terms and simplifying expressions for Algebra Basics students (TEKS A.10A). Students should identify like terms (same variable raised to the same power), combine them by adding/subtracting coefficients, and use the distributive property to clear parentheses. Key concepts: coefficient, variable, constant term, like terms, and standard form. Vocabulary: term, coefficient, constant, like terms, simplify, combine, expression, polynomial. Students should simplify expressions involving addition, subtraction, and distribution with integers and fractions. Common errors: combining unlike terms (e.g., 2x + 3x^2), sign errors when distributing negatives, and forgetting to distribute to all terms inside parentheses."
+    },
+    {
+      "skill": "Solving One-Step Equations",
+      "teks": "A.5(A)",
+      "teks_description": "Solve linear equations in one variable",
+      "prompt": "This topic covers solving simple linear equations for Algebra Basics students (TEKS A.5A). Students should isolate the variable using a single inverse operation: adding/subtracting to undo addition/subtraction, or multiplying/dividing to undo multiplication/division. Key concepts: inverse operations, maintaining equality by performing the same operation on both sides, and checking solutions by substitution. Vocabulary: equation, variable, solution, inverse operation, isolate, equality. Students should solve equations with integers, fractions, and decimals. Common errors: performing different operations on each side, forgetting to check the solution, and sign errors with negative numbers."
+    },
+    {
+      "skill": "Solving Multi-Step Equations",
+      "teks": "A.5(A)",
+      "teks_description": "Solve linear equations including those requiring distributive property and variables on both sides",
+      "prompt": "This topic covers solving equations requiring multiple steps for Algebra Basics students (TEKS A.5A). Students should solve equations involving the distributive property, combining like terms, and variables on both sides. Key process: simplify each side, collect variable terms on one side and constants on the other, then isolate the variable. Key concepts: equivalent equations, no solution (contradiction like 5 = 3), infinitely many solutions (identity like x = x). Vocabulary: multi-step equation, distribute, combine like terms, identity, contradiction, no solution, infinite solutions. Common errors: distributing to only one term, collecting terms incorrectly, and not recognizing special cases."
+    },
+    {
+      "skill": "Understanding Variables and Constants",
+      "teks": "A.12(B)",
+      "teks_description": "Evaluate functions expressed in function notation given elements in their domains",
+      "prompt": "This topic covers the concept of variables and function evaluation for Algebra Basics students (TEKS A.12B). Students should understand that a variable represents an unknown or changing quantity, while a constant has a fixed value. Key concepts: evaluating expressions by substituting given values, function notation f(x), evaluating f(a) for specific values of a, and understanding that different inputs produce different outputs. Vocabulary: variable, constant, expression, evaluate, substitute, function notation, input, output, domain. Common errors: confusing variables with specific numbers, order of operations mistakes during substitution, and misunderstanding f(x) as f times x."
+    },
+    {
+      "skill": "Operations with Integers",
+      "teks": "A.1(C)",
+      "teks_description": "Select tools and techniques including mental math, estimation, and number sense for operations",
+      "prompt": "This topic covers addition, subtraction, multiplication, and division of integers for Algebra Basics students (TEKS A.1C). Students should master rules for signed number arithmetic: same signs add and keep the sign; different signs subtract and take the sign of the larger absolute value; multiplying/dividing same signs gives positive, different signs gives negative. Key concepts: number line model, absolute value, zero pairs, and the relationship between subtraction and adding the opposite. Vocabulary: integer, positive, negative, absolute value, opposite, zero pair, signed number. Common errors: subtracting in the wrong order, confusing subtraction rules with multiplication rules, and sign errors in chains of operations."
+    },
+    {
+      "skill": "Fractions and Decimals",
+      "teks": "A.1(C)",
+      "teks_description": "Select appropriate tools and techniques for computation with fractions and decimals",
+      "prompt": "This topic covers operations with fractions and decimals for Algebra Basics students (TEKS A.1C). Students should add, subtract, multiply, and divide fractions (finding common denominators, using reciprocals for division), convert between fractions, decimals, and percentages, and simplify fractions. Key concepts: equivalent fractions, LCD, improper fractions and mixed numbers, decimal place value, terminating vs. repeating decimals. Vocabulary: fraction, numerator, denominator, common denominator, reciprocal, mixed number, improper fraction, terminating decimal, repeating decimal. Common errors: adding numerators without common denominators, inverting the wrong fraction in division, and place value errors."
+    },
+    {
+      "skill": "Ratios and Proportions",
+      "teks": "A.2(D)",
+      "teks_description": "Write and solve equations involving direct variation (proportional relationships)",
+      "prompt": "This topic covers proportional relationships and direct variation for Algebra Basics students (TEKS A.2D). Students should write and solve proportions (a/b = c/d by cross-multiplying: ad = bc), identify direct variation (y = kx where k is the constant of proportionality), and apply proportional reasoning to real-world problems. Key concepts: ratio, unit rate, constant of proportionality, scaling, similar figures, and proportion tables. Vocabulary: ratio, proportion, cross-multiply, unit rate, direct variation, constant of proportionality, scale factor. Applications: recipes, maps, unit pricing, similar figures. Common errors: setting up ratios with inconsistent units, cross-multiplication errors, and confusing direct variation with other linear functions."
+    },
+    {
+      "skill": "Percentages",
+      "teks": "A.1(A)",
+      "teks_description": "Apply mathematics to problems arising in everyday life, society, and the workplace",
+      "prompt": "This topic covers percentage calculations for Algebra Basics students (TEKS A.1A). Students should convert between fractions, decimals, and percentages, solve percent problems (finding the part, whole, or percent), and apply percentages to real-world situations. Key concepts: percent means per hundred, percent equation (part = percent x whole), percent increase/decrease, tax, tip, discount, and simple interest (I = Prt). Vocabulary: percent, percentage, base, rate, discount, markup, tax, tip, simple interest, percent change. Common errors: moving the decimal point in the wrong direction, confusing percent increase with the new amount, and not converting percentages to decimals before computing."
+    },
+    {
+      "skill": "Introduction to Inequalities",
+      "teks": "A.5(B)",
+      "teks_description": "Solve linear inequalities in one variable including complex cases",
+      "prompt": "This topic covers solving linear inequalities for Algebra Basics students (TEKS A.5B). Students should solve one-variable inequalities using the same steps as equations, with the critical rule: multiplying or dividing by a negative number reverses the inequality sign. Key concepts: inequality symbols, solution sets, graphing on a number line (open circle for strict, closed circle for inclusive), compound inequalities. Vocabulary: inequality, solution set, boundary point, open circle, closed circle, compound inequality, intersection, union. Common errors: forgetting to flip the sign when multiplying/dividing by a negative, confusing AND/OR compound inequalities, and incorrect graphing of endpoints."
+    },
+    {
+      "skill": "Graphing on the Number Line",
+      "teks": "A.5(B)",
+      "teks_description": "Solve and graph linear inequalities in one variable on the number line",
+      "prompt": "This topic covers representing solutions on the number line for Algebra Basics students (TEKS A.5B). Students should graph solutions to linear inequalities using open circles (strict inequalities) and closed circles (inclusive inequalities), shade in the correct direction, and represent solution sets in interval notation. Key concepts: number line as a model for real numbers, ordering and comparing values, plotting integers, fractions, and decimals, and representing compound inequality solutions. Vocabulary: number line, open circle, closed circle, interval notation, ray, segment, inequality, endpoint. Common errors: using the wrong circle type, shading in the wrong direction, and incorrectly representing compound inequalities."
+    },
+    {
+      "skill": "Evaluating Expressions",
+      "teks": "A.12(B)",
+      "teks_description": "Evaluate functions expressed in function notation given elements in their domains",
+      "prompt": "This topic covers substituting values into expressions for Algebra Basics students (TEKS A.12B). Students should evaluate algebraic expressions and functions by substituting given values and following order of operations. Key concepts: replacing each variable with its value (using parentheses for negative numbers), simplifying step by step, and function notation f(x). Vocabulary: evaluate, substitute, expression, function notation, domain, input, output. Students should evaluate expressions with multiple variables, exponents, fractions, and nested operations. Common errors: forgetting parentheses around negative substitutions, order of operations mistakes, and sign errors in multi-term expressions."
+    },
+    {
+      "skill": "Absolute Value Basics",
+      "teks": "2A.6(D)",
+      "teks_description": "Formulate absolute value linear equations",
+      "prompt": "This topic covers the concept of absolute value for Algebra Basics students (TEKS 2A.6D). Students should understand that |x| represents the distance from x to zero on the number line, so it is always non-negative. Key concepts: |x| = x if x >= 0, |x| = -x if x < 0; evaluating absolute value expressions; and writing simple absolute value equations from verbal descriptions. Vocabulary: absolute value, distance, non-negative, magnitude. Students should evaluate expressions involving absolute value combined with other operations. Common errors: thinking absolute value changes the sign of everything inside, confusing |-5| = 5 with |5| = -5, and misapplying absolute value in equations."
+    },
+    {
+      "skill": "Basic Coordinate Plane Concepts",
+      "teks": "A.3(C)",
+      "teks_description": "Graph linear functions and identify key features on the coordinate plane",
+      "prompt": "This topic covers the coordinate plane and graphing for Algebra Basics students (TEKS A.3C). Students should plot ordered pairs (x, y), identify quadrants (I-IV), graph linear functions from tables or equations, and identify key features. Key concepts: x-axis (horizontal), y-axis (vertical), origin (0,0), quadrants and their sign patterns (+,+ then -,+ then -,- then +,-), and reading coordinates from graphs. Vocabulary: coordinate plane, ordered pair, x-coordinate, y-coordinate, origin, quadrant, axis, horizontal, vertical. Common errors: reversing x and y coordinates, misidentifying quadrants, and incorrect scaling of axes."
+    },
+    {
+      "skill": "Introduction to Functions",
+      "teks": "A.12(A)",
+      "teks_description": "Decide whether relations define a function using verbal, tabular, graphical, and symbolic representations",
+      "prompt": "This topic covers the concept of functions for Algebra Basics students (TEKS A.12A). Students should determine whether a relation is a function using multiple representations: tables (no repeated x-values with different y-values), graphs (vertical line test), mapping diagrams (each input maps to exactly one output), and equations. Key concepts: domain (set of inputs), range (set of outputs), function notation, and the distinction between relations and functions. Vocabulary: function, relation, domain, range, input, output, vertical line test, mapping diagram. Common errors: confusing domain and range, thinking a function cannot repeat y-values, and misapplying the vertical line test."
+    },
+    {
+      "skill": "Simple Word Problems",
+      "teks": "A.1(A)",
+      "teks_description": "Apply mathematics to problems arising in everyday life, society, and the workplace",
+      "prompt": "This topic covers translating and solving real-world problems for Algebra Basics students (TEKS A.1A). Students should read word problems carefully, define variables, write equations or expressions, solve, and interpret results in context. Key concepts: identifying given information and unknowns, choosing operations based on context clues, and checking whether answers make sense. Vocabulary: variable, equation, expression, translate, define, constraint, solution, interpret, reasonable. Common problem types: age problems, money problems, distance-rate-time, and consecutive integer problems. Common errors: not defining variables clearly, choosing wrong operations, and giving numerical answers without checking context."
+    },
+    {
+      "skill": "Basic Exponent Rules",
+      "teks": "A.11(B)",
+      "teks_description": "Simplify numeric and algebraic expressions using laws of exponents",
+      "prompt": "This topic covers laws of exponents for Algebra Basics students (TEKS A.11B). Students should simplify expressions using: product rule (a^m * a^n = a^(m+n)), quotient rule (a^m / a^n = a^(m-n)), power rule ((a^m)^n = a^(mn)), zero exponent (a^0 = 1), and negative exponent (a^(-n) = 1/a^n). Key concepts: exponents represent repeated multiplication, rules only apply when bases are the same (for product/quotient rules), and writing answers with positive exponents. Vocabulary: base, exponent, power, product rule, quotient rule, power rule, zero exponent, negative exponent. Common errors: adding exponents when multiplying different bases, confusing negative exponents with negative numbers, and misapplying the power rule."
+    },
+    {
+      "skill": "Introduction to Polynomials",
+      "teks": "A.10(A)",
+      "teks_description": "Add and subtract polynomials of degree one and two",
+      "prompt": "This topic covers polynomial basics for Algebra Basics students (TEKS A.10A). Students should add and subtract polynomials by combining like terms, classify polynomials by degree (constant, linear, quadratic, cubic) and number of terms (monomial, binomial, trinomial). Key concepts: standard form (descending order of degree), leading coefficient, degree of a polynomial, and evaluating polynomials at given values. Vocabulary: polynomial, monomial, binomial, trinomial, degree, leading coefficient, standard form, constant term, like terms. Common errors: combining unlike terms, miscounting degree, and sign errors when subtracting polynomials (not distributing the negative to every term)."
+    },
+    {
+      "skill": "Factoring Simple Expressions",
+      "teks": "A.10(E)",
+      "teks_description": "Factor trinomials with real factors in form ax^2+bx+c",
+      "prompt": "This topic covers basic factoring techniques for Algebra Basics students (TEKS A.10E). Students should factor out the greatest common factor (GCF), factor trinomials of the form x^2+bx+c by finding two numbers that multiply to c and add to b, and recognize special patterns (difference of squares, perfect square trinomials). Key concepts: GCF extraction, trial factors, verifying by multiplication (FOIL), and understanding that factoring is reverse distribution. Vocabulary: factor, GCF, trinomial, difference of squares, perfect square trinomial, FOIL, prime polynomial. Common errors: forgetting the GCF, sign errors in factors, and confusing factoring with simplifying."
+    },
+    {
+      "skill": "Units and Unit Conversions",
+      "teks": "A.1(A)",
+      "teks_description": "Apply mathematics to problems arising in everyday life including unit conversions",
+      "prompt": "This topic covers dimensional analysis and unit conversions for Algebra Basics students (TEKS A.1A). Students should convert between units within and across measurement systems using conversion factors and dimensional analysis. Key concepts: setting up conversion factors so units cancel, multi-step conversions, area and volume unit conversions (square/cube the linear conversion factor), and choosing appropriate units for context. Vocabulary: unit, conversion factor, dimensional analysis, ratio, proportion, metric, customary. Common errors: multiplying when should divide, forgetting to square/cube conversion factors for area/volume, and mismatched units in calculations."
+    },
+    {
+      "skill": "Introduction to Slope and Rate of Change",
+      "teks": "A.3(A)",
+      "teks_description": "Determine slope from tables, graphs, two points, and equations in various forms",
+      "prompt": "This topic covers the concept of slope for Algebra Basics students (TEKS A.3A). Students should calculate slope from tables, graphs, two points using m = (y2-y1)/(x2-x1), and equations in various forms. Key concepts: slope as rate of change (rise over run), positive slope (increasing), negative slope (decreasing), zero slope (horizontal), undefined slope (vertical), and interpreting slope in real-world contexts. Vocabulary: slope, rate of change, rise, run, positive slope, negative slope, zero slope, undefined slope. Common errors: reversing rise and run, subtracting coordinates in inconsistent order, and confusing zero slope with undefined slope."
+    },
+    {
+      "skill": "Basic Mathematical Modeling",
+      "teks": "A.1(A)",
+      "teks_description": "Apply mathematics to problems arising in everyday life, society, and the workplace",
+      "prompt": "This topic covers creating mathematical models from real situations for Algebra Basics students (TEKS A.1A). Students should identify variables, write equations or inequalities from problem descriptions, solve, and interpret solutions in context. Key concepts: choosing appropriate function types (linear for constant rate of change), defining reasonable domains, understanding model assumptions and limitations, and communicating results. Vocabulary: model, variable, equation, constraint, reasonable, assumption, predict, interpret. Common errors: using variables without clear definitions, creating models that don't match the described situation, and ignoring context when interpreting mathematical solutions."
+    },
+    {
+      "skill": "Translating Words to Equations",
+      "teks": "A.2(C)",
+      "teks_description": "Write linear equations from verbal descriptions",
+      "prompt": "This topic covers writing equations from verbal descriptions for Algebra Basics students (TEKS A.2C). Students should translate key phrases into mathematical operations: sum/more than/increased by means addition, difference/less than/decreased by means subtraction, product/times/of means multiplication, quotient/divided by/per means division, is/equals/results in means equals. Key concepts: defining variables, writing expressions and equations, handling 'less than' which reverses order (5 less than x is x - 5), and setting up equations from multi-step word problems. Vocabulary: expression, equation, variable, translate, sum, difference, product, quotient. Common errors: 'less than' order reversal, confusing expressions with equations, and misidentifying which quantity the variable represents."
+    },
+    {
+      "skill": "Basic Data Interpretation (Mean, Median, Mode)",
+      "teks": "S.4(E)",
+      "teks_description": "Compare and contrast meaningful information derived from summary statistics",
+      "prompt": "This topic covers measures of central tendency for Algebra Basics students (TEKS S.4E). Students should calculate mean (sum divided by count), median (middle value when sorted; average of two middle values for even counts), and mode (most frequent value). Key concepts: comparing measures for different data distributions, understanding when each measure is most appropriate (mean for symmetric data, median for skewed data), and the effect of outliers on each measure. Vocabulary: mean, median, mode, average, central tendency, outlier, data set, frequency. Common errors: not ordering data before finding the median, confusing mean and median, and thinking there is always exactly one mode."
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "grade": "Grade 5",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Understanding decimals expressed in words",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers understanding decimals expressed in words for Grade 5 students (TEKS 5.2(A)). Students should understand how to read, write, and interpret decimal numbers in word form. Key concepts: the decimal point is read as 'and'; digits to the right of the decimal are read as a whole number followed by the place value of the last digit (e.g., 3.45 is 'three and forty-five hundredths'); students should convert between word form, standard form, and expanded form. Vocabulary: decimal, word form, standard form, tenths, hundredths, thousandths, 'and', read, write, convert, place value. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Place values in decimal numbers",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 5 students (TEKS 5.2(A)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Relationship between decimal place values",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 5 students (TEKS 5.2(A)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Convert decimals between standard and expanded form",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers converting between standard and expanded form for Grade 5 students (TEKS 5.2(A)). Students should understand how to decompose numbers into the sum of each digit multiplied by its place value. Key concepts: standard form is the usual way to write a number (e.g., 4,352); expanded form shows the value of each digit (e.g., 4,000 + 300 + 50 + 2); for decimals, expanded form can use fractions (e.g., 3.25 = 3 + 2/10 + 5/100) or decimals (e.g., 3 + 0.2 + 0.05); word form writes the number in words. Students should convert fluently between forms. Vocabulary: standard form, expanded form, word form, place value, digit, decompose, value, sum, decimal, fraction. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Convert decimals between standard and expanded form using fractions",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers converting between standard and expanded form for Grade 5 students (TEKS 5.2(A)). Students should understand how to decompose numbers into the sum of each digit multiplied by its place value. Key concepts: standard form is the usual way to write a number (e.g., 4,352); expanded form shows the value of each digit (e.g., 4,000 + 300 + 50 + 2); for decimals, expanded form can use fractions (e.g., 3.25 = 3 + 2/10 + 5/100) or decimals (e.g., 3 + 0.2 + 0.05); word form writes the number in words. Students should convert fluently between forms. Vocabulary: standard form, expanded form, word form, place value, digit, decompose, value, sum, decimal, fraction. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Compose and decompose decimals in multiple ways",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers composing and decomposing decimals in multiple ways for Grade 5 students (TEKS 5.2(A)). Students should understand that decimal numbers can be broken apart and recombined in various ways. Key concepts: a decimal can be decomposed by place value (3.45 = 3 + 0.4 + 0.05); it can also be decomposed in non-standard ways (3.45 = 2 + 1.45 or 3.45 = 3.4 + 0.05); composing means combining parts to form the whole; this flexibility supports mental computation and number sense. Vocabulary: compose, decompose, decimal, place value, expanded form, non-standard, flexible, combine, break apart, tenths, hundredths. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Value of a digit in a decimal number",
+      "teks": "5.2(A)",
+      "prompt": "This topic covers finding the value of a digit in a number for Grade 5 students (TEKS 5.2(A)). Students should understand that the value of a digit depends on its position (place) in the number. Key concepts: the value of a digit = digit x its place value; for example, in 5,847, the digit 8 has a value of 800; in 3.26, the digit 6 has a value of 6 hundredths or 0.06; students should distinguish between a digit's face value (the digit itself) and its place value (the value based on position). Vocabulary: digit, value, place value, position, ones, tens, hundreds, thousands, tenths, hundredths, face value. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Compare decimals using grids",
+      "teks": "5.2(B)",
+      "prompt": "This topic covers comparing decimals for Grade 5 students (TEKS 5.2(B)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Compare decimals on number lines",
+      "teks": "5.2(B)",
+      "prompt": "This topic covers comparing decimals for Grade 5 students (TEKS 5.2(B)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Compare decimal numbers",
+      "teks": "5.2(B)",
+      "prompt": "This topic covers comparing decimals for Grade 5 students (TEKS 5.2(B)). Students should understand how to determine which of two or more decimal numbers is greater, less, or equal. Key concepts: compare decimals place by place starting from the left; align decimal points before comparing; trailing zeros do not change a decimal's value (0.5 = 0.50); use symbols <, >, and = to express comparisons; models (grids, number lines) can help visualize comparisons. Vocabulary: compare, greater than, less than, equal to, decimal, place value, align, symbol, order, trailing zero, model, number line. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Put decimal numbers in order",
+      "teks": "5.2(B)",
+      "prompt": "This topic covers ordering decimal numbers for Grade 5 students (TEKS 5.2(B)). Students should understand how to arrange a set of decimal numbers from least to greatest or greatest to least. Key concepts: compare decimals by aligning decimal points and comparing digit by digit from left to right; add trailing zeros to make numbers the same length when helpful; use number lines to visualize order; ordering requires comparing each pair of values systematically. Vocabulary: order, least to greatest, greatest to least, compare, decimal, align, number line, ascending, descending, arrange, sequence, place value. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Compare, order, and round decimals: word problems",
+      "teks": "5.2(B)",
+      "prompt": "This topic covers rounding numbers for Grade 5 students (TEKS 5.2(B)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Put a mix of decimals and fractions in order",
+      "teks": "5.2(B)",
+      "prompt": "This topic covers ordering a mix of decimals and fractions for Grade 5 students (TEKS 5.2(B)). Students should understand how to compare and order numbers that are expressed in different forms. Key concepts: convert all values to the same form (all decimals or all fractions) before comparing; to convert a fraction to a decimal, divide the numerator by the denominator; use place value understanding to compare decimals; benchmark values like 1/2 = 0.5 help with quick comparisons; arrange from least to greatest or greatest to least. Vocabulary: decimal, fraction, order, convert, compare, least to greatest, greatest to least, equivalent, benchmark, arrange, mixed forms. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Round decimals",
+      "teks": "5.2(C)",
+      "prompt": "This topic covers rounding numbers for Grade 5 students (TEKS 5.2(C)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate sums and differences of whole numbers",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate sums and differences: word problems",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate products: word problems",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate quotients: 2-digit divisors",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate quotients",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multi-step word problems: identify reasonable answers",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers solving word problems for Grade 5 students (TEKS 5.3(A)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate sums and differences of fractions using benchmarks",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate sums and differences of mixed numbers",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate sums and differences of decimals using rounding",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers rounding numbers for Grade 5 students (TEKS 5.3(A)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate sums and differences of decimals using benchmarks",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate products of decimals",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate decimal quotients",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate products: multiply by 2-digit numbers",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 5 students (TEKS 5.3(A)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Estimate quotients: word problems",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers estimation strategies for Grade 5 students (TEKS 5.3(A)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Determine whether the sum or difference of two fractions is reasonable",
+      "teks": "5.3(A)",
+      "prompt": "This topic covers determining the reasonableness of fraction computation results for Grade 5 students (TEKS 5.3(A)). Students should use estimation and benchmark fractions to evaluate whether a computed answer is reasonable. Key concepts: compare each fraction to benchmarks (0, 1/4, 1/2, 3/4, 1) before computing; estimate the expected result; check if the actual answer is close to the estimate; for example, 7/8 + 3/4 should be close to 1 + 3/4 = 1 3/4; identify clearly unreasonable answers. Vocabulary: reasonable, estimate, benchmark, fraction, sum, difference, approximate, number sense, evaluate, close to, expected, actual. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply 2-digit numbers by 3-digit numbers",
+      "teks": "5.3(B)",
+      "prompt": "This topic covers multiplying multi-digit whole numbers for Grade 5 students (TEKS 5.3(B)). Students should understand the standard algorithm and alternative methods for multi-digit multiplication. Key concepts: the standard algorithm involves multiplying each digit of one factor by each digit of the other, accounting for place value; partial products break the multiplication into simpler steps; area models connect multiplication to geometric representations; estimation helps verify reasonableness. Students should handle regrouping (carrying) accurately. Vocabulary: multiply, factor, product, partial product, regroup, carry, algorithm, place value, area model, digit, estimate. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide multi-digit numbers by 1-digit numbers",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide by 1-digit numbers: interpret remainders",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide multi-digit numbers by 1-digit numbers: word problems",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide by 2-digit numbers: estimate and adjust",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide by 2-digit numbers using models",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide by 2-digit numbers using partial quotients",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide 2-digit and 3-digit numbers by 2-digit numbers",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide 2-digit and 3-digit numbers by 2-digit numbers: word problems",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide 4-digit numbers by 2-digit numbers",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide 4-digit numbers by 2-digit numbers: word problems",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers dividing multi-digit numbers for Grade 5 students (TEKS 5.3(C)). Students should understand the standard long division algorithm and alternative division strategies. Key concepts: long division involves dividing, multiplying, subtracting, and bringing down digits; partial quotients is an alternative where students subtract multiples of the divisor; remainders may need to be interpreted in context (ignored, rounded up, or expressed as a fraction/decimal); estimating quotients helps with the first digit placement. Vocabulary: divide, dividend, divisor, quotient, remainder, long division, partial quotient, estimate, algorithm, place value, regroup. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Adjust quotients",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers adjusting quotients in division for Grade 5 students (TEKS 5.3(C)). Students should understand how to correct an initial estimate in long division when the estimate is too large or too small. Key concepts: when dividing by 2-digit divisors, the first estimate for each digit of the quotient may need adjustment; if the product of the estimate and divisor exceeds the remaining dividend, the estimate is too high (reduce by 1); if the remainder is greater than or equal to the divisor, the estimate is too low (increase by 1). Vocabulary: quotient, adjust, estimate, divisor, dividend, remainder, too high, too low, long division, trial quotient, correct, revise. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete the division sentence: 2-digit divisors",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers completing division sentences with 2-digit divisors for Grade 5 students (TEKS 5.3(C)). Students should understand how to find missing components (dividend, divisor, or quotient) in division equations. Key concepts: the relationship dividend = divisor x quotient + remainder allows students to find any missing value; if the quotient is missing, perform the division; if the dividend is missing, multiply the divisor by the quotient and add the remainder; inverse operations connect multiplication and division. Vocabulary: division sentence, dividend, divisor, quotient, remainder, missing, complete, equation, inverse, multiply, relationship, two-digit. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Choose numbers with a particular quotient",
+      "teks": "5.3(C)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 5 students (TEKS 5.3(C)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multi-step word problems: multiplicative comparison",
+      "teks": "5.4(B)",
+      "prompt": "This topic covers solving word problems for Grade 5 students (TEKS 5.4(B)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply a decimal by a one-digit whole number using blocks",
+      "teks": "5.3(D)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(D)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply a decimal by a two-digit whole number using area models",
+      "teks": "5.3(D)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(D)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete the decimal multiplication sentence using grids",
+      "teks": "5.3(D)",
+      "prompt": "This topic covers completing decimal multiplication sentences using grid models for Grade 5 students (TEKS 5.3(D)). Students should understand how to use 10x10 grids to visualize and complete decimal multiplication. Key concepts: a 10x10 grid represents 1 whole with 100 equal squares; shading rows represents one factor in tenths; shading columns represents the other factor; the overlapping shaded region represents the product; count overlapping squares to determine the product in hundredths. Vocabulary: decimal, multiply, grid, model, tenths, hundredths, overlap, shade, factor, product, represent, visual, complete. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply decimals using grids",
+      "teks": "5.3(D)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(D)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply decimals using area models",
+      "teks": "5.3(D)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(D)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Properties of multiplication",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers properties of multiplication for Grade 5 students (TEKS 5.3(E)). Students should understand the mathematical properties that make multiplication work. Key concepts: commutative property (a x b = b x a); associative property ((a x b) x c = a x (b x c)); distributive property (a x (b + c) = a x b + a x c); identity property (a x 1 = a); zero property (a x 0 = 0). These properties help simplify computation and solve problems mentally. Vocabulary: commutative, associative, distributive, identity, zero property, factor, product, multiply, simplify, property, equation. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply by a power of ten with decimals: find the missing number",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply a decimal by a one-digit whole number: tenths or hundredths",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply a decimal by a one-digit whole number using the distributive property",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply a decimal by a one-digit whole number",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply a decimal by a multi-digit whole number",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply decimals and whole numbers: word problems",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply two decimals: where does the decimal point go?",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply two decimals: products up to hundredths",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 5 students (TEKS 5.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply money amounts: word problems",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers solving word problems for Grade 5 students (TEKS 5.3(E)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Price lists: multiplication",
+      "teks": "5.3(E)",
+      "prompt": "This topic covers using price lists for Grade 5 students (TEKS 5.3(E)). Students should understand how to read price lists and use them to solve real-world computation problems. Key concepts: a price list shows items and their costs; students must identify the correct prices, compute totals by multiplying quantities by prices, add subtotals, and calculate change or remaining budget; problems may involve addition, subtraction, multiplication, or combinations of operations with decimal money values. Vocabulary: price, cost, total, subtotal, quantity, multiply, add, subtract, change, budget, purchase, item, list, amount. Problems should involve realistic shopping scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide decimals using blocks: complete the equation",
+      "teks": "5.3(F)",
+      "prompt": "This topic covers dividing with decimals for Grade 5 students (TEKS 5.3(F)). Students should understand how to divide decimal numbers by whole numbers and by other decimals. Key concepts: when dividing a decimal by a whole number, place the decimal point in the quotient directly above the decimal point in the dividend and divide normally; when dividing by a decimal, multiply both the divisor and dividend by a power of 10 to make the divisor a whole number; estimate to check the reasonableness of the quotient. Vocabulary: divide, decimal, quotient, divisor, dividend, decimal point, power of ten, estimate, remainder, place value. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide decimals using area models: complete the equation",
+      "teks": "5.3(F)",
+      "prompt": "This topic covers dividing with decimals for Grade 5 students (TEKS 5.3(F)). Students should understand how to divide decimal numbers by whole numbers and by other decimals. Key concepts: when dividing a decimal by a whole number, place the decimal point in the quotient directly above the decimal point in the dividend and divide normally; when dividing by a decimal, multiply both the divisor and dividend by a power of 10 to make the divisor a whole number; estimate to check the reasonableness of the quotient. Vocabulary: divide, decimal, quotient, divisor, dividend, decimal point, power of ten, estimate, remainder, place value. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Decimal division patterns over increasing place values",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 5 students (TEKS 5.3(G)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide by a power of ten with decimals: find the missing number",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers dividing with decimals for Grade 5 students (TEKS 5.3(G)). Students should understand how to divide decimal numbers by whole numbers and by other decimals. Key concepts: when dividing a decimal by a whole number, place the decimal point in the quotient directly above the decimal point in the dividend and divide normally; when dividing by a decimal, multiply both the divisor and dividend by a power of 10 to make the divisor a whole number; estimate to check the reasonableness of the quotient. Vocabulary: divide, decimal, quotient, divisor, dividend, decimal point, power of ten, estimate, remainder, place value. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide decimals by whole numbers without adding zeros",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(G)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Division with decimal quotients",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers division problems that produce decimal quotients for Grade 5 students (TEKS 5.3(G)). Students should understand how to divide whole numbers that do not divide evenly, producing decimal remainders. Key concepts: when the dividend does not divide evenly, add a decimal point and zeros to continue dividing; place the decimal point in the quotient directly above the decimal point in the dividend; continue dividing until the remainder is zero or a pattern repeats; rounding decimal quotients may be appropriate for some contexts. Vocabulary: quotient, decimal, divide, remainder, decimal point, zero, continue, place, round, pattern, repeating, terminating. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Division with decimal quotients and rounding",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers rounding numbers for Grade 5 students (TEKS 5.3(G)). Students should understand how to round whole numbers and decimals to a specified place value. Key concepts: identify the digit in the rounding place; look at the digit to its right (the 'decision digit'); if the decision digit is 5 or greater, round up; if less than 5, round down (keep the same); all digits to the right of the rounding place become zeros (for whole numbers) or are dropped (for decimals); rounding is used for estimation. Vocabulary: round, place value, estimate, digit, round up, round down, nearest, approximately, rounding place, decision digit. Common errors include rounding to the wrong place or changing digits to the left. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Division with decimal quotients: word problems",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers solving word problems for Grade 5 students (TEKS 5.3(G)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide money amounts: word problems",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers solving word problems for Grade 5 students (TEKS 5.3(G)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide decimals by whole numbers using place value",
+      "teks": "5.3(G)",
+      "prompt": "This topic covers place values in decimal numbers for Grade 5 students (TEKS 5.3(G)). Students should understand the place value system as it extends to the right of the decimal point. Key concepts: each place value is 10 times the value of the place to its right and 1/10 the value of the place to its left; decimal place values include tenths, hundredths, and thousandths; the decimal point separates whole number places from fractional places; students should identify the value of each digit in a decimal number. Vocabulary: decimal, place value, tenths, hundredths, thousandths, digit, value, decimal point, position, ten times, one-tenth. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add fractions with unlike denominators using models",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(H)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Subtract fractions with unlike denominators using models",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(H)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Represent addition of fractions with unlike denominators using objects",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(H)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Represent subtraction of fractions with unlike denominators using objects",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(H)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add fractions with unlike denominators using objects",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(H)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Subtract fractions with unlike denominators using objects",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(H)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add 3 fractions or mixed numbers using properties of addition",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 5 students (TEKS 5.3(H)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add or subtract three fractions with unlike denominators",
+      "teks": "5.3(H)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(H)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply unit fractions by whole numbers using number lines",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply unit fractions and whole numbers: sorting",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply fractions by whole numbers: choose the model",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply fractions by whole numbers using models: complete the equation",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply fractions by whole numbers using number lines",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply fractions by whole numbers using arrays",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Fractions of a number: model and multiply",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply fractions and whole numbers: sorting",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Multiply unit fractions by whole numbers",
+      "teks": "5.3(I)",
+      "prompt": "This topic covers multiplying fractions for Grade 5 students (TEKS 5.3(I)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide unit fractions by whole numbers using models",
+      "teks": "5.3(J)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(J)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide whole numbers by unit fractions using models",
+      "teks": "5.3(J)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(J)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide unit fractions and whole numbers using area models",
+      "teks": "5.3(J)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(J)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide unit fractions and whole numbers using number lines",
+      "teks": "5.3(J)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(J)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide unit fractions by whole numbers",
+      "teks": "5.3(L)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(L)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide whole numbers and unit fractions",
+      "teks": "5.3(L)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(L)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Price lists: addition and subtraction",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers using price lists for Grade 5 students (TEKS 5.3(K)). Students should understand how to read price lists and use them to solve real-world computation problems. Key concepts: a price list shows items and their costs; students must identify the correct prices, compute totals by multiplying quantities by prices, add subtotals, and calculate change or remaining budget; problems may involve addition, subtraction, multiplication, or combinations of operations with decimal money values. Vocabulary: price, cost, total, subtotal, quantity, multiply, add, subtract, change, budget, purchase, item, list, amount. Problems should involve realistic shopping scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract whole numbers up to billions",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting multi-digit whole numbers for Grade 5 students (TEKS 5.3(K)). Students should understand the standard algorithms for addition and subtraction with regrouping. Key concepts: align numbers by place value before computing; in addition, regroup (carry) when the sum in any column exceeds 9; in subtraction, regroup (borrow) when the top digit is smaller than the bottom digit; estimate to check reasonableness; the process works the same regardless of how many digits. Vocabulary: add, subtract, regroup, carry, borrow, place value, align, digit, sum, difference, algorithm, estimate, standard algorithm. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract whole numbers: word problems",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting multi-digit whole numbers for Grade 5 students (TEKS 5.3(K)). Students should understand the standard algorithms for addition and subtraction with regrouping. Key concepts: align numbers by place value before computing; in addition, regroup (carry) when the sum in any column exceeds 9; in subtraction, regroup (borrow) when the top digit is smaller than the bottom digit; estimate to check reasonableness; the process works the same regardless of how many digits. Vocabulary: add, subtract, regroup, carry, borrow, place value, align, digit, sum, difference, algorithm, estimate, standard algorithm. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete addition and subtraction sentences",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers completing addition and subtraction sentences with missing values for Grade 5 students (TEKS 5.3(K)). Students should find missing addends, subtrahends, or results in equations. Key concepts: use inverse operations to find missing values (addition and subtraction are inverses); if a + ? = c, then ? = c - a; if ? - b = c, then ? = b + c; understanding the relationship between addition and subtraction strengthens algebraic thinking. Vocabulary: addition, subtraction, missing value, inverse operation, equation, addend, sum, difference, solve, complete, unknown, relationship. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Subtract fractions with unlike denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(K)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with unlike denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(K)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add 3 or more fractions: word problems",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers solving word problems for Grade 5 students (TEKS 5.3(K)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete addition and subtraction sentences with fractions",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers completing addition and subtraction sentences with fraction values for Grade 5 students (TEKS 5.3(K)). Students should find missing fraction values in equations using inverse operations. Key concepts: use subtraction to find a missing addend; use addition to find a missing number in subtraction; find common denominators when working with unlike denominators; simplify results; check answers by substituting back into the original equation. Vocabulary: fraction, addition, subtraction, missing value, inverse, common denominator, unlike denominator, simplify, solve, equation, addend, check. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Compare sums and differences of fractions",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers comparing sums and differences of fractions for Grade 5 students (TEKS 5.3(K)). Students should compare the results of fraction operations without necessarily computing exact answers. Key concepts: use estimation and benchmark fractions to compare expressions; determine whether each expression is close to 0, 1/2, or 1; when possible, use common denominators to compare exactly; develop number sense about fraction operations and their relative sizes. Vocabulary: compare, sum, difference, fraction, benchmark, estimate, greater than, less than, equal, number sense, expression, reasoning. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add mixed numbers with unlike denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 5 students (TEKS 5.3(K)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Subtract mixed numbers with unlike denominators: with renaming",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 5 students (TEKS 5.3(K)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract mixed numbers: word problems",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 5 students (TEKS 5.3(K)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions in recipes",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions in recipe contexts for Grade 5 students (TEKS 5.3(K)). Students should apply fraction operations to real-world cooking and baking scenarios. Key concepts: recipes use fractional measurements (cups, tablespoons, teaspoons); scaling recipes requires multiplying fractions; combining ingredients requires adding fractions; finding how much more is needed requires subtracting fractions; common denominators are needed for unlike denominators. Vocabulary: recipe, fraction, cup, tablespoon, teaspoon, ingredient, add, subtract, scale, common denominator, measurement, cooking, double, halve. Problems should involve realistic cooking scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete addition and subtraction sentences with mixed numbers",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 5 students (TEKS 5.3(K)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Compare sums and differences of mixed numbers",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers comparing sums and differences of mixed numbers for Grade 5 students (TEKS 5.3(K)). Students should estimate and compare results of operations with mixed numbers using reasoning and benchmarks. Key concepts: estimate by rounding each mixed number to the nearest whole number; compare the estimated results; use the fraction parts to refine the comparison when whole number estimates are equal; develop strategies for mental comparison without full computation. Vocabulary: mixed number, sum, difference, compare, estimate, round, whole number, fraction part, benchmark, greater than, less than, reasoning, mental math. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Use properties to add three decimals",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract decimal numbers",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Use compensation to add and subtract decimals",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract decimal numbers: word problems",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Choose decimals with a particular sum or difference",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 5 students (TEKS 5.3(K)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Inequalities with decimal addition and subtraction",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract money amounts",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting money amounts for Grade 5 students (TEKS 5.3(K)). Students should understand how to compute with money values using decimal operations. Key concepts: money amounts are written with a dollar sign and two decimal places; align decimal points when adding or subtracting; regroup as needed; include the dollar sign and two decimal places in the answer; estimate to check reasonableness; making change involves subtracting the cost from the amount paid. Vocabulary: dollar, cent, add, subtract, decimal point, align, regroup, change, cost, total, price, amount, estimate. Problems should involve real-world purchasing scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract money: word problems",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting money amounts for Grade 5 students (TEKS 5.3(K)). Students should understand how to compute with money values using decimal operations. Key concepts: money amounts are written with a dollar sign and two decimal places; align decimal points when adding or subtracting; regroup as needed; include the dollar sign and two decimal places in the answer; estimate to check reasonableness; making change involves subtracting the cost from the amount paid. Vocabulary: dollar, cent, add, subtract, decimal point, align, regroup, change, cost, total, price, amount, estimate. Problems should involve real-world purchasing scenarios appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators: word problems",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(K)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Choose numbers with a particular sum or difference",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers choosing numbers with a particular result for Grade 5 students (TEKS 5.3(K)). Students should understand how to select numbers from a set that produce a specified sum, difference, product, or quotient. Key concepts: use estimation and number sense to narrow down possibilities; test combinations systematically; understanding inverse operations helps (if looking for a sum, think about what addends are needed); this reinforces operation fluency and algebraic thinking. Vocabulary: choose, select, sum, difference, product, quotient, estimate, combination, target, result, test, number sense, operation, reasoning. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add decimal numbers: up to thousandths",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Subtract decimal numbers: up to thousandths",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Complete the decimal addition or subtraction sentence",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 5 students (TEKS 5.3(K)). Students should understand how to add and subtract decimal numbers accurately. Key concepts: align decimal points before computing; add trailing zeros as needed so numbers have the same number of decimal places; add or subtract as with whole numbers, bringing the decimal point straight down into the answer; estimate to check reasonableness. Vocabulary: decimal, add, subtract, align, decimal point, trailing zero, place value, tenths, hundredths, thousandths, estimate, regroup, sum, difference. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with like denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(K)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions with unlike denominators: word problems",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(K)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add 3 or more fractions with unlike denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(K)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add fractions with unlike denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting fractions with like denominators for Grade 5 students (TEKS 5.3(K)). Students should understand that when fractions have the same denominator, you add or subtract the numerators and keep the denominator the same. Key concepts: a/d + b/d = (a+b)/d and a/d - b/d = (a-b)/d; the denominator represents the size of the parts (which stays the same); simplify the result if possible; visual models (area models, number lines, strip models) reinforce the concept. Vocabulary: add, subtract, fraction, numerator, denominator, like denominators, simplify, sum, difference, model, common denominator, equivalent. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract mixed numbers with like denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 5 students (TEKS 5.3(K)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Add and subtract mixed numbers with unlike denominators",
+      "teks": "5.3(K)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 5 students (TEKS 5.3(K)). Students should understand strategies for computing with mixed numbers (numbers with a whole part and a fractional part). Key concepts: add or subtract the whole number parts and fraction parts separately; when subtracting, regrouping may be needed if the fraction being subtracted is larger; convert to improper fractions as an alternative strategy; find common denominators when fractions have unlike denominators; simplify the result. Vocabulary: mixed number, whole number, fraction, improper fraction, regroup, borrow, common denominator, simplify, add, subtract, convert. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide whole numbers by unit fractions",
+      "teks": "5.3(L)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(L)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide whole numbers and unit fractions",
+      "teks": "5.3(L)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(L)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    },
+    {
+      "skill": "Divide unit fractions and whole numbers: word problems",
+      "teks": "5.3(L)",
+      "prompt": "This topic covers dividing fractions for Grade 5 students (TEKS 5.3(L)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 10-11 year olds."
+    }
+  ]
+}

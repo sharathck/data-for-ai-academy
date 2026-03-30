@@ -1,0 +1,41 @@
+{
+  "grade": "AP - Biology",
+  "subject": "Cell Communication and Cell Cycle",
+  "skills": [
+    {
+      "skill": "IST 4.1 Cell Communication",
+      "ref": "IST-4.A (Unit 4, Topic 4.1)",
+      "prompt": "This topic covers cell communication for AP Biology students (CED: IST-4.A, Unit 4, Topic 4.1). Students should understand that cells communicate through chemical signaling. Types of signaling include direct contact (gap junctions, plasmodesmata), paracrine (local signaling), endocrine (hormones through bloodstream), and autocrine (signaling to self). The three stages of cell signaling are reception (ligand binds receptor), transduction (signal relay through molecules), and response (cellular activity changes). Students must identify signaling types and explain how the same signal can produce different responses in different cell types due to different receptors and transduction pathways. Connect to nervous system signaling, immune responses, and development. AP exam note: questions may require comparing signaling types and explaining specificity. Vocabulary: ligand, receptor, signal transduction, paracrine, endocrine, autocrine, gap junction, plasmodesmata."
+    },
+    {
+      "skill": "IST 4.2 Introduction to Signal Transduction",
+      "ref": "IST-4.B (Unit 4, Topic 4.2)",
+      "prompt": "This topic introduces signal transduction for AP Biology students (CED: IST-4.B, Unit 4, Topic 4.2). Students should understand that signal transduction pathways convert extracellular signals into intracellular responses through a cascade of molecular interactions. Key components include membrane receptors (G protein-coupled receptors, receptor tyrosine kinases, ion channel receptors), relay molecules, and second messengers (cAMP, Ca2+, IP3). Phosphorylation cascades (kinase cascades) amplify the signal at each step. Students must explain how signal amplification allows a small number of signaling molecules to produce a large cellular response. Connect to enzyme regulation, gene expression, and cellular responses like apoptosis. AP exam note: diagram interpretation of transduction pathways is common. Vocabulary: G protein, kinase, phosphorylation, second messenger, cAMP, signal amplification, receptor tyrosine kinase."
+    },
+    {
+      "skill": "IST 4.3 Signal Transduction",
+      "ref": "IST-4.C (Unit 4, Topic 4.3)",
+      "prompt": "This topic covers signal transduction in detail for AP Biology students (CED: IST-4.C, Unit 4, Topic 4.3). Students should understand the complete signaling pathway from reception through response. Intracellular receptors bind lipid-soluble signals (steroid hormones) that cross the membrane and directly activate gene expression. Membrane receptors bind water-soluble signals and relay information through transduction cascades. Responses include changes in gene expression, enzyme activity, or cell metabolism. Protein phosphatases remove phosphate groups to terminate signaling. Students must trace a signal from ligand binding through cellular response and explain how specificity and regulation are maintained. Connect to hormonal regulation, immune response, and cancer. AP exam note: free-response questions may ask students to explain consequences of pathway disruption. Vocabulary: intracellular receptor, phosphatase, transcription factor, gene expression, apoptosis, cascade, termination."
+    },
+    {
+      "skill": "IST Changes in Signal Transduction Pathways",
+      "ref": "IST-4.D (Unit 4, Topic 4.4)",
+      "prompt": "This topic covers changes in signal transduction pathways for AP Biology students (CED: IST-4.D, Unit 4, Topic 4.4). Students should understand that mutations or changes in any component of a signaling pathway can alter cellular responses and lead to disease. Oncogenes (overactive growth signals) and tumor suppressor genes (lost growth inhibition) illustrate how signaling errors cause cancer. Changes can include constitutively active receptors, overexpression of growth factors, or loss of apoptotic signaling. Students must explain how disruptions at different points in a pathway produce different outcomes and why multiple mutations are typically required for cancer. Connect to genetic mutations, evolution, and drug targeting of signaling pathways. AP exam note: questions may present scenarios with altered signaling and ask for predicted outcomes. Vocabulary: oncogene, tumor suppressor, proto-oncogene, apoptosis, constitutive activation, mutation, carcinogenesis."
+    },
+    {
+      "skill": "ENE 4.5 Feedback",
+      "ref": "ENE-4.A (Unit 4, Topic 4.5)",
+      "prompt": "This topic covers feedback mechanisms for AP Biology students (CED: ENE-4.A, Unit 4, Topic 4.5). Students should understand that negative feedback loops maintain homeostasis by reversing a change from a set point (e.g., thermoregulation, blood glucose regulation via insulin and glucagon). Positive feedback loops amplify a response until a specific endpoint is reached (e.g., oxytocin during childbirth, blood clotting cascade, action potential depolarization). Most biological systems use negative feedback to maintain stable internal conditions. Students must diagram feedback loops, identify components (stimulus, receptor, control center, effector), and predict outcomes of disruptions. Connect to endocrine system, nervous system, and ecological stability. AP exam note: questions frequently ask students to distinguish between positive and negative feedback and apply them to novel scenarios. Vocabulary: homeostasis, negative feedback, positive feedback, set point, stimulus, receptor, effector, thermoregulation."
+    },
+    {
+      "skill": "IST 4.6 Cell Cycle",
+      "ref": "IST-4.E (Unit 4, Topic 4.6)",
+      "prompt": "This topic covers the cell cycle for AP Biology students (CED: IST-4.E, Unit 4, Topic 4.6). Students should understand the stages of the cell cycle: interphase (G1, S, G2) and mitotic phase (mitosis and cytokinesis). During G1, cells grow and perform normal functions. During S phase, DNA replicates. During G2, cells prepare for division. Mitosis consists of prophase, metaphase, anaphase, and telophase, producing two genetically identical daughter cells. Cytokinesis divides the cytoplasm (cleavage furrow in animals, cell plate in plants). Some cells exit the cycle into G0 phase. Students must describe events at each stage and explain the importance of accurate DNA replication and chromosome segregation. Connect to cancer, development, and tissue repair. AP exam note: microscopy-based questions identifying cell cycle stages are common. Vocabulary: interphase, mitosis, cytokinesis, chromosome, chromatid, centromere, spindle fiber, G0."
+    },
+    {
+      "skill": "IST 4.7 Regulation of Cell Cycle",
+      "ref": "IST-4.F (Unit 4, Topic 4.7)",
+      "prompt": "This topic covers regulation of the cell cycle for AP Biology students (CED: IST-4.F, Unit 4, Topic 4.7). Students should understand that the cell cycle is regulated at checkpoints: G1/S (restriction point), G2/M, and the spindle assembly checkpoint in metaphase. Cyclins and cyclin-dependent kinases (CDKs) are key regulatory proteins; cyclin levels fluctuate during the cycle, activating CDKs at appropriate times. Internal signals (DNA damage, incomplete replication) and external signals (growth factors, density-dependent inhibition, anchorage dependence) control progression. Loss of cell cycle control leads to unregulated division and cancer. Students must explain how checkpoints prevent errors and how mutations in regulatory genes cause cancer. Connect to signal transduction, apoptosis, and cancer biology. AP exam note: questions may present data on cyclin levels or mutant cells. Vocabulary: checkpoint, cyclin, CDK, growth factor, apoptosis, tumor suppressor, p53, density-dependent inhibition."
+    }
+  ]
+}

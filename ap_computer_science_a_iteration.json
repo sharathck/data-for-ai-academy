@@ -1,0 +1,31 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Iteration",
+  "skills": [
+    {
+      "skill": "4.1 while Loops",
+      "ref": "CON-2.A (Unit 4, Topic 4.1)",
+      "prompt": "This topic covers while loops for AP CSA students (CED: CON-2.A, Unit 4, Topic 4.1). Students should understand that a while loop repeatedly executes a block of code as long as its boolean condition evaluates to true. Key concepts: loop control variable initialization before the loop, condition checking before each iteration, updating the control variable inside the loop body to eventually terminate, and recognizing infinite loops. Students should trace through loop execution step-by-step, predict output, and count iterations. Common patterns: counting loops, sentinel-controlled loops, accumulator patterns, and input validation. Connect to for loops (any while loop can be rewritten as a for loop and vice versa) and understand when each is more appropriate. AP exam note: tracing loop execution is heavily tested in multiple-choice. Vocabulary: iteration, loop body, condition, control variable, infinite loop, sentinel value, accumulator."
+    },
+    {
+      "skill": "4.2 for Loops",
+      "ref": "CON-2.B (Unit 4, Topic 4.2)",
+      "prompt": "This topic covers for loops for AP CSA students (CED: CON-2.B, Unit 4, Topic 4.2). Students should understand the three-part structure of a for loop: initialization, condition, and update, all in one line. Key concepts: for (init; condition; update) { body }; the init runs once before the loop; the condition is checked before each iteration; the update runs after each iteration; the loop variable's scope is limited to the loop. Students should trace for loops step by step, convert between for and while loops, and recognize standard patterns: counting from 0 to n-1, counting from 1 to n, counting backwards, and counting by increments other than 1. Common uses: iterating a known number of times, traversing arrays by index. Off-by-one errors are the most common mistake. Vocabulary: for loop, initialization, condition, update, loop variable, scope, off-by-one error, iteration count."
+    },
+    {
+      "skill": "4.3 Developing Algorithms Using Strings",
+      "ref": "CON-2.C (Unit 4, Topic 4.3)",
+      "prompt": "This topic covers developing algorithms using Strings for AP CSA students (CED: CON-2.C, Unit 4, Topic 4.3). Students should understand how to traverse and manipulate Strings using loops and String methods. Key concepts: using a for loop with charAt(i) or substring(i, i+1) to process each character; building a new String by concatenating characters that meet certain criteria; counting characters that satisfy a condition; reversing a String; searching for substrings. Common algorithms: counting vowels or specific characters, removing or replacing characters, checking if a String is a palindrome, comparing Strings character by character. Students should remember that Strings are immutable, so algorithms must build new Strings rather than modifying existing ones. Performance note: repeated concatenation creates many temporary String objects. Vocabulary: traversal, charAt, substring, concatenation, immutable, palindrome, character processing, String algorithm."
+    },
+    {
+      "skill": "4.4 Nested Iteration",
+      "ref": "CON-2.D (Unit 4, Topic 4.4)",
+      "prompt": "This topic covers nested iteration for AP CSA students (CED: CON-2.D, Unit 4, Topic 4.4). Students should understand that a loop inside another loop creates nested iteration, where the inner loop completes all its iterations for each single iteration of the outer loop. Key concepts: if the outer loop runs m times and the inner loop runs n times, the inner body executes m * n times total; nested loops are essential for processing 2D structures, comparing all pairs of elements, and generating patterns. Common applications: printing rectangular patterns of characters (stars, numbers), processing 2D arrays (covered later), and checking all pairs in an array. Students should trace through nested loops carefully, tracking both loop variables. AP exam note: expect questions asking for output of nested loops or total number of iterations. Vocabulary: nested loop, outer loop, inner loop, iteration count, quadratic complexity, pattern generation."
+    },
+    {
+      "skill": "4.5 Informal Code Analysis",
+      "ref": "CON-2.E (Unit 4, Topic 4.5)",
+      "prompt": "This topic covers informal code analysis for AP CSA students (CED: CON-2.E, Unit 4, Topic 4.5). Students should understand how to analyze the number of times a loop body executes and estimate the efficiency of iterative algorithms without formal Big-O notation. Key concepts: counting iterations by examining loop bounds (a for loop from 0 to n-1 runs n times); recognizing that nested loops multiply iteration counts; understanding that the number of operations affects program speed; distinguishing between best-case, worst-case, and typical-case behavior informally. Students should determine how many times a statement inside a loop executes, identify which loops are more efficient, and understand why reducing unnecessary iterations improves performance. Connect to searching (linear search checks up to n elements) and recognize that algorithm choice impacts runtime. Vocabulary: statement execution count, iteration analysis, efficiency, linear, quadratic, performance, runtime, algorithm analysis."
+    }
+  ]
+}

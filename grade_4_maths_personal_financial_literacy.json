@@ -1,0 +1,31 @@
+{
+  "grade": "Grade 4",
+  "subject": "Maths - Personal financial literacy",
+  "skills": [
+    {
+      "skill": "Identify fixed and variable expenses",
+      "teks": "4.10(A)",
+      "prompt": "This topic covers identifying fixed and variable expenses for Grade 4 students (TEKS 4.10(A)). Students should understand the difference between fixed expenses (costs that stay the same each month, like rent or mortgage) and variable expenses (costs that change from month to month, like groceries or entertainment). Key concepts: fixed expenses are predictable and easier to budget for; variable expenses require estimation and tracking; both types must be accounted for in a personal budget; understanding which expenses are fixed versus variable helps with financial planning. Vocabulary: fixed expense, variable expense, budget, income, cost, monthly, rent, mortgage, utilities, groceries, entertainment, insurance, subscription. Students should practice categorizing common household expenses and understanding why this distinction matters for budgeting. Problems should involve realistic scenarios appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Calculate profit: word problems",
+      "teks": "4.10(B)",
+      "prompt": "This topic covers calculating profit for Grade 4 students (TEKS 4.10(B)). Students should understand that profit is the amount of money earned after subtracting all costs from total revenue. Key concepts: profit = revenue - expenses; revenue is the total money received from selling goods or services; expenses include the cost of materials, labor, and other business costs; a positive result means profit while a negative result means a loss. Students should apply arithmetic operations to calculate profit in word problems involving buying and selling scenarios. Vocabulary: profit, loss, revenue, income, expense, cost, sell, buy, earn, business, goods, services, investment. Problems should involve age-appropriate business scenarios like lemonade stands, bake sales, or school fundraisers for 9-10 year olds."
+    },
+    {
+      "skill": "Compare savings options",
+      "teks": "4.10(C)",
+      "prompt": "This topic covers comparing savings options for Grade 4 students (TEKS 4.10(C)). Students should understand different ways to save money and the advantages and disadvantages of each option. Key concepts: savings accounts earn interest on deposited money; different accounts may offer different interest rates; some accounts have minimum balance requirements or withdrawal limits; saving money helps prepare for future needs and emergencies; the concept of interest means money can grow over time when saved in a bank. Vocabulary: savings account, interest, interest rate, deposit, withdrawal, minimum balance, bank, credit union, principal, compound interest, financial institution. Students should compare different savings options and make informed decisions about where to save. Problems should be appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Budget a weekly allowance: word problems",
+      "teks": "4.10(D)",
+      "prompt": "This topic covers budgeting for Grade 4 students (TEKS 4.10(D)). Students should understand how to create and manage a simple budget by planning income and expenses. Key concepts: a budget is a plan for how to spend and save money; income is the money received (allowance, earnings); expenses are the money spent; a balanced budget means expenses do not exceed income; budgets help people make decisions about spending priorities and saving for goals. Students should practice creating budgets with given incomes and expense categories, making choices about spending, and adjusting budgets when income or expenses change. Vocabulary: budget, income, expense, savings, spending, needs, wants, allowance, plan, balance, prioritize, adjust, goal. Problems should involve realistic budgeting scenarios appropriate for 9-10 year olds."
+    },
+    {
+      "skill": "Financial institution vocabulary",
+      "teks": "4.10(E)",
+      "prompt": "This topic covers financial institution vocabulary for Grade 4 students (TEKS 4.10(E)). Students should understand the basic functions and terminology associated with financial institutions like banks and credit unions. Key concepts: banks and credit unions are places where people can safely store money, borrow money, and earn interest; key services include checking accounts, savings accounts, and loans; deposits add money to an account, withdrawals take money out; interest is money paid by the bank on savings or charged on loans. Vocabulary: bank, credit union, savings account, checking account, deposit, withdrawal, interest, loan, balance, statement, ATM, online banking, financial institution, account. Students should understand why people use financial institutions and the basic services they provide. Problems should be appropriate for 9-10 year olds."
+    }
+  ]
+}

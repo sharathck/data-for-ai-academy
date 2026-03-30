@@ -1,0 +1,81 @@
+{
+  "grade": "AP - Calculus BC",
+  "subject": "Infinite Sequences and Series",
+  "skills": [
+    {
+      "skill": "Limits: Defining Convergent and Divergent Infinite Series",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers infinite series fundamentals for AP Calculus BC (CED: LIM-7.A, Unit 10). An infinite series sum(a_n) is the limit of partial sums: S = lim S_N. Converges if S is finite; diverges otherwise. Distinguish between sequence {a_n} and series sum(a_n). Necessary condition: convergence requires lim a_n = 0 (but not sufficient -- harmonic series). BC students build on this to apply multiple convergence tests. Understanding partial sums is essential for error bounds and approximations. AP exam note: foundational understanding of series convergence is critical for the entire BC series unit. Vocabulary: infinite series, partial sum, convergent, divergent, sequence, limit, necessary condition."
+    },
+    {
+      "skill": "Limits: Working with Geometric Series",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers geometric series for AP Calculus BC (CED: LIM-7.A, Unit 10). Form: sum(a*r^n) = a/(1-r) when |r| < 1; diverges when |r| >= 1. Partial sums: S_N = a(1-r^N)/(1-r). Identify a (first term) and r (common ratio). Applications: repeating decimals, telescoping via partial fractions, power series as generalized geometric series (sum(x^n) = 1/(1-x) for |x| < 1). BC students connect geometric series to power series representations. AP exam note: geometric series are foundational. Students should recognize them in various forms and connect 1/(1-x) = sum(x^n) to Taylor series. Vocabulary: geometric series, common ratio, sum formula, convergence condition, power series connection."
+    },
+    {
+      "skill": "Limits: The nth Term Test for Divergence",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers the nth Term Test for AP Calculus BC (CED: LIM-7.A, Unit 10). If lim a_n != 0 or DNE, then sum(a_n) diverges. If lim a_n = 0, the test is inconclusive. Always apply this test first. The harmonic series shows that lim a_n = 0 is necessary but not sufficient for convergence. BC students should evaluate sequence limits using L'Hopital's Rule, comparison, and algebraic techniques before proceeding to other convergence tests. AP exam note: the nth Term Test is the first step in any convergence analysis. Students must clearly state 'inconclusive' when the limit is zero. Vocabulary: nth Term Test, Divergence Test, necessary condition, inconclusive, harmonic series, limit."
+    },
+    {
+      "skill": "Limits: Integral Test for Convergence",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers the Integral Test for AP Calculus BC (CED: LIM-7.A, Unit 10). If f is positive, continuous, and decreasing on [1,inf) with a_n = f(n), then sum(a_n) and integral of f(x)dx from 1 to infinity either both converge or both diverge. Conditions must be verified. The test does not give the series sum. Classic use: proving p-series convergence (p > 1) and divergence (p <= 1). BC students use the Integral Test when the integrand has a known antiderivative. AP exam note: verify the three conditions when applying. The Integral Test connects series to improper integrals (BC only). Vocabulary: Integral Test, positive, continuous, decreasing, improper integral, p-series."
+    },
+    {
+      "skill": "Limits: Harmonic Series and p-Series",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers harmonic and p-series for AP Calculus BC (CED: LIM-7.A, Unit 10). Harmonic series sum(1/n) diverges. p-series sum(1/n^p): converges if p > 1, diverges if p <= 1. These serve as benchmark series for comparison tests. Key examples: sum(1/n^2) converges, sum(1/sqrt(n)) diverges, sum(1/n^3) converges. BC students use p-series extensively as comparison standards and in endpoint convergence analysis for power series. AP exam note: p-series convergence is foundational knowledge used throughout the series unit. Quick identification of p and convergence/divergence is essential. Vocabulary: harmonic series, p-series, convergence threshold, benchmark, comparison, exponent."
+    },
+    {
+      "skill": "Limits: Comparison Tests for Convergence",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers comparison tests for AP Calculus BC (CED: LIM-7.A, Unit 10). Direct Comparison: 0 <= a_n <= b_n with sum(b_n) converging implies sum(a_n) converges; a_n >= b_n >= 0 with sum(b_n) diverging implies sum(a_n) diverges. Limit Comparison: if lim(a_n/b_n) = L with 0 < L < inf, both series share the same convergence behavior. Choose comparison series (p-series or geometric) based on dominant terms for large n. AP exam note: Limit Comparison is often easier than Direct Comparison. Students must show the comparison series converges/diverges. Vocabulary: Direct Comparison, Limit Comparison, positive terms, inequality, dominant term, benchmark series."
+    },
+    {
+      "skill": "Limits: Alternating Series Test for Convergence",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers the Alternating Series Test for AP Calculus BC (CED: LIM-7.A, Unit 10). For sum((-1)^n b_n) with b_n > 0: if b_n is decreasing and lim b_n = 0, the series converges. This convergence is conditional if sum(b_n) diverges. Classic: alternating harmonic sum((-1)^(n+1)/n) converges to ln(2). Partial sums oscillate around the sum. BC students connect this to the error bound (Topic 10.10) and absolute/conditional convergence analysis. AP exam note: both conditions must be verified explicitly. The AST is paired with the error bound on many BC exams. Vocabulary: Alternating Series Test, Leibniz Test, decreasing, limit zero, conditional convergence, oscillating."
+    },
+    {
+      "skill": "Limits: Ratio Test for Convergence",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers the Ratio Test for AP Calculus BC (CED: LIM-7.A, Unit 10). Compute L = lim|a_(n+1)/a_n|. L < 1: converges absolutely. L > 1 or infinity: diverges. L = 1: inconclusive. Best for series with factorials and exponentials. For power series sum(c_n(x-a)^n), the Ratio Test determines the radius of convergence R: |x-a| < R when L < 1. BC students use the Ratio Test as the primary tool for finding radius of convergence. AP exam note: the Ratio Test is one of the most important and frequently tested convergence tests on BC. Careful simplification of the ratio is essential. Vocabulary: Ratio Test, absolute convergence, factorial, exponential, radius of convergence, inconclusive."
+    },
+    {
+      "skill": "Limits: Determining Absolute or Conditional Convergence",
+      "ref": "LIM-7.A",
+      "prompt": "This topic covers absolute vs. conditional convergence for AP Calculus BC (CED: LIM-7.A, Unit 10). Absolute convergence: sum(|a_n|) converges. Conditional: sum(a_n) converges but sum(|a_n|) diverges. Absolute convergence implies convergence. Procedure: (1) test sum(|a_n|) with appropriate positive series test; (2) if converges, it is absolute; (3) if diverges, test sum(a_n) (often AST); (4) if sum(a_n) converges, it is conditional. This classification is important at power series endpoints. AP exam note: students must test both the original and absolute value series and clearly state the type of convergence. Vocabulary: absolute convergence, conditional convergence, series of absolute values, classification, endpoint."
+    },
+    {
+      "skill": "Limits: Alternating Series Error Bound",
+      "ref": "LIM-7.B",
+      "prompt": "This topic covers the alternating series error bound for AP Calculus BC (CED: LIM-7.B, Unit 10). For a convergent alternating series: |S - S_N| <= |a_(N+1)| = b_(N+1). The error is bounded by the first omitted term. To achieve accuracy epsilon, find smallest N with b_(N+1) < epsilon. This is a simple and powerful error bound specific to alternating series. BC students use it to determine how many terms are needed for a desired accuracy and to bound errors in Taylor polynomial approximations of alternating series. AP exam note: frequently tested. Students must identify the first omitted term correctly. Vocabulary: error bound, alternating series, first omitted term, accuracy, partial sum, truncation."
+    },
+    {
+      "skill": "Limits: Finding Taylor Polynomial Approximations of Functions",
+      "ref": "LIM-8.A",
+      "prompt": "This topic covers Taylor polynomials for AP Calculus BC (CED: LIM-8.A, Unit 10). The nth-degree Taylor polynomial centered at a: P_n(x) = sum[k=0 to n] f^(k)(a)(x-a)^k/k!. Maclaurin polynomial: a = 0. Higher degree generally gives better approximation near a. The polynomial matches f through its first n derivatives at a. Common Maclaurin polynomials: e^x, sin x, cos x, 1/(1-x), ln(1+x). BC students construct Taylor polynomials as part of series analysis and error bound problems. AP exam note: constructing Taylor polynomials is a core BC free-response skill. Students must compute derivatives accurately and apply the formula correctly. Vocabulary: Taylor polynomial, Maclaurin polynomial, center, degree, derivatives, approximation, coefficient."
+    },
+    {
+      "skill": "Limits: Lagrange Error Bound",
+      "ref": "LIM-8.B",
+      "prompt": "This topic covers the Lagrange Error Bound for AP Calculus BC (CED: LIM-8.B, Unit 10). |f(x) - P_n(x)| <= M|x-a|^(n+1)/(n+1)! where M bounds |f^(n+1)(c)| for c between a and x. Key: M must be an upper bound on the (n+1)th derivative on the entire interval. The bound decreases as n increases (usually) and as x gets closer to a. Works for any Taylor polynomial. BC students use this to determine how many terms are needed for a specified accuracy. AP exam note: Lagrange Error Bound is a challenging but commonly tested BC topic. Students must correctly identify M and set up the inequality. Vocabulary: Lagrange Error Bound, remainder, Taylor polynomial, upper bound, (n+1)th derivative, accuracy."
+    },
+    {
+      "skill": "Limits: Radius and Interval of Convergence of Power Series",
+      "ref": "LIM-8.C",
+      "prompt": "This topic covers radius and interval of convergence for AP Calculus BC (CED: LIM-8.C, Unit 10). Power series sum(c_n(x-a)^n) converges for |x-a| < R (radius) and diverges for |x-a| > R. Find R using the Ratio Test: R = 1/lim|c_(n+1)/c_n| (or Root Test). Test endpoints separately using other convergence tests (p-series, AST, etc.). The interval may be open, half-open, or closed. Inside the radius: absolute convergence. At endpoints: may converge conditionally, absolutely, or diverge. BC students must master this for representing functions as power series. AP exam note: finding the interval of convergence with complete endpoint analysis is a signature BC free-response problem. Vocabulary: power series, radius of convergence, interval of convergence, endpoint analysis, Ratio Test, absolute."
+    },
+    {
+      "skill": "Limits: Finding Taylor or Maclaurin Series for a Function",
+      "ref": "LIM-8.D",
+      "prompt": "This topic covers finding Taylor/Maclaurin series for AP Calculus BC (CED: LIM-8.D, Unit 10). Taylor series: sum(f^(n)(a)/n! * (x-a)^n). Key known series: e^x = sum(x^n/n!), sin x = sum((-1)^n x^(2n+1)/(2n+1)!), cos x = sum((-1)^n x^(2n)/(2n)!), 1/(1-x) = sum(x^n), ln(1+x) = sum((-1)^(n+1) x^n/n). Derive new series by: computing derivatives and finding patterns, substitution into known series (e.g., e^(-x^2)), differentiation/integration of known series, multiplication/addition. AP exam note: BC students must memorize common series and manipulate them fluently. Series manipulation is one of the most tested BC skills. Vocabulary: Taylor series, Maclaurin series, known series, substitution, manipulation, coefficient pattern."
+    },
+    {
+      "skill": "Limits: Representing Functions as Power Series",
+      "ref": "LIM-8.E",
+      "prompt": "This topic covers representing functions as power series for AP Calculus BC (CED: LIM-8.E, Unit 10). Techniques: (1) substitution into known series; (2) term-by-term differentiation; (3) term-by-term integration (determine C with initial conditions); (4) multiplication/addition of series. Example: integral of e^(-t^2)dt has no elementary form but its series is obtained by integrating the series for e^(-t^2) term by term. The interval of convergence may change at endpoints after differentiation or integration (radius stays the same). AP exam note: representing functions as power series is a classic BC free-response question. Students should justify convergence and use series operations fluently. Vocabulary: power series representation, term-by-term differentiation, term-by-term integration, substitution, interval."
+    }
+  ]
+}

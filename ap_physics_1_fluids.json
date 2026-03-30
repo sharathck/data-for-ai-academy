@@ -1,0 +1,26 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Fluids",
+  "skills": [
+    {
+      "skill": "Internal Structure and Density",
+      "ref": "Unit 8, Topic 8.1",
+      "prompt": "This topic covers internal structure and density for AP Physics 1 students (CED: Unit 8, Topic 8.1). Students should understand that density (rho) is the mass per unit volume: rho = m/V. The SI unit is kg/m^3. Density determines whether an object floats or sinks: objects less dense than the surrounding fluid float. For fluids, density is generally uniform throughout (for incompressible fluids). Specific gravity is the ratio of a substance's density to water's density (1000 kg/m^3). Students must calculate density, predict floating and sinking behavior, and relate density to molecular structure and phase. Temperature generally decreases liquid density (except water near 4 degrees C). Connect to buoyancy, pressure, and fluid dynamics. AP exam note: density calculations and floating/sinking predictions are foundational for fluid problems. Vocabulary: density, mass, volume, specific gravity, float, sink, incompressible, fluid."
+    },
+    {
+      "skill": "Pressure",
+      "ref": "Unit 8, Topic 8.2",
+      "prompt": "This topic covers pressure for AP Physics 1 students (CED: Unit 8, Topic 8.2). Students should understand that pressure is force per unit area: P = F/A, with SI unit pascal (Pa = N/m^2). In a fluid at rest, pressure at a depth h below the surface is P = P_0 + rho*g*h (gauge pressure = rho*g*h), where P_0 is atmospheric pressure. Pressure acts equally in all directions at a given point in a fluid (Pascal's principle). Atmospheric pressure at sea level is approximately 101,325 Pa (1 atm). Pascal's principle states that pressure applied to an enclosed fluid is transmitted undiminished throughout: this is the basis of hydraulic systems (F1/A1 = F2/A2). Students must calculate pressure at various depths and apply Pascal's principle. Connect to buoyancy, fluid dynamics, and barometers. AP exam note: hydrostatic pressure and Pascal's principle calculations are commonly tested. Vocabulary: pressure, pascal, gauge pressure, atmospheric pressure, Pascal's principle, hydrostatic, hydraulic."
+    },
+    {
+      "skill": "Fluids and Newton’s Laws",
+      "ref": "Unit 8, Topic 8.3",
+      "prompt": "This topic covers fluids and Newton’s laws for AP Physics 1 students (CED: Unit 8, Topic 8.3). Students should understand that buoyant force is the upward force exerted by a fluid on a submerged or partially submerged object. Archimedes’ principle: the buoyant force equals the weight of fluid displaced: F_b = rho_fluid * V_displaced * g. An object floats when its average density is less than the fluid’s density. At equilibrium for a floating object: F_b = F_g (buoyant force equals weight). For a fully submerged object, the apparent weight = actual weight - buoyant force. Students must calculate buoyant forces, determine whether objects float or sink, and find the fraction submerged. Connect to density, pressure, and Newton’s laws. AP exam note: Archimedes’ principle and floating fraction calculations are tested. Vocabulary: buoyant force, Archimedes’ principle, displaced fluid, floating, submerged, apparent weight, density comparison."
+    },
+    {
+      "skill": "Fluids and Conservation Laws",
+      "ref": "Unit 8, Topic 8.4",
+      "prompt": "This topic covers fluids and conservation laws for AP Physics 1 students (CED: Unit 8, Topic 8.4). Students should understand two key conservation principles for ideal fluid flow. The continuity equation (conservation of mass): A1*v1 = A2*v2, where A is cross-sectional area and v is flow speed. Where the pipe narrows, fluid speeds up. Bernoulli's equation (conservation of energy per unit volume): P + (1/2)*rho*v^2 + rho*g*h = constant along a streamline. Where fluid speeds up, pressure decreases (and vice versa). Applications include airplane lift, venturi tubes, and pipe flow problems. Assumptions for ideal flow: incompressible, nonviscous, laminar, irrotational. Students must apply both equations to analyze fluid flow systems. Connect to pressure, energy conservation, and real-world applications. AP exam note: applying continuity and Bernoulli's equations together is tested. Vocabulary: continuity equation, Bernoulli's equation, flow rate, streamline, incompressible, laminar flow, ideal fluid."
+    }
+  ]
+}

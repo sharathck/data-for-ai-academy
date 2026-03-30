@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Computer Science Principles",
+  "subject": "Impact of Computing",
+  "skills": [
+    {
+      "skill": "5.1 Beneficial and Harmful Effects",
+      "ref": "IOC-1.A (Unit 5, Topic 5.1)",
+      "prompt": "This topic covers beneficial and harmful effects of computing for AP CSP students (CED: IOC-1.A, Unit 5, Topic 5.1). Students should understand that computing innovations can have both positive and negative impacts on society, often simultaneously. Key concepts: innovations have intended beneficial effects but can also produce unintended harmful consequences; the same technology can affect different groups differently; effects can be social, economic, cultural, or political. Students should analyze real-world computing innovations (social media, autonomous vehicles, facial recognition, AI) and identify both benefits and harms, considering multiple stakeholder perspectives. Understanding requires looking beyond the developer's intent to actual real-world outcomes, including effects on privacy, employment, communication, and access to information. Vocabulary: computing innovation, beneficial effect, harmful effect, unintended consequence, stakeholder, societal impact, trade-off, dual-use."
+    },
+    {
+      "skill": "5.2 Digital Divide",
+      "ref": "IOC-1.C (Unit 5, Topic 5.2)",
+      "prompt": "This topic covers the digital divide for AP CSP students (CED: IOC-1.C, Unit 5, Topic 5.2). Students should understand that unequal access to computing and the Internet creates and reinforces societal inequalities. Key concepts: the digital divide refers to disparities in access to technology based on geography (urban vs. rural), socioeconomic status, age, education, and country; lack of access limits educational and economic opportunities; solutions include public Internet access points, affordable devices, digital literacy programs, and infrastructure investment. Students should analyze how the digital divide affects different communities, understand that access alone is insufficient without digital literacy, and recognize that as society becomes more technology-dependent, those without access face increasing disadvantage. The digital divide exists both between and within countries. Vocabulary: digital divide, access, equity, infrastructure, broadband, digital literacy, socioeconomic, connectivity, inclusion."
+    },
+    {
+      "skill": "5.3 Computing Bias",
+      "ref": "IOC-1.D (Unit 5, Topic 5.3)",
+      "prompt": "This topic covers computing bias for AP CSP students (CED: IOC-1.D, Unit 5, Topic 5.3). Students should understand that computing systems can reflect and amplify human biases. Key concepts: bias can enter computing systems through the data used to train algorithms (biased training data), through the design choices of developers (who may not represent all users), and through the assumptions embedded in algorithms; examples include facial recognition performing poorly on certain demographics, hiring algorithms discriminating against women, and search engines reinforcing stereotypes. Students should identify potential sources of bias in computing systems, understand that bias is often unintentional, and recognize strategies to mitigate bias (diverse development teams, representative data, regular auditing). Bias in computing systems can have serious real-world consequences. Vocabulary: bias, algorithm, training data, discrimination, representation, fairness, auditing, machine learning, demographic, unintentional bias."
+    },
+    {
+      "skill": "5.4 Crowdsourcing",
+      "ref": "IOC-1.F (Unit 5, Topic 5.4)",
+      "prompt": "This topic covers crowdsourcing for AP CSP students (CED: IOC-1.F, Unit 5, Topic 5.4). Students should understand that crowdsourcing uses technology to harness the collective knowledge, effort, and resources of large groups of people. Key concepts: crowdsourcing leverages the Internet to gather input from many distributed contributors; examples include citizen science projects (Galaxy Zoo, Foldit), open-source software development, collaborative knowledge bases (Wikipedia), crowdfunding (Kickstarter), and distributed computing (SETI@home). Benefits include accessing diverse expertise, processing large amounts of data, and solving problems no individual could handle alone. Challenges include quality control, coordination, verifying accuracy, and ensuring representative participation. Students should analyze examples of crowdsourcing and evaluate their effectiveness and limitations. Vocabulary: crowdsourcing, open source, citizen science, distributed computing, collective intelligence, collaboration, Wikipedia, crowdfunding, volunteer computing."
+    },
+    {
+      "skill": "5.5 Legal and Ethical Concerns",
+      "ref": "IOC-2.A (Unit 5, Topic 5.5)",
+      "prompt": "This topic covers legal and ethical concerns in computing for AP CSP students (CED: IOC-2.A, Unit 5, Topic 5.5). Students should understand the legal and ethical frameworks that govern the creation and use of software and digital content. Key concepts: intellectual property is protected by copyright (automatic upon creation), patents (for inventions), and trademarks (for branding); software licensing determines how programs can be used, modified, and distributed (open source vs. proprietary); Creative Commons licenses allow creators to specify permissions; digital content can be easily copied and distributed, raising piracy concerns; the ethical use of others' work requires proper attribution and respecting licenses. Students should understand fair use principles, the difference between open-source and proprietary software, and the implications of software licensing. Vocabulary: intellectual property, copyright, patent, trademark, open source, proprietary, Creative Commons, fair use, license, piracy, attribution."
+    },
+    {
+      "skill": "5.6 Safe Computing",
+      "ref": "IOC-2.C (Unit 5, Topic 5.6)",
+      "prompt": "This topic covers safe computing for AP CSP students (CED: IOC-2.C, Unit 5, Topic 5.6). Students should understand how to protect personal information and maintain security in digital environments. Key concepts: personally identifiable information (PII) includes name, address, Social Security number, and data that can identify an individual; authentication methods include passwords, two-factor authentication (2FA), and biometrics; encryption transforms data so only authorized recipients can read it (symmetric vs. asymmetric keys); common threats include phishing (deceptive messages to steal credentials), malware (malicious software), and social engineering. Students should practice strong password creation, recognize phishing attempts, understand how encryption protects data in transit and at rest, and know that digital footprints (online activity records) are persistent and can affect future opportunities. Vocabulary: PII, authentication, encryption, phishing, malware, two-factor authentication, digital footprint, cybersecurity, privacy, keylogging."
+    }
+  ]
+}

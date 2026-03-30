@@ -1,0 +1,266 @@
+{
+  "grade": "High School - Algebra I",
+  "subject": "Mathematics - Number and algebraic methods",
+  "skills": [
+    {
+      "skill": "Polynomial operations: Add and subtract polynomials using algebra tiles",
+      "teks": "A.10(A)",
+      "prompt": "This topic covers adding and subtracting polynomials using algebra tiles for Algebra I students (TEKS A.10(A)). Algebra tiles provide a visual way to understand polynomial operations. Each tile type represents a term: small squares for units, rectangles for x, large squares for x^2. Positive and negative tiles cancel (zero pairs). To add: combine all tiles and remove zero pairs. To subtract: add opposite tiles. Vocabulary: algebra tiles, polynomial, zero pair, like terms. This builds understanding before abstract manipulation. Common errors: not creating zero pairs correctly, confusing subtraction with just removing tiles, and miscounting."
+    },
+    {
+      "skill": "Polynomial operations: Add polynomials to find perimeter",
+      "teks": "A.10(A)",
+      "prompt": "This topic covers adding polynomials to find perimeter for Algebra I students (TEKS A.10(A)). Perimeter is the sum of all side lengths. When sides are polynomial expressions, add by combining like terms. Process: write all sides, group like terms, add coefficients. This connects algebra to geometry practically. Vocabulary: polynomial, perimeter, like terms, combine, coefficient, simplify. Common errors: forgetting a side, not combining all like terms, and sign errors."
+    },
+    {
+      "skill": "Polynomial operations: Add and subtract polynomials",
+      "teks": "A.10(A)",
+      "prompt": "This topic covers adding and subtracting polynomials for Algebra I students (TEKS A.10(A)). To add: combine like terms (same variable, same power). To subtract: distribute the negative sign, then combine like terms. Like terms have identical variable parts. Write results in standard form (descending powers). Vocabulary: polynomial, like terms, coefficient, degree, standard form, distribute. Common errors: not distributing the negative to all terms when subtracting, combining unlike terms, and not writing in standard form."
+    },
+    {
+      "skill": "Polynomial operations: Multiply a polynomial by a monomial",
+      "teks": "A.10(B)",
+      "prompt": "This topic covers multiplying a polynomial by a monomial for Algebra I students (TEKS A.10(B)). Apply the distributive property: multiply the monomial by each term. For example, 3x(2x^2 + 4x - 5) = 6x^3 + 12x^2 - 15x. Multiply coefficients and add exponents of like bases (product rule). Write in standard form. Vocabulary: monomial, polynomial, distributive property, product rule. Common errors: forgetting to multiply every term, not adding exponents correctly, and sign mistakes with negative monomials."
+    },
+    {
+      "skill": "Polynomial operations: Multiply two binomials using algebra tiles",
+      "teks": "A.10(B)",
+      "prompt": "This topic covers multiplying two binomials using algebra tiles for Algebra I students (TEKS A.10(B)). Arrange tiles in a rectangular area model: one binomial along the top, one along the side, fill the rectangle. The interior tiles give the product. This visual method shows why (a+b)(c+d) = ac + ad + bc + bd. Combine like terms in the result. Vocabulary: binomial, algebra tiles, area model, product, like terms. Common errors: misplacing tiles, not accounting for negative tiles, and forgetting to combine like terms."
+    },
+    {
+      "skill": "Polynomial operations: Multiply two binomials",
+      "teks": "A.10(B)",
+      "prompt": "This topic covers polynomial operations (multiply two binomials) for Algebra I students (TEKS A.10(B)). Students use the distributive property (FOIL for binomials) to multiply: First, Outer, Inner, Last terms, then combine like terms. Example: (x+3)(x-2) = x^2 - 2x + 3x - 6 = x^2 + x - 6. Key vocabulary includes: binomial, FOIL, distributive property, product, like terms, trinomial. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: forgetting the outer or inner products, sign errors with negative terms, not combining like terms."
+    },
+    {
+      "skill": "Polynomial operations: Multiply two binomials: special cases",
+      "teks": "A.10(B)",
+      "prompt": "This topic covers special products of binomials for Algebra I students (TEKS A.10(B)). Key patterns: (a+b)^2 = a^2 + 2ab + b^2, (a-b)^2 = a^2 - 2ab + b^2, (a+b)(a-b) = a^2 - b^2. Students memorize these for efficiency. Understanding these is essential for factoring. Vocabulary: perfect square trinomial, difference of squares, conjugates, special products. Common errors: writing (a+b)^2 as a^2 + b^2 (missing 2ab), sign errors in (a-b)^2, and not recognizing conjugate pairs."
+    },
+    {
+      "skill": "Polynomial operations: Multiply polynomials using area models",
+      "teks": "A.10(B)",
+      "prompt": "This topic covers multiplying polynomials using area models for Algebra I students (TEKS A.10(B)). Draw a grid with one polynomial's terms across the top and the other along the side. Fill each cell with the product of corresponding terms. Combine like terms from all cells. This works for any polynomial multiplication. Vocabulary: area model, box method, polynomial, partial products, like terms. Common errors: miscalculating cell products, forgetting cells, exponent errors, and not combining all like terms."
+    },
+    {
+      "skill": "Polynomial operations: Multiply polynomials",
+      "teks": "A.10(B)",
+      "prompt": "This topic covers polynomial operations (multiply polynomials) for Algebra I students (TEKS A.10(B)). Students distribute each term of one polynomial to every term of the other, then combine like terms. The degree of the product equals the sum of the factors' degrees. Write results in standard form (descending degree). Key vocabulary includes: polynomial, distribute, product, like terms, degree, standard form. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: missing terms during distribution, exponent errors, sign mistakes, not combining all like terms."
+    },
+    {
+      "skill": "Polynomial operations: Divide polynomials by monomials",
+      "teks": "A.10(C)",
+      "prompt": "This topic covers dividing polynomials by monomials for Algebra I students (TEKS A.10(C)). Divide each term separately: divide coefficients and subtract exponents of like bases (quotient rule). Example: (6x^3 + 9x^2 - 3x)/(3x) = 2x^2 + 3x - 1. Vocabulary: polynomial, monomial, quotient, quotient rule. This prepares students for more complex polynomial division. Common errors: not dividing every term, subtracting exponents incorrectly, and forgetting that x/x = 1 (not 0)."
+    },
+    {
+      "skill": "Polynomial operations: Divide polynomials using long division",
+      "teks": "A.10(C)",
+      "prompt": "This topic covers dividing polynomials using long division for Algebra I students (TEKS A.10(C)). Process mirrors numerical long division: divide leading terms, multiply divisor by result, subtract, bring down next term, repeat until remainder has degree less than divisor. Include placeholder terms (0x^n) for missing degrees. Result: quotient + remainder/divisor. Vocabulary: dividend, divisor, quotient, remainder, leading term. Common errors: forgetting placeholders, subtraction errors, and stopping too early."
+    },
+    {
+      "skill": "Polynomial expressions: Distributive property",
+      "teks": "A.10(D)",
+      "prompt": "This topic covers polynomial expressions (distributive property) for Algebra I students (TEKS A.10(D)). The distributive property states a(b+c) = ab + ac. Students apply it to expand, factor, and simplify polynomial expressions. Extended form: a(b+c+d) = ab + ac + ad. This property is fundamental to all polynomial manipulation. Key vocabulary includes: distributive property, expand, factor, GCF, simplify, equivalent expression. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not distributing to every term, sign errors with negatives, confusing distribution with combining like terms."
+    },
+    {
+      "skill": "Factoring trinomials: Factor quadratics using algebra tiles",
+      "teks": "A.10(E)",
+      "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+    },
+    {
+      "skill": "Factoring trinomials: Factor quadratics with leading coefficient 1",
+      "teks": "A.10(E)",
+      "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+    },
+    {
+      "skill": "Factoring trinomials: Factor quadratics with other leading coefficients",
+      "teks": "A.10(E)",
+      "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+    },
+    {
+      "skill": "Factoring trinomials: Factor quadratics: special cases",
+      "teks": "A.10(E)",
+      "prompt": "This topic covers solving quadratic equations by factoring for Algebra I students (TEKS A.10(E)). Steps: write in standard form ax^2 + bx + c = 0, factor the left side, apply zero product property, solve each equation. Factoring techniques: find two numbers multiplying to ac and adding to b, factor by grouping, special patterns. Key vocabulary: factor, trinomial, zero product property, GCF. Always look for GCF first. The discriminant being a perfect square indicates factorability. Common errors: not moving all terms to one side, missing GCF, incorrect factor pairs, and sign errors."
+    },
+    {
+      "skill": "Difference of squares: Factor quadratics: special cases",
+      "teks": "A.10(F)",
+      "prompt": "This topic covers difference of squares (factor quadratics: special cases) for Algebra I students (TEKS A.10(F)). Key factoring patterns: a^2 - b^2 = (a+b)(a-b) for difference of squares. Also: a^2 + 2ab + b^2 = (a+b)^2 and a^2 - 2ab + b^2 = (a-b)^2 for perfect square trinomials. The sum of squares a^2 + b^2 does NOT factor over the reals. Always check for GCF first. Key vocabulary includes: difference of squares, perfect square trinomial, conjugates, factor, GCF. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: trying to factor sum of squares, not recognizing variable perfect squares, incomplete factoring."
+    },
+    {
+      "skill": "Simplifying radicals: Simplify radical expressions",
+      "teks": "A.11(A)",
+      "prompt": "This topic covers simplifying radical expressions for Algebra I students (TEKS A.11(A)). To simplify sqrt(n): find the largest perfect square factor, then separate. Example: sqrt(72) = sqrt(36*2) = 6sqrt(2). Steps: find prime factorization, pair factors, bring pairs outside. Know perfect squares to 225 (15^2). Vocabulary: radical, radicand, perfect square, simplify, prime factorization. Common errors: not finding the largest perfect square factor, leaving unsimplified radicals, and errors in prime factorization."
+    },
+    {
+      "skill": "Simplifying radicals: Add and subtract radical expressions",
+      "teks": "A.11(A)",
+      "prompt": "This topic covers adding and subtracting radical expressions for Algebra I students (TEKS A.11(A)). Like radicals (same radicand and index) combine by adding/subtracting coefficients. Steps: simplify each radical completely, identify like radicals, combine. Example: sqrt(12) + sqrt(27) = 2sqrt(3) + 3sqrt(3) = 5sqrt(3). Unlike radicals cannot be combined. Vocabulary: radical, radicand, like radicals, simplify, coefficient. Common errors: adding unlike radicals, not simplifying first, and adding radicands instead of coefficients."
+    },
+    {
+      "skill": "Simplifying radicals: Simplify radical expressions using the distributive property",
+      "teks": "A.11(A)",
+      "prompt": "This topic covers simplifying radical expressions using the distributive property for Algebra I students (TEKS A.11(A)). Students distribute: a(b+c) = ab + ac where terms include radicals. Key rules: sqrt(a)*sqrt(b) = sqrt(ab), (sqrt(a))^2 = a. Example: sqrt(3)(sqrt(3)+2) = 3 + 2sqrt(3). Simplify resulting radicals and combine like terms. Vocabulary: distributive property, radical, product rule for radicals, simplify. Common errors: not distributing to all terms, radical multiplication errors, and not combining like terms."
+    },
+    {
+      "skill": "Simplifying radicals: Simplify radical expressions using conjugates",
+      "teks": "A.11(A)",
+      "prompt": "This topic covers simplifying radical expressions using conjugates for Algebra I students (TEKS A.11(A)). Conjugates are (a + sqrt(b)) and (a - sqrt(b)). Their product eliminates the radical: (a+sqrt(b))(a-sqrt(b)) = a^2 - b. This rationalizes denominators. Steps: multiply numerator and denominator by the conjugate, simplify. Example: 1/(3+sqrt(2)) * (3-sqrt(2))/(3-sqrt(2)) = (3-sqrt(2))/7. Vocabulary: conjugate, rationalize, denominator, difference of squares. Common errors: wrong conjugate, not multiplying both parts, and difference of squares errors."
+    },
+    {
+      "skill": "Laws of exponents: Powers with integer bases",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers evaluating powers with integer bases for Algebra I students (TEKS A.11(B)). Students compute expressions like (-3)^4 or 2^5. Rules: positive base to any power is positive; negative base to even power is positive; negative base to odd power is negative. Distinguish (-3)^2 = 9 from -3^2 = -9. Vocabulary: base, exponent, power, evaluate, integer. Common errors: confusing (-a)^n with -(a^n), miscounting multiplications, and sign errors with negative bases."
+    },
+    {
+      "skill": "Laws of exponents: Powers with decimal and fractional bases",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers evaluating powers with decimal and fractional bases for Algebra I students (TEKS A.11(B)). For fractions: (a/b)^n = a^n/b^n. For decimals: multiply repeatedly or convert to fractions. Example: (2/3)^3 = 8/27. Fractions between 0 and 1 get smaller when raised to positive powers. Vocabulary: fractional base, decimal base, power, exponent, evaluate. Common errors: applying exponent to only numerator or denominator, decimal multiplication errors, and not simplifying."
+    },
+    {
+      "skill": "Laws of exponents: Negative exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers negative exponents for Algebra I students (TEKS A.11(B)). Rule: a^(-n) = 1/a^n (a not 0). A negative exponent means take the reciprocal. Examples: 2^(-3) = 1/8, (1/x)^(-2) = x^2. Negative exponents do NOT make the answer negative. Vocabulary: negative exponent, reciprocal, positive exponent, simplify. Common errors: thinking negative exponent means negative value, not taking reciprocal correctly, and confusing with base negation."
+    },
+    {
+      "skill": "Laws of exponents: Multiplication rule for exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers the multiplication (product) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m * a^n = a^(m+n). When multiplying powers with the same base, add exponents. Only applies when bases are identical. Example: x^3 * x^5 = x^8. Vocabulary: product rule, base, exponent, power. Common errors: multiplying exponents instead of adding, applying to different bases, and confusing with the power rule."
+    },
+    {
+      "skill": "Laws of exponents: Division rule for exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers the division (quotient) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m/a^n = a^(m-n) (a not 0). When dividing powers with same base, subtract exponents. Example: x^7/x^3 = x^4. If denominator exponent is larger: x^3/x^7 = x^(-4) = 1/x^4. Also a^0 = 1 follows from this rule. Vocabulary: quotient rule, base, exponent. Common errors: adding instead of subtracting, subtracting in wrong order, and applying to different bases."
+    },
+    {
+      "skill": "Laws of exponents: Power rule for exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers the power rule for exponents for Algebra I students (TEKS A.11(B)). Rule: (a^m)^n = a^(mn). When raising a power to a power, multiply exponents. Extensions: (ab)^n = a^n*b^n and (a/b)^n = a^n/b^n. Example: (x^3)^4 = x^12, (2x)^3 = 8x^3. Vocabulary: power rule, power of a power, power of a product, power of a quotient. Common errors: adding instead of multiplying exponents, not applying to all factors, and confusing with product rule."
+    },
+    {
+      "skill": "Laws of exponents: Simplify exponential expressions using the multiplication rule",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers the multiplication (product) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m * a^n = a^(m+n). When multiplying powers with the same base, add exponents. Only applies when bases are identical. Example: x^3 * x^5 = x^8. Vocabulary: product rule, base, exponent, power. Common errors: multiplying exponents instead of adding, applying to different bases, and confusing with the power rule."
+    },
+    {
+      "skill": "Laws of exponents: Simplify exponential expressions using the division rule",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers the division (quotient) rule for exponents for Algebra I students (TEKS A.11(B)). Rule: a^m/a^n = a^(m-n) (a not 0). When dividing powers with same base, subtract exponents. Example: x^7/x^3 = x^4. If denominator exponent is larger: x^3/x^7 = x^(-4) = 1/x^4. Also a^0 = 1 follows from this rule. Vocabulary: quotient rule, base, exponent. Common errors: adding instead of subtracting, subtracting in wrong order, and applying to different bases."
+    },
+    {
+      "skill": "Laws of exponents: Simplify exponential expressions using the multiplication and division rules",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers simplifying expressions using both multiplication and division rules for Algebra I students (TEKS A.11(B)). Combine a^m*a^n = a^(m+n) and a^m/a^n = a^(m-n) in multi-step problems. Simplify numerator and denominator separately, then divide. Example: (2x^3*4x^2)/x^4 = 8x^5/x^4 = 8x. Express with positive exponents. Vocabulary: product rule, quotient rule, simplify, exponential expression. Common errors: applying rules in wrong order, exponent arithmetic errors, and incomplete simplification."
+    },
+    {
+      "skill": "Laws of exponents: Simplify exponential expressions using the power rule",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers the power rule for exponents for Algebra I students (TEKS A.11(B)). Rule: (a^m)^n = a^(mn). When raising a power to a power, multiply exponents. Extensions: (ab)^n = a^n*b^n and (a/b)^n = a^n/b^n. Example: (x^3)^4 = x^12, (2x)^3 = 8x^3. Vocabulary: power rule, power of a power, power of a product, power of a quotient. Common errors: adding instead of multiplying exponents, not applying to all factors, and confusing with product rule."
+    },
+    {
+      "skill": "Laws of exponents: Evaluate expressions using exponent rules",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers evaluating expressions using all exponent rules for Algebra I students (TEKS A.11(B)). Apply product rule, quotient rule, power rule, zero exponent (a^0=1), and negative exponent (a^(-n)=1/a^n) together. Simplify first, then compute numerical values. Vocabulary: evaluate, exponent rules, simplify, numerical expression. Common errors: applying wrong rules, order of operations mistakes, and computational errors."
+    },
+    {
+      "skill": "Laws of exponents: Identify equivalent exponential expressions I",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers identifying equivalent exponential expressions (set I) for Algebra I students (TEKS A.11(B)). Students determine which expressions are equivalent by simplifying each using exponent rules. Simplify all options to the same form for comparison. Vocabulary: equivalent, exponential expression, simplify. Common errors: incomplete simplification, applying rules incorrectly, and not checking all choices."
+    },
+    {
+      "skill": "Laws of exponents: Identify equivalent exponential expressions II",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers identifying equivalent exponential expressions (set II) for Algebra I students (TEKS A.11(B)). More complex expressions requiring multiple rules in sequence. Students simplify expressions with nested powers, products, and quotients. Vocabulary: equivalent expressions, simplify, exponent rules, combined operations. Common errors: multi-step errors, sign mistakes with negatives, and incomplete simplification."
+    },
+    {
+      "skill": "Laws of exponents: Evaluate integers raised to positive rational exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers evaluating integers raised to positive rational exponents for Algebra I students (TEKS A.11(B)). Rule: a^(m/n) = (nth root of a)^m = nth root of (a^m). Example: 8^(2/3) = (cbrt(8))^2 = 4. Strategy: take root first to keep numbers small. Vocabulary: rational exponent, fractional exponent, nth root, evaluate. Common errors: confusing root vs power in m/n, computation errors, and not simplifying."
+    },
+    {
+      "skill": "Laws of exponents: Evaluate integers raised to rational exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers evaluating integers raised to rational exponents (including negative) for Algebra I students (TEKS A.11(B)). Combines rational exponents with negative rule: a^(-m/n) = 1/a^(m/n). Process: handle negative by reciprocal, then evaluate positive rational exponent. Example: 27^(-2/3) = 1/27^(2/3) = 1/9. Take roots before powers for easier computation. Vocabulary: rational exponent, negative exponent, reciprocal, nth root. Common errors: confusing negative exponents with negative results, and order of operations errors."
+    },
+    {
+      "skill": "Laws of exponents: Multiplication with rational exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers multiplication with rational exponents for Algebra I students (TEKS A.11(B)). Apply product rule: a^(m/n)*a^(p/q) = a^(m/n + p/q). Add fractional exponents using common denominators. Example: x^(1/2)*x^(1/3) = x^(5/6). Vocabulary: rational exponent, product rule, common denominator. Common errors: multiplying instead of adding exponents, common denominator errors, and not simplifying fractions."
+    },
+    {
+      "skill": "Laws of exponents: Division with rational exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers division with rational exponents for Algebra I students (TEKS A.11(B)). Apply quotient rule: a^(m/n)/a^(p/q) = a^(m/n - p/q). Subtract fractional exponents using common denominators. Example: x^(3/4)/x^(1/2) = x^(1/4). Express with positive exponents. Vocabulary: rational exponent, quotient rule, common denominator. Common errors: subtracting in wrong order, common denominator errors, and leaving negative fractional exponents."
+    },
+    {
+      "skill": "Laws of exponents: Power rule with rational exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers the power rule with rational exponents for Algebra I students (TEKS A.11(B)). Rule: (a^(m/n))^p = a^(mp/n). Multiply exponents. Example: (x^(2/3))^6 = x^4. Also (a^(m/n))^(p/q) = a^(mp/(nq)). Simplify resulting fractions. Vocabulary: power rule, rational exponent, multiply exponents. Common errors: adding instead of multiplying, fraction errors, and not simplifying."
+    },
+    {
+      "skill": "Laws of exponents: Simplify expressions involving rational exponents",
+      "teks": "A.11(B)",
+      "prompt": "This topic covers simplifying complex expressions with rational exponents for Algebra I students (TEKS A.11(B)). Apply all exponent rules to fractional exponents in multi-step problems. Steps: distribute exponents (power rule), combine same bases (product/quotient rules), simplify fractions, express with positive exponents. Vocabulary: rational exponent, simplify, product rule, quotient rule, power rule. Common errors: fraction arithmetic errors, applying rules incorrectly, and sign errors."
+    },
+    {
+      "skill": "Functions and relations: Identify functions",
+      "teks": "A.12(A)",
+      "prompt": "This topic covers identifying functions from various representations for Algebra I students (TEKS A.12(A)). A function assigns exactly one output to each input. Check from: ordered pairs (no repeated x with different y), tables (each input has one output), mappings (each input arrow to exactly one output), equations. Vocabulary: function, relation, input, output, domain, range, mapping. Common errors: confusing functions with one-to-one functions, misreading mappings, and thinking a function cannot repeat y-values."
+    },
+    {
+      "skill": "Functions and relations: Identify functions: vertical line test",
+      "teks": "A.12(A)",
+      "prompt": "This topic covers the vertical line test for Algebra I students (TEKS A.12(A)). A graph represents a function if every vertical line intersects it at most once. If any vertical line crosses at two or more points, the relation is NOT a function. Apply to curves, circles, and other graphs. Vocabulary: vertical line test, function, relation, graph, intersection. Common errors: not checking all possible vertical lines, confusing horizontal and vertical line tests, and misapplying to non-graphical forms."
+    },
+    {
+      "skill": "Function notation: Evaluate a function",
+      "teks": "A.12(B)",
+      "prompt": "This topic covers evaluating functions using function notation for Algebra I students (TEKS A.12(B)). f(x) names the function (f) and input (x). To evaluate f(a), substitute a for x and simplify. Example: f(x) = 3x^2 - 2x + 1, f(4) = 41. Students evaluate for numbers, variables, and expressions like f(a+1). Vocabulary: function notation, evaluate, substitute, input, output. Common errors: confusing f(x) with multiplication, not substituting into all x instances, and order of operations errors."
+    },
+    {
+      "skill": "Function notation: Complete a function table from an equation",
+      "teks": "A.12(B)",
+      "prompt": "This topic covers completing function tables from equations for Algebra I students (TEKS A.12(B)). Given a function rule and a table with missing values: for missing outputs, substitute x into the equation; for missing inputs, set the equation equal to the output and solve. Vocabulary: function table, input, output, evaluate, solve, function rule. Common errors: arithmetic errors, not solving correctly for missing inputs, and confusing table rows."
+    },
+    {
+      "skill": "Function notation: Evaluate piecewise-defined functions",
+      "teks": "A.12(B)",
+      "prompt": "This topic covers evaluating piecewise-defined functions for Algebra I students (TEKS A.12(B)). A piecewise function has different rules for different domain intervals. To evaluate: determine which piece applies based on the input value, then use that formula. Check boundary points carefully for which piece includes them. Example: f(x) = {x+1 if x<0; 2x if x>=0}. Vocabulary: piecewise function, domain restriction, boundary, interval. Common errors: using wrong piece, misreading inequalities at boundaries, and not evaluating boundary points correctly."
+    },
+    {
+      "skill": "Sequences: Evaluate variable expressions for number sequences",
+      "teks": "A.12(C)",
+      "prompt": "This topic covers evaluating variable expressions for number sequences for Algebra I students (TEKS A.12(C)). Students use explicit formulas like a_n = 3n+2 to find specific terms by substituting the term number. Example: a_5 = 3(5)+2 = 17. Also determine which term has a given value. Vocabulary: sequence, term, explicit formula, nth term, evaluate. Common errors: confusing term number with term value, starting n at 0 vs 1, and substitution errors."
+    },
+    {
+      "skill": "Sequences: Evaluate recursive formulas for sequences",
+      "teks": "A.12(C)",
+      "prompt": "This topic covers evaluating recursive formulas for sequences for Algebra I students (TEKS A.12(C)). A recursive formula defines each term using previous term(s), requiring an initial term. Example: a_1 = 5, a_n = a_(n-1) + 3 gives 5, 8, 11, 14... Compute terms sequentially. Vocabulary: recursive formula, initial term, previous term, iteration. Common errors: starting at wrong term, incorrect formula application, and trying to skip terms."
+    },
+    {
+      "skill": "Sequences: Write a formula for a recursive sequence",
+      "teks": "A.12(C)",
+      "prompt": "This topic covers writing recursive formulas for Algebra I students (TEKS A.12(C)). Analyze a sequence to find how each term relates to the previous one. For arithmetic: a_n = a_(n-1) + d. For geometric: a_n = r*a_(n-1). Both require specifying a_1. Vocabulary: recursive formula, common difference, common ratio, initial term. Common errors: not identifying the correct pattern, forgetting to state a_1, and confusing recursive with explicit."
+    },
+    {
+      "skill": "Sequences: Write variable expressions for arithmetic sequences",
+      "teks": "A.12(D)",
+      "prompt": "This topic covers writing explicit formulas for arithmetic sequences for Algebra I students (TEKS A.12(D)). An arithmetic sequence has constant common difference d. Formula: a_n = a_1 + (n-1)d. Find d by subtracting consecutive terms. Example: 3, 7, 11, 15... has d=4, a_1=3, so a_n = 4n-1. An arithmetic sequence is a linear function of n. Vocabulary: arithmetic sequence, common difference, explicit formula, linear. Common errors: using ratio instead of difference, not simplifying, and confusing with recursive formula."
+    },
+    {
+      "skill": "Sequences: Write variable expressions for geometric sequences",
+      "teks": "A.12(D)",
+      "prompt": "This topic covers writing explicit formulas for geometric sequences for Algebra I students (TEKS A.12(D)). A geometric sequence has constant common ratio r. Formula: a_n = a_1*r^(n-1). Find r by dividing consecutive terms. Example: 2, 6, 18, 54... has r=3, a_1=2, so a_n = 2*3^(n-1). Represents exponential growth or decay. Vocabulary: geometric sequence, common ratio, explicit formula, exponential. Common errors: confusing with arithmetic, using n instead of n-1, and ratio errors."
+    },
+    {
+      "skill": "Literal equations: Rearrange multi-variable equations",
+      "teks": "A.12(E)",
+      "prompt": "This topic covers rearranging multi-variable equations for Algebra I students (TEKS A.12(E)). Students isolate a specified variable using inverse operations, treating other variables as constants. Use the same solving techniques as one-variable equations. Example: solve A = lw for w gives w = A/l. Common formulas: distance (d=rt), perimeter, area, temperature conversions. Vocabulary: literal equation, isolate, rearrange, formula, inverse operation. Common errors: not performing operations on all terms, division errors with multiple-term expressions, and distributing incorrectly."
+    },
+    {
+      "skill": "Literal equations: Linear equations: solve for y",
+      "teks": "A.12(E)",
+      "prompt": "This topic covers solving linear equations for y for Algebra I students (TEKS A.12(E)). Given Ax + By = C, isolate y: move non-y terms to the other side, divide by y's coefficient. Example: 3x + 2y = 12 becomes y = -3/2 x + 6. This converts to slope-intercept form, revealing slope and y-intercept. Essential for graphing and calculator use. Vocabulary: solve for y, slope-intercept form, isolate, literal equation. Common errors: forgetting to divide all terms, sign errors, and not simplifying fractions."
+    }
+  ]
+}

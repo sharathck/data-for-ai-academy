@@ -1,0 +1,96 @@
+{
+  "grade": "High School - Precalculus",
+  "subject": "Mathematics - Relations and geometric reasoning",
+  "skills": [
+    {
+      "skill": "A: graph a set of parametric equations",
+      "teks": "P.3(A)",
+      "prompt": "This topic covers graph a set of parametric equations for Precalculus students (TEKS P.3(A)). Parametric equations express x and y each in terms of parameter t. Convert to rectangular by eliminating t through substitution or trigonometric identities. Key vocabulary includes: eliminate parameter, parameter, parametric equations, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "B: convert parametric equations into rectangular relations and convert rectangular relations into parametric equations",
+      "teks": "P.3(B)",
+      "prompt": "This topic covers convert parametric equations into rectangular relations and convert rectangular relations into parametric equations for Precalculus students (TEKS P.3(B)). Parametric equations express x and y each in terms of parameter t. Convert to rectangular by eliminating t through substitution or trigonometric identities. Key vocabulary includes: eliminate parameter, parameter, parametric equations, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "C: use parametric equations to model and solve mathematical and real-world problems",
+      "teks": "P.3(C)",
+      "prompt": "This topic covers use parametric equations to model and solve mathematical and real-world problems for Precalculus students (TEKS P.3(C)). Parametric equations express x and y each in terms of parameter t. Convert to rectangular by eliminating t through substitution or trigonometric identities. Key vocabulary includes: eliminate parameter, parameter, parametric equations, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "D: graph points in the polar coordinate system and convert between rectangular coordinates and polar coordinates",
+      "teks": "P.3(D)",
+      "prompt": "This topic covers graph points in the polar coordinate system and convert between rectangular coordinates and polar coordinates for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Key vocabulary includes: conversion, polar coordinates, r, rectangular, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "D: Find the modulus and argument of a complex number",
+      "teks": "P.3(D)",
+      "prompt": "This topic covers find the modulus and argument of a complex number for Precalculus students (TEKS P.3(D)). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, modulus, polar form, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "D: Convert complex numbers from rectangular to polar form",
+      "teks": "P.3(D)",
+      "prompt": "This topic covers convert complex numbers from rectangular to polar form for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, conversion, modulus, polar coordinates, polar form, r, rectangular, rectangular form, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "D: Convert complex numbers from polar to rectangular form",
+      "teks": "P.3(D)",
+      "prompt": "This topic covers convert complex numbers from polar to rectangular form for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, conversion, modulus, polar coordinates, polar form, r, rectangular, rectangular form, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "D: Convert complex numbers between rectangular and polar form",
+      "teks": "P.3(D)",
+      "prompt": "This topic covers convert complex numbers between rectangular and polar form for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, conversion, modulus, polar coordinates, polar form, r, rectangular, rectangular form, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: graph polar equations by plotting points and using technology",
+      "teks": "P.3(E)",
+      "prompt": "This topic covers graph polar equations by plotting points and using technology for Precalculus students (TEKS P.3(E)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Key vocabulary includes: conversion, polar coordinates, r, rectangular, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "E: Match polar equations and graphs",
+      "teks": "P.3(E)",
+      "prompt": "This topic covers match polar equations and graphs for Precalculus students (TEKS P.3(E)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Key vocabulary includes: conversion, polar coordinates, r, rectangular, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "F: determine the conic section formed when a plane intersects a double-napped cone",
+      "teks": "P.3(F)",
+      "prompt": "This topic covers determine the conic section formed when a plane intersects a double-napped cone for Precalculus students (TEKS P.3(F)). When a plane intersects a double-napped cone: circle (parallel to base), ellipse (angled cut), parabola (parallel to slant), hyperbola (parallel to axis). Key vocabulary includes: conic section, double-napped cone, circle, ellipse, parabola, hyperbola. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "G: make connections between the locus definition of conic sections and their equations in rectangular coordinates",
+      "teks": "P.3(G)",
+      "prompt": "This topic covers make connections between the locus definition of conic sections and their equations in rectangular coordinates for Precalculus students (TEKS P.3(G)). When a plane intersects a double-napped cone: circle (parallel to base), ellipse (angled cut), parabola (parallel to slant), hyperbola (parallel to axis). Each conic section is defined as a locus of points satisfying a distance condition, leading to its standard rectangular equation. Key vocabulary includes: locus, conic section, distance, standard form, rectangular coordinates. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "G: Write equations of parabolas in vertex form",
+      "teks": "P.3(G)",
+      "prompt": "This topic covers write equations of parabolas in vertex form for Precalculus students (TEKS P.3(G)). A parabola is the set of points equidistant from a focus and directrix. Vertex form: y = a(x-h)^2 + k or x = a(y-k)^2 + h. Key vocabulary includes: conic section, directrix, focus, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: Write equations of parabolas in vertex form using properties",
+      "teks": "P.3(G)",
+      "prompt": "This topic covers write equations of parabolas in vertex form using properties for Precalculus students (TEKS P.3(G)). A parabola is the set of points equidistant from a focus and directrix. Vertex form: y = a(x-h)^2 + k or x = a(y-k)^2 + h. Key vocabulary includes: conic section, directrix, focus, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: Write equations of ellipses in standard form",
+      "teks": "P.3(G)",
+      "prompt": "This topic covers write equations of ellipses in standard form for Precalculus students (TEKS P.3(G)). An ellipse is the set of points where the sum of distances to two foci is constant. Standard form: (x-h)^2/a^2 + (y-k)^2/b^2 = 1. Key vocabulary includes: center, conic section, directrix, ellipse, foci, focus, major axis, minor axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: Use the characteristics of an ellipse to write the equation of an ellipse with center (h, k)",
+      "teks": "P.3(H)",
+      "prompt": "This topic covers use the characteristics of an ellipse to write the equation of an ellipse with center (h, k) for Precalculus students (TEKS P.3(H)). An ellipse is the set of points where the sum of distances to two foci is constant. Standard form: (x-h)^2/a^2 + (y-k)^2/b^2 = 1. Key vocabulary includes: center, conic section, directrix, ellipse, foci, focus, major axis, minor axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: Write equations of hyperbolas in standard form",
+      "teks": "P.3(G)",
+      "prompt": "This topic covers write equations of hyperbolas in standard form for Precalculus students (TEKS P.3(G)). A hyperbola is the set of points where the difference of distances to two foci is constant. Has two branches and asymptotes. Key vocabulary includes: asymptotes, conic section, conjugate axis, directrix, foci, focus, hyperbola, transverse axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "G: Use the characteristics of a hyperbola to write the equation of a hyperbola with center (h, k)",
+      "teks": "P.3(I)",
+      "prompt": "This topic covers use the characteristics of a hyperbola to write the equation of a hyperbola with center (h, k) for Precalculus students (TEKS P.3(I)). A hyperbola is the set of points where the difference of distances to two foci is constant. Has two branches and asymptotes. Key vocabulary includes: asymptotes, conic section, conjugate axis, directrix, foci, focus, hyperbola, transverse axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

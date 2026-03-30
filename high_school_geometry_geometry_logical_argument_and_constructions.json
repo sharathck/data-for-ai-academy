@@ -1,0 +1,166 @@
+{
+  "grade": "High School - Geometry",
+  "subject": "Geometry - Logical argument and constructions",
+  "skills": [
+    {
+      "skill": "Statements - distinguish between undefined terms, definitions, postulates, conjectures, and theorems;",
+      "teks": "G.4(A)",
+      "prompt": "This topic covers distinguishing between undefined terms, definitions, postulates, conjectures, and theorems for Geometry students (TEKS G.4(A)). Undefined terms (point, line, plane) are building blocks. Definitions give precise meanings. Postulates are accepted truths. Conjectures are unproven statements. Theorems are proven statements. Key vocabulary: undefined term, definition, postulate, axiom, conjecture, theorem, proof. Common errors: confusing postulates with theorems, and not recognizing the logical hierarchy."
+    },
+    {
+      "skill": "Statements - Lines, line segments, and rays",
+      "teks": "G.4(A)",
+      "prompt": "This topic covers understanding lines, line segments, and rays for Geometry students (TEKS G.4(A)). A line extends infinitely in both directions. A ray has one endpoint and extends infinitely in one direction. A line segment has two endpoints with definite length. Key vocabulary: line, line segment, ray, endpoint, collinear, between. Students use proper notation (arrows, endpoints). Common errors: confusing segments with rays, incorrect notation, and not recognizing collinear points."
+    },
+    {
+      "skill": "Conditional statements - identify and determine the validity of the converse, inverse, and contrapositive of a conditional statement and recognize the connection between a biconditional statement and a true conditional statement with a true converse;",
+      "teks": "G.4(B)",
+      "prompt": "This topic covers conditional statements (identify and determine the validity of the converse, inverse, and contrapositive of a conditional statement and recognize the connection between a biconditional statement and a true conditional statement with a true converse;) for Geometry students (TEKS G.4(B)). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: biconditional, conclusion, conditional, contrapositive, converse, hypothesis, inverse, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional statements - Identify hypotheses and conclusions",
+      "teks": "G.4(B)",
+      "prompt": "This topic covers conditional statements (identify hypotheses and conclusions) for Geometry students (TEKS G.4(B)). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: biconditional, conclusion, conditional, contrapositive, converse, hypothesis, inverse, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional statements - Conditionals",
+      "teks": "G.4(B)",
+      "prompt": "This topic covers conditional statements (conditionals) for Geometry students (TEKS G.4(B)). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: biconditional, conclusion, conditional, contrapositive, converse, hypothesis, inverse, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional statements - Converses, inverses, and contrapositives",
+      "teks": "G.4(B)",
+      "prompt": "This topic covers conditional statements (converses, inverses, and contrapositives) for Geometry students (TEKS G.4(B)). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: biconditional, conclusion, conditional, contrapositive, converse, hypothesis, inverse, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional statements - Biconditionals",
+      "teks": "G.4(B)",
+      "prompt": "This topic covers conditional statements (biconditionals) for Geometry students (TEKS G.4(B)). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: biconditional, conclusion, conditional, contrapositive, converse, hypothesis, inverse, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional statements - Truth tables",
+      "teks": "G.4(B)",
+      "prompt": "This topic covers conditional statements (truth tables) for Geometry students (TEKS G.4(B)). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: biconditional, conclusion, conditional, contrapositive, converse, hypothesis, inverse, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conditional statements - Truth values",
+      "teks": "G.4(B)",
+      "prompt": "This topic covers conditional statements (truth values) for Geometry students (TEKS G.4(B)). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: biconditional, conclusion, conditional, contrapositive, converse, hypothesis, inverse, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Counterexamples - verify that a conjecture is false using a counterexample;",
+      "teks": "G.4(C)",
+      "prompt": "This topic covers counterexamples (verify that a conjecture is false using a counterexample;) for Geometry students (TEKS G.4(C)). A single counterexample is sufficient to disprove a conjecture; students find specific cases that violate the given statement. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: conjecture, counterexample, disprove, false, given, postulate, proof, reason, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Counterexamples - Counterexamples",
+      "teks": "G.4(C)",
+      "prompt": "This topic covers counterexamples (counterexamples) for Geometry students (TEKS G.4(C)). A single counterexample is sufficient to disprove a conjecture; students find specific cases that violate the given statement. Key vocabulary includes: conjecture, counterexample, disprove, false. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Euclidean and spherical geometries - compare geometric relationships between Euclidean and spherical geometries, including parallel lines and the sum of the angles in a triangle.",
+      "teks": "G.4(D)",
+      "prompt": "This topic covers euclidean and spherical geometries (compare geometric relationships between euclidean and spherical geometries, including parallel lines and the sum of the angles in a triangle.) for Geometry students (TEKS G.4(D)). Compare Euclidean (flat plane) with spherical geometry: in spherical geometry, parallel lines do not exist (great circles always intersect), and triangle angle sum exceeds 180 degrees. Key vocabulary includes: Euclidean geometry, spherical geometry, parallel lines, great circle, angle sum. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Conjectures - investigate patterns to make conjectures about geometric relationships, including angles formed by parallel lines cut by a transversal, criteria required for triangle congruence, special segments of triangles, diagonals of quadrilaterals, interior and exterior angles of polygons, and special segments and angles of circles choosing from a variety of tools;",
+      "teks": "G.5(A)",
+      "prompt": "This topic covers conjectures (investigate patterns to make conjectures about geometric relationships, including angles formed by parallel lines cut by a transversal, criteria required for triangle congruence, special segments of triangles, diagonals of quadrilaterals, interior and exterior angles of polygons, and special segments and angles of circles choosing from a variety of tools;) for Geometry students (TEKS G.5(A)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). When a transversal crosses parallel lines, corresponding angles are equal, alternate interior angles are equal, and co-interior angles are supplementary. Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: CPCTC, alternate exterior, alternate interior, altitude, angle sum, arc, center, chord, circle, co-interior, congruent, corresponding angles, corresponding parts, diagonal, interior angles, median, midsegment, parallel lines, parallelogram, quadrilateral, radius, rectangle, rhombus, rigid motion, secant, square, tangent, transversal, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Conjectures - Interior angles of polygons",
+      "teks": "G.5(A)",
+      "prompt": "This topic covers interior angles of polygons for Geometry students (TEKS G.5(A)). Sum of interior angles = (n-2)*180 degrees, where n is the number of sides. Each interior angle of a regular polygon = (n-2)*180/n. Students find missing angles and identify regular polygons. Key vocabulary: interior angle, polygon, regular polygon, angle sum, diagonal. Common errors: using n instead of (n-2), confusing interior with exterior angles, and miscounting sides."
+    },
+    {
+      "skill": "Constructions - construct congruent segments, congruent angles, a segment bisector, an angle bisector, perpendicular lines, the perpendicular bisector of a line segment, and a line parallel to a given line through a point not on a line using a compass and a straightedge;",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct congruent segments, congruent angles, a segment bisector, an angle bisector, perpendicular lines, the perpendicular bisector of a line segment, and a line parallel to a given line through a point not on a line using a compass and a straightedge;) for Geometry students (TEKS G.5(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: CPCTC, bisector, compass, congruent, construction, corresponding parts, perpendicular, rigid motion, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct a congruent segment",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct a congruent segment) for Geometry students (TEKS G.5(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: CPCTC, bisector, compass, congruent, construction, corresponding parts, perpendicular, rigid motion, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct the midpoint or perpendicular bisector of a segment",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct the midpoint or perpendicular bisector of a segment) for Geometry students (TEKS G.5(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: average, bisector, compass, congruent, construction, coordinates, midpoint, perpendicular, segment, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct an angle bisector",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct an angle bisector) for Geometry students (TEKS G.5(B)). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: bisector, compass, congruent, construction, perpendicular, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct a congruent angle",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct a congruent angle) for Geometry students (TEKS G.5(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: CPCTC, bisector, compass, congruent, construction, corresponding parts, perpendicular, rigid motion, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct a perpendicular line",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct a perpendicular line) for Geometry students (TEKS G.5(B)). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: bisector, compass, congruent, construction, perpendicular, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct parallel lines",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct parallel lines) for Geometry students (TEKS G.5(B)). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: bisector, compass, congruent, construction, perpendicular, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct an equilateral triangle or regular hexagon",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct an equilateral triangle or regular hexagon) for Geometry students (TEKS G.5(B)). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: bisector, compass, congruent, construction, perpendicular, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct a square",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct a square) for Geometry students (TEKS G.5(B)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: bisector, compass, congruent, construction, diagonal, parallelogram, perpendicular, quadrilateral, rectangle, rhombus, square, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct the circumcenter or incenter of a triangle",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct the circumcenter or incenter of a triangle) for Geometry students (TEKS G.5(B)). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: bisector, compass, congruent, construction, perpendicular, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Constructions - Construct the centroid or orthocenter of a triangle",
+      "teks": "G.5(B)",
+      "prompt": "This topic covers constructions (construct the centroid or orthocenter of a triangle) for Geometry students (TEKS G.5(B)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: altitude, angle sum, bisector, compass, congruent, construction, interior angles, median, midsegment, perpendicular, straightedge, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Geometric relationships - use the constructions of congruent segments, congruent angles, angle bisectors, and perpendicular bisectors to make conjectures about geometric relationships;",
+      "teks": "G.5(C)",
+      "prompt": "This topic covers geometric relationships (use the constructions of congruent segments, congruent angles, angle bisectors, and perpendicular bisectors to make conjectures about geometric relationships;) for Geometry students (TEKS G.5(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: CPCTC, bisector, compass, congruent, construction, corresponding parts, perpendicular, rigid motion, straightedge. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Geometric relationships - Congruent line segments",
+      "teks": "G.5(C)",
+      "prompt": "This topic covers geometric relationships (congruent line segments) for Geometry students (TEKS G.5(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, corresponding parts, rigid motion. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Geometric relationships - Perpendicular Bisector Theorem",
+      "teks": "G.5(C)",
+      "prompt": "This topic covers geometric relationships (perpendicular bisector theorem) for Geometry students (TEKS G.5(C)). The Perpendicular Bisector Theorem: any point on the perpendicular bisector of a segment is equidistant from the segment's endpoints, and vice versa. Key vocabulary includes: Perpendicular Bisector Theorem, equidistant, segment, bisector. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Geometric relationships - Angle bisectors",
+      "teks": "G.5(C)",
+      "prompt": "This topic covers geometric relationships (angle bisectors) for Geometry students (TEKS G.5(C)). Points on an angle bisector are equidistant from the two sides of the angle. This property is used to find the incenter of a triangle. Key vocabulary includes: angle bisector, equidistant, incenter, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Triangle Inequality - verify the Triangle Inequality theorem using constructions and apply the theorem to solve problems.",
+      "teks": "G.5(D)",
+      "prompt": "This topic covers triangle inequality (verify the triangle inequality theorem using constructions and apply the theorem to solve problems.) for Geometry students (TEKS G.5(D)). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. The Triangle Inequality Theorem states that the sum of any two side lengths must be greater than the third side length. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: Triangle Inequality Theorem, bisector, compass, congruent, construction, given, perpendicular, postulate, proof, reason, side lengths, statement, straightedge, sum, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Triangle Inequality - Triangle Inequality Theorem",
+      "teks": "G.5(D)",
+      "prompt": "This topic covers triangle inequality (triangle inequality theorem) for Geometry students (TEKS G.5(D)). The Triangle Inequality Theorem states that the sum of any two side lengths must be greater than the third side length. Key vocabulary includes: Triangle Inequality Theorem, side lengths, sum. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Triangle Inequality - Checkpoint: Geometric constructions",
+      "teks": "G.5(D)",
+      "prompt": "This topic covers triangle inequality (checkpoint: geometric constructions) for Geometry students (TEKS G.5(D)). Classical constructions use only compass and straightedge to create geometric figures based on foundational postulates. The Triangle Inequality Theorem states that the sum of any two side lengths must be greater than the third side length. Students perform constructions following precise steps and understand the geometric principles that make each construction valid. Key vocabulary includes: Triangle Inequality Theorem, bisector, compass, congruent, construction, perpendicular, side lengths, straightedge, sum. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

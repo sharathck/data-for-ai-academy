@@ -1,0 +1,36 @@
+{
+  "grade": "AP - Calculus AB",
+  "subject": "Differentiation: Composite, Implicit, and Inverse Functions",
+  "skills": [
+    {
+      "skill": "3.1 The Chain Rule",
+      "ref": "FUN-3.C",
+      "prompt": "This topic covers the Chain Rule for AP Calculus AB (CED: FUN-3.C, Unit 3, Topic 3.1). The Chain Rule states: if y = f(g(x)), then dy/dx = f'(g(x)) * g'(x). In words: differentiate the outer function (evaluated at the inner function) and multiply by the derivative of the inner function. In Leibniz notation: if y = f(u) and u = g(x), then dy/dx = (dy/du)(du/dx). Key concepts: identifying the outer and inner functions in a composition, applying the Chain Rule with any combination of functions (polynomial, trigonometric, exponential, logarithmic), and using the Chain Rule in combination with Product and Quotient Rules. Examples: d/dx[sin(x^2)] = cos(x^2)*2x; d/dx[e^(3x)] = 3e^(3x); d/dx[ln(x^2+1)] = 2x/(x^2+1). The Chain Rule extends to multiple compositions. AP exam note: the Chain Rule is one of the most important and frequently tested rules on the AP exam. Vocabulary: Chain Rule, composition, outer function, inner function, nested functions."
+    },
+    {
+      "skill": "3.2 Implicit Differentiation",
+      "ref": "FUN-3.D",
+      "prompt": "This topic covers implicit differentiation for AP Calculus AB (CED: FUN-3.D, Unit 3, Topic 3.2). When a relation is given implicitly (e.g., x^2 + y^2 = 25), rather than solved for y explicitly, students differentiate both sides with respect to x, treating y as a function of x and applying the Chain Rule: d/dx[y^2] = 2y(dy/dx). Then solve for dy/dx algebraically. Key concepts: every term involving y requires the Chain Rule (multiply by dy/dx); the resulting expression for dy/dx typically involves both x and y; use the original equation to simplify when possible. Applications include finding slopes of tangent lines to curves like circles, ellipses, and other implicit relations. Example: for x^2 + y^2 = 25, differentiating gives 2x + 2y(dy/dx) = 0, so dy/dx = -x/y. AP exam note: implicit differentiation appears regularly on the exam, including in related rates and analyzing implicit relations. Students must show clear work with dy/dx terms. Vocabulary: implicit differentiation, implicit relation, explicit function, Chain Rule, tangent line to a curve."
+    },
+    {
+      "skill": "3.3 Differentiating Inverse Functions",
+      "ref": "FUN-3.D",
+      "prompt": "This topic covers differentiating inverse functions for AP Calculus AB (CED: FUN-3.D, Unit 3, Topic 3.3). If f is a one-to-one differentiable function with inverse g = f^(-1), then g'(x) = 1/f'(g(x)), provided f'(g(x)) != 0. Equivalently, (f^(-1))'(b) = 1/f'(a) where f(a) = b. Key concepts: the derivative of an inverse function at a point is the reciprocal of the derivative of the original function at the corresponding point; graphically, since f and f^(-1) are reflections over y = x, their slopes at corresponding points are reciprocals. Students should apply this formula using tables of values: if given f(3) = 7 and f'(3) = 4, then (f^(-1))'(7) = 1/4. This concept connects to the derivatives of ln x (inverse of e^x) and inverse trigonometric functions (Topic 3.4). AP exam note: questions often provide tabular data for f and f' and ask for the derivative of f^(-1) at a specific point. Vocabulary: inverse function, one-to-one, reciprocal, corresponding points, reflection over y = x."
+    },
+    {
+      "skill": "3.4 Differentiating Inverse Trigonometric Functions",
+      "ref": "FUN-3.E",
+      "prompt": "This topic covers derivatives of inverse trigonometric functions for AP Calculus AB (CED: FUN-3.E, Unit 3, Topic 3.4). Key formulas: d/dx[arcsin x] = 1/sqrt(1-x^2), d/dx[arccos x] = -1/sqrt(1-x^2), d/dx[arctan x] = 1/(1+x^2). These can be derived using implicit differentiation: if y = arcsin x, then sin y = x, so cos y (dy/dx) = 1, giving dy/dx = 1/cos y = 1/sqrt(1-sin^2 y) = 1/sqrt(1-x^2). With the Chain Rule: d/dx[arctan(3x)] = 3/(1+9x^2). Students should know the domains and ranges of inverse trigonometric functions (arcsin and arccos have restricted domains [-1,1]; arctan has domain all reals). These derivatives are important for integration formulas involving 1/sqrt(1-x^2) and 1/(1+x^2). AP exam note: the derivative of arctan is most commonly tested; arcsin appears occasionally. Students should recognize these forms in both differentiation and antidifferentiation contexts. Vocabulary: inverse trigonometric, arcsine, arccosine, arctangent, restricted domain, implicit derivation."
+    },
+    {
+      "skill": "3.5 Selecting Procedures for Calculating Derivatives",
+      "ref": "FUN-3.C, FUN-3.D, FUN-3.E",
+      "prompt": "This topic covers selecting appropriate differentiation procedures for AP Calculus AB (CED: FUN-3.C, FUN-3.D, FUN-3.E, Unit 3, Topic 3.5). Students must identify which rules to apply based on the structure of the function: Power Rule for polynomials, Product Rule for products, Quotient Rule for quotients, Chain Rule for compositions, implicit differentiation for implicit relations, and inverse function derivative formulas. Often multiple rules must be combined: e.g., d/dx[x^2 e^(sin x)] requires the Product Rule and Chain Rule together. Decision-making strategy: examine the outermost operation (sum, product, quotient, or composition) and apply the corresponding rule first. Students should practice with complex expressions that require multiple rules in sequence. This topic synthesizes all differentiation techniques from Units 2-3. AP exam note: the ability to quickly identify and apply the correct combination of rules is essential for time management on the exam. Vocabulary: procedure selection, Product Rule, Quotient Rule, Chain Rule, implicit differentiation, combined rules."
+    },
+    {
+      "skill": "3.6 Calculating Higher-Order Derivatives",
+      "ref": "FUN-3.F",
+      "prompt": "This topic covers higher-order derivatives for AP Calculus AB (CED: FUN-3.F, Unit 3, Topic 3.6). The second derivative f''(x) is the derivative of f'(x), the third derivative f'''(x) is the derivative of f''(x), and so on. Notation: f''(x), d^2y/dx^2, y''. Key concepts: the second derivative gives the rate of change of the first derivative, which relates to concavity (f'' > 0 means concave up, f'' < 0 means concave down) and acceleration (if f represents position). Higher-order derivatives of polynomials eventually become zero; for sin x and cos x, derivatives cycle with period 4. Students should compute second and higher derivatives using all previously learned rules, including the Chain Rule and implicit differentiation (for d^2y/dx^2, differentiate dy/dx implicitly again). AP exam note: second derivatives are heavily tested in analyzing concavity, inflection points, and particle motion. The second derivative test for extrema also depends on this concept. Vocabulary: second derivative, higher-order derivative, concavity, acceleration, Leibniz notation, implicit second derivative."
+    }
+  ]
+}

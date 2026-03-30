@@ -1,0 +1,46 @@
+{
+  "grade": "AP - Statistics",
+  "subject": "Sampling Distributions",
+  "skills": [
+    {
+      "skill": "5.1 Introducing Statistics: Why Is My Sample Not Like Yours?",
+      "ref": "VAR-1.G",
+      "prompt": "This topic introduces sampling variability for AP Statistics (CED: VAR-1.G, Unit 5, Topic 5.1). Different random samples from the same population produce different statistics (means, proportions, etc.). This natural variation is called sampling variability. Key concepts: a sampling distribution is the distribution of a statistic over all possible samples of a given size; sampling variability decreases as sample size increases; understanding sampling variability is essential for inference (it tells us how reliable our estimates are). The distinction between a parameter (fixed population value) and a statistic (calculated from a sample, varies) is fundamental. AP exam note: students should understand that sampling variability is natural and expected, and that larger samples produce less variability. Vocabulary: sampling variability, sampling distribution, parameter, statistic, sample size, variation, estimate."
+    },
+    {
+      "skill": "5.2 The Normal Distribution, Revisited",
+      "ref": "VAR-6.A",
+      "prompt": "This topic revisits the normal distribution in preparation for sampling distributions for AP Statistics (CED: VAR-6.A, Unit 5, Topic 5.2). Students reinforce z-score calculations (z = (x-mu)/sigma), use of normal probability tables/technology, and the relationship between areas under the normal curve and probabilities. Key concepts: the normal distribution provides the sampling distribution model for many statistics (via the Central Limit Theorem); finding P(X < a), P(X > a), P(a < X < b) using z-scores; inverse normal calculations (finding the value x given a probability). Students should be fluent with normal calculations as these are used extensively in confidence intervals and hypothesis tests. AP exam note: normal distribution calculations are used throughout Units 6-9 for inference. Students must show z-score computation and reference the normal distribution. Vocabulary: normal distribution, z-score, standard normal, area under curve, inverse normal, probability, standardize."
+    },
+    {
+      "skill": "5.3 The Central Limit Theorem",
+      "ref": "VAR-6.B, VAR-6.C",
+      "prompt": "This topic covers the Central Limit Theorem (CLT) for AP Statistics (CED: VAR-6.B, VAR-6.C, Unit 5, Topic 5.3). The CLT states that for sufficiently large n, the sampling distribution of x-bar is approximately normal, regardless of the population shape, with mean mu and standard deviation sigma/sqrt(n). Key concepts: the CLT is why the normal distribution is so important in statistics; it applies when n is 'large enough' (rule of thumb: n >= 30 for most populations, but depends on skewness); the standard deviation of x-bar (sigma/sqrt(n)) decreases with larger n; if the population is normal, x-bar is exactly normal for any n. Students should understand when and why the CLT applies and compute probabilities involving x-bar. AP exam note: students must verify the large sample condition when applying the CLT and understand that it justifies the use of normal-based inference procedures. Vocabulary: Central Limit Theorem, sampling distribution, approximately normal, sample size, standard error, sigma over root n."
+    },
+    {
+      "skill": "5.4 Biased and Unbiased Point Estimates",
+      "ref": "UNC-3.H",
+      "prompt": "This topic covers bias in estimation for AP Statistics (CED: UNC-3.H, Unit 5, Topic 5.4). A statistic is an unbiased estimator of a parameter if its sampling distribution is centered at the parameter value (the mean of the sampling distribution equals the parameter). Key concepts: the sample mean x-bar is unbiased for the population mean mu; the sample proportion p-hat is unbiased for the population proportion p; variability of an estimator decreases with sample size; an unbiased estimator with low variability is the most desirable (accurate and precise). Bias means the estimator systematically overestimates or underestimates the parameter. Students should distinguish between bias (systematic error) and variability (random error). AP exam note: students should understand that increasing sample size reduces variability but does not fix bias. Only improved methodology fixes bias. Vocabulary: unbiased, biased, point estimate, sampling distribution, center, variability, parameter, statistic, accurate, precise."
+    },
+    {
+      "skill": "5.5 Sampling Distributions for Sample Proportions",
+      "ref": "UNC-3.I, UNC-3.J, UNC-3.K, UNC-3.L",
+      "prompt": "This topic covers the sampling distribution of p-hat for AP Statistics (CED: UNC-3.I, UNC-3.J, UNC-3.K, UNC-3.L, Unit 5, Topic 5.5). For SRS of size n from a population with proportion p: mean of p-hat = p, SD of p-hat = sqrt(p(1-p)/n). The shape is approximately normal when np >= 10 and n(1-p) >= 10 (Large Counts condition). Key concepts: p-hat is unbiased for p; the SD decreases with n (larger samples give more precise estimates); the normal approximation requires checking the Large Counts condition; the 10% condition (n < 10% of population) ensures independence when sampling without replacement. Students should compute probabilities involving p-hat using the normal approximation. AP exam note: students must check both the Large Counts and 10% conditions. These conditions reappear in inference for proportions (Units 6). Vocabulary: sample proportion, p-hat, sampling distribution, Large Counts condition, 10% condition, standard deviation, approximately normal."
+    },
+    {
+      "skill": "5.6 Sampling Distributions for Differences in Sample Proportions",
+      "ref": "UNC-3.M, UNC-3.N",
+      "prompt": "This topic covers the sampling distribution of p-hat_1 - p-hat_2 for AP Statistics (CED: UNC-3.M, UNC-3.N, Unit 5, Topic 5.6). For independent SRS from two populations: mean of (p-hat_1 - p-hat_2) = p_1 - p_2, SD = sqrt(p_1(1-p_1)/n_1 + p_2(1-p_2)/n_2). The shape is approximately normal when both samples satisfy the Large Counts condition (n_i*p_i >= 10 and n_i*(1-p_i) >= 10). Key concepts: the difference is unbiased for p_1 - p_2; variances add because the samples are independent; this sampling distribution is the foundation for two-proportion z-tests and confidence intervals. Students should compute probabilities for differences in proportions. AP exam note: students must verify conditions for both samples independently. Vocabulary: difference in proportions, two-sample, independent, Large Counts, standard deviation, approximately normal."
+    },
+    {
+      "skill": "5.7 Sampling Distributions for Sample Means",
+      "ref": "UNC-3.O, UNC-3.P, UNC-3.Q, UNC-3.R",
+      "prompt": "This topic covers the sampling distribution of x-bar for AP Statistics (CED: UNC-3.O, UNC-3.P, UNC-3.Q, UNC-3.R, Unit 5, Topic 5.7). For SRS of size n from a population with mean mu and SD sigma: mean of x-bar = mu, SD of x-bar = sigma/sqrt(n). Shape: if population is normal, x-bar is exactly normal for any n; otherwise, CLT gives approximate normality for large n (n >= 30 typically). Key concepts: x-bar is unbiased for mu; SD decreases with sqrt(n) (quadrupling n halves the SD); the sampling distribution forms the basis for t-procedures in inference. Students should compute probabilities for x-bar using the normal distribution. AP exam note: students must check the normality condition (population normal or n large enough via CLT) and the 10% condition. Vocabulary: sample mean, sampling distribution, Central Limit Theorem, standard error, sigma over root n, normal."
+    },
+    {
+      "skill": "5.8 Sampling Distributions for Differences in Sample Means",
+      "ref": "UNC-3.S, UNC-3.T, UNC-3.U, UNC-3.V",
+      "prompt": "This topic covers the sampling distribution of x-bar_1 - x-bar_2 for AP Statistics (CED: UNC-3.S, UNC-3.T, UNC-3.U, UNC-3.V, Unit 5, Topic 5.8). For independent SRS from two populations: mean = mu_1 - mu_2, SD = sqrt(sigma_1^2/n_1 + sigma_2^2/n_2). Shape is approximately normal when both populations are normal or both sample sizes are large (CLT). Key concepts: the difference is unbiased for mu_1 - mu_2; variances add for independent samples; this is the foundation for two-sample t-tests and confidence intervals. Students should check normality/CLT conditions for both samples. AP exam note: students must verify conditions for each sample and note the independence of the two samples. Vocabulary: difference in means, two-sample, independent, standard error, Central Limit Theorem, variances add."
+    }
+  ]
+}

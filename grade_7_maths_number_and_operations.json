@@ -1,0 +1,291 @@
+{
+  "grade": "Grade 7",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Add, subtract, multiply, and divide rational numbers fluently",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers fluent operations with all rational numbers for Grade 7 students (TEKS 7.3(A)). Students must demonstrate fluency in adding, subtracting, multiplying, and dividing integers, fractions, decimals, and mixed numbers, including negative values. Key concepts include: sign rules for all four operations, converting between number forms, order of operations, finding common denominators, using reciprocals for division, and applying properties of operations. Vocabulary: rational number, fluency, integer, fraction, decimal, mixed number, sign rules, reciprocal, common denominator, order of operations. Common misconceptions: mixing up sign rules across operations, errors in order of operations, and difficulty with multi-step problems involving mixed number forms. Practice should build automaticity through varied problem types appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add integers using counters",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding integers using counters for Grade 7 students (TEKS 7.3(A)). Students use two-color counters (representing positive and negative values) to model integer addition visually. Key concepts include: representing positive integers with one color and negative integers with another, creating zero pairs (one positive and one negative counter cancel out), finding the sum by counting remaining counters after removing zero pairs, and connecting the concrete model to abstract computation. Vocabulary: integer, positive, negative, counter, zero pair, sum, model, cancel. Common misconceptions: not removing all zero pairs, confusing which color represents which sign, and difficulty transitioning from the model to abstract rules. Practice should include hands-on modeling activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Integer addition rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers integer addition rules for Grade 7 students (TEKS 7.3(A)). Students formalize the rules for adding positive and negative integers. Key rules include: when adding two positive integers, the sum is positive; when adding two negative integers, add the absolute values and the sum is negative; when adding integers with different signs, subtract the smaller absolute value from the larger and take the sign of the number with the greater absolute value. Vocabulary: integer, positive, negative, absolute value, sum, sign, rule. Common misconceptions: thinking the sum of a positive and negative is always negative, and confusing addition rules with multiplication rules. Practice should include applying rules to various integer pairs appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding integers for Grade 7 students (TEKS 7.3(A)). Students fluently add positive and negative whole numbers. Key concepts include: same-sign addition (add absolute values, keep the sign), different-sign addition (find the difference of absolute values, use the sign of the number with greater absolute value), the commutative property, and adding zero. Vocabulary: integer, positive, negative, sum, absolute value, commutative property, additive identity. Common misconceptions: adding absolute values when signs differ and taking the wrong sign for the result. Practice should build computational fluency with integer addition appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Subtract integers using counters",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers subtracting integers using counters for Grade 7 students (TEKS 7.3(A)). Students use two-color counters to model integer subtraction visually. Key concepts include: representing the minuend with counters, adding zero pairs when there are not enough counters to take away, removing counters representing the subtrahend, and counting remaining counters to find the difference. This model helps students understand why subtracting a negative is the same as adding a positive. Vocabulary: integer, subtract, counter, zero pair, minuend, subtrahend, difference, model. Common misconceptions: not adding enough zero pairs and difficulty connecting the counter model to the add-the-opposite rule. Practice should include guided modeling activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Integer subtraction rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers integer subtraction rules for Grade 7 students (TEKS 7.3(A)). Students formalize the rules for subtracting integers: to subtract an integer, add its opposite (a - b = a + (-b)). Key concepts include: rewriting every subtraction as addition of the opposite, then applying integer addition rules, understanding why subtracting a negative yields a positive result, and using number lines to verify. Vocabulary: integer, subtract, opposite, additive inverse, difference, rewrite, addition rules. Common misconceptions: forgetting to change both the operation and the sign, and difficulty with double negatives (subtracting a negative). Practice should include converting subtraction to addition and computing results appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Subtract integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers subtracting integers for Grade 7 students (TEKS 7.3(A)). Students fluently subtract positive and negative whole numbers by converting subtraction to addition of the opposite. Key concepts include: rewriting a - b as a + (-b), applying integer addition rules after conversion, and verifying results using number lines or estimation. Vocabulary: integer, subtract, difference, opposite, additive inverse, absolute value. Common misconceptions: not changing both the sign and the operation, and errors with expressions like -5 - (-3). Practice should build fluency with integer subtraction appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Integer addition and subtraction rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers integer addition and subtraction rules together for Grade 7 students (TEKS 7.3(A)). Students apply both sets of rules fluently: for addition, same signs add and keep the sign, different signs subtract and keep the sign of the larger absolute value; for subtraction, convert to addition of the opposite first. Key concepts include: recognizing when to apply each rule, fluently converting between addition and subtraction forms, and evaluating expressions with multiple additions and subtractions. Vocabulary: integer, sum, difference, absolute value, additive inverse, opposite, sign rules. Common misconceptions: mixing up which rule applies to which operation and errors in multi-step expressions. Practice should include varied problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 7 students (TEKS 7.3(A)). Students fluently combine positive and negative whole numbers using both addition and subtraction. Key concepts include: same-sign and different-sign addition rules, converting subtraction to adding the opposite, applying these skills in multi-step expressions, and real-world contexts such as temperature changes and elevation. Vocabulary: integer, positive, negative, absolute value, additive inverse, sum, difference, sign rules. Common misconceptions: confusing addition and subtraction sign rules, and errors with double negatives. Practice should include computation and contextual problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Complete addition and subtraction equations with integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers completing addition and subtraction equations with integers for Grade 7 students (TEKS 7.3(A)). Students find missing values in equations involving integer addition and subtraction. Key concepts include: using inverse operations to solve for unknowns, applying integer sign rules to determine missing addends or subtrahends, and checking solutions by substitution. Vocabulary: integer, equation, unknown, missing value, inverse operation, addend, sum, difference. Common misconceptions: applying sign rules incorrectly when working backward and not checking answers. Practice should include fill-in-the-blank equations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Integer multiplication rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers integer multiplication rules for Grade 7 students (TEKS 7.3(A)). Students learn the sign rules for multiplying integers: positive times positive equals positive, negative times negative equals positive, and positive times negative (or vice versa) equals negative. Key concepts include: understanding why negative times negative is positive through patterns, the commutative and associative properties, and counting negative factors for products of multiple integers. Vocabulary: integer, product, positive, negative, factor, sign rules, commutative property, associative property. Common misconceptions: confusing multiplication sign rules with addition sign rules and thinking negative times negative is negative. Practice should include pattern recognition and rule application appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying integers for Grade 7 students (TEKS 7.3(A)). Students compute products of two or more integers, applying sign rules: same signs give a positive product, different signs give a negative product. Key concepts include: extending whole number multiplication to negatives, the commutative and associative properties, the multiplicative identity and zero properties, and multi-factor products. Vocabulary: integer, multiply, product, factor, positive, negative, commutative property, associative property. Common misconceptions: confusing sign rules for multiplication with those for addition and errors with zero as a factor. Practice should include straightforward computation and multi-step problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Integer division rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers integer division rules for Grade 7 students (TEKS 7.3(A)). Students learn the sign rules for dividing integers, which mirror multiplication: positive divided by positive is positive, negative divided by negative is positive, and mixed signs give a negative quotient. Key concepts include: the inverse relationship between multiplication and division, using multiplication to check division results, and understanding that division by zero is undefined. Vocabulary: integer, quotient, dividend, divisor, positive, negative, sign rules, undefined. Common misconceptions: confusing division sign rules with addition rules and forgetting that dividing two negatives yields a positive. Practice should include computational exercises appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Equal quotients of integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers equal quotients of integers for Grade 7 students (TEKS 7.3(A)). Students identify equivalent division expressions involving integers. Key concepts include: changing the signs of both dividend and divisor produces the same quotient (e.g., -12 / -3 = 12 / 3), the relationship between fractions and integer division, and simplifying expressions. Vocabulary: quotient, dividend, divisor, equivalent, integer, fraction, sign rules. Common misconceptions: thinking changing only one sign keeps the quotient the same. Practice should include identifying equivalent expressions appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Divide integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers dividing integers for Grade 7 students (TEKS 7.3(A)). Students compute quotients of integers using sign rules: same signs give a positive quotient, different signs give a negative quotient. Key concepts include: division as the inverse of multiplication, checking answers using multiplication, zero divided by any nonzero integer is zero, and division by zero is undefined. Vocabulary: integer, divide, quotient, dividend, divisor, positive, negative, undefined. Common misconceptions: confusing sign rules with addition rules and thinking zero divided by a number is undefined. Practice should include computation and real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Integer multiplication and division rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers integer multiplication and division rules together for Grade 7 students (TEKS 7.3(A)). Students apply sign rules for both operations: same signs yield positive, different signs yield negative. Key concepts include: recognizing these rules are the same for both multiplication and division, counting negative factors in multi-step expressions, and verifying results using inverse operations. Vocabulary: integer, product, quotient, factor, sign rules, positive, negative, inverse operations. Common misconceptions: confusing these rules with addition/subtraction sign rules and errors in multi-step computations. Practice should include mixed computation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply and divide integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying and dividing integers for Grade 7 students (TEKS 7.3(A)). Students fluently multiply and divide positive and negative whole numbers. Key concepts include: sign rules (same signs positive, different signs negative), the inverse relationship between multiplication and division, and applying these operations in real-world contexts. Vocabulary: integer, product, quotient, factor, positive, negative, sign rules, inverse operations. Common misconceptions: applying addition sign rules to multiplication/division and errors with multiple negative factors. Practice should build fluency appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Complete multiplication and division equations with integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers completing multiplication and division equations with integers for Grade 7 students (TEKS 7.3(A)). Students find missing values in integer multiplication and division equations. Key concepts include: using inverse operations to solve for unknowns, applying sign rules to determine the sign of missing factors or quotients, and checking solutions. Vocabulary: integer, equation, unknown, factor, product, quotient, inverse operation, sign rules. Common misconceptions: applying addition sign rules and errors when the missing value is negative. Practice should include equations with missing factors and divisors appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add, subtract, multiply, and divide integers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers all four operations with integers for Grade 7 students (TEKS 7.3(A)). Students fluently add, subtract, multiply, and divide positive and negative whole numbers, including multi-step expressions. Key concepts include: addition/subtraction sign rules, multiplication/division sign rules, order of operations with integers, and real-world applications. Vocabulary: integer, sum, difference, product, quotient, absolute value, sign rules, order of operations, positive, negative. Common misconceptions: mixing up sign rules across operations and order of operations errors. Problems should integrate all four operations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract decimals",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding and subtracting decimals for Grade 7 students (TEKS 7.3(A)). Students fluently add and subtract decimal numbers, including those with different numbers of decimal places. Key concepts include: aligning decimal points before computing, using place value understanding to regroup, estimating sums and differences, and working with both positive and negative decimals. Vocabulary: decimal, place value, tenths, hundredths, sum, difference, estimate, regroup. Common misconceptions: not aligning decimal points, dropping trailing zeros, and errors when regrouping. Practice should include computation and real-world money and measurement contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply decimals",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying decimals for Grade 7 students (TEKS 7.3(A)). Students multiply decimal numbers by whole numbers and by other decimals. Key concepts include: multiplying as if whole numbers then placing the decimal by counting total decimal places in factors, estimating products, and understanding multiplication by numbers less than 1. Vocabulary: decimal, product, factor, place value, estimate, tenths, hundredths. Common misconceptions: misplacing the decimal in the product and not understanding why multiplying by less than 1 gives a smaller result. Practice should include computation and real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Divide decimals",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers dividing decimals for Grade 7 students (TEKS 7.3(A)). Students divide decimal numbers by whole numbers and by other decimals. Key concepts include: long division with decimals, multiplying divisor and dividend by a power of 10, placing the decimal in the quotient, and estimating to check. Vocabulary: decimal, quotient, dividend, divisor, place value, estimate, remainder. Common misconceptions: forgetting to move the decimal in both divisor and dividend, misplacing the decimal in the quotient. Practice should include computation and money/measurement applications appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add, subtract, multiply, or divide two decimals",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers all four operations with decimals for Grade 7 students (TEKS 7.3(A)). Students fluently perform addition, subtraction, multiplication, and division with decimal numbers. Key concepts include: aligning decimals for addition/subtraction, counting decimal places for multiplication, adjusting divisors for division, and estimating for reasonableness. Vocabulary: decimal, sum, difference, product, quotient, place value, estimate. Common misconceptions: misaligning decimals, misplacing decimal points in products and quotients. Practice should require choosing the correct operation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding and subtracting fractions for Grade 7 students (TEKS 7.3(A)). Students fluently add and subtract fractions with like and unlike denominators. Key concepts include: finding common denominators using least common multiples, creating equivalent fractions, adding/subtracting numerators, and simplifying. Vocabulary: fraction, numerator, denominator, common denominator, least common multiple, equivalent fraction, simplify. Common misconceptions: adding denominators and not simplifying answers. Practice should include computation and contextual problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract mixed numbers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding and subtracting mixed numbers for Grade 7 students (TEKS 7.3(A)). Students add and subtract numbers with both whole and fractional parts. Key concepts include: finding common denominators, regrouping when the fractional part subtracted is larger, converting to improper fractions as an alternative, and simplifying. Vocabulary: mixed number, fraction, common denominator, regroup, borrow, improper fraction, simplify. Common misconceptions: forgetting common denominators, regrouping errors, and not simplifying. Practice should include computation and word problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply fractions",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying fractions for Grade 7 students (TEKS 7.3(A)). Students multiply fractions by multiplying numerators together and denominators together. Key concepts include: the algorithm, simplifying before multiplying (cross-canceling), understanding that multiplying by a fraction less than 1 decreases the value, and area model connections. Vocabulary: fraction, numerator, denominator, product, simplify, cross-cancel, area model. Common misconceptions: finding common denominators before multiplying (unnecessary) and forgetting to simplify. Practice should include computation, visual models, and word problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply mixed numbers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying mixed numbers for Grade 7 students (TEKS 7.3(A)). Students convert mixed numbers to improper fractions, multiply numerators and denominators, then convert back. Key concepts include: converting between mixed and improper fractions, the multiplication algorithm, simplifying, and estimating products. Vocabulary: mixed number, improper fraction, numerator, denominator, product, convert, simplify, estimate. Common misconceptions: multiplying whole and fractional parts separately and forgetting to convert first. Practice should include computation and contextual problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Divide fractions",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers dividing fractions for Grade 7 students (TEKS 7.3(A)). Students divide fractions by multiplying by the reciprocal (invert and multiply). Key concepts include: understanding the reciprocal, the keep-change-flip procedure, connecting to how many groups of the divisor fit in the dividend, and simplifying. Vocabulary: fraction, divide, reciprocal, invert, multiply, quotient, numerator, denominator, simplify. Common misconceptions: flipping the wrong fraction, forgetting to change to multiplication, and confusing division with multiplication of fractions. Practice should include computation, visual models, and word problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Divide mixed numbers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers dividing mixed numbers for Grade 7 students (TEKS 7.3(A)). Students convert mixed numbers to improper fractions first, then multiply by the reciprocal. Key concepts include: converting, finding the reciprocal, multiplying, and converting back. Vocabulary: mixed number, improper fraction, reciprocal, quotient, convert, simplify, invert and multiply. Common misconceptions: dividing whole and fractional parts separately and flipping the wrong fraction. Practice should include computation and real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract positive and negative decimals",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding and subtracting positive and negative decimals for Grade 7 students (TEKS 7.3(A)). Students extend decimal operations to include negative values. Key concepts include: using number lines to visualize signed decimal operations, applying integer sign rules to decimal values, aligning decimal points, and understanding absolute value in decimal contexts. Vocabulary: decimal, positive, negative, absolute value, sum, difference, signed number. Common misconceptions: confusing sign rules with place value alignment and errors subtracting negative decimals. Practice should include temperatures, finances, and measurements appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract positive and negative fractions",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding and subtracting positive and negative fractions for Grade 7 students (TEKS 7.3(A)). Students extend fraction operations to include negative fractions. Key concepts include: finding common denominators for signed fractions, applying integer sign rules to fractions, using number lines, and simplifying. Vocabulary: fraction, positive, negative, common denominator, absolute value, sign rules, simplify. Common misconceptions: ignoring signs when finding common denominators and applying sign rules incorrectly. Practice should include computation, number lines, and real-world scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract rational numbers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers adding and subtracting rational numbers for Grade 7 students (TEKS 7.3(A)). Students fluently add and subtract all types of rational numbers including integers, fractions, decimals, and mixed numbers. Key concepts include: converting between forms, finding common denominators, applying sign rules, and using properties of operations. Vocabulary: rational number, integer, fraction, decimal, mixed number, absolute value, additive inverse, common denominator. Common misconceptions: mixing up sign rules across number forms and conversion errors. Practice should include mixed-format problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Apply addition and subtraction rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers applying addition and subtraction rules with rational numbers for Grade 7 students (TEKS 7.3(A)). Students systematically apply sign rules when adding and subtracting all types of rational numbers. Key concepts include: same-sign addition, different-sign addition, subtraction as adding the opposite, and multi-step expressions. Vocabulary: rational number, sign rules, absolute value, additive inverse, opposite, sum, difference. Common misconceptions: inconsistently applying rules across number types. Practice should reinforce rule application appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply and divide positive and negative decimals",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying and dividing positive and negative decimals for Grade 7 students (TEKS 7.3(A)). Students extend decimal multiplication and division to negative values. Key concepts include: applying sign rules, placing decimal points correctly, and estimating for reasonableness. Vocabulary: decimal, positive, negative, product, quotient, sign rules, place value, estimate. Common misconceptions: confusing sign rules with decimal placement and errors combining signs with decimal movement. Practice should include computation and real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply and divide positive and negative fractions",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying and dividing positive and negative fractions for Grade 7 students (TEKS 7.3(A)). Students extend fraction multiplication and division to negative values. Key concepts include: applying sign rules, multiplying numerators and denominators, using reciprocals, simplifying, and cross-canceling. Vocabulary: fraction, positive, negative, product, quotient, reciprocal, sign rules, simplify. Common misconceptions: confusing sign rules with the invert-and-multiply procedure. Practice should include computation and contextual problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply and divide rational numbers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying and dividing rational numbers for Grade 7 students (TEKS 7.3(A)). Students fluently multiply and divide all rational number types including signed integers, fractions, decimals, and mixed numbers. Key concepts include: sign rules, converting between forms, reciprocals for division, and order of operations. Vocabulary: rational number, product, quotient, reciprocal, sign rules, convert, simplify, absolute value. Common misconceptions: mixing sign rules with operation procedures. Practice should include mixed-format computation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Apply multiplication and division rules",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers applying multiplication and division rules for rational numbers for Grade 7 students (TEKS 7.3(A)). Students systematically apply sign rules: same signs positive, different signs negative. Key concepts include: counting negative factors, checking with inverse operations, and multi-factor products. Vocabulary: rational number, sign rules, product, quotient, factor, inverse operations. Common misconceptions: miscounting negative factors and confusing with addition rules. Practice should reinforce consistent rule application appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply fractions and whole numbers",
+      "teks": "7.3(A)",
+      "prompt": "This topic covers multiplying fractions and whole numbers for Grade 7 students (TEKS 7.3(A)). Students multiply a fraction by a whole number by writing the whole number over 1 and multiplying. Key concepts include: fraction-whole number multiplication as repeated addition, simplifying before multiplying, and interpreting the result. Vocabulary: fraction, whole number, numerator, denominator, product, simplify, improper fraction, mixed number. Common misconceptions: multiplying both numerator and denominator by the whole number. Practice should include visual models and word problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract integers: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving adding and subtracting integers for Grade 7 students (TEKS 7.3(B)). Students apply integer operations to real-world problems. Key contexts include: temperature changes, elevation, financial gains/losses, football yardage, and time zones. Students must identify the operation, set up signed expressions, compute, and interpret results. Vocabulary: integer, positive, negative, increase, decrease, gain, loss, above, below. Common misconceptions: wrong operation choice, incorrect signs from context, and not interpreting negative answers. Practice should include relatable contexts for 12-13 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions involving integers",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers evaluating numerical expressions involving integers for Grade 7 students (TEKS 7.3(B)). Students simplify multi-step expressions with integers using order of operations. Key concepts include: PEMDAS with integers, applying sign rules at each step, grouping symbols, and exponents with negative bases. Vocabulary: expression, evaluate, integer, order of operations, parentheses, exponent, absolute value. Common misconceptions: ignoring order of operations, errors with negative bases and exponents (-2^2 vs (-2)^2). Practice should include progressively complex expressions appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract decimals: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving adding and subtracting decimals for Grade 7 students (TEKS 7.3(B)). Students apply decimal addition and subtraction to real-world problems involving money, measurements, and scientific data. Key concepts include: identifying the operation, aligning decimal points, estimating, and interpreting results. Vocabulary: decimal, sum, difference, estimate, total, change, remaining. Common misconceptions: misaligning decimal points, not estimating first, and wrong operation choice. Practice should include shopping, cooking, and sports contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply decimals and whole numbers: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving multiplying decimals by whole numbers for Grade 7 students (TEKS 7.3(B)). Students solve real-world problems requiring decimal-by-whole-number multiplication. Key contexts include: total cost, distance at constant rate, and repeated measurements. Vocabulary: decimal, whole number, product, multiply, total, each, per, rate. Common misconceptions: misplacing the decimal and not checking reasonableness. Practice should include money, distance, and rate problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Divide decimals by whole numbers: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving dividing decimals by whole numbers for Grade 7 students (TEKS 7.3(B)). Students solve real-world problems requiring decimal division. Key contexts include: splitting costs, unit prices, and dividing measurements equally. Vocabulary: decimal, whole number, quotient, divide, share equally, per unit, average. Common misconceptions: misplacing the decimal and not including enough decimal places. Practice should include money and measurement contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add, subtract, multiply, and divide decimals: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers multi-operation word problems with decimals for Grade 7 students (TEKS 7.3(B)). Students solve real-world problems requiring any combination of decimal operations. Key concepts include: identifying correct operations, performing multi-step calculations, and checking reasonableness. Vocabulary: decimal, sum, difference, product, quotient, estimate, total, remaining, each, per. Common misconceptions: wrong operation choice, multi-step errors, and decimal misplacement. Practice should include shopping, cooking, and measurement problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Maps with decimal distances",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers using maps with decimal distances for Grade 7 students (TEKS 7.3(B)). Students apply decimal operations to solve problems using map scales and decimal distances. Key concepts include: reading decimal values from maps, adding distances along routes, multiplying by scale factors, and comparing routes. Vocabulary: decimal, distance, map, scale, route, total distance, miles, kilometers. Common misconceptions: misreading decimal distances, forgetting scale factors, and addition errors. Practice should include map-based problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions involving decimals",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers evaluating numerical expressions involving decimals for Grade 7 students (TEKS 7.3(B)). Students simplify multi-step decimal expressions using order of operations. Key concepts include: applying PEMDAS to decimal expressions, performing decimal operations accurately, and using estimation to check. Vocabulary: expression, evaluate, decimal, order of operations, parentheses, estimate. Common misconceptions: ignoring order of operations, misplacing decimals, and premature rounding. Practice should include expressions with multiple operations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract fractions: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving adding and subtracting fractions for Grade 7 students (TEKS 7.3(B)). Students solve real-world problems with fraction addition and subtraction. Key contexts include: recipes, measurements, and time. Key concepts include: finding common denominators, computing, simplifying, and interpreting results. Vocabulary: fraction, common denominator, sum, difference, simplify, recipe, portion. Common misconceptions: adding denominators and not simplifying. Practice should include relatable contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add and subtract mixed numbers: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving adding and subtracting mixed numbers for Grade 7 students (TEKS 7.3(B)). Students solve real-world problems with mixed numbers in cooking, construction, and measurement contexts. Key concepts include: finding common denominators, regrouping, converting forms, and interpreting results. Vocabulary: mixed number, common denominator, regroup, improper fraction, total, remaining, difference. Common misconceptions: not finding common denominators and regrouping errors. Practice should include real-world contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multiply fractions and mixed numbers: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving multiplying fractions and mixed numbers for Grade 7 students (TEKS 7.3(B)). Students solve problems requiring fraction and mixed number multiplication. Key contexts include: fraction of a quantity, scaling recipes, and area. Key concepts include: converting mixed numbers to improper fractions, multiplying, simplifying, and interpreting. Vocabulary: fraction, mixed number, product, multiply, of, convert, improper fraction, simplify. Common misconceptions: not converting mixed numbers first and multiplying parts separately. Practice should include relatable contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Divide fractions and mixed numbers: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving dividing fractions and mixed numbers for Grade 7 students (TEKS 7.3(B)). Students solve problems requiring fraction and mixed number division. Key contexts include: splitting into fractional groups, determining portions, and rate problems. Key concepts include: converting, finding reciprocals, multiplying, and interpreting. Vocabulary: fraction, mixed number, divide, reciprocal, quotient, groups, portions, share. Common misconceptions: using multiplication instead of division, flipping the wrong fraction. Practice should include relatable contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add, subtract, multiply, and divide fractions and mixed numbers: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving dividing fractions and mixed numbers for Grade 7 students (TEKS 7.3(B)). Students solve problems requiring fraction and mixed number division. Key contexts include: splitting into fractional groups, determining portions, and rate problems. Key concepts include: converting, finding reciprocals, multiplying, and interpreting. Vocabulary: fraction, mixed number, divide, reciprocal, quotient, groups, portions, share. Common misconceptions: using multiplication instead of division, flipping the wrong fraction. Practice should include relatable contexts appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Maps with fractional distances",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers using maps with fractional distances for Grade 7 students (TEKS 7.3(B)). Students apply fraction operations to map scale and distance problems. Key concepts include: reading fractional values from maps, adding fractional distances along routes, multiplying by scale factors, and comparing routes. Vocabulary: fraction, distance, map, scale, route, total distance. Common misconceptions: not finding common denominators when adding distances. Practice should include map-reading problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Evaluate numerical expressions involving fractions",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers evaluating numerical expressions involving fractions for Grade 7 students (TEKS 7.3(B)). Students simplify multi-step fraction expressions using order of operations. Key concepts include: applying PEMDAS, performing fraction operations at each step, handling nested operations, and simplifying. Vocabulary: expression, evaluate, fraction, order of operations, parentheses, simplify, common denominator, reciprocal. Common misconceptions: ignoring order of operations and errors with fraction division in complex expressions. Practice should include expressions with multiple operations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Multi-step word problems with positive rational numbers",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers multi-step word problems with positive rational numbers for Grade 7 students (TEKS 7.3(B)). Students solve complex, multi-step problems involving positive fractions, decimals, and whole numbers. Key concepts include: identifying multiple steps, choosing correct operations, computing accurately with different forms, and checking reasonableness. Vocabulary: rational number, multi-step, operation, estimate, reasonableness, total, per unit. Common misconceptions: skipping steps, wrong operations, and computational errors mixing number forms. Practice should include shopping, recipe, and measurement problems appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Add, subtract, multiply, and divide money amounts: word problems",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers word problems involving money operations for Grade 7 students (TEKS 7.3(B)). Students solve real-world problems requiring all four operations with money amounts. Key concepts include: working with dollars and cents (two decimal places), choosing correct operations, computing change, and calculating totals with tax or discounts. Vocabulary: money, dollars, cents, total, change, cost, price, tax, discount, budget. Common misconceptions: not rounding money to two decimal places and wrong operation choice. Practice should include shopping, budgeting, and earning scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Price lists",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers using price lists for Grade 7 students (TEKS 7.3(B)). Students read and interpret price lists to solve multi-step purchasing problems. Key concepts include: reading tabular data, calculating totals for multiple items, comparing prices, computing change, and working within a budget. Vocabulary: price list, cost, total, quantity, budget, change, afford, per item. Common misconceptions: misreading prices and forgetting to multiply price by quantity. Practice should include realistic shopping scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Unit prices: find the total price",
+      "teks": "7.3(B)",
+      "prompt": "This topic covers finding total prices from unit prices for Grade 7 students (TEKS 7.3(B)). Students use unit prices to calculate the total cost of multiple items. Key concepts include: unit price as cost per single item, multiplying unit price by quantity, and comparing total costs. Vocabulary: unit price, total price, quantity, cost, per unit, multiply. Common misconceptions: confusing unit price with total price. Practice should include shopping and consumer math scenarios appropriate for 12-13 year olds."
+    }
+  ]
+}

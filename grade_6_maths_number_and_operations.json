@@ -1,0 +1,401 @@
+{
+  "grade": "Grade 6",
+  "subject": "Maths - Number and operations",
+  "skills": [
+    {
+      "skill": "Classify rational numbers using a diagram",
+      "teks": "6.2(A)",
+      "prompt": "This topic covers classifying rational numbers for Grade 6 students (TEKS 6.2(A)). Students should understand how to organize numbers into categories using diagrams. Key concepts: rational numbers include all numbers that can be expressed as a fraction a/b where b is not 0; natural numbers (1, 2, 3...) are a subset of whole numbers (0, 1, 2, 3...); whole numbers are a subset of integers (...-2, -1, 0, 1, 2...); integers are a subset of rational numbers; Venn diagrams show these nested relationships. Vocabulary: rational number, integer, whole number, natural number, classify, subset, Venn diagram, fraction, decimal, positive, negative, set. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Classify numbers",
+      "teks": "6.2(A)",
+      "prompt": "This topic covers classifying numbers into categories for Grade 6 students (TEKS 6.2(A)). Students should understand the relationships among different number sets. Key concepts: natural numbers (counting numbers: 1, 2, 3...) are a subset of whole numbers (0, 1, 2, 3...); whole numbers are a subset of integers (...-2, -1, 0, 1, 2...); integers are a subset of rational numbers (any number expressible as a/b where b is not 0); students should classify given numbers into the correct categories and explain why. Vocabulary: classify, natural number, whole number, integer, rational number, subset, category, set, fraction, decimal, positive, negative. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Understanding opposite integers",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers understanding opposite integers for Grade 6 students (TEKS 6.2(B)). Students should understand that every integer has an opposite that is the same distance from zero on the number line but on the opposite side. Key concepts: the opposite of a positive number is negative, and vice versa; the opposite of 0 is 0; opposites add up to 0 (additive inverse); on a number line, opposites are equidistant from zero on opposite sides; the notation for the opposite of n is -n. Vocabulary: opposite, integer, additive inverse, negative, positive, zero, number line, distance, equidistant, pair, sign. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Understanding absolute value",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers absolute value for Grade 6 students (TEKS 6.2(B)). Students should understand that absolute value represents the distance of a number from zero on the number line. Key concepts: absolute value is always non-negative; the absolute value of both 5 and -5 is 5; notation uses vertical bars: |n|; absolute value represents magnitude without direction; it is useful for real-world contexts like distance, temperature change, and debt. Students should evaluate absolute value expressions and compare values using absolute value. Vocabulary: absolute value, distance, zero, number line, magnitude, positive, non-negative, notation, bars, opposite, integer, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Absolute value of integers on number lines",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers absolute value for Grade 6 students (TEKS 6.2(B)). Students should understand that absolute value represents the distance of a number from zero on the number line. Key concepts: absolute value is always non-negative; the absolute value of both 5 and -5 is 5; notation uses vertical bars: |n|; absolute value represents magnitude without direction; it is useful for real-world contexts like distance, temperature change, and debt. Students should evaluate absolute value expressions and compare values using absolute value. Vocabulary: absolute value, distance, zero, number line, magnitude, positive, non-negative, notation, bars, opposite, integer, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Absolute value",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers absolute value for Grade 6 students (TEKS 6.2(B)). Students should understand that absolute value represents the distance of a number from zero on the number line. Key concepts: absolute value is always non-negative; the absolute value of both 5 and -5 is 5; notation uses vertical bars: |n|; absolute value represents magnitude without direction; it is useful for real-world contexts like distance, temperature change, and debt. Students should evaluate absolute value expressions and compare values using absolute value. Vocabulary: absolute value, distance, zero, number line, magnitude, positive, non-negative, notation, bars, opposite, integer, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Absolute value and integers: word problems",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers solving word problems for Grade 6 students (TEKS 6.2(B)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Absolute value of rational numbers",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers absolute value for Grade 6 students (TEKS 6.2(B)). Students should understand that absolute value represents the distance of a number from zero on the number line. Key concepts: absolute value is always non-negative; the absolute value of both 5 and -5 is 5; notation uses vertical bars: |n|; absolute value represents magnitude without direction; it is useful for real-world contexts like distance, temperature change, and debt. Students should evaluate absolute value expressions and compare values using absolute value. Vocabulary: absolute value, distance, zero, number line, magnitude, positive, non-negative, notation, bars, opposite, integer, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Absolute values and opposites of rational numbers",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers absolute value for Grade 6 students (TEKS 6.2(B)). Students should understand that absolute value represents the distance of a number from zero on the number line. Key concepts: absolute value is always non-negative; the absolute value of both 5 and -5 is 5; notation uses vertical bars: |n|; absolute value represents magnitude without direction; it is useful for real-world contexts like distance, temperature change, and debt. Students should evaluate absolute value expressions and compare values using absolute value. Vocabulary: absolute value, distance, zero, number line, magnitude, positive, non-negative, notation, bars, opposite, integer, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Integers on number lines",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers integers on number lines for Grade 6 students (TEKS 6.2(C)). Students should understand how to locate, graph, and compare integers on both horizontal and vertical number lines. Key concepts: positive integers are to the right of (or above) zero; negative integers are to the left of (or below) zero; numbers increase going right (or up) and decrease going left (or down); the distance between consecutive integers is always 1; students should graph integers and determine values from graphed points. Vocabulary: integer, positive, negative, zero, number line, horizontal, vertical, graph, locate, plot, compare, order, right, left, above, below. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Graph integers on horizontal and vertical number lines",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers integers on number lines for Grade 6 students (TEKS 6.2(C)). Students should understand how to locate, graph, and compare integers on both horizontal and vertical number lines. Key concepts: positive integers are to the right of (or above) zero; negative integers are to the left of (or below) zero; numbers increase going right (or up) and decrease going left (or down); the distance between consecutive integers is always 1; students should graph integers and determine values from graphed points. Vocabulary: integer, positive, negative, zero, number line, horizontal, vertical, graph, locate, plot, compare, order, right, left, above, below. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare integers",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers comparing and ordering integers for Grade 6 students (TEKS 6.2(C)). Students should understand how to determine the relative size of integers including negative numbers. Key concepts: on a number line, numbers to the right are greater; all positive integers are greater than all negative integers; among negative integers, the one closer to zero is greater (e.g., -2 > -5); use <, >, and = to compare; to order integers, plot them on a number line or compare systematically. Vocabulary: integer, compare, order, positive, negative, greater than, less than, number line, ascending, descending, zero, sign. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Put integers in order",
+      "teks": "6.2(D)",
+      "prompt": "This topic covers comparing and ordering integers for Grade 6 students (TEKS 6.2(D)). Students should understand how to determine the relative size of integers including negative numbers. Key concepts: on a number line, numbers to the right are greater; all positive integers are greater than all negative integers; among negative integers, the one closer to zero is greater (e.g., -2 > -5); use <, >, and = to compare; to order integers, plot them on a number line or compare systematically. Vocabulary: integer, compare, order, positive, negative, greater than, less than, number line, ascending, descending, zero, sign. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Rational numbers on number lines",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers rational numbers for Grade 6 students (TEKS 6.2(C)). Students should understand that rational numbers include all numbers that can be expressed as a ratio of two integers. Key concepts: rational numbers include fractions, decimals (terminating and repeating), integers, and whole numbers; they can be positive, negative, or zero; rational numbers can be located on a number line; comparing rational numbers may require converting to a common form (all fractions or all decimals); ordering rational numbers requires attention to sign and magnitude. Vocabulary: rational number, fraction, decimal, integer, positive, negative, compare, order, number line, convert, terminating, repeating, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare and order rational numbers using number lines",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers rational numbers for Grade 6 students (TEKS 6.2(C)). Students should understand that rational numbers include all numbers that can be expressed as a ratio of two integers. Key concepts: rational numbers include fractions, decimals (terminating and repeating), integers, and whole numbers; they can be positive, negative, or zero; rational numbers can be located on a number line; comparing rational numbers may require converting to a common form (all fractions or all decimals); ordering rational numbers requires attention to sign and magnitude. Vocabulary: rational number, fraction, decimal, integer, positive, negative, compare, order, number line, convert, terminating, repeating, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Put a mix of decimals and fractions in order",
+      "teks": "6.2(D)",
+      "prompt": "This topic covers ordering a mix of decimals and fractions for Grade 6 students (TEKS 6.2(D)). Students should compare and order numbers expressed in different forms, including negative values. Key concepts: convert all values to the same form (all decimals or all fractions) before comparing; use division to convert fractions to decimals; pay attention to negative signs (negative numbers are less than positive); on a number line, numbers increase from left to right; use absolute value understanding when ordering negatives. Vocabulary: decimal, fraction, order, convert, compare, negative, positive, least to greatest, greatest to least, absolute value, number line. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Put a mix of decimals, fractions, and mixed numbers in order",
+      "teks": "6.2(D)",
+      "prompt": "This topic covers ordering decimals, fractions, and mixed numbers together for Grade 6 students (TEKS 6.2(D)). Students should fluently compare and order rational numbers in various forms. Key concepts: convert all values to a common form for comparison; mixed numbers can be converted to improper fractions or decimals; compare negative values carefully using absolute value; plot values on a number line to verify order; benchmark values help with quick estimation. Vocabulary: decimal, fraction, mixed number, order, convert, compare, rational number, absolute value, number line, improper fraction, benchmark, ascending, descending. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Put integers in order",
+      "teks": "6.2(D)",
+      "prompt": "This topic covers comparing and ordering integers for Grade 6 students (TEKS 6.2(D)). Students should understand how to determine the relative size of integers including negative numbers. Key concepts: on a number line, numbers to the right are greater; all positive integers are greater than all negative integers; among negative integers, the one closer to zero is greater (e.g., -2 > -5); use <, >, and = to compare; to order integers, plot them on a number line or compare systematically. Vocabulary: integer, compare, order, positive, negative, greater than, less than, number line, ascending, descending, zero, sign. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Integer inequalities with absolute values",
+      "teks": "6.2(B)",
+      "prompt": "This topic covers absolute value for Grade 6 students (TEKS 6.2(B)). Students should understand that absolute value represents the distance of a number from zero on the number line. Key concepts: absolute value is always non-negative; the absolute value of both 5 and -5 is 5; notation uses vertical bars: |n|; absolute value represents magnitude without direction; it is useful for real-world contexts like distance, temperature change, and debt. Students should evaluate absolute value expressions and compare values using absolute value. Vocabulary: absolute value, distance, zero, number line, magnitude, positive, non-negative, notation, bars, opposite, integer, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Rational numbers: equal or not equal",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers rational numbers for Grade 6 students (TEKS 6.2(C)). Students should understand that rational numbers include all numbers that can be expressed as a ratio of two integers. Key concepts: rational numbers include fractions, decimals (terminating and repeating), integers, and whole numbers; they can be positive, negative, or zero; rational numbers can be located on a number line; comparing rational numbers may require converting to a common form (all fractions or all decimals); ordering rational numbers requires attention to sign and magnitude. Vocabulary: rational number, fraction, decimal, integer, positive, negative, compare, order, number line, convert, terminating, repeating, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare rational numbers",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers rational numbers for Grade 6 students (TEKS 6.2(C)). Students should understand that rational numbers include all numbers that can be expressed as a ratio of two integers. Key concepts: rational numbers include fractions, decimals (terminating and repeating), integers, and whole numbers; they can be positive, negative, or zero; rational numbers can be located on a number line; comparing rational numbers may require converting to a common form (all fractions or all decimals); ordering rational numbers requires attention to sign and magnitude. Vocabulary: rational number, fraction, decimal, integer, positive, negative, compare, order, number line, convert, terminating, repeating, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Put rational numbers in order",
+      "teks": "6.2(D)",
+      "prompt": "This topic covers rational numbers for Grade 6 students (TEKS 6.2(D)). Students should understand that rational numbers include all numbers that can be expressed as a ratio of two integers. Key concepts: rational numbers include fractions, decimals (terminating and repeating), integers, and whole numbers; they can be positive, negative, or zero; rational numbers can be located on a number line; comparing rational numbers may require converting to a common form (all fractions or all decimals); ordering rational numbers requires attention to sign and magnitude. Vocabulary: rational number, fraction, decimal, integer, positive, negative, compare, order, number line, convert, terminating, repeating, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare and order rational numbers: word problems",
+      "teks": "6.2(D)",
+      "prompt": "This topic covers solving word problems for Grade 6 students (TEKS 6.2(D)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare temperatures above and below zero",
+      "teks": "6.2(C)",
+      "prompt": "This topic covers comparing temperatures above and below zero for Grade 6 students (TEKS 6.2(C)). Students should understand how positive and negative numbers represent temperatures above and below zero. Key concepts: temperatures above zero are positive; temperatures below zero are negative; a vertical number line (thermometer) helps visualize temperature comparisons; the temperature closer to zero from the negative side is warmer; finding temperature change involves subtracting (or using absolute value). Vocabulary: temperature, above zero, below zero, positive, negative, thermometer, degrees, warmer, colder, change, difference, Fahrenheit, Celsius. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert between improper fractions and mixed numbers",
+      "teks": "6.2(E)",
+      "prompt": "This topic covers converting between improper fractions and mixed numbers for Grade 6 students (TEKS 6.2(E)). Students should understand two forms of representing fractions greater than or equal to one. Key concepts: an improper fraction has a numerator greater than or equal to the denominator; a mixed number has a whole number part and a proper fraction part; to convert an improper fraction to a mixed number, divide the numerator by the denominator; to convert a mixed number to an improper fraction, multiply the whole number by the denominator and add the numerator. Vocabulary: improper fraction, mixed number, convert, numerator, denominator, whole number, proper fraction, divide, multiply, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert fractions to decimals",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers converting between fractions and decimals for Grade 6 students (TEKS 6.4(G)). Students should understand that fractions and decimals are two ways to represent the same value. Key concepts: to convert a fraction to a decimal, divide the numerator by the denominator; fractions with denominators of 10, 100, or 1000 convert directly to tenths, hundredths, or thousandths; to convert a decimal to a fraction, use the place value as the denominator and simplify; some fractions produce repeating decimals. Vocabulary: fraction, decimal, convert, numerator, denominator, divide, tenths, hundredths, thousandths, equivalent, simplify, repeating decimal, terminating decimal. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert decimals to fractions",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers converting between fractions and decimals for Grade 6 students (TEKS 6.4(G)). Students should understand that fractions and decimals are two ways to represent the same value. Key concepts: to convert a fraction to a decimal, divide the numerator by the denominator; fractions with denominators of 10, 100, or 1000 convert directly to tenths, hundredths, or thousandths; to convert a decimal to a fraction, use the place value as the denominator and simplify; some fractions produce repeating decimals. Vocabulary: fraction, decimal, convert, numerator, denominator, divide, tenths, hundredths, thousandths, equivalent, simplify, repeating decimal, terminating decimal. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert between fractions and repeating decimals",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers converting between fractions and decimals for Grade 6 students (TEKS 6.4(G)). Students should understand that fractions and decimals are two ways to represent the same value. Key concepts: to convert a fraction to a decimal, divide the numerator by the denominator; fractions with denominators of 10, 100, or 1000 convert directly to tenths, hundredths, or thousandths; to convert a decimal to a fraction, use the place value as the denominator and simplify; some fractions produce repeating decimals. Vocabulary: fraction, decimal, convert, numerator, denominator, divide, tenths, hundredths, thousandths, equivalent, simplify, repeating decimal, terminating decimal. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert between decimals and fractions",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers converting between fractions and decimals for Grade 6 students (TEKS 6.4(G)). Students should understand that fractions and decimals are two ways to represent the same value. Key concepts: to convert a fraction to a decimal, divide the numerator by the denominator; fractions with denominators of 10, 100, or 1000 convert directly to tenths, hundredths, or thousandths; to convert a decimal to a fraction, use the place value as the denominator and simplify; some fractions produce repeating decimals. Vocabulary: fraction, decimal, convert, numerator, denominator, divide, tenths, hundredths, thousandths, equivalent, simplify, repeating decimal, terminating decimal. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert between decimals and mixed numbers",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers converting between improper fractions and mixed numbers for Grade 6 students (TEKS 6.4(G)). Students should understand two forms of representing fractions greater than or equal to one. Key concepts: an improper fraction has a numerator greater than or equal to the denominator; a mixed number has a whole number part and a proper fraction part; to convert an improper fraction to a mixed number, divide the numerator by the denominator; to convert a mixed number to an improper fraction, multiply the whole number by the denominator and add the numerator. Vocabulary: improper fraction, mixed number, convert, numerator, denominator, whole number, proper fraction, divide, multiply, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Understand fractions as division: word problems",
+      "teks": "6.2(E)",
+      "prompt": "This topic covers solving word problems for Grade 6 students (TEKS 6.2(E)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write rational numbers in the form a/b",
+      "teks": "6.2(E)",
+      "prompt": "This topic covers rational numbers for Grade 6 students (TEKS 6.2(E)). Students should understand that rational numbers include all numbers that can be expressed as a ratio of two integers. Key concepts: rational numbers include fractions, decimals (terminating and repeating), integers, and whole numbers; they can be positive, negative, or zero; rational numbers can be located on a number line; comparing rational numbers may require converting to a common form (all fractions or all decimals); ordering rational numbers requires attention to sign and magnitude. Vocabulary: rational number, fraction, decimal, integer, positive, negative, compare, order, number line, convert, terminating, repeating, equivalent. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Reciprocals",
+      "teks": "6.3(A)",
+      "prompt": "This topic covers reciprocals for Grade 6 students (TEKS 6.3(A)). Students should understand that the reciprocal of a number is 1 divided by that number, and that a number multiplied by its reciprocal equals 1. Key concepts: the reciprocal of a/b is b/a; the reciprocal of a whole number n is 1/n; a number times its reciprocal always equals 1 (multiplicative inverse); reciprocals are essential for dividing fractions (multiply by the reciprocal); zero has no reciprocal because division by zero is undefined. Vocabulary: reciprocal, multiplicative inverse, fraction, numerator, denominator, flip, invert, multiply, divide, undefined, whole number, product of one. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions using models",
+      "teks": "6.3(A)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(A)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions and mixed numbers using models",
+      "teks": "6.3(A)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(A)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Scaling whole numbers by fractions: justify your answer",
+      "teks": "6.3(B)",
+      "prompt": "This topic covers scaling quantities for Grade 6 students (TEKS 6.3(B)). Students should understand how multiplying by fractions and mixed numbers scales quantities up or down. Key concepts: multiplying by a fraction less than 1 decreases the quantity (scaling down); multiplying by a number greater than 1 increases the quantity (scaling up); multiplying by exactly 1 leaves the quantity unchanged; students should predict the effect of scaling without computing. Vocabulary: scale, multiply, fraction, mixed number, increase, decrease, unchanged, greater than, less than, product, factor, reasoning, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Scaling by fractions and mixed numbers",
+      "teks": "6.3(B)",
+      "prompt": "This topic covers scaling quantities for Grade 6 students (TEKS 6.3(B)). Students should understand how multiplying by fractions and mixed numbers scales quantities up or down. Key concepts: multiplying by a fraction less than 1 decreases the quantity (scaling down); multiplying by a number greater than 1 increases the quantity (scaling up); multiplying by exactly 1 leaves the quantity unchanged; students should predict the effect of scaling without computing. Vocabulary: scale, multiply, fraction, mixed number, increase, decrease, unchanged, greater than, less than, product, factor, reasoning, compare. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Estimate products of mixed numbers",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers estimation strategies for Grade 6 students (TEKS 6.3(E)). Students should understand how to use estimation to find approximate answers and check reasonableness. Key concepts: rounding is a primary estimation strategy; compatible numbers are numbers that are easy to compute mentally; front-end estimation uses the leading digits; benchmark fractions and decimals help estimate with non-whole numbers; estimation helps determine if a computed answer is reasonable. Students should estimate sums, differences, products, and quotients. Vocabulary: estimate, round, compatible numbers, approximate, reasonable, front-end, benchmark, close to, about, mental math, strategy. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add integers using counters",
+      "teks": "6.3(C)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(C)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Subtract integers using counters",
+      "teks": "6.3(C)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(C)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Subtract integers using number lines",
+      "teks": "6.3(C)",
+      "prompt": "This topic covers integers on number lines for Grade 6 students (TEKS 6.3(C)). Students should understand how to locate, graph, and compare integers on both horizontal and vertical number lines. Key concepts: positive integers are to the right of (or above) zero; negative integers are to the left of (or below) zero; numbers increase going right (or up) and decrease going left (or down); the distance between consecutive integers is always 1; students should graph integers and determine values from graphed points. Vocabulary: integer, positive, negative, zero, number line, horizontal, vertical, graph, locate, plot, compare, order, right, left, above, below. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Understand multiplying by a negative integer using a number line",
+      "teks": "6.3(C)",
+      "prompt": "This topic covers integers on number lines for Grade 6 students (TEKS 6.3(C)). Students should understand how to locate, graph, and compare integers on both horizontal and vertical number lines. Key concepts: positive integers are to the right of (or above) zero; negative integers are to the left of (or below) zero; numbers increase going right (or up) and decrease going left (or down); the distance between consecutive integers is always 1; students should graph integers and determine values from graphed points. Vocabulary: integer, positive, negative, zero, number line, horizontal, vertical, graph, locate, plot, compare, order, right, left, above, below. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add two negative integers using number lines",
+      "teks": "6.3(C)",
+      "prompt": "This topic covers integers on number lines for Grade 6 students (TEKS 6.3(C)). Students should understand how to locate, graph, and compare integers on both horizontal and vertical number lines. Key concepts: positive integers are to the right of (or above) zero; negative integers are to the left of (or below) zero; numbers increase going right (or up) and decrease going left (or down); the distance between consecutive integers is always 1; students should graph integers and determine values from graphed points. Vocabulary: integer, positive, negative, zero, number line, horizontal, vertical, graph, locate, plot, compare, order, right, left, above, below. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add two integers with different signs using number lines",
+      "teks": "6.3(C)",
+      "prompt": "This topic covers integers on number lines for Grade 6 students (TEKS 6.3(C)). Students should understand how to locate, graph, and compare integers on both horizontal and vertical number lines. Key concepts: positive integers are to the right of (or above) zero; negative integers are to the left of (or below) zero; numbers increase going right (or up) and decrease going left (or down); the distance between consecutive integers is always 1; students should graph integers and determine values from graphed points. Vocabulary: integer, positive, negative, zero, number line, horizontal, vertical, graph, locate, plot, compare, order, right, left, above, below. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add integers",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(D)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Subtract integers",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(D)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add and subtract integers: find the sign",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(D)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add and subtract integers: word problems",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers solving word problems for Grade 6 students (TEKS 6.3(D)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add and subtract integers: input/output tables",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(D)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add three or more integers",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(D)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply integers: find the sign",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers multiplying and dividing integers for Grade 6 students (TEKS 6.3(D)). Students should understand the sign rules for multiplication and division of integers. Key concepts: positive x positive = positive; negative x negative = positive; positive x negative = negative; negative x positive = negative; the same sign rules apply to division; the product or quotient of two numbers with the same sign is positive; the product or quotient of two numbers with different signs is negative. Vocabulary: integer, multiply, divide, positive, negative, sign, product, quotient, rule, same sign, different sign, factor. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply integers",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers multiplying and dividing integers for Grade 6 students (TEKS 6.3(D)). Students should understand the sign rules for multiplication and division of integers. Key concepts: positive x positive = positive; negative x negative = positive; positive x negative = negative; negative x positive = negative; the same sign rules apply to division; the product or quotient of two numbers with the same sign is positive; the product or quotient of two numbers with different signs is negative. Vocabulary: integer, multiply, divide, positive, negative, sign, product, quotient, rule, same sign, different sign, factor. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide integers: find the sign",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers multiplying and dividing integers for Grade 6 students (TEKS 6.3(D)). Students should understand the sign rules for multiplication and division of integers. Key concepts: positive x positive = positive; negative x negative = positive; positive x negative = negative; negative x positive = negative; the same sign rules apply to division; the product or quotient of two numbers with the same sign is positive; the product or quotient of two numbers with different signs is negative. Vocabulary: integer, multiply, divide, positive, negative, sign, product, quotient, rule, same sign, different sign, factor. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide integers",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers multiplying and dividing integers for Grade 6 students (TEKS 6.3(D)). Students should understand the sign rules for multiplication and division of integers. Key concepts: positive x positive = positive; negative x negative = positive; positive x negative = negative; negative x positive = negative; the same sign rules apply to division; the product or quotient of two numbers with the same sign is positive; the product or quotient of two numbers with different signs is negative. Vocabulary: integer, multiply, divide, positive, negative, sign, product, quotient, rule, same sign, different sign, factor. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Add, subtract, multiply, or divide two integers",
+      "teks": "6.3(D)",
+      "prompt": "This topic covers adding and subtracting integers for Grade 6 students (TEKS 6.3(D)). Students should understand the rules for computing with positive and negative integers. Key concepts: adding two positives gives a positive; adding two negatives gives a negative; when adding integers with different signs, subtract the absolute values and take the sign of the number with the greater absolute value; subtracting an integer is the same as adding its opposite; number lines and counters can model these operations. Vocabulary: integer, positive, negative, add, subtract, opposite, absolute value, sign, sum, difference, zero pair, number line, counter. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply mixed numbers",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying mixed numbers for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply mixed numbers by converting them to improper fractions first. Key concepts: convert mixed numbers to improper fractions; multiply numerators together and denominators together; simplify or cross-cancel before multiplying when possible; convert the result back to a mixed number if needed; estimate the product to check reasonableness. Vocabulary: mixed number, improper fraction, multiply, convert, numerator, denominator, product, simplify, cross-cancel, estimate, whole number, fraction. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply decimals",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide decimals by whole numbers",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing with decimals for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide decimal numbers by whole numbers and by other decimals. Key concepts: when dividing a decimal by a whole number, place the decimal point in the quotient directly above the decimal point in the dividend and divide normally; when dividing by a decimal, multiply both the divisor and dividend by a power of 10 to make the divisor a whole number; estimate to check the reasonableness of the quotient. Vocabulary: divide, decimal, quotient, divisor, dividend, decimal point, power of ten, estimate, remainder, place value. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide decimals by whole numbers: word problems",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing with decimals for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide decimal numbers by whole numbers and by other decimals. Key concepts: when dividing a decimal by a whole number, place the decimal point in the quotient directly above the decimal point in the dividend and divide normally; when dividing by a decimal, multiply both the divisor and dividend by a power of 10 to make the divisor a whole number; estimate to check the reasonableness of the quotient. Vocabulary: divide, decimal, quotient, divisor, dividend, decimal point, power of ten, estimate, remainder, place value. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply and divide decimals by powers of ten",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Division with decimal divisors",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers division when the divisor is a decimal for Grade 6 students (TEKS 6.3(E)). Students should understand how to handle decimal divisors by converting to whole number division. Key concepts: multiply both the divisor and dividend by the same power of 10 to make the divisor a whole number; this does not change the quotient because multiplying both parts of a division by the same number preserves the result; then perform standard long division; estimation helps verify the quotient's reasonableness. Vocabulary: divide, decimal, divisor, dividend, quotient, power of ten, convert, multiply, long division, estimate, equivalent, reasonable. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply and divide decimals: word problems",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying decimals for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply decimal numbers by whole numbers and by other decimals. Key concepts: multiply as if both numbers are whole numbers, then count the total number of decimal places in both factors and place the decimal point that many places from the right in the product; area models and grid models can visualize decimal multiplication; estimating the product helps verify decimal placement. Vocabulary: multiply, decimal, product, factor, decimal point, place, estimate, area model, grid, whole number, hundredths, tenths, partial product. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply fractions and whole numbers",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply fractions by whole numbers: word problems",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply two fractions using models",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply two fractions",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply fractions: word problems",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply mixed numbers: word problems",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers solving word problems for Grade 6 students (TEKS 6.3(E)). Students should understand how to analyze word problems to determine the correct operation(s) and solve them. Key concepts: read carefully to understand what is being asked; identify the given information and what needs to be found; determine which operation(s) to use based on the context; solve and check that the answer is reasonable; multi-step problems may require more than one operation. Vocabulary: word problem, operation, solve, strategy, reasonable, estimate, equation, unknown, given, question, steps, interpret, check. Problems should involve real-world contexts appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Multiply three or more mixed numbers, fractions, and/or whole numbers",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers multiplying fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to multiply fractions by whole numbers and by other fractions. Key concepts: to multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator; to multiply two fractions, multiply numerators together and denominators together; simplify before or after multiplying; visual models (area models, arrays, number lines) illustrate fraction multiplication; multiplying by a fraction less than 1 results in a smaller product. Vocabulary: multiply, fraction, numerator, denominator, product, simplify, area model, whole number, mixed number, factor, cancel, cross-simplify. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide whole numbers and fractions using models",
+      "teks": "6.3(A)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(A)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions by whole numbers in recipes",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions using models",
+      "teks": "6.3(A)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(A)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions and mixed numbers using models",
+      "teks": "6.3(A)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(A)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions and mixed numbers",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions and mixed numbers using models: word problems",
+      "teks": "6.3(A)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(A)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions and mixed numbers: word problems",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide decimals",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing with decimals for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide decimal numbers by whole numbers and by other decimals. Key concepts: when dividing a decimal by a whole number, place the decimal point in the quotient directly above the decimal point in the dividend and divide normally; when dividing by a decimal, multiply both the divisor and dividend by a power of 10 to make the divisor a whole number; estimate to check the reasonableness of the quotient. Vocabulary: divide, decimal, quotient, divisor, dividend, decimal point, power of ten, estimate, remainder, place value. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Divide fractions: word problems",
+      "teks": "6.3(E)",
+      "prompt": "This topic covers dividing fractions for Grade 6 students (TEKS 6.3(E)). Students should understand how to divide whole numbers by fractions and fractions by whole numbers. Key concepts: dividing by a fraction is the same as multiplying by its reciprocal; the reciprocal of a/b is b/a; visual models (number lines, area models) demonstrate how many groups of the divisor fit into the dividend; dividing a whole number by a unit fraction gives a result larger than the whole number; dividing a unit fraction by a whole number gives a smaller result. Vocabulary: divide, fraction, reciprocal, quotient, unit fraction, whole number, model, number line, invert, multiply, divisor, dividend. Problems should be appropriate for 11-12 year olds."
+    }
+  ]
+}

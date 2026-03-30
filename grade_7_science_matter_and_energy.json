@@ -1,0 +1,66 @@
+{
+  "grade": "Grade 7",
+  "subject": "Science - Matter and energy",
+  "skills": [
+    {
+      "skill": "Photosynthesis: Recognize that radiant energy from the Sun is transformed into chemical energy through photosynthesis",
+      "teks": "7.6(A)",
+      "teks_description": "Compare and contrast elements and compounds; understand energy transformations in matter",
+      "prompt": "This topic covers the transformation of solar energy into chemical energy through photosynthesis for Grade 7 science students (TEKS 7.6(A)). Students understand how plants convert radiant (light) energy from the Sun into chemical energy stored in glucose. Key concepts include: the photosynthesis equation (6CO2 + 6H2O + light energy -> C6H12O6 + 6O2), chloroplasts as the site of photosynthesis, chlorophyll absorbing light energy, and the role of photosynthesis in ecosystems. Vocabulary: photosynthesis, radiant energy, chemical energy, chloroplast, chlorophyll, glucose, carbon dioxide, oxygen, transformation. Common misconceptions: thinking plants get food from the soil and that photosynthesis only produces oxygen. Practice should include energy transformation analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Photosynthesis: How do plants use and change energy?",
+      "teks": "7.5(E)",
+      "teks_description": "Analyze how energy flows and matter cycles through systems",
+      "prompt": "This topic covers how plants use and change energy for Grade 7 science students (TEKS 7.5(E)). Students explore the energy transformations that occur in plants. Key concepts include: plants capture light energy and convert it to chemical energy through photosynthesis, plants use chemical energy through cellular respiration, energy flows from sunlight to producers to consumers, and the relationship between photosynthesis and respiration. Vocabulary: photosynthesis, cellular respiration, chemical energy, light energy, thermal energy, glucose, ATP, producer. Common misconceptions: thinking plants only photosynthesize (they also respire), and that photosynthesis and respiration are opposites rather than complementary. Practice should include energy flow analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Photosynthesis: Identify the photosynthetic organism",
+      "teks": "7.12(A)",
+      "teks_description": "Diagram energy flow within trophic levels in energy pyramids",
+      "prompt": "This topic covers identifying photosynthetic organisms for Grade 7 science students (TEKS 7.12(A)). Students learn to identify which organisms perform photosynthesis and their role in energy pyramids. Key concepts include: producers (plants, algae, some bacteria) perform photosynthesis, they form the base of food chains and energy pyramids, not all green organisms photosynthesize, and photosynthetic organisms convert sunlight to chemical energy. Vocabulary: photosynthetic, producer, autotroph, chlorophyll, energy pyramid, trophic level, food chain, algae, cyanobacteria. Common misconceptions: thinking only land plants photosynthesize and confusing producers with consumers. Practice should include organism classification appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Energy flow: Diagram the flow of energy through living systems, including food chains, food webs, and energy pyramids",
+      "teks": "7.12(A)",
+      "teks_description": "Diagram energy flow within trophic levels in energy pyramids",
+      "prompt": "This topic covers diagramming energy flow through living systems for Grade 7 science students (TEKS 7.12(A)). Students create and interpret food chains, food webs, and energy pyramids. Key concepts include: energy flows from sun to producers to consumers, only about 10% of energy transfers between trophic levels, energy pyramids show decreasing energy at higher levels, and decomposers recycle matter. Vocabulary: energy flow, food chain, food web, energy pyramid, trophic level, producer, consumer, decomposer, herbivore, carnivore, omnivore. Common misconceptions: thinking energy is recycled (it flows one way) and confusing energy flow with matter cycling. Practice should include diagram creation and interpretation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Energy flow: How does matter move in food chains?",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers how matter moves through food chains for Grade 7 science students (TEKS 7.12(B)). Students trace the movement of matter (not just energy) through ecosystems. Key concepts include: matter is recycled through ecosystems while energy flows through, organisms consume matter and transform it, decomposers break down dead matter returning nutrients to the environment, and the conservation of matter in ecosystems. Vocabulary: matter, food chain, nutrient cycle, decomposer, consumer, producer, recycle, conservation of matter, ecosystem. Common misconceptions: confusing matter cycling with energy flow and thinking matter is created or destroyed. Practice should include matter tracking activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Energy flow: Interpret food webs I",
+      "teks": "7.12(A)",
+      "teks_description": "Diagram energy flow within trophic levels in energy pyramids",
+      "prompt": "This topic covers interpreting food webs for Grade 7 science students (TEKS 7.12(A)). Students analyze complex food web diagrams to understand energy relationships in ecosystems. Key concepts include: arrows show the direction of energy flow, organisms can occupy multiple trophic levels, removing one organism affects the entire web, and food webs are more realistic than food chains. Vocabulary: food web, food chain, producer, consumer, predator, prey, trophic level, interdependence, ecosystem. Common misconceptions: thinking arrows point toward the eater (they show energy direction), and not understanding cascading effects of population changes. Practice should include food web analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Energy flow: Interpret food webs II",
+      "teks": "7.12(A)",
+      "teks_description": "Diagram energy flow within trophic levels in energy pyramids",
+      "prompt": "This topic covers interpreting food webs for Grade 7 science students (TEKS 7.12(A)). Students analyze complex food web diagrams to understand energy relationships in ecosystems. Key concepts include: arrows show the direction of energy flow, organisms can occupy multiple trophic levels, removing one organism affects the entire web, and food webs are more realistic than food chains. Vocabulary: food web, food chain, producer, consumer, predator, prey, trophic level, interdependence, ecosystem. Common misconceptions: thinking arrows point toward the eater (they show energy direction), and not understanding cascading effects of population changes. Practice should include food web analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Energy flow: The carbon cycle",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers the carbon cycle for Grade 7 science students (TEKS 7.12(B)). Students trace how carbon moves through ecosystems and between living and non-living components. Key concepts include: carbon dioxide absorbed by plants during photosynthesis, carbon stored in organisms and fossil fuels, carbon released through respiration, decomposition, and combustion, and the role of oceans as carbon sinks. Vocabulary: carbon cycle, photosynthesis, respiration, decomposition, combustion, fossil fuels, carbon dioxide, carbon sink, atmosphere. Common misconceptions: thinking the carbon cycle only involves living things and not understanding human impact on the cycle. Practice should include carbon cycle diagramming appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Physical and chemical changes: Distinguish between physical and chemical changes in matter",
+      "teks": "7.6(C)",
+      "teks_description": "Distinguish between physical and chemical changes",
+      "prompt": "This topic covers distinguishing between physical and chemical changes in matter for Grade 7 science students (TEKS 7.6(C)). Students identify and compare changes that alter appearance only (physical) versus changes that create new substances (chemical). Key concepts include: physical changes (melting, dissolving, cutting) do not create new substances, chemical changes (burning, rusting, cooking) produce new substances with different properties, evidence of chemical change (color change, gas production, temperature change, precipitate), and reversibility. Vocabulary: physical change, chemical change, substance, property, reversible, irreversible, precipitate, reaction. Common misconceptions: thinking all color changes are chemical and confusing dissolving (physical) with a chemical reaction. Practice should include classification activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Physical and chemical changes: Compare physical and chemical changes",
+      "teks": "7.6(C)",
+      "teks_description": "Distinguish between physical and chemical changes",
+      "prompt": "This topic covers distinguishing between physical and chemical changes in matter for Grade 7 science students (TEKS 7.6(C)). Students identify and compare changes that alter appearance only (physical) versus changes that create new substances (chemical). Key concepts include: physical changes (melting, dissolving, cutting) do not create new substances, chemical changes (burning, rusting, cooking) produce new substances with different properties, evidence of chemical change (color change, gas production, temperature change, precipitate), and reversibility. Vocabulary: physical change, chemical change, substance, property, reversible, irreversible, precipitate, reaction. Common misconceptions: thinking all color changes are chemical and confusing dissolving (physical) with a chemical reaction. Practice should include classification activities appropriate for 12-13 year olds."
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "grade": "Grade 6",
+  "subject": "Maths - Proportionality",
+  "skills": [
+    {
+      "skill": "Solve one-step equations: word problems",
+      "teks": "6.10(A)",
+      "prompt": "This topic covers Solve one-step equations: word problems for Grade 6 students (TEKS 6.10(A)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Write an equation from a graph using a table",
+      "teks": "6.6(B)",
+      "prompt": "This topic covers Write an equation from a graph using a table for Grade 6 students (TEKS 6.6(B)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Write a two-variable equation",
+      "teks": "6.6(C)",
+      "prompt": "This topic covers Write a two-variable equation for Grade 6 students (TEKS 6.6(C)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Additive and multiplicative relationships",
+      "teks": "6.4(A)",
+      "prompt": "This topic covers additive and multiplicative relationships for Grade 6 students (TEKS 6.4(A)). Students should understand the difference between relationships that involve adding a constant (additive) and those that involve multiplying by a constant (multiplicative). Key concepts: in an additive relationship, the difference between corresponding values is constant (e.g., y = x + 3); in a multiplicative relationship, the ratio between corresponding values is constant (e.g., y = 3x); proportional relationships are multiplicative; students should identify the type of relationship from tables, graphs, and equations. Vocabulary: additive, multiplicative, relationship, constant, difference, ratio, proportional, table, graph, equation, compare, pattern. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Identify equivalent ratios",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers equivalent ratios for Grade 6 students (TEKS 6.4(C)). Students should understand that equivalent ratios represent the same comparison between two quantities. Key concepts: equivalent ratios can be found by multiplying or dividing both terms by the same nonzero number; equivalent ratios simplify to the same fraction in lowest terms; students can use cross-multiplication to check if two ratios are equivalent; ratio tables and graphs of equivalent ratios form straight lines through the origin. Vocabulary: ratio, equivalent, proportion, simplify, cross-multiply, terms, numerator, denominator, scale factor, compare, relationship. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write an equivalent ratio",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers equivalent ratios for Grade 6 students (TEKS 6.4(C)). Students should understand that equivalent ratios represent the same comparison between two quantities. Key concepts: equivalent ratios can be found by multiplying or dividing both terms by the same nonzero number; equivalent ratios simplify to the same fraction in lowest terms; students can use cross-multiplication to check if two ratios are equivalent; ratio tables and graphs of equivalent ratios form straight lines through the origin. Vocabulary: ratio, equivalent, proportion, simplify, cross-multiply, terms, numerator, denominator, scale factor, compare, relationship. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Equivalent ratios: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers equivalent ratios for Grade 6 students (TEKS 6.4(B)). Students should understand that equivalent ratios represent the same comparison between two quantities. Key concepts: equivalent ratios can be found by multiplying or dividing both terms by the same nonzero number; equivalent ratios simplify to the same fraction in lowest terms; students can use cross-multiplication to check if two ratios are equivalent; ratio tables and graphs of equivalent ratios form straight lines through the origin. Vocabulary: ratio, equivalent, proportion, simplify, cross-multiply, terms, numerator, denominator, scale factor, compare, relationship. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Unit rates",
+      "teks": "6.4(D)",
+      "prompt": "This topic covers unit rates and unit prices for Grade 6 students (TEKS 6.4(D)). Students should understand that a unit rate expresses a ratio as a quantity per one unit. Key concepts: a unit rate has a denominator of 1 (e.g., 60 miles per 1 hour = 60 mph); unit price is the cost per one item or one unit of measure; to find a unit rate, divide the first quantity by the second; unit rates are useful for comparing options (which store has the better price, which car goes faster). Vocabulary: unit rate, unit price, rate, ratio, per, divide, compare, best buy, speed, cost, denominator, quantity. Problems should involve comparing prices, speeds, and other real-world rates appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Rates: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers rates word problems for Grade 6 students (TEKS 6.4(B)). Students should apply their understanding of rates and ratios to solve real-world problems. Key concepts: a rate compares two quantities with different units (miles per hour, dollars per pound, words per minute); set up proportions to solve rate problems; use unit rates to compare and make decisions; rates can involve speed, pricing, work rate, or any measurable quantities. Vocabulary: rate, ratio, proportion, unit rate, speed, distance, time, cost, per, compare, solve, calculate, convert. Problems should involve realistic scenarios like travel, shopping, and cooking appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Calculate speed, distance, or time: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers calculating speed, distance, and time for Grade 6 students (TEKS 6.4(B)). Students should understand the relationship between speed, distance, and time using the formula d = r x t. Key concepts: speed (rate) = distance / time; distance = speed x time; time = distance / speed; speed is typically measured in miles per hour (mph) or kilometers per hour (km/h); these formulas are proportional relationships; students should be able to solve for any one variable given the other two. Vocabulary: speed, rate, distance, time, miles per hour, formula, calculate, unit, proportion, solve, travel, velocity. Problems should involve realistic travel and motion scenarios appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare ratios: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers comparing ratios for Grade 6 students (TEKS 6.4(B)). Students should understand how to determine whether two ratios are equivalent and how to compare ratios to solve problems. Key concepts: ratios can be compared by finding a common denominator, by using unit rates, or by cross-multiplying; equivalent ratios can be generated by multiplying or dividing both terms by the same number; comparing ratios helps solve problems about which option is better (best buy, fastest speed, etc.). Vocabulary: ratio, compare, equivalent, unit rate, cross-multiply, proportion, greater, less, equal, terms, simplify, common denominator. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare rates: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers rates word problems for Grade 6 students (TEKS 6.4(B)). Students should apply their understanding of rates and ratios to solve real-world problems. Key concepts: a rate compares two quantities with different units (miles per hour, dollars per pound, words per minute); set up proportions to solve rate problems; use unit rates to compare and make decisions; rates can involve speed, pricing, work rate, or any measurable quantities. Vocabulary: rate, ratio, proportion, unit rate, speed, distance, time, cost, per, compare, solve, calculate, convert. Problems should involve realistic scenarios like travel, shopping, and cooking appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Ratios and rates: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers rates word problems for Grade 6 students (TEKS 6.4(B)). Students should apply their understanding of rates and ratios to solve real-world problems. Key concepts: a rate compares two quantities with different units (miles per hour, dollars per pound, words per minute); set up proportions to solve rate problems; use unit rates to compare and make decisions; rates can involve speed, pricing, work rate, or any measurable quantities. Vocabulary: rate, ratio, proportion, unit rate, speed, distance, time, cost, per, compare, solve, calculate, convert. Problems should involve realistic scenarios like travel, shopping, and cooking appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Do the ratios form a proportion?",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers solving proportions for Grade 6 students (TEKS 6.4(C)). Students should understand how to solve proportion equations to find unknown values. Key concepts: a proportion states that two ratios are equal; to solve, use cross-multiplication (a/b = c/d means ad = bc); equivalent ratios can also be found by multiplying or dividing both parts by the same number; proportions can be used to solve real-world problems involving scaling, recipes, maps, and similar figures. Vocabulary: proportion, ratio, cross-multiply, equivalent, solve, unknown, scale, equal, relationship, variable, equation, fraction. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve the proportion",
+      "teks": "6.5(A)",
+      "prompt": "This topic covers solving proportions for Grade 6 students (TEKS 6.5(A)). Students should understand how to solve proportion equations to find unknown values. Key concepts: a proportion states that two ratios are equal; to solve, use cross-multiplication (a/b = c/d means ad = bc); equivalent ratios can also be found by multiplying or dividing both parts by the same number; proportions can be used to solve real-world problems involving scaling, recipes, maps, and similar figures. Vocabulary: proportion, ratio, cross-multiply, equivalent, solve, unknown, scale, equal, relationship, variable, equation, fraction. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Compare percents and fractions: word problems",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers Compare percents and fractions: word problems for Grade 6 students (TEKS 6.4(G)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Unit prices with fractions and decimals",
+      "teks": "6.4(D)",
+      "prompt": "This topic covers unit rates and unit prices for Grade 6 students (TEKS 6.4(D)). Students should understand that a unit rate expresses a ratio as a quantity per one unit. Key concepts: a unit rate has a denominator of 1 (e.g., 60 miles per 1 hour = 60 mph); unit price is the cost per one item or one unit of measure; to find a unit rate, divide the first quantity by the second; unit rates are useful for comparing options (which store has the better price, which car goes faster). Vocabulary: unit rate, unit price, rate, ratio, per, divide, compare, best buy, speed, cost, denominator, quantity. Problems should involve comparing prices, speeds, and other real-world rates appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write a ratio: word problems",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers writing ratios for Grade 6 students (TEKS 6.4(C)). Students should understand how to express the relationship between two quantities as a ratio. Key concepts: a ratio can be written three ways: using a colon (3:4), as a fraction (3/4), or with the word 'to' (3 to 4); ratios can compare part to part, part to whole, or whole to part; the order of the quantities matters; ratios should be simplified when possible. Vocabulary: ratio, compare, quantity, part, whole, colon, fraction, simplify, order, relationship, express, notation. Problems should involve reading real-world scenarios and writing appropriate ratios, appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write an equivalent ratio",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers equivalent ratios for Grade 6 students (TEKS 6.4(C)). Students should understand that equivalent ratios represent the same comparison between two quantities. Key concepts: equivalent ratios can be found by multiplying or dividing both terms by the same nonzero number; equivalent ratios simplify to the same fraction in lowest terms; students can use cross-multiplication to check if two ratios are equivalent; ratio tables and graphs of equivalent ratios form straight lines through the origin. Vocabulary: ratio, equivalent, proportion, simplify, cross-multiply, terms, numerator, denominator, scale factor, compare, relationship. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Ratio tables",
+      "teks": "6.5(A)",
+      "prompt": "This topic covers ratio tables for Grade 6 students (TEKS 6.5(A)). Students should understand how to use tables to organize and extend equivalent ratios. Key concepts: a ratio table shows pairs of values that maintain the same ratio; multiply or divide both values by the same number to find equivalent ratios; ratio tables can be used to solve proportion problems; the relationship between the two quantities remains constant. Vocabulary: ratio, ratio table, equivalent ratio, proportion, multiply, divide, scale factor, relationship, constant, pair, value, extend. Problems should involve completing ratio tables and using them to solve real-world problems appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Unit rates",
+      "teks": "6.4(D)",
+      "prompt": "This topic covers unit rates and unit prices for Grade 6 students (TEKS 6.4(D)). Students should understand that a unit rate expresses a ratio as a quantity per one unit. Key concepts: a unit rate has a denominator of 1 (e.g., 60 miles per 1 hour = 60 mph); unit price is the cost per one item or one unit of measure; to find a unit rate, divide the first quantity by the second; unit rates are useful for comparing options (which store has the better price, which car goes faster). Vocabulary: unit rate, unit price, rate, ratio, per, divide, compare, best buy, speed, cost, denominator, quantity. Problems should involve comparing prices, speeds, and other real-world rates appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Unit prices",
+      "teks": "6.4(D)",
+      "prompt": "This topic covers unit rates and unit prices for Grade 6 students (TEKS 6.4(D)). Students should understand that a unit rate expresses a ratio as a quantity per one unit. Key concepts: a unit rate has a denominator of 1 (e.g., 60 miles per 1 hour = 60 mph); unit price is the cost per one item or one unit of measure; to find a unit rate, divide the first quantity by the second; unit rates are useful for comparing options (which store has the better price, which car goes faster). Vocabulary: unit rate, unit price, rate, ratio, per, divide, compare, best buy, speed, cost, denominator, quantity. Problems should involve comparing prices, speeds, and other real-world rates appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Unit prices with customary unit conversions",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers unit rates and unit prices for Grade 6 students (TEKS 6.4(H)). Students should understand that a unit rate expresses a ratio as a quantity per one unit. Key concepts: a unit rate has a denominator of 1 (e.g., 60 miles per 1 hour = 60 mph); unit price is the cost per one item or one unit of measure; to find a unit rate, divide the first quantity by the second; unit rates are useful for comparing options (which store has the better price, which car goes faster). Vocabulary: unit rate, unit price, rate, ratio, per, divide, compare, best buy, speed, cost, denominator, quantity. Problems should involve comparing prices, speeds, and other real-world rates appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write a ratio using a colon",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers writing ratios for Grade 6 students (TEKS 6.4(C)). Students should understand how to express the relationship between two quantities as a ratio. Key concepts: a ratio can be written three ways: using a colon (3:4), as a fraction (3/4), or with the word 'to' (3 to 4); ratios can compare part to part, part to whole, or whole to part; the order of the quantities matters; ratios should be simplified when possible. Vocabulary: ratio, compare, quantity, part, whole, colon, fraction, simplify, order, relationship, express, notation. Problems should involve reading real-world scenarios and writing appropriate ratios, appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Write a ratio using a fraction",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers writing ratios for Grade 6 students (TEKS 6.4(C)). Students should understand how to express the relationship between two quantities as a ratio. Key concepts: a ratio can be written three ways: using a colon (3:4), as a fraction (3/4), or with the word 'to' (3 to 4); ratios can compare part to part, part to whole, or whole to part; the order of the quantities matters; ratios should be simplified when possible. Vocabulary: ratio, compare, quantity, part, whole, colon, fraction, simplify, order, relationship, express, notation. Problems should involve reading real-world scenarios and writing appropriate ratios, appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Which model represents the ratio?",
+      "teks": "6.4(E)",
+      "prompt": "This topic covers identifying models that represent ratios for Grade 6 students (TEKS 6.4(E)). Students should understand how to connect visual models (tape diagrams, arrays, pictures) to ratio notation. Key concepts: visual models show the proportional relationship between two quantities; students should count or measure each quantity in the model and express the comparison as a ratio; models should match the ratio in both value and order; equivalent ratios can look different in models but represent the same proportion. Vocabulary: model, ratio, represent, tape diagram, array, picture, proportional, quantity, compare, match, equivalent, visual. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Benchmark percents with strip models: multiples of 10, 20, 25, 33, and 50",
+      "teks": "6.4(F)",
+      "prompt": "This topic covers solving percent problems using strip models for Grade 6 students (TEKS 6.4(F)). Students should understand how to use strip (bar) models to visualize percent relationships. Key concepts: a strip model divides a whole into proportional sections; benchmark percents (10%, 25%, 50%) divide the strip into equal parts; students can use strip models to find the part, the whole, or the percent; the full strip represents 100% and the sections show proportional amounts. Vocabulary: strip model, bar model, percent, benchmark, whole, part, proportion, section, 100%, represent, visualize, solve. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert fractions to percents using grid models",
+      "teks": "6.4(E)",
+      "prompt": "This topic covers converting between percents, fractions, and decimals for Grade 6 students (TEKS 6.4(E)). Students should understand that percents, fractions, and decimals are three different ways to represent the same value. Key concepts: percent means 'per hundred'; to convert a percent to a decimal, divide by 100 (move decimal point two places left); to convert a decimal to a percent, multiply by 100; to convert a fraction to a percent, divide numerator by denominator then multiply by 100; common equivalents should be memorized (1/2 = 50%, 1/4 = 25%, 3/4 = 75%). Vocabulary: percent, fraction, decimal, convert, equivalent, per hundred, numerator, denominator, divide, multiply, representation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Fractions on number lines",
+      "teks": "6.4(F)",
+      "prompt": "This topic covers fractions on number lines for Grade 6 students (TEKS 6.4(F)). Students should understand how to represent and locate fractions on number lines. Key concepts: the number line is divided into equal parts based on the denominator; the numerator tells how many parts to count from zero; equivalent fractions occupy the same position on the number line; fractions can be compared by their positions (farther right means greater). Vocabulary: fraction, number line, numerator, denominator, equivalent, compare, position, equal parts, interval, locate, represent, benchmark. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Graph percents on number lines",
+      "teks": "6.4(F)",
+      "prompt": "This topic covers calculating percents of numbers for Grade 6 students (TEKS 6.4(F)). Students should understand how to find a percentage of a given number. Key concepts: to find a percent of a number, convert the percent to a decimal and multiply (e.g., 25% of 80 = 0.25 x 80 = 20); alternatively, convert the percent to a fraction and multiply; common benchmarks: 50% is half, 25% is one-quarter, 10% is one-tenth; fractional and decimal percents (like 12.5% or 0.5%) can also be calculated. Vocabulary: percent, decimal, fraction, multiply, calculate, of, part, whole, convert, benchmark, amount. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Represent fractions using strip diagrams",
+      "teks": "6.4(F)",
+      "prompt": "This topic covers Represent fractions using strip diagrams for Grade 6 students (TEKS 6.4(F)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Equivalent ratios: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers equivalent ratios for Grade 6 students (TEKS 6.4(B)). Students should understand that equivalent ratios represent the same comparison between two quantities. Key concepts: equivalent ratios can be found by multiplying or dividing both terms by the same nonzero number; equivalent ratios simplify to the same fraction in lowest terms; students can use cross-multiplication to check if two ratios are equivalent; ratio tables and graphs of equivalent ratios form straight lines through the origin. Vocabulary: ratio, equivalent, proportion, simplify, cross-multiply, terms, numerator, denominator, scale factor, compare, relationship. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert between percents, fractions, and decimals: word problems",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers converting between percents, fractions, and decimals for Grade 6 students (TEKS 6.4(G)). Students should understand that percents, fractions, and decimals are three different ways to represent the same value. Key concepts: percent means 'per hundred'; to convert a percent to a decimal, divide by 100 (move decimal point two places left); to convert a decimal to a percent, multiply by 100; to convert a fraction to a percent, divide numerator by denominator then multiply by 100; common equivalents should be memorized (1/2 = 50%, 1/4 = 25%, 3/4 = 75%). Vocabulary: percent, fraction, decimal, convert, equivalent, per hundred, numerator, denominator, divide, multiply, representation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Fractions of a group: word problems",
+      "teks": "6.4(G)",
+      "prompt": "This topic covers finding fractions of a group for Grade 6 students (TEKS 6.4(G)). Students should understand how to find a fractional part of a set of objects or a quantity. Key concepts: to find a fraction of a group, divide the total by the denominator and multiply by the numerator; for example, 3/4 of 20 = (20 / 4) x 3 = 15; this connects to multiplication of fractions and whole numbers; students should solve word problems that ask for a fractional part of a quantity. Vocabulary: fraction, group, set, part, whole, numerator, denominator, divide, multiply, quantity, of, calculate. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert and compare customary units",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers Convert and compare customary units for Grade 6 students (TEKS 6.4(H)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Convert, compare, add, and subtract mixed customary units",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers Convert, compare, add, and subtract mixed customary units for Grade 6 students (TEKS 6.4(H)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Customary unit conversions involving fractions and mixed numbers",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers customary and metric unit conversions for Grade 6 students (TEKS 6.4(H)). Students should understand how to convert between units within and across measurement systems using proportional reasoning. Key concepts: customary units (inches, feet, yards, miles; ounces, pounds, tons; cups, pints, quarts, gallons); metric units (millimeters, centimeters, meters, kilometers; grams, kilograms; milliliters, liters); use conversion factors as ratios; set up proportions to convert; metric conversions involve powers of 10. Vocabulary: convert, customary, metric, unit, proportion, conversion factor, equivalent, ratio, length, weight, mass, capacity, volume. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert and compare metric units",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers Convert and compare metric units for Grade 6 students (TEKS 6.4(H)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Convert customary and metric units using proportions",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers Convert customary and metric units using proportions for Grade 6 students (TEKS 6.4(H)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Unit prices with customary unit conversions",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers unit rates and unit prices for Grade 6 students (TEKS 6.4(H)). Students should understand that a unit rate expresses a ratio as a quantity per one unit. Key concepts: a unit rate has a denominator of 1 (e.g., 60 miles per 1 hour = 60 mph); unit price is the cost per one item or one unit of measure; to find a unit rate, divide the first quantity by the second; unit rates are useful for comparing options (which store has the better price, which car goes faster). Vocabulary: unit rate, unit price, rate, ratio, per, divide, compare, best buy, speed, cost, denominator, quantity. Problems should involve comparing prices, speeds, and other real-world rates appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Convert metric and customary units using conversion factors",
+      "teks": "6.4(H)",
+      "prompt": "This topic covers customary and metric unit conversions for Grade 6 students (TEKS 6.4(H)). Students should understand how to convert between units within and across measurement systems using proportional reasoning. Key concepts: customary units (inches, feet, yards, miles; ounces, pounds, tons; cups, pints, quarts, gallons); metric units (millimeters, centimeters, meters, kilometers; grams, kilograms; milliliters, liters); use conversion factors as ratios; set up proportions to convert; metric conversions involve powers of 10. Vocabulary: convert, customary, metric, unit, proportion, conversion factor, equivalent, ratio, length, weight, mass, capacity, volume. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Ratio tables",
+      "teks": "6.5(A)",
+      "prompt": "This topic covers ratio tables for Grade 6 students (TEKS 6.5(A)). Students should understand how to use tables to organize and extend equivalent ratios. Key concepts: a ratio table shows pairs of values that maintain the same ratio; multiply or divide both values by the same number to find equivalent ratios; ratio tables can be used to solve proportion problems; the relationship between the two quantities remains constant. Vocabulary: ratio, ratio table, equivalent ratio, proportion, multiply, divide, scale factor, relationship, constant, pair, value, extend. Problems should involve completing ratio tables and using them to solve real-world problems appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Unit rates",
+      "teks": "6.4(D)",
+      "prompt": "This topic covers unit rates and unit prices for Grade 6 students (TEKS 6.4(D)). Students should understand that a unit rate expresses a ratio as a quantity per one unit. Key concepts: a unit rate has a denominator of 1 (e.g., 60 miles per 1 hour = 60 mph); unit price is the cost per one item or one unit of measure; to find a unit rate, divide the first quantity by the second; unit rates are useful for comparing options (which store has the better price, which car goes faster). Vocabulary: unit rate, unit price, rate, ratio, per, divide, compare, best buy, speed, cost, denominator, quantity. Problems should involve comparing prices, speeds, and other real-world rates appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Rates: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers rates word problems for Grade 6 students (TEKS 6.4(B)). Students should apply their understanding of rates and ratios to solve real-world problems. Key concepts: a rate compares two quantities with different units (miles per hour, dollars per pound, words per minute); set up proportions to solve rate problems; use unit rates to compare and make decisions; rates can involve speed, pricing, work rate, or any measurable quantities. Vocabulary: rate, ratio, proportion, unit rate, speed, distance, time, cost, per, compare, solve, calculate, convert. Problems should involve realistic scenarios like travel, shopping, and cooking appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Ratios and rates: complete a table and make a graph",
+      "teks": "6.5(A)",
+      "prompt": "This topic covers ratio tables for Grade 6 students (TEKS 6.5(A)). Students should understand how to use tables to organize and extend equivalent ratios. Key concepts: a ratio table shows pairs of values that maintain the same ratio; multiply or divide both values by the same number to find equivalent ratios; ratio tables can be used to solve proportion problems; the relationship between the two quantities remains constant. Vocabulary: ratio, ratio table, equivalent ratio, proportion, multiply, divide, scale factor, relationship, constant, pair, value, extend. Problems should involve completing ratio tables and using them to solve real-world problems appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Ratios and rates: word problems",
+      "teks": "6.4(B)",
+      "prompt": "This topic covers rates word problems for Grade 6 students (TEKS 6.4(B)). Students should apply their understanding of rates and ratios to solve real-world problems. Key concepts: a rate compares two quantities with different units (miles per hour, dollars per pound, words per minute); set up proportions to solve rate problems; use unit rates to compare and make decisions; rates can involve speed, pricing, work rate, or any measurable quantities. Vocabulary: rate, ratio, proportion, unit rate, speed, distance, time, cost, per, compare, solve, calculate, convert. Problems should involve realistic scenarios like travel, shopping, and cooking appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Do the ratios form a proportion?",
+      "teks": "6.4(C)",
+      "prompt": "This topic covers solving proportions for Grade 6 students (TEKS 6.4(C)). Students should understand how to solve proportion equations to find unknown values. Key concepts: a proportion states that two ratios are equal; to solve, use cross-multiplication (a/b = c/d means ad = bc); equivalent ratios can also be found by multiplying or dividing both parts by the same number; proportions can be used to solve real-world problems involving scaling, recipes, maps, and similar figures. Vocabulary: proportion, ratio, cross-multiply, equivalent, solve, unknown, scale, equal, relationship, variable, equation, fraction. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Scale drawings: word problems",
+      "teks": "6.5(A)",
+      "prompt": "This topic covers scale drawings and scale factor for Grade 6 students (TEKS 6.5(A)). Students should understand how scale drawings represent real-world objects using proportional dimensions. Key concepts: a scale drawing is a proportional representation of a real object; the scale factor relates the drawing dimensions to actual dimensions; students should use proportions to find actual dimensions from scale drawings and vice versa; maps are a common example of scale drawings. Vocabulary: scale, scale factor, proportion, drawing, actual, model, map, ratio, dimension, represent, enlarge, reduce, measurement. Problems should involve reading and creating scale drawings appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve percent problems using grid models",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers solving percent problems using grid models for Grade 6 students (TEKS 6.5(B)). Students should understand how to use 10x10 grids to visualize and solve percent problems. Key concepts: a 10x10 grid has 100 squares, each representing 1%; shading squares represents the percentage; percent of a number can be found by multiplying the number by the percent (as a decimal); students should connect the visual grid model to the mathematical computation. Vocabulary: percent, grid, hundred, shade, represent, model, visual, part, whole, calculate, fraction, decimal, ratio. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve percent problems using strip models",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers solving percent problems using strip models for Grade 6 students (TEKS 6.5(B)). Students should understand how to use strip (bar) models to visualize percent relationships. Key concepts: a strip model divides a whole into proportional sections; benchmark percents (10%, 25%, 50%) divide the strip into equal parts; students can use strip models to find the part, the whole, or the percent; the full strip represents 100% and the sections show proportional amounts. Vocabulary: strip model, bar model, percent, benchmark, whole, part, proportion, section, 100%, represent, visualize, solve. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Percents of numbers and money amounts",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers calculating percents of numbers for Grade 6 students (TEKS 6.5(B)). Students should understand how to find a percentage of a given number. Key concepts: to find a percent of a number, convert the percent to a decimal and multiply (e.g., 25% of 80 = 0.25 x 80 = 20); alternatively, convert the percent to a fraction and multiply; common benchmarks: 50% is half, 25% is one-quarter, 10% is one-tenth; fractional and decimal percents (like 12.5% or 0.5%) can also be calculated. Vocabulary: percent, decimal, fraction, multiply, calculate, of, part, whole, convert, benchmark, amount. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Percents of numbers: word problems",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers Percents of numbers: word problems for Grade 6 students (TEKS 6.5(B)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Percents of numbers: fractional and decimal percents",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers calculating percents of numbers for Grade 6 students (TEKS 6.5(B)). Students should understand how to find a percentage of a given number. Key concepts: to find a percent of a number, convert the percent to a decimal and multiply (e.g., 25% of 80 = 0.25 x 80 = 20); alternatively, convert the percent to a fraction and multiply; common benchmarks: 50% is half, 25% is one-quarter, 10% is one-tenth; fractional and decimal percents (like 12.5% or 0.5%) can also be calculated. Vocabulary: percent, decimal, fraction, multiply, calculate, of, part, whole, convert, benchmark, amount. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Find what percent one number is of another",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers finding what percent one number is of another for Grade 6 students (TEKS 6.5(B)). Students should understand how to determine the percentage relationship between two numbers. Key concepts: to find what percent A is of B, divide A by B and multiply by 100; set up the equation: percent = (part / whole) x 100; this is the inverse of finding a percent of a number; students should understand the part-whole relationship. Vocabulary: percent, part, whole, divide, multiply, fraction, ratio, proportion, calculate, relationship, represent, equation. Problems should include both pure computation and word problems appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Find what percent one number is of another: word problems",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers finding what percent one number is of another for Grade 6 students (TEKS 6.5(B)). Students should understand how to determine the percentage relationship between two numbers. Key concepts: to find what percent A is of B, divide A by B and multiply by 100; set up the equation: percent = (part / whole) x 100; this is the inverse of finding a percent of a number; students should understand the part-whole relationship. Vocabulary: percent, part, whole, divide, multiply, fraction, ratio, proportion, calculate, relationship, represent, equation. Problems should include both pure computation and word problems appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Find the total given a part and a percent",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers finding the total given a part and a percent for Grade 6 students (TEKS 6.5(B)). Students should understand how to find the whole when a part and its percentage are known. Key concepts: if a part is p% of the total, then total = part / (p/100); set up the equation: part = percent x total, then solve for total; this is the inverse of finding a percent of a number. Example: if 30 is 25% of a number, then the number = 30 / 0.25 = 120. Vocabulary: total, whole, part, percent, divide, equation, solve, inverse, unknown, proportion. Problems should include both computation and word problems appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Solve percent problems",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers Solve percent problems for Grade 6 students (TEKS 6.5(B)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Solve percent word problems",
+      "teks": "6.5(B)",
+      "prompt": "This topic covers Solve percent word problems for Grade 6 students (TEKS 6.5(B)) in the area of proportionality. Students should understand proportional relationships and how to apply them to solve real-world problems. Key skills include writing and solving ratios and proportions, calculating unit rates, converting between percents, fractions, and decimals, and applying proportional reasoning to measurement and comparison problems. Vocabulary related to ratios, rates, proportions, and percents should be explicitly taught. Problems should be developmentally appropriate for 11-12 year olds and aligned with Texas TEKS standards."
+    },
+    {
+      "skill": "Represent percents with grid models, decimals, and fractions",
+      "teks": "6.5(C)",
+      "prompt": "This topic covers solving percent problems using grid models for Grade 6 students (TEKS 6.5(C)). Students should understand how to use 10x10 grids to visualize and solve percent problems. Key concepts: a 10x10 grid has 100 squares, each representing 1%; shading squares represents the percentage; percent of a number can be found by multiplying the number by the percent (as a decimal); students should connect the visual grid model to the mathematical computation. Vocabulary: percent, grid, hundred, shade, represent, model, visual, part, whole, calculate, fraction, decimal, ratio. Problems should be appropriate for 11-12 year olds."
+    }
+  ]
+}

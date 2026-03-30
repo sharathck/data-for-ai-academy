@@ -1,0 +1,31 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Work, Energy, and Power",
+  "skills": [
+    {
+      "skill": "Translational Kinetic Energy",
+      "ref": "Unit 3, Topic 3.1",
+      "prompt": "This topic covers translational kinetic energy for AP Physics 1 students (CED: Unit 3, Topic 3.1). Students should understand that kinetic energy is the energy of motion: KE = (1/2)mv^2, where m is mass and v is speed. Kinetic energy is a scalar quantity and is always non-negative. It depends on the square of velocity, so doubling speed quadruples KE. The change in kinetic energy equals the net work done on the object (work-energy theorem): W_net = delta-KE. Students must calculate kinetic energy, compare kinetic energies of different objects, and apply the work-energy theorem. Connect to work, potential energy, conservation of energy, and momentum. AP exam note: the work-energy theorem is a powerful problem-solving tool that often provides simpler solutions than Newton's laws. Vocabulary: kinetic energy, work-energy theorem, translational, speed, mass, scalar, joule."
+    },
+    {
+      "skill": "Work",
+      "ref": "Unit 3, Topic 3.2",
+      "prompt": "This topic covers work for AP Physics 1 students (CED: Unit 3, Topic 3.2). Students should understand that work is the energy transferred to or from an object by a force: W = Fd*cos(theta), where F is the force magnitude, d is the displacement magnitude, and theta is the angle between force and displacement directions. Work is positive when force has a component along the displacement (energy added), negative when opposite (energy removed), and zero when perpendicular (e.g., normal force on a level surface, centripetal force). The area under a force-displacement graph equals work. Net work equals the sum of work done by all forces. Students must calculate work for various force-displacement configurations and interpret F-d graphs. Connect to kinetic energy, potential energy, and power. AP exam note: graphical calculation of work is commonly tested. Vocabulary: work, force, displacement, angle, positive work, negative work, joule, force-displacement graph."
+    },
+    {
+      "skill": "Potential Energy",
+      "ref": "Unit 3, Topic 3.3",
+      "prompt": "This topic covers potential energy for AP Physics 1 students (CED: Unit 3, Topic 3.3). Students should understand that potential energy is stored energy associated with the configuration of a system. Gravitational potential energy near Earth's surface: PE_g = mgh, where h is height relative to a chosen reference level. Elastic potential energy stored in a spring: PE_s = (1/2)kx^2. The choice of reference point for gravitational PE is arbitrary but must be consistent. The negative work done by a conservative force (gravity, spring force) equals the change in potential energy: W_conservative = -delta-PE. Potential energy belongs to the system, not individual objects. Students must calculate PE and select appropriate reference levels. Connect to conservation of energy, work, and forces. AP exam note: choosing reference levels and calculating PE changes are important skills. Vocabulary: gravitational potential energy, elastic potential energy, reference level, conservative force, system, stored energy, configuration."
+    },
+    {
+      "skill": "Conservation of Energy",
+      "ref": "Unit 3, Topic 3.4",
+      "prompt": "This topic covers conservation of energy for AP Physics 1 students (CED: Unit 3, Topic 3.4). Students should understand that in an isolated system with only conservative forces, total mechanical energy (KE + PE) is conserved: KE_i + PE_i = KE_f + PE_f. When nonconservative forces (friction, air resistance) act, mechanical energy is not conserved: the work done by nonconservative forces equals the change in mechanical energy (W_nc = delta-KE + delta-PE = delta-E_mech). Energy is transformed between kinetic, gravitational potential, elastic potential, and thermal energy, but the total energy of an isolated system remains constant. Students must apply conservation of energy to solve problems involving height changes, springs, and friction. Connect to work-energy theorem, power, and momentum. AP exam note: energy conservation is one of the most powerful and frequently tested problem-solving strategies. Vocabulary: conservation of energy, mechanical energy, conservative force, nonconservative force, isolated system, thermal energy, energy transformation."
+    },
+    {
+      "skill": "Power",
+      "ref": "Unit 3, Topic 3.5",
+      "prompt": "This topic covers power for AP Physics 1 students (CED: Unit 3, Topic 3.5). Students should understand that power is the rate at which work is done or energy is transferred: P = W/t = delta-E/t. Instantaneous power for a constant force is P = Fv*cos(theta), where v is the velocity and theta is the angle between force and velocity. The SI unit of power is the watt (W = J/s). Higher power means the same work is done in less time, or more work is done in the same time. Students must calculate average and instantaneous power, compare power output of different systems, and relate power to force and velocity. Connect to work, energy, and real-world applications (engines, electrical devices). AP exam note: power calculations linking force and velocity are commonly tested. Vocabulary: power, watt, rate, work, energy transfer, instantaneous power, average power, force, velocity."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "grade": "High School - Geometry",
+  "subject": "Geometry - Proof and congruence",
+  "skills": [
+    {
+      "skill": "Intersection of lines and line segments - verify theorems about angles formed by the intersection of lines and line segments, including vertical angles, and angles formed by parallel lines cut by a transversal and prove equidistance between the endpoints of a segment and points on its perpendicular bisector and apply these relationships to solve problems;",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers intersection of lines and line segments (verify theorems about angles formed by the intersection of lines and line segments, including vertical angles, and angles formed by parallel lines cut by a transversal and prove equidistance between the endpoints of a segment and points on its perpendicular bisector and apply these relationships to solve problems;) for Geometry students (TEKS G.6(A)). The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. When a transversal crosses parallel lines, corresponding angles are equal, alternate interior angles are equal, and co-interior angles are supplementary. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: Pythagorean theorem, alternate exterior, alternate interior, co-interior, corresponding angles, distance formula, given, length, parallel lines, postulate, proof, reason, segment, statement, theorem, transversal. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Perpendicular Bisector Theorem",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers intersection of lines and line segments (perpendicular bisector theorem) for Geometry students (TEKS G.6(A)). The Perpendicular Bisector Theorem: any point on the perpendicular bisector of a segment is equidistant from the segment's endpoints, and vice versa. Key vocabulary includes: Perpendicular Bisector Theorem, equidistant, segment, bisector. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Find measures of complementary, supplementary, vertical, and adjacent angles",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers finding measures of complementary, supplementary, vertical, and adjacent angles for Geometry students (TEKS G.6(A)). Complementary: sum to 90 degrees. Supplementary: sum to 180 degrees. Vertical angles: congruent (formed by intersecting lines). Adjacent angles share a side. Students set up and solve equations. Key vocabulary: complementary, supplementary, vertical angles, adjacent, linear pair. Common errors: confusing complementary and supplementary, and not recognizing vertical angle pairs."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Angle diagrams: solve for the variable",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers solving for variables in angle diagrams for Geometry students (TEKS G.6(A)). Students use angle relationships (complementary, supplementary, vertical, linear pair) to write equations and solve for unknowns. Set up equations based on the geometric relationship shown in the diagram. Key vocabulary: angle relationship, equation, solve, variable, diagram. Common errors: using the wrong relationship, algebraic errors, and misreading diagrams."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Proofs involving angles",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers proofs involving angles for Geometry students (TEKS G.6(A)). Students prove angle relationships using definitions, postulates, and theorems in two-column or paragraph format. Common reasons: Vertical Angles Theorem, Linear Pair Postulate, definition of complementary/supplementary. Key vocabulary: proof, statement, reason, theorem, postulate. Common errors: skipping steps, using incorrect reasons, and not connecting each step logically."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Transversals of parallel lines: find angle measures",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers intersection of lines and line segments (transversals of parallel lines: find angle measures) for Geometry students (TEKS G.6(A)). When a transversal crosses parallel lines, corresponding angles are equal, alternate interior angles are equal, and co-interior angles are supplementary. Key vocabulary includes: alternate exterior, alternate interior, co-interior, corresponding angles, parallel lines, transversal. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Transversals of parallel lines: solve for x",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers intersection of lines and line segments (transversals of parallel lines: solve for x) for Geometry students (TEKS G.6(A)). When a transversal crosses parallel lines, corresponding angles are equal, alternate interior angles are equal, and co-interior angles are supplementary. Key vocabulary includes: alternate exterior, alternate interior, co-interior, corresponding angles, parallel lines, transversal. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Proofs involving parallel lines I",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers proofs involving parallel lines for Geometry students (TEKS G.6(A)). Students prove lines are parallel using converse theorems (if corresponding angles are congruent, lines are parallel) or prove angle relationships given parallel lines. Key vocabulary: parallel lines, transversal, proof, converse, corresponding angles, alternate angles. Common errors: confusing a theorem with its converse, and not citing the correct reason."
+    },
+    {
+      "skill": "Intersection of lines and line segments - Proofs involving parallel lines II",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers proofs involving parallel lines for Geometry students (TEKS G.6(A)). Students prove lines are parallel using converse theorems (if corresponding angles are congruent, lines are parallel) or prove angle relationships given parallel lines. Key vocabulary: parallel lines, transversal, proof, converse, corresponding angles, alternate angles. Common errors: confusing a theorem with its converse, and not citing the correct reason."
+    },
+    {
+      "skill": "Congruent triangles - prove two triangles are congruent by applying the Side-Angle-Side, Angle-Side-Angle, Side-Side-Side, Angle-Angle-Side, and Hypotenuse-Leg congruence conditions;",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (prove two triangles are congruent by applying the side-angle-side, angle-side-angle, side-side-side, angle-angle-side, and hypotenuse-leg congruence conditions;) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: CPCTC, congruent, corresponding parts, given, postulate, proof, reason, rigid motion, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - SSS and SAS Theorems",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (sss and sas theorems) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Triangle congruence can be proved using SSS, SAS, ASA, AAS, or HL criteria without showing all six parts. Key vocabulary includes: AAS, ASA, CPCTC, HL, SAS, SSS, congruence criteria, congruent, corresponding parts, rigid motion, triangle congruence. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - Proving triangles congruent by SSS and SAS",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (proving triangles congruent by sss and sas) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Triangle congruence can be proved using SSS, SAS, ASA, AAS, or HL criteria without showing all six parts. Key vocabulary includes: AAS, ASA, CPCTC, HL, SAS, SSS, congruence criteria, congruent, corresponding parts, rigid motion, triangle congruence. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - ASA and AAS Theorems",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (asa and aas theorems) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Triangle congruence can be proved using SSS, SAS, ASA, AAS, or HL criteria without showing all six parts. Key vocabulary includes: AAS, ASA, CPCTC, HL, SAS, SSS, congruence criteria, congruent, corresponding parts, rigid motion, triangle congruence. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - Proving triangles congruent by ASA and AAS",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (proving triangles congruent by asa and aas) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Triangle congruence can be proved using SSS, SAS, ASA, AAS, or HL criteria without showing all six parts. Key vocabulary includes: AAS, ASA, CPCTC, HL, SAS, SSS, congruence criteria, congruent, corresponding parts, rigid motion, triangle congruence. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - SSS, SAS, ASA, and AAS Theorems",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (sss, sas, asa, and aas theorems) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Triangle congruence can be proved using SSS, SAS, ASA, AAS, or HL criteria without showing all six parts. Key vocabulary includes: AAS, ASA, CPCTC, HL, SAS, SSS, congruence criteria, congruent, corresponding parts, rigid motion, triangle congruence. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - SSS Theorem in the coordinate plane",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (sss theorem in the coordinate plane) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Triangle congruence can be proved using SSS, SAS, ASA, AAS, or HL criteria without showing all six parts. Key vocabulary includes: AAS, ASA, CPCTC, HL, SAS, SSS, congruence criteria, congruent, corresponding parts, rigid motion, triangle congruence. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - Proving triangles congruent by SSS, SAS, ASA, and AAS",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (proving triangles congruent by sss, sas, asa, and aas) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Triangle congruence can be proved using SSS, SAS, ASA, AAS, or HL criteria without showing all six parts. Key vocabulary includes: AAS, ASA, CPCTC, HL, SAS, SSS, congruence criteria, congruent, corresponding parts, rigid motion, triangle congruence. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent triangles - Hypotenuse-Leg Theorem",
+      "teks": "G.6(B)",
+      "prompt": "This topic covers congruent triangles (hypotenuse-leg theorem) for Geometry students (TEKS G.6(B)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, corresponding parts, rigid motion. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent figures - apply the definition of congruence, in terms of rigid transformations, to identify congruent figures and their corresponding sides and angles;",
+      "teks": "G.6(C)",
+      "prompt": "This topic covers congruent figures (apply the definition of congruence, in terms of rigid transformations, to identify congruent figures and their corresponding sides and angles;) for Geometry students (TEKS G.6(C)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, coordinate notation, corresponding parts, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent figures - Congruence statements and corresponding parts",
+      "teks": "G.6(C)",
+      "prompt": "This topic covers congruent figures (congruence statements and corresponding parts) for Geometry students (TEKS G.6(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, corresponding parts, rigid motion. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent figures - Identify congruent figures",
+      "teks": "G.6(C)",
+      "prompt": "This topic covers congruent figures (identify congruent figures) for Geometry students (TEKS G.6(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, corresponding parts, rigid motion. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent figures - Determine if two figures are congruent: justify your answer",
+      "teks": "G.6(C)",
+      "prompt": "This topic covers congruent figures (determine if two figures are congruent: justify your answer) for Geometry students (TEKS G.6(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, corresponding parts, rigid motion. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent figures - Prove triangles are congruent using rigid motions",
+      "teks": "G.6(C)",
+      "prompt": "This topic covers congruent figures (prove triangles are congruent using rigid motions) for Geometry students (TEKS G.6(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: CPCTC, congruent, corresponding parts, given, postulate, proof, reason, rigid motion, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Congruent figures - Proofs involving corresponding parts of congruent triangles",
+      "teks": "G.6(C)",
+      "prompt": "This topic covers congruent figures (proofs involving corresponding parts of congruent triangles) for Geometry students (TEKS G.6(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: CPCTC, congruent, corresponding parts, given, postulate, proof, reason, rigid motion, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - verify theorems about the relationships in triangles, including proof of the Pythagorean Theorem, the sum of interior angles, base angles of isosceles triangles, midsegments, and medians, and apply these relationships to solve problems;",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (verify theorems about the relationships in triangles, including proof of the pythagorean theorem, the sum of interior angles, base angles of isosceles triangles, midsegments, and medians, and apply these relationships to solve problems;) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: altitude, angle sum, given, interior angles, median, midsegment, postulate, proof, reason, statement, theorem, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Triangle Angle-Sum Theorem",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers the Triangle Angle-Sum Theorem for Geometry students (TEKS G.6(D)). The sum of interior angles of any triangle is exactly 180 degrees. Students use this to find missing angles, set up equations with variables, and apply in proofs. Key vocabulary: Triangle Angle-Sum Theorem, interior angle, 180 degrees, missing angle. Common errors: forgetting the sum is 180, arithmetic errors, and misidentifying which angle is missing."
+    },
+    {
+      "skill": "Relationships in triangles - Congruency in isosceles and equilateral triangles",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (congruency in isosceles and equilateral triangles) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: altitude, angle sum, interior angles, median, midsegment, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Proofs involving isosceles triangles",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (proofs involving isosceles triangles) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: altitude, angle sum, given, interior angles, median, midsegment, postulate, proof, reason, statement, theorem, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Midsegments of triangles",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (midsegments of triangles) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: altitude, angle sum, interior angles, median, midsegment, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Identify medians, altitudes, angle bisectors, and perpendicular bisectors",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (identify medians, altitudes, angle bisectors, and perpendicular bisectors) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: altitude, angle sum, interior angles, median, midsegment, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Find the centroid of a triangle",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (find the centroid of a triangle) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: altitude, angle sum, interior angles, median, midsegment, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Proofs involving triangles I",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers proofs involving angles for Geometry students (TEKS G.6(D)). Students prove angle relationships using definitions, postulates, and theorems in two-column or paragraph format. Common reasons: Vertical Angles Theorem, Linear Pair Postulate, definition of complementary/supplementary. Key vocabulary: proof, statement, reason, theorem, postulate. Common errors: skipping steps, using incorrect reasons, and not connecting each step logically."
+    },
+    {
+      "skill": "Relationships in triangles - Pythagorean theorem",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (pythagorean theorem) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Key vocabulary includes: altitude, angle sum, interior angles, median, midsegment, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Prove the Pythagorean theorem",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (prove the pythagorean theorem) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: altitude, angle sum, given, interior angles, median, midsegment, postulate, proof, reason, statement, theorem, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Relationships in triangles - Converse of the Pythagorean theorem",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers relationships in triangles (converse of the pythagorean theorem) for Geometry students (TEKS G.6(D)). Key triangle properties: angle sum = 180 degrees, midsegment parallel to third side and half its length, centroid at intersection of medians (2/3 from vertex). A conditional p -> q has converse q -> p, inverse ~p -> ~q, and contrapositive ~q -> ~p. A conditional and its contrapositive have the same truth value. Key vocabulary includes: altitude, angle sum, biconditional, conclusion, conditional, contrapositive, converse, hypothesis, interior angles, inverse, median, midsegment, triangle, truth value. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - prove a quadrilateral is a parallelogram, rectangle, square, or rhombus using opposite sides, opposite angles, or diagonals and apply these relationships to solve problems;",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (prove a quadrilateral is a parallelogram, rectangle, square, or rhombus using opposite sides, opposite angles, or diagonals and apply these relationships to solve problems;) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: diagonal, given, parallelogram, postulate, proof, quadrilateral, reason, rectangle, rhombus, square, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Classify quadrilaterals I",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (classify quadrilaterals i) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Classify quadrilaterals II",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (classify quadrilaterals ii) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Find missing angles in quadrilaterals",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (find missing angles in quadrilaterals) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Properties of parallelograms",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (properties of parallelograms) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Proving a quadrilateral is a parallelogram",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (proving a quadrilateral is a parallelogram) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Properties of rhombuses",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (properties of rhombuses) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Properties of squares and rectangles",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (properties of squares and rectangles) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Classify quadrilaterals on the coordinate plane: justify your answer",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (classify quadrilaterals on the coordinate plane: justify your answer) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Checkpoint: Line and angle theorems",
+      "teks": "G.6(A)",
+      "prompt": "This topic covers quadrilaterals (checkpoint: line and angle theorems) for Geometry students (TEKS G.6(A)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Checkpoint: Parallelogram theorems",
+      "teks": "G.6(E)",
+      "prompt": "This topic covers quadrilaterals (checkpoint: parallelogram theorems) for Geometry students (TEKS G.6(E)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Checkpoint: Rigid motion and congruence",
+      "teks": "G.6(C)",
+      "prompt": "This topic covers quadrilaterals (checkpoint: rigid motion and congruence) for Geometry students (TEKS G.6(C)). Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: CPCTC, congruent, corresponding parts, diagonal, parallelogram, quadrilateral, rectangle, rhombus, rigid motion, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Quadrilaterals - Checkpoint: Triangle theorems",
+      "teks": "G.6(D)",
+      "prompt": "This topic covers quadrilaterals (checkpoint: triangle theorems) for Geometry students (TEKS G.6(D)). Quadrilateral hierarchy: parallelogram (opposite sides parallel), rectangle (right angles), rhombus (all sides equal), square (both). Properties include diagonal relationships and angle measures. Key vocabulary includes: diagonal, parallelogram, quadrilateral, rectangle, rhombus, square. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

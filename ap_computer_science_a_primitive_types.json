@@ -1,0 +1,31 @@
+{
+  "grade": "AP - Computer Science A",
+  "subject": "Primitive Types",
+  "skills": [
+    {
+      "skill": "1.1 Why Programming? Why Java?",
+      "ref": "VAR-1.A (Unit 1, Topic 1.1)",
+      "prompt": "This topic introduces why programming matters and why Java is the language used in AP Computer Science A (CED: VAR-1.A, Unit 1, Topic 1.1). Students should understand the motivation behind learning to program: solving problems, automating tasks, and expressing algorithms precisely. Key concepts: Java as an object-oriented, platform-independent language; the Java Development Kit (JDK) and the role of the compiler and Java Virtual Machine (JVM); the structure of a basic Java program including the main method signature (public static void main(String[] args)); System.out.print and System.out.println for output; the difference between syntax errors and logic errors. Students should be able to write and run a simple Java program, understand the compilation process from source code (.java) to bytecode (.class), and recognize that programming is a creative, iterative process. Vocabulary: source code, bytecode, compiler, IDE, syntax, logic error, console output, object-oriented programming."
+    },
+    {
+      "skill": "1.2 Variables and Data Types",
+      "ref": "VAR-1.B (Unit 1, Topic 1.2)",
+      "prompt": "This topic covers variables and data types for AP CSA students (CED: VAR-1.B, Unit 1, Topic 1.2). Students should understand that variables are named memory locations that store values of a specific type. Key concepts: the three primitive data types tested on the AP exam (int, double, boolean); declaring and initializing variables; the difference between primitive types and reference types; naming conventions (camelCase) and valid identifiers; literal values for each type. Students must know that int stores whole numbers, double stores floating-point (decimal) numbers, and boolean stores true/false values. Important details: Java is statically typed so variables must be declared with a type before use; default values exist but should not be relied upon; the assignment operator (=) assigns the right-side value to the left-side variable. Vocabulary: variable, data type, primitive, declaration, initialization, identifier, int, double, boolean, literal, assignment."
+    },
+    {
+      "skill": "1.3 Expressions and Assignment Statements",
+      "ref": "VAR-1.C (Unit 1, Topic 1.3)",
+      "prompt": "This topic covers expressions and assignment statements for AP CSA students (CED: VAR-1.C, Unit 1, Topic 1.3). Students should understand how to evaluate arithmetic expressions using +, -, *, /, and % operators. Key concepts: integer division truncates the decimal (7/2 yields 3, not 3.5); the modulo operator (%) returns the remainder; operator precedence follows standard mathematical order (*, /, % before +, -); parentheses override precedence; mixed-type arithmetic promotes int to double automatically. Students must trace through expressions step by step, predict output, and understand that assignment statements evaluate the right side first, then store the result in the left-side variable. Common pitfalls: integer overflow, unintended integer division, and confusing = (assignment) with == (equality). Vocabulary: expression, operator, operand, arithmetic, integer division, modulo, precedence, truncation, promotion, assignment statement."
+    },
+    {
+      "skill": "1.4 Compound Assignment Operators",
+      "ref": "VAR-1.D (Unit 1, Topic 1.4)",
+      "prompt": "This topic covers compound assignment operators for AP CSA students (CED: VAR-1.D, Unit 1, Topic 1.4). Students should understand the shorthand operators +=, -=, *=, /=, %= and the increment/decrement operators ++ and --. Key concepts: x += 5 is equivalent to x = x + 5; these operators combine an arithmetic operation with assignment; the increment operator (++) adds 1 and the decrement operator (--) subtracts 1. Students should be able to trace code using compound assignment operators, convert between standard and compound assignment forms, and predict variable values after a sequence of operations. Important note: on the AP exam, only the postfix form (x++, x--) is tested, and it appears only as a standalone statement, not embedded in larger expressions. Vocabulary: compound assignment, increment, decrement, postfix, shorthand operator, accumulator pattern."
+    },
+    {
+      "skill": "1.5 Casting and Ranges of Variables",
+      "ref": "VAR-1.E (Unit 1, Topic 1.5)",
+      "prompt": "This topic covers casting and ranges of variables for AP CSA students (CED: VAR-1.E, Unit 1, Topic 1.5). Students should understand type casting between int and double. Key concepts: implicit (widening) casting automatically converts int to double when needed; explicit (narrowing) casting uses (int) to truncate a double to an int (e.g., (int) 3.9 yields 3, not 4); the range of int is approximately -2.1 billion to 2.1 billion (Integer.MIN_VALUE to Integer.MAX_VALUE); integer overflow wraps around. Students should know how to use casting to force floating-point division (e.g., (double) a / b), round a double to the nearest int using (int)(x + 0.5), and understand why narrowing casts can lose information. Connect to expressions: casting has higher precedence than arithmetic operators. Vocabulary: casting, widening, narrowing, truncation, overflow, range, Integer.MIN_VALUE, Integer.MAX_VALUE, precision."
+    }
+  ]
+}

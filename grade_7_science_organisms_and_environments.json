@@ -1,0 +1,294 @@
+{
+  "grade": "Grade 7",
+  "subject": "Science - Organisms and environments",
+  "skills": [
+    {
+      "skill": "Ecosystems: Observe and describe how different environments support different varieties of organisms",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers how different environments support different organisms for Grade 7 science students (TEKS 7.12(B)). Students observe and describe the relationship between environmental conditions and biodiversity. Key concepts include: biotic and abiotic factors shape communities, organisms have adaptations for their environments, different biomes support different species, and environmental changes affect organism diversity. Vocabulary: environment, biodiversity, biotic, abiotic, adaptation, biome, community, habitat, ecosystem. Common misconceptions: thinking organisms choose their environment and that all environments support equal diversity. Practice should include ecosystem comparison appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Ecosystems: Describe populations, communities, and ecosystems",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers populations, communities, and ecosystems for Grade 7 science students (TEKS 7.12(B)). Students understand the hierarchical levels of ecological organization. Key concepts include: population (same species in an area), community (all populations in an area), ecosystem (community plus abiotic factors), and how each level interacts. Vocabulary: population, community, ecosystem, species, biotic, abiotic, habitat, niche, interaction, ecological organization. Common misconceptions: confusing population with community, not including abiotic factors in ecosystems, and thinking all members of a community compete. Practice should include classification and identification appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Ecosystems: Identify ecosystems",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers identifying ecosystems for Grade 7 science students (TEKS 7.12(B)). Students recognize and classify different types of ecosystems. Key concepts include: ecosystems include both living (biotic) and non-living (abiotic) components, major ecosystem types (forest, desert, ocean, freshwater, grassland, tundra), and each ecosystem has characteristic organisms and conditions. Vocabulary: ecosystem, biotic, abiotic, forest, desert, ocean, freshwater, grassland, tundra, aquatic, terrestrial. Common misconceptions: thinking ecosystems are only large-scale and not including abiotic factors. Practice should include ecosystem identification appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Ecosystems: Describe ecosystems",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers describing ecosystems for Grade 7 science students (TEKS 7.12(B)). Students characterize ecosystems by their biotic and abiotic components. Key concepts include: identifying producers, consumers, and decomposers, describing abiotic factors (temperature, rainfall, sunlight, soil), understanding energy flow and nutrient cycling, and how components interact. Vocabulary: ecosystem, biotic, abiotic, producer, consumer, decomposer, energy flow, nutrient cycle, interaction. Common misconceptions: focusing only on visible organisms and ignoring decomposers and microorganisms. Practice should include ecosystem description activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Biodiversity: Describe how biodiversity contributes to the sustainability of an ecosystem",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers how biodiversity contributes to ecosystem sustainability for Grade 7 science students (TEKS 7.12(B)). Students understand that greater biodiversity makes ecosystems more resilient. Key concepts include: biodiversity provides genetic variation, diverse ecosystems recover better from disturbances, loss of one species can cascade through the ecosystem, and ecosystem services depend on biodiversity. Vocabulary: biodiversity, sustainability, resilience, species diversity, genetic variation, ecosystem services, extinction, keystone species. Common misconceptions: thinking only large organisms matter for biodiversity and that losing one species has no effect. Practice should include biodiversity analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Biodiversity: Coral reef biodiversity and human uses - explore a problem",
+      "teks": "7.11(B)",
+      "teks_description": "Describe human dependence and influence on ocean systems",
+      "prompt": "This topic covers exploring coral reef biodiversity problems for Grade 7 science students (TEKS 7.11(B)). Students investigate the challenges facing coral reef ecosystems and their biodiversity. Key concepts include: coral reefs as the most biodiverse marine ecosystems, threats (bleaching, ocean acidification, pollution, overfishing), human dependence on reef ecosystems, and the interconnection between reef health and species survival. Vocabulary: coral reef, biodiversity, bleaching, ocean acidification, pollution, overfishing, marine ecosystem, symbiosis. Common misconceptions: thinking corals are plants (they are animals) and not understanding the scope of human impact on reefs. Practice should include problem investigation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Biodiversity: Coral reef biodiversity and human uses - evaluate solutions",
+      "teks": "7.11(B)",
+      "teks_description": "Describe human dependence and influence on ocean systems",
+      "prompt": "This topic covers evaluating solutions for coral reef conservation for Grade 7 science students (TEKS 7.11(B)). Students analyze and evaluate proposed solutions to coral reef degradation. Key concepts include: marine protected areas, sustainable fishing practices, reducing pollution and runoff, coral restoration techniques, and evaluating trade-offs of different solutions. Vocabulary: conservation, marine protected area, sustainable, restoration, trade-off, evaluation, criteria, solution, reef, ecosystem management. Common misconceptions: thinking technology alone can solve reef problems and not considering economic trade-offs. Practice should include solution evaluation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Ecological succession: Observe, record, and describe the role of ecological succession such as in a microhabitat of a garden with weeds",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers ecological succession in microhabitats for Grade 7 science students (TEKS 7.12(B)). Students observe and record succession processes, such as in a garden with weeds. Key concepts include: pioneer species are first to colonize, succession proceeds through predictable stages, climax community is the stable endpoint, and disturbances can restart succession. Vocabulary: ecological succession, pioneer species, climax community, colonize, microhabitat, primary succession, secondary succession. Common misconceptions: thinking succession happens quickly and that climax communities never change. Practice should include observation and recording activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Ecological succession: Investigate primary succession on a volcanic island",
+      "teks": "7.12(B)",
+      "teks_description": "Describe how ecosystems sustained by continuous energy flow and matter recycling",
+      "prompt": "This topic covers primary succession on a volcanic island for Grade 7 science students (TEKS 7.12(B)). Students investigate how life colonizes bare rock after volcanic activity. Key concepts include: primary succession starts on bare, lifeless surfaces, lichens and mosses are pioneer species that break down rock, soil gradually forms allowing larger plants, and succession progresses over decades to centuries. Vocabulary: primary succession, pioneer species, lichen, moss, bare rock, colonize, soil formation, volcanic island. Common misconceptions: thinking large plants arrive first and that succession happens over years rather than decades. Practice should include succession timeline analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Variation and survival: Explain variation within a population or species by comparing external features, behaviors, or physiology of organisms",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers variation within populations for Grade 7 science students (TEKS 7.13(D)). Students explain how individuals within a species differ in external features, behaviors, or physiology. Key concepts include: genetic and environmental sources of variation, how variation affects survival and reproduction, measuring and describing variation in populations, and connecting variation to natural selection. Vocabulary: variation, population, species, external features, behavior, physiology, genetic, environmental, trait, phenotype. Common misconceptions: thinking all members of a species are identical and that variation is always visible. Practice should include comparing organisms within populations appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Variation and survival: How can animal behaviors affect reproductive success? Identify evidence to support a claim",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers how animal behaviors affect reproductive success for Grade 7 science students (TEKS 7.13(D)). Students identify evidence supporting claims about behavioral impacts on reproduction. Key concepts include: mating displays and courtship behaviors, parental care, territorial behavior, migration for breeding, and how these behaviors increase offspring survival. Vocabulary: reproductive success, behavior, courtship, mating display, parental care, territorial, evidence, claim, offspring survival. Common misconceptions: thinking all animal behaviors are learned and that only physical traits affect reproduction. Practice should include evidence evaluation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Variation and survival: Introduction to natural selection",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers the fundamentals of natural selection for Grade 7 science students (TEKS 7.13(D)). Students understand the basic mechanism of evolution by natural selection. Key concepts include: variation exists within populations, some variations improve survival and reproduction, organisms with favorable traits survive and reproduce more (survival of the fittest), and these traits become more common over generations. Vocabulary: natural selection, variation, survival, reproduction, adaptation, favorable trait, fitness, population, generation, evolution. Common misconceptions: thinking individuals evolve (populations do), that organisms choose to adapt, and that natural selection has a goal. Practice should include natural selection scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Variation and survival: Construct explanations of natural selection",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers constructing explanations of natural selection for Grade 7 science students (TEKS 7.13(D)). Students build logical, evidence-based explanations of how natural selection works in specific cases. Key concepts include: identifying the selective pressure, describing the variation in the population, explaining which variants have an advantage, predicting how the population changes over generations, and using evidence to support the explanation. Vocabulary: natural selection, selective pressure, variation, advantage, adaptation, evidence, explanation, population, trait, frequency. Common misconceptions: thinking natural selection is random, using Lamarckian reasoning (inheritance of acquired traits), and confusing natural selection with artificial selection. Practice should include constructing explanations from scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Genetic traits: Identify some changes in genetic traits that have occurred over several generations through natural selection and selective breeding",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers changes in genetic traits through natural and selective breeding for Grade 7 science students (TEKS 7.13(D)). Students identify how traits in populations change over generations. Key concepts include: natural selection favors traits that improve survival, selective breeding (artificial selection) is directed by humans, both processes change trait frequencies over generations, and examples include dog breeds, crop varieties, and antibiotic resistance. Vocabulary: genetic trait, natural selection, selective breeding, artificial selection, generation, trait frequency, domestication, resistance. Common misconceptions: thinking selective breeding creates new species instantly and confusing natural selection with selective breeding. Practice should include comparing both processes appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Genetic traits: Calculate the percentages of traits in a population",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers calculating trait percentages in populations for Grade 7 science students (TEKS 7.13(D)). Students use mathematical skills to determine what percentage of a population exhibits a particular trait. Key concepts include: counting individuals with each trait, dividing by total population, converting to percentages, tracking changes over generations, and connecting to natural selection. Vocabulary: percentage, population, trait, frequency, calculate, proportion, generation, data. Common misconceptions: confusing individual traits with population frequencies and not understanding that percentages can change over generations. Practice should include population data analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Genetic traits: Calculate the averages of traits in a population",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers calculating trait averages in populations for Grade 7 science students (TEKS 7.13(D)). Students compute average values of measurable traits within populations. Key concepts include: calculating mean values for continuous traits (height, weight), understanding the normal distribution of traits, comparing averages between populations or over time, and connecting to natural selection pressures. Vocabulary: average, mean, population, trait, continuous, distribution, calculate, data, variation. Common misconceptions: thinking average represents all individuals and not understanding that averages can shift over generations. Practice should include trait measurement and calculation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Genetic traits: Construct explanations of natural selection",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers constructing explanations of natural selection for Grade 7 science students (TEKS 7.13(D)). Students build logical, evidence-based explanations of how natural selection works in specific cases. Key concepts include: identifying the selective pressure, describing the variation in the population, explaining which variants have an advantage, predicting how the population changes over generations, and using evidence to support the explanation. Vocabulary: natural selection, selective pressure, variation, advantage, adaptation, evidence, explanation, population, trait, frequency. Common misconceptions: thinking natural selection is random, using Lamarckian reasoning (inheritance of acquired traits), and confusing natural selection with artificial selection. Practice should include constructing explanations from scenarios appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human body systems: Identify the main functions of the systems of the human organism",
+      "teks": "7.13(A)",
+      "teks_description": "Identify and model main functions of human body systems",
+      "prompt": "This topic covers the main functions of human body systems for Grade 7 science students (TEKS 7.13(A)). Students identify and describe the primary function of each major body system. Key systems include: circulatory (transport), respiratory (gas exchange), digestive (nutrient breakdown), skeletal (support), muscular (movement), nervous (control), excretory (waste removal), endocrine (hormones), integumentary (protection), reproductive, and immune (defense). Vocabulary: body system, function, circulatory, respiratory, digestive, skeletal, muscular, nervous, excretory, endocrine. Common misconceptions: thinking body systems work independently and not understanding system interactions. Practice should include system identification and function matching appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human body systems: Body systems - circulation and respiration",
+      "teks": "7.13(A)",
+      "teks_description": "Identify and model main functions of human body systems",
+      "prompt": "This topic covers the circulatory and respiratory systems for Grade 7 science students (TEKS 7.13(A)). Students understand how these systems work together to deliver oxygen and remove carbon dioxide. Key concepts include: heart structure and function, blood vessels (arteries, veins, capillaries), lungs and gas exchange, the path of blood through the body, and how breathing delivers oxygen to blood. Vocabulary: circulatory system, respiratory system, heart, lung, artery, vein, capillary, oxygen, carbon dioxide, gas exchange, alveoli. Common misconceptions: thinking veins carry deoxygenated blood only and that the heart has only two chambers. Practice should include tracing blood flow appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human body systems: Body systems - digestion",
+      "teks": "7.13(A)",
+      "teks_description": "Identify and model main functions of human body systems",
+      "prompt": "This topic covers the digestive system for Grade 7 science students (TEKS 7.13(A)). Students understand how the body breaks down food into usable nutrients. Key concepts include: mechanical digestion (chewing, churning), chemical digestion (enzymes, acid), the path of food through the digestive tract (mouth, esophagus, stomach, small intestine, large intestine), nutrient absorption in the small intestine, and waste elimination. Vocabulary: digestive system, mechanical digestion, chemical digestion, enzyme, esophagus, stomach, small intestine, large intestine, absorption, nutrient. Common misconceptions: thinking digestion only happens in the stomach and that the stomach is the main absorption site. Practice should include digestive pathway activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human body systems: Body systems - removing waste",
+      "teks": "7.13(A)",
+      "teks_description": "Identify and model main functions of human body systems",
+      "prompt": "This topic covers the excretory system for Grade 7 science students (TEKS 7.13(A)). Students understand how the body removes metabolic waste products. Key concepts include: kidneys filter blood and produce urine, lungs remove carbon dioxide, skin excretes some waste through sweat, the liver processes toxins, and the relationship between the excretory and circulatory systems. Vocabulary: excretory system, kidney, urine, filter, metabolic waste, toxin, liver, sweat, carbon dioxide, bladder. Common misconceptions: thinking only kidneys remove waste and confusing excretion (metabolic waste) with elimination (undigested food). Practice should include system function analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human body systems: Body systems - perception and motion",
+      "teks": "7.13(A)",
+      "teks_description": "Identify and model main functions of human body systems",
+      "prompt": "This topic covers perception and motion body systems for Grade 7 science students (TEKS 7.13(A)). Students understand how the nervous, skeletal, and muscular systems work together for perception and movement. Key concepts include: the nervous system processes sensory information, the skeletal system provides structure and support, muscles contract to produce movement, the brain coordinates all activities, and sensory organs detect stimuli. Vocabulary: nervous system, skeletal system, muscular system, perception, stimulus, response, neuron, muscle, bone, joint, sensory organ. Common misconceptions: thinking bones are not living tissue and that the brain controls only thinking. Practice should include system interaction activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human body systems: Organization in the human body",
+      "teks": "7.13(B)",
+      "teks_description": "Describe hierarchical organization of cells, tissues, organs, organ systems",
+      "prompt": "This topic covers hierarchical organization in the human body for Grade 7 science students (TEKS 7.13(B)). Students understand how cells, tissues, organs, and organ systems form increasingly complex levels of organization. Key concepts include: cells are the basic unit of life, similar cells form tissues (epithelial, muscle, nerve, connective), tissues form organs, organs form systems, and systems work together in the organism. Vocabulary: cell, tissue, organ, organ system, organism, hierarchy, epithelial, muscle tissue, nerve tissue, connective tissue. Common misconceptions: thinking all cells are identical and not understanding how each level builds on the previous. Practice should include organizational level identification appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Human body systems: Science literacy - How does the nervous system produce phantom pain?",
+      "teks": "7.13(A)",
+      "teks_description": "Identify and model main functions of human body systems",
+      "prompt": "This topic covers how the nervous system produces phantom pain for Grade 7 science students (TEKS 7.13(A)). Students explore a science literacy article about this phenomenon. Key concepts include: the nervous system processes all pain signals, phantom pain occurs after limb amputation, the brain retains a map of the body, nerve signals can be misinterpreted, and this demonstrates the complexity of the nervous system. Vocabulary: nervous system, phantom pain, neuron, brain, nerve signal, amputation, perception, stimulus. Common misconceptions: thinking phantom pain is imaginary and that pain only comes from the injury site. Practice should include reading comprehension and critical thinking appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Levels of organization: Recognize levels of organization in plants and animals, including cells, tissues, organs, organ systems, and organisms",
+      "teks": "7.13(B)",
+      "teks_description": "Describe hierarchical organization of cells, tissues, organs, organ systems",
+      "prompt": "This topic covers levels of organization in plants and animals for Grade 7 science students (TEKS 7.13(B)). Students recognize the hierarchical organization from cells to organisms in both plant and animal kingdoms. Key concepts include: comparing organizational levels in plants and animals, identifying examples at each level (cells: leaf cell/nerve cell; tissues: vascular tissue/muscle tissue; organs: leaf/heart), and understanding that both kingdoms share the same organizational hierarchy. Vocabulary: cell, tissue, organ, organ system, organism, plant, animal, hierarchy, vascular tissue, meristem. Common misconceptions: thinking plants don't have tissues or organs and that organization differs between kingdoms. Practice should include comparative organization appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell organelles: Differentiate between structure and function in plant and animal cell organelles",
+      "teks": "7.14(A)",
+      "teks_description": "Describe taxonomic system categorizing organisms (cell structure comparison)",
+      "prompt": "This topic covers differentiating between structure and function of cell organelles for Grade 7 science students (TEKS 7.14(A)). Students compare and contrast organelles in plant and animal cells. Key concepts include: structures unique to plant cells (cell wall, chloroplasts, large central vacuole), structures unique to animal cells (centrioles, small vacuoles), shared organelles (nucleus, mitochondria, ER, Golgi, ribosomes), and the relationship between organelle structure and function. Vocabulary: organelle, cell wall, chloroplast, vacuole, mitochondria, nucleus, endoplasmic reticulum, Golgi body, ribosome, structure, function. Common misconceptions: thinking all cells have the same organelles and confusing structure with function. Practice should include comparison activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell organelles: Identify functions of plant cell parts",
+      "teks": "7.5(F)",
+      "teks_description": "Analyze complementary relationship between structure and function",
+      "prompt": "This topic covers the functions of plant cell parts for Grade 7 science students (TEKS 7.5(F)). Students match each plant cell organelle to its function. Key organelles and functions: cell wall (rigid support and protection), cell membrane (controls what enters/exits), nucleus (contains DNA, controls cell activities), chloroplast (photosynthesis), large central vacuole (water storage, turgor pressure), mitochondria (cellular respiration), ER (protein/lipid production), Golgi (packaging), ribosomes (protein synthesis). Vocabulary: cell wall, cell membrane, nucleus, chloroplast, vacuole, mitochondria, endoplasmic reticulum, Golgi body, ribosome, function. Common misconceptions: confusing cell wall with cell membrane and thinking chloroplasts are in all cells. Practice should include function matching appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell organelles: Identify functions of animal cell parts",
+      "teks": "7.5(F)",
+      "teks_description": "Analyze complementary relationship between structure and function",
+      "prompt": "This topic covers the functions of animal cell parts for Grade 7 science students (TEKS 7.5(F)). Students match each animal cell organelle to its function. Key organelles and functions: cell membrane (controls entry/exit), nucleus (contains DNA), mitochondria (cellular respiration/energy), ER (protein/lipid production), Golgi body (packaging and transport), ribosomes (protein synthesis), lysosomes (digestion of waste), centrioles (cell division), cytoplasm (gel-like medium). Vocabulary: cell membrane, nucleus, mitochondria, lysosome, centriole, endoplasmic reticulum, Golgi body, ribosome, cytoplasm, function. Common misconceptions: confusing organelle functions and thinking animal cells have cell walls. Practice should include function matching appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell organelles: Plant cell diagrams - label parts",
+      "teks": "7.1(G)",
+      "teks_description": "Develop and use models to represent phenomena and systems",
+      "prompt": "This topic covers labeling plant cell diagrams for Grade 7 science students (TEKS 7.1(G)). Students identify and label the key structures of a plant cell. Key structures include: cell wall, cell membrane, nucleus, chloroplast, large central vacuole, mitochondria, endoplasmic reticulum (smooth and rough), Golgi body, ribosomes, and cytoplasm. Key concepts include: understanding each organelle's function, recognizing structures unique to plant cells (cell wall, chloroplast, large vacuole), and comparing with animal cells. Vocabulary: cell wall, cell membrane, nucleus, chloroplast, vacuole, mitochondria, endoplasmic reticulum, Golgi body, ribosome, cytoplasm. Common misconceptions: confusing cell wall with cell membrane and thinking animal cells have chloroplasts. Practice should include labeling and function matching appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell organelles: Animal cell diagrams - label parts",
+      "teks": "7.1(G)",
+      "teks_description": "Develop and use models to represent phenomena and systems",
+      "prompt": "This topic covers labeling animal cell diagrams for Grade 7 science students (TEKS 7.1(G)). Students identify and label the key structures of an animal cell. Key structures include: cell membrane, nucleus, mitochondria, endoplasmic reticulum (smooth and rough), Golgi body, ribosomes, lysosomes, cytoplasm, and centrioles. Key concepts include: understanding each organelle's function, recognizing structures unique to animal cells (centrioles, lysosomes, no cell wall), and comparing with plant cells. Vocabulary: cell membrane, nucleus, mitochondria, lysosome, centriole, endoplasmic reticulum, Golgi body, ribosome, cytoplasm. Common misconceptions: thinking animal cells have cell walls and confusing organelle functions. Practice should include labeling activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell organelles: Compare cells and cell parts",
+      "teks": "7.5(F)",
+      "teks_description": "Analyze complementary relationship between structure and function",
+      "prompt": "This topic covers comparing cells and cell parts for Grade 7 science students (TEKS 7.5(F)). Students identify similarities and differences between plant and animal cells. Key concepts include: both have nucleus, mitochondria, ER, Golgi, ribosomes, and cell membrane; only plant cells have cell wall, chloroplasts, and large central vacuole; only animal cells have centrioles and lysosomes. The relationship between structure and function explains why different cell types have different organelles. Vocabulary: plant cell, animal cell, organelle, compare, contrast, structure, function, cell wall, chloroplast, centriole. Common misconceptions: thinking plant and animal cells are completely different and not understanding why differences exist. Practice should include Venn diagram comparisons appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell theory: Recognize the components of cell theory",
+      "teks": "7.13(B)",
+      "teks_description": "Describe hierarchical organization of cells, tissues, organs, organ systems",
+      "prompt": "This topic covers the components of cell theory for Grade 7 science students (TEKS 7.13(B)). Students learn the three main tenets of cell theory. Key concepts include: (1) all living things are made of one or more cells, (2) cells are the basic unit of structure and function in living things, and (3) all cells come from existing cells. Students should understand the historical development of cell theory (Hooke, Schleiden, Schwann, Virchow) and how microscope technology enabled these discoveries. Vocabulary: cell theory, cell, organism, microscope, Hooke, Schleiden, Schwann, Virchow, basic unit, structure, function. Common misconceptions: thinking viruses disprove cell theory and that cells can arise spontaneously. Practice should include identifying and applying cell theory principles appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Cell theory: Understanding cells",
+      "teks": "7.13(B)",
+      "teks_description": "Describe hierarchical organization of cells, tissues, organs, organ systems",
+      "prompt": "This topic covers understanding cells as the fundamental unit of life for Grade 7 science students (TEKS 7.13(B)). Students develop a comprehensive understanding of cell structure, function, and organization. Key concepts include: cells as the smallest unit of life, prokaryotic vs. eukaryotic cells, unicellular vs. multicellular organisms, cell specialization, and how cells maintain homeostasis. Vocabulary: cell, prokaryotic, eukaryotic, unicellular, multicellular, specialization, homeostasis, organelle, membrane. Common misconceptions: thinking all cells look the same, confusing prokaryotic and eukaryotic, and not understanding cell specialization. Practice should include cell concept exploration appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Heredity: Define heredity as the passage of genetic instructions from one generation to the next generation",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers defining heredity for Grade 7 science students (TEKS 7.13(C)). Students understand that heredity is the passing of genetic information from parents to offspring. Key concepts include: DNA contains genetic instructions, genes are segments of DNA that code for traits, heredity explains why offspring resemble parents, and both sexual and asexual reproduction transmit genetic information. Vocabulary: heredity, genetics, DNA, gene, trait, offspring, parent, inherit, genetic information, chromosome. Common misconceptions: thinking heredity only applies to physical appearance and that all traits are inherited equally from both parents. Practice should include heredity concept exploration appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Heredity: Genetic variation in sexual reproduction",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers genetic variation in sexual reproduction for Grade 7 science students (TEKS 7.13(C)). Students understand how sexual reproduction produces genetically diverse offspring. Key concepts include: meiosis produces gametes with half the chromosomes, fertilization combines genetic material from two parents, crossing over and independent assortment increase variation, and why siblings are genetically different despite having the same parents. Vocabulary: sexual reproduction, genetic variation, meiosis, gamete, fertilization, crossing over, independent assortment, chromosome, allele. Common misconceptions: thinking siblings should be genetically identical and that all variation comes from mutations. Practice should include variation analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Heredity: Genes, proteins, and traits - understanding the genetic code",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers the relationship between genes, proteins, and traits for Grade 7 science students (TEKS 7.13(C)). Students understand the genetic code and how genes determine traits through protein production. Key concepts include: DNA contains the genetic code, genes code for specific proteins, proteins determine physical and chemical traits, mutations in genes can change proteins and thus traits, and the central dogma (DNA -> RNA -> protein). Vocabulary: gene, protein, trait, DNA, genetic code, mutation, amino acid, central dogma, expression. Common misconceptions: thinking one gene controls one trait (many traits involve multiple genes), and confusing genotype with phenotype. Practice should include gene-protein-trait connections appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Compare the results of uniform or diverse offspring from asexual or sexual reproduction",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers comparing offspring from asexual and sexual reproduction for Grade 7 science students (TEKS 7.13(C)). Students compare the genetic outcomes of both reproduction types. Key concepts include: asexual reproduction produces genetically identical offspring (clones), sexual reproduction produces genetically diverse offspring, diversity provides advantages in changing environments, uniformity can be advantageous in stable environments. Vocabulary: asexual reproduction, sexual reproduction, clone, genetic diversity, uniform, offspring, advantage, adaptation. Common misconceptions: thinking asexual reproduction is inferior and that sexual reproduction always produces very different offspring. Practice should include comparison activities appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Cell division",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers cell division for Grade 7 science students (TEKS 7.13(C)). Students understand the basic process of cell division (mitosis) and its role in growth and reproduction. Key concepts include: cells divide to grow, repair, and reproduce, mitosis produces two identical daughter cells, the cell cycle includes interphase and mitosis phases, DNA replication occurs before division, and cell division is essential for life. Vocabulary: cell division, mitosis, cell cycle, interphase, chromosome, DNA replication, daughter cell, growth, repair. Common misconceptions: confusing mitosis with meiosis, thinking cell division creates different cells, and not understanding DNA replication must occur first. Practice should include cell division process analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Genetics vocabulary - genotype and phenotype",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers genotype and phenotype vocabulary for Grade 7 science students (TEKS 7.13(D)). Students distinguish between genotype (genetic makeup) and phenotype (physical expression). Key concepts include: genotype is the combination of alleles (e.g., Bb), phenotype is the observable trait (e.g., brown eyes), the same phenotype can result from different genotypes, and environment can influence phenotype. Vocabulary: genotype, phenotype, allele, dominant, recessive, homozygous, heterozygous, gene, trait, expression. Common misconceptions: confusing genotype with phenotype, thinking phenotype is solely determined by genotype (environment matters too), and not understanding that different genotypes can produce the same phenotype. Practice should include classification exercises appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Genetics vocabulary - dominant and recessive",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers dominant and recessive trait vocabulary for Grade 7 science students (TEKS 7.13(C)). Students understand how dominant and recessive alleles interact to determine traits. Key concepts include: dominant alleles mask recessive alleles in heterozygous organisms, two recessive alleles are needed for recessive trait expression, using uppercase (B) for dominant and lowercase (b) for recessive, and examples of dominant/recessive traits. Vocabulary: dominant, recessive, allele, homozygous, heterozygous, genotype, phenotype, mask, express, trait. Common misconceptions: thinking dominant means more common, that recessive traits are bad, and that dominant alleles are always expressed (incomplete/codominance). Practice should include allele interaction exercises appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Complete and interpret Punnett squares",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers completing and interpreting Punnett squares for Grade 7 science students (TEKS 7.13(C)). Students use Punnett squares to predict offspring genotypes and phenotypes. Key concepts include: setting up the square with parent alleles, filling in offspring genotype combinations, determining phenotype ratios, and interpreting results. Vocabulary: Punnett square, genotype, phenotype, allele, dominant, recessive, cross, offspring, ratio, predict. Common misconceptions: thinking Punnett squares predict exact outcomes (they show probabilities), placing alleles incorrectly, and confusing genotype ratios with phenotype ratios. Practice should include completing and interpreting squares appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Use Punnett squares to calculate ratios of offspring types",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers using Punnett squares to calculate offspring ratios for Grade 7 science students (TEKS 7.13(C)). Students determine genotypic and phenotypic ratios from Punnett square results. Key concepts include: counting each genotype combination, expressing results as ratios (e.g., 1:2:1 genotypic, 3:1 phenotypic for Bb x Bb), simplifying ratios, and connecting ratios to probability. Vocabulary: Punnett square, ratio, genotypic ratio, phenotypic ratio, offspring, probability, cross, dominant, recessive. Common misconceptions: confusing genotypic and phenotypic ratios, not simplifying ratios correctly, and thinking ratios are exact predictions. Practice should include ratio calculation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Use Punnett squares to calculate probabilities of offspring types",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers using Punnett squares to calculate offspring probabilities for Grade 7 science students (TEKS 7.13(C)). Students express Punnett square results as probabilities (fractions, decimals, or percentages). Key concepts include: probability = favorable outcomes / total outcomes, converting ratios to probabilities, understanding that each offspring is an independent event, and applying to real-world genetics problems. Vocabulary: probability, Punnett square, offspring, favorable outcome, fraction, percent, independent event, genetic cross. Common misconceptions: thinking probabilities guarantee outcomes, not understanding each offspring is independent, and errors converting between fractions and percentages. Practice should include probability calculation appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Angiosperm and conifer life cycles",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers angiosperm and conifer life cycles for Grade 7 science students (TEKS 7.13(C)). Students compare reproductive strategies of flowering plants (angiosperms) and cone-bearing plants (conifers). Key concepts include: alternation of generations, angiosperms produce flowers and fruits, conifers produce cones, pollination and fertilization processes, seed development, and the role of seeds in dispersal. Vocabulary: angiosperm, conifer, gymnosperm, flower, cone, pollen, seed, fruit, pollination, fertilization, life cycle, alternation of generations. Common misconceptions: thinking all plants have flowers, confusing pollination with fertilization, and not understanding the advantage of seeds over spores. Practice should include life cycle comparison appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Reproduction: Moss and fern life cycles",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers moss and fern life cycles for Grade 7 science students (TEKS 7.13(C)). Students understand reproductive strategies of non-seed plants. Key concepts include: mosses and ferns reproduce using spores (not seeds), alternation of generations with distinct gametophyte and sporophyte stages, requirement for water in reproduction, mosses lack true vascular tissue while ferns have it, and evolutionary significance as early land plants. Vocabulary: moss, fern, spore, gametophyte, sporophyte, alternation of generations, vascular tissue, non-vascular, frond, rhizome. Common misconceptions: thinking mosses and ferns use seeds, confusing gametophyte and sporophyte stages, and not understanding why water is required. Practice should include life cycle analysis appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Genes and chromosomes: Recognize that inherited traits of individuals are governed in the genetic material found in the genes within chromosomes in the nucleus",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers how inherited traits are governed by genetic material for Grade 7 science students (TEKS 7.13(C)). Students understand that traits are controlled by genes located on chromosomes within the cell nucleus. Key concepts include: DNA is organized into chromosomes in the nucleus, genes are specific segments of DNA, genes carry instructions for traits, alleles are different versions of the same gene, and how genotype determines phenotype. Vocabulary: inherited trait, gene, chromosome, nucleus, DNA, allele, genotype, phenotype, genetic material. Common misconceptions: thinking traits are determined by a single gene and that genetic material is in the cytoplasm. Practice should include gene-trait connections appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Genes and chromosomes: Genes, proteins, and traits - understanding the genetic code",
+      "teks": "7.13(C)",
+      "teks_description": "Compare results of asexual and sexual reproduction",
+      "prompt": "This topic covers the relationship between genes, proteins, and traits for Grade 7 science students (TEKS 7.13(C)). Students understand the genetic code and how genes determine traits through protein production. Key concepts include: DNA contains the genetic code, genes code for specific proteins, proteins determine physical and chemical traits, mutations in genes can change proteins and thus traits, and the central dogma (DNA -> RNA -> protein). Vocabulary: gene, protein, trait, DNA, genetic code, mutation, amino acid, central dogma, expression. Common misconceptions: thinking one gene controls one trait (many traits involve multiple genes), and confusing genotype with phenotype. Practice should include gene-protein-trait connections appropriate for 12-13 year olds."
+    },
+    {
+      "skill": "Genes and chromosomes: Describe the effects of gene mutations on organisms",
+      "teks": "7.13(D)",
+      "teks_description": "Describe how natural and artificial selection change traits in population",
+      "prompt": "This topic covers the effects of gene mutations on organisms for Grade 7 science students (TEKS 7.13(D)). Students understand how changes in DNA can affect organisms. Key concepts include: mutations are changes in DNA sequence, some mutations are harmful (genetic diseases), some are neutral (no effect), some are beneficial (advantageous traits), mutations provide raw material for natural selection, and environmental mutagens can cause mutations. Vocabulary: mutation, gene, DNA, beneficial, harmful, neutral, mutagen, genetic disease, variation, natural selection. Common misconceptions: thinking all mutations are harmful, that mutations always produce visible changes, and that organisms can direct mutations. Practice should include mutation analysis appropriate for 12-13 year olds."
+    }
+  ]
+}

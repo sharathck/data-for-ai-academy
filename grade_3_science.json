@@ -1,0 +1,126 @@
+{
+  "grade": "Grade 3",
+  "subject": "Science",
+  "skills": [
+    {
+      "skill": "Ecosystems and their components",
+      "teks": "3.12(B)",
+      "teks_description": "Identify and describe the flow of energy in a food chain and predict how changes affect the ecosystem",
+      "prompt": "This topic covers Ecosystems and their components for Grade 3 students (TEKS 3.12(B) (Identify and describe the flow of energy in a food chain and predict how changes affect the ecosystem)). Habitats provide what organisms need to survive; ecosystems are communities of interacting organisms and their environment. Key concepts include different habitat types (deserts, forests, oceans), organism adaptations, interdependence, and effects of changes. Vocabulary: habitat, ecosystem, environment, adapt, community, depend, interact, survive. Common misconceptions include thinking organisms can live anywhere. Activities should include habitat research, dioramas, and local ecosystem exploration appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Forces and motion",
+      "teks": "3.7(B)",
+      "teks_description": "Conduct investigations demonstrating how position and motion change through pushing and pulling",
+      "prompt": "This topic covers Forces and motion for Grade 3 students (TEKS 3.7(B) (Conduct investigations demonstrating how position and motion change through pushing and pulling)). Students develop scientific understanding through observation, investigation, and evidence-based reasoning. Key concepts include scientific methods, data recording, cause-and-effect, and real-world connections. Vocabulary should be taught in context. Activities should include hands-on investigations, journals, and discussions appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Adaptations of plants and animals",
+      "teks": "3.13(A)",
+      "teks_description": "Explore and explain how external structures and functions of animals enable them to survive",
+      "prompt": "This topic covers Adaptations of plants and animals for Grade 3 students (TEKS 3.13(A) (Explore and explain how external structures and functions of animals enable them to survive)). Plants and animals have structures and behaviors helping them survive. Physical adaptations: thick fur, claws, deep roots. Behavioral: migration, hibernation. Vocabulary: adaptation, survive, structure, behavior, camouflage, hibernate, migrate, predator, prey. Common misconceptions include animals choosing adaptations. Activities should include matching organisms to habitats and comparing adaptations appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Fossils and the study of the past",
+      "teks": "3.12(D)",
+      "teks_description": "Identify fossils as evidence of past organisms and environments",
+      "prompt": "This topic covers Fossils and the study of the past for Grade 3 students (TEKS 3.12(D) (Identify fossils as evidence of past organisms and environments)). Fossils are preserved remains/traces of ancient organisms. They form when organisms are buried by sediment that hardens. Paleontologists study fossils to learn about the past. Vocabulary: fossil, paleontologist, preserved, ancient, sediment, imprint, trace, extinct. Common misconceptions include only dinosaurs becoming fossils. Activities should include clay imprints, examining specimens, and comparing ancient to modern organisms appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Climate and weather patterns",
+      "teks": "3.10(A)",
+      "teks_description": "Compare and describe day-to-day weather in different locations including air temperature, wind direction, and precipitation",
+      "prompt": "This topic covers Climate and weather patterns for Grade 3 students (TEKS 3.10(A) (Compare and describe day-to-day weather in different locations including air temperature, wind direction, and precipitation)). Students compare weather patterns across times and locations. Key concepts include measurable weather quantities, recognizing patterns over time, geographic comparisons, and factors affecting climate. Vocabulary: climate, weather pattern, temperature, precipitation, compare, location, trend. Common misconceptions include thinking weather is the same everywhere and confusing weather with climate. Activities should include data comparison, graph analysis, and regional discussions appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "The solar system",
+      "teks": "3.9(B)",
+      "teks_description": "Identify planetary order in Earth's solar system",
+      "prompt": "This topic covers The solar system for Grade 3 students (TEKS 3.9(B) (Identify planetary order in Earth's solar system)). Our solar system has 8 planets orbiting the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Inner planets are rocky; outer are gas giants. Vocabulary: solar system, planet, Sun, star, orbit, inner, outer. Common misconceptions include thinking planets are close together. Activities should include scale models, mnemonics, planet comparisons, and research appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Earth and space",
+      "teks": "3.9(A)",
+      "teks_description": "Construct models explaining orbits of the Sun, Earth, and Moon",
+      "prompt": "This topic covers Earth and space for Grade 3 students (TEKS 3.9(A) (Construct models explaining orbits of the Sun, Earth, and Moon)). Earth orbits the Sun (year/seasons), Moon orbits Earth (phases), Earth rotates on axis (day/night). Vocabulary: orbit, rotate, revolve, axis, day, night, year, season, model. Common misconceptions include Sun moving around Earth and seasons from distance. Activities should include flashlight/ball models and Moon tracking appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Plant structures and functions",
+      "teks": "3.13(A)",
+      "teks_description": "Explore and explain how external structures and functions enable organisms to survive",
+      "prompt": "This topic covers Plant structures and functions for Grade 3 students (TEKS 3.13(A) (Explore and explain how external structures and functions enable organisms to survive)). Students identify plant parts and their functions: roots (absorb water/nutrients, anchor), stems (transport, support), leaves (photosynthesis), flowers (reproduction), fruits (protect seeds), seeds (new plants). Vocabulary: roots, stem, leaves, flower, fruit, seed, absorb, transport, photosynthesis. Common misconceptions include thinking roots only anchor. Activities should include examining plants, labeling diagrams, and growing observations appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Plant responses",
+      "teks": "3.12(A)",
+      "teks_description": "Explain how temperature and precipitation affect animal behavior and plant responses",
+      "prompt": "This topic covers Plant responses for Grade 3 students (TEKS 3.12(A) (Explain how temperature and precipitation affect animal behavior and plant responses)). Plants respond to light (phototropism), gravity (gravitropism), water, and seasonal changes. Key concepts include slow observable responses and environmental triggers. Vocabulary: respond, phototropism, gravitropism, light, growth, season, dormancy. Common misconceptions include thinking plants don't respond because they don't visibly move. Activities should include growing under different conditions and seasonal tracking appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Animal classification",
+      "teks": "3.13(B)",
+      "teks_description": "Explore, illustrate, and compare life cycles in organisms such as beetles, crickets, radishes, or lima beans",
+      "prompt": "This topic covers Animal classification for Grade 3 students (TEKS 3.13(B) (Explore, illustrate, and compare life cycles in organisms such as beetles, crickets, radishes, or lima beans)). Students classify animals: mammals (fur, milk), birds (feathers, eggs), reptiles (scales, cold-blooded), amphibians (moist skin, dual life), fish (gills, fins), insects (6 legs, 3 body parts). Vocabulary: classify, mammal, bird, reptile, amphibian, fish, insect, vertebrate, invertebrate. Common misconceptions include classifying by habitat. Activities should include sorting pictures, comparing features, and animal research appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Animal adaptations",
+      "teks": "3.13(A)",
+      "teks_description": "Explore and explain how external structures and functions of animals enable them to survive",
+      "prompt": "This topic covers Animal adaptations for Grade 3 students (TEKS 3.13(A) (Explore and explain how external structures and functions of animals enable them to survive)). Plants and animals have structures and behaviors helping them survive. Physical adaptations: thick fur, claws, deep roots. Behavioral: migration, hibernation. Vocabulary: adaptation, survive, structure, behavior, camouflage, hibernate, migrate, predator, prey. Common misconceptions include animals choosing adaptations. Activities should include matching organisms to habitats and comparing adaptations appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Properties of matter",
+      "teks": "3.6(A)",
+      "teks_description": "Measure, test, and record physical properties of matter, including temperature, mass, magnetism, and the ability to sink or float",
+      "prompt": "This topic covers Properties of matter for Grade 3 students (TEKS 3.6(A) (Measure, test, and record physical properties of matter, including temperature, mass, magnetism, and the ability to sink or float)). Students observe, describe, and classify objects by physical properties: color, shape, size, texture, flexibility, hardness, temperature, magnetism, buoyancy. Vocabulary: property, material, texture, hard, soft, flexible, rigid, transparent, magnetic, float, sink, classify. Common misconceptions include confusing properties with uses. Activities should include sorting, testing, and recording properties appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Changes in matter",
+      "teks": "3.6(C)",
+      "teks_description": "Predict and record state changes caused by heating or cooling",
+      "prompt": "This topic covers Changes in matter for Grade 3 students (TEKS 3.6(C) (Predict and record state changes caused by heating or cooling)). Heating and cooling cause physical changes: melting, freezing, boiling, evaporation, condensation. These changes are reversible. Vocabulary: heat, cool, melt, freeze, boil, evaporate, condense, temperature, reversible, physical change. Common misconceptions include thinking matter disappears when evaporating. Activities should include ice/water experiments, temperature recording, and prediction exercises appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Forms of energy: motion, heat, and light",
+      "teks": "3.8(A)",
+      "teks_description": "Identify everyday energy examples including light, sound, thermal, and mechanical",
+      "prompt": "This topic covers Forms of energy: motion, heat, and light for Grade 3 students (TEKS 3.8(A) (Identify everyday energy examples including light, sound, thermal, and mechanical)). Energy exists in forms: light, heat/thermal, sound, and mechanical/motion. Energy can be transferred and cause change. Vocabulary: energy, light, heat, thermal, sound, mechanical, motion, source, transfer. Common misconceptions include energy being a substance. Activities should include identifying energy forms, demonstrating transfers, and sorting examples appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Gravity",
+      "teks": "3.7(A)",
+      "teks_description": "Demonstrate and describe forces acting on an object including magnetism, gravity, and pushes and pulls",
+      "prompt": "This topic covers Gravity for Grade 3 students (TEKS 3.7(A) (Demonstrate and describe forces acting on an object including magnetism, gravity, and pushes and pulls)). Gravity pulls objects toward Earth. It acts on all objects regardless of size. Key concepts include gravity as a non-contact force and its constant presence. Vocabulary: gravity, force, pull, fall, weight, attract, Earth, downward. Common misconceptions include heavier objects falling faster and gravity only on Earth. Activities should include drop experiments and discussing what would happen without gravity appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Stars",
+      "teks": "3.9(A)",
+      "teks_description": "Construct models explaining orbits of the Sun, Earth, and Moon (celestial bodies)",
+      "prompt": "This topic covers Stars for Grade 3 students (TEKS 3.9(A) (Construct models explaining orbits of the Sun, Earth, and Moon (celestial bodies))). Students learn about sky objects: the Sun (a star providing light and heat), Moon (reflects sunlight, phases), and stars (distant suns). Key concepts include predictable patterns, Moon phases, and apparent sky movement. Vocabulary: Sun, Moon, star, phase, orbit, rotate, day, night, pattern. Common misconceptions include Moon making its own light and Sun moving around Earth. Activities should include Moon observations, day/night modeling, and phase tracking appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Electricity and magnetism",
+      "teks": "3.7(A)",
+      "teks_description": "Demonstrate and describe forces acting on an object including magnetism, gravity, and pushes and pulls",
+      "prompt": "This topic covers Electricity and magnetism for Grade 3 students (TEKS 3.7(A) (Demonstrate and describe forces acting on an object including magnetism, gravity, and pushes and pulls)). Magnets attract iron/steel/nickel/cobalt, have two poles (north/south), and exert force at a distance. Like poles repel; opposite poles attract. Vocabulary: magnet, magnetic, attract, repel, pole, north, south, force, iron. Common misconceptions include thinking magnets attract all metals. Activities should include testing materials, exploring poles, and testing force through materials appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Heat and light",
+      "teks": "3.8(A)",
+      "teks_description": "Identify everyday energy examples including light, sound, thermal, and mechanical",
+      "prompt": "This topic covers Heat and light for Grade 3 students (TEKS 3.8(A) (Identify everyday energy examples including light, sound, thermal, and mechanical)). Students develop scientific understanding through observation, investigation, and evidence-based reasoning. Key concepts include scientific methods, data recording, cause-and-effect, and real-world connections. Vocabulary should be taught in context. Activities should include hands-on investigations, journals, and discussions appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Scientific investigations",
+      "teks": "3.1(B)",
+      "teks_description": "Apply scientific practices to plan investigations and engineering practices for problem-solving",
+      "prompt": "This topic covers Scientific investigations for Grade 3 students (TEKS 3.1(B) (Apply scientific practices to plan investigations and engineering practices for problem-solving)). Students learn scientific investigation: asking questions, predicting, designing tests, collecting data, drawing conclusions. Key concepts include testable questions, fair tests (one variable), and evidence-based conclusions. Vocabulary: question, predict, investigate, observe, record, data, conclusion, fair test, variable. Common misconceptions include thinking experiments need lab equipment. Activities should include guided investigations, science notebooks, and follow-up questioning appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Making predictions",
+      "teks": "3.5(B)",
+      "teks_description": "Investigate cause-and-effect relationships",
+      "prompt": "This topic covers Making predictions for Grade 3 students (TEKS 3.5(B) (Investigate cause-and-effect relationships)). Students make evidence-based predictions about outcomes. Key concepts include basing predictions on observations and prior knowledge, testing through investigation, and comparing results to predictions. Vocabulary: predict, evidence, observe, test, result, outcome, compare, hypothesis. Common misconceptions include thinking predictions must be correct. Activities should include predict-before-experiment routines and discussing supporting/contradicting evidence appropriate for ages 8-9. When generating content for this topic, frame questions and explanations using concrete, observable examples that 8-9-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    }
+  ]
+}

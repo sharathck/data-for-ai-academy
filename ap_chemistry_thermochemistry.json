@@ -1,0 +1,51 @@
+{
+  "grade": "AP - Chemistry",
+  "subject": "Thermochemistry",
+  "skills": [
+    {
+      "skill": "6.1 Endothermic and Exothermic Processes",
+      "ref": "ENE-2.A (Unit 6, Topic 6.1)",
+      "prompt": "This topic covers endothermic and exothermic processes for AP Chemistry students (CED: ENE-2.A, Unit 6, Topic 6.1). Students should understand that exothermic processes release heat to the surroundings (delta-H < 0, system loses energy), while endothermic processes absorb heat from the surroundings (delta-H > 0, system gains energy). Energy is conserved: energy lost by the system is gained by surroundings, and vice versa. Examples of exothermic: combustion, neutralization, formation of bonds. Examples of endothermic: photosynthesis, melting, dissolution of ammonium nitrate. Students must identify processes as exothermic or endothermic from enthalpy data or temperature observations. Connect to energy diagrams, bond energies, and Hess's law. AP exam note: correctly assigning signs to delta-H and interpreting energy flow is foundational. Vocabulary: exothermic, endothermic, enthalpy change, system, surroundings, conservation of energy, delta-H, heat."
+    },
+    {
+      "skill": "6.2 Energy Diagrams",
+      "ref": "ENE-2.B (Unit 6, Topic 6.2)",
+      "prompt": "This topic covers energy diagrams for AP Chemistry students (CED: ENE-2.B, Unit 6, Topic 6.2). Students should understand that enthalpy diagrams show the relative enthalpies of reactants and products. For exothermic reactions, products are lower than reactants on the diagram (energy is released). For endothermic reactions, products are higher (energy is absorbed). The difference between reactant and product enthalpy levels equals delta-H. These diagrams differ from activation energy diagrams: enthalpy diagrams do not show transition states or activation energy. Students must draw and interpret enthalpy diagrams, label delta-H, and determine whether a reaction is exothermic or endothermic from the diagram. Connect to Hess's law, bond energies, and thermochemical equations. AP exam note: enthalpy diagram interpretation and construction appear frequently. Vocabulary: enthalpy diagram, enthalpy level, delta-H, exothermic, endothermic, energy released, energy absorbed."
+    },
+    {
+      "skill": "6.3 Heat Transfer and Thermal Equilibrium",
+      "ref": "ENE-2.C (Unit 6, Topic 6.3)",
+      "prompt": "This topic covers heat transfer and thermal equilibrium for AP Chemistry students (CED: ENE-2.C, Unit 6, Topic 6.3). Students should understand that heat transfers spontaneously from hot objects to cold objects until thermal equilibrium is reached (both at the same temperature). Heat (q) is energy transferred due to temperature difference, while temperature measures average kinetic energy of particles. The law of conservation of energy requires that heat lost by one object equals heat gained by another (q_lost = -q_gained). Students must apply this principle to calorimetry problems and calculate final equilibrium temperatures. Connect to specific heat, calorimetry, and the first law of thermodynamics. AP exam note: heat transfer calculations using conservation of energy are commonly tested. Vocabulary: heat, temperature, thermal equilibrium, heat transfer, exothermic, endothermic, conservation of energy, isolated system."
+    },
+    {
+      "skill": "6.4 Heat Capacity and Calorimetry",
+      "ref": "ENE-2.D (Unit 6, Topic 6.4)",
+      "prompt": "This topic covers heat capacity and calorimetry for AP Chemistry students (CED: ENE-2.D, Unit 6, Topic 6.4). Students should understand that specific heat capacity (c) is the energy required to raise 1 gram of a substance by 1 degree Celsius. The equation q = mc(delta-T) calculates heat absorbed or released. In coffee-cup calorimetry (constant pressure), q_rxn = -q_solution = -mc(delta-T). The sign convention: positive q means heat absorbed, negative q means heat released. Bomb calorimetry measures heat at constant volume. Students must perform calorimetry calculations, determine enthalpy changes per mole, and interpret calorimetry data. Connect to enthalpy of reaction, thermochemical equations, and Hess's law. AP exam note: calorimetry calculations are classic free-response problems. Vocabulary: specific heat capacity, calorimetry, coffee-cup calorimeter, bomb calorimeter, q = mc(delta-T), enthalpy, molar enthalpy."
+    },
+    {
+      "skill": "6.5 Energy of Phase Changes",
+      "ref": "ENE-2.E (Unit 6, Topic 6.5)",
+      "prompt": "This topic covers energy of phase changes for AP Chemistry students (CED: ENE-2.E, Unit 6, Topic 6.5). Students should understand that phase changes occur at constant temperature while energy is absorbed or released. Enthalpy of fusion (delta-H_fus) is the energy for melting (solid to liquid); enthalpy of vaporization (delta-H_vap) is for boiling (liquid to gas). Reverse processes have opposite signs. On a heating curve, plateaus represent phase changes (temperature constant, energy changing phase). Delta-H_vap is larger than delta-H_fus because more intermolecular forces are overcome during vaporization. Students must calculate energy for phase changes using q = n times delta-H and interpret heating curves. Connect to intermolecular forces, calorimetry, and thermochemistry. AP exam note: heating curve analysis and phase change calculations are commonly tested. Vocabulary: enthalpy of fusion, enthalpy of vaporization, heating curve, phase change, plateau, sublimation, condensation."
+    },
+    {
+      "skill": "6.6 Introduction to Enthalpy of Reaction",
+      "ref": "ENE-2.F (Unit 6, Topic 6.6)",
+      "prompt": "This topic covers enthalpy of reaction for AP Chemistry students (CED: ENE-2.F, Unit 6, Topic 6.6). Students should understand that the enthalpy of reaction (delta-H_rxn) is the heat change at constant pressure for a chemical reaction. Thermochemical equations include the delta-H value and specify states of matter. Key principles: delta-H is extensive (proportional to moles), reversing a reaction changes the sign of delta-H, and delta-H depends on states of matter. Standard enthalpy of reaction (delta-H degrees) is measured at standard conditions (25 degrees C, 1 atm, 1 M). Students must interpret thermochemical equations, scale delta-H values for different amounts, and reverse reactions appropriately. Connect to Hess's law, bond enthalpies, and enthalpy of formation. AP exam note: manipulating thermochemical equations is a key skill for Hess's law problems. Vocabulary: enthalpy of reaction, thermochemical equation, standard conditions, extensive property, state function, delta-H."
+    },
+    {
+      "skill": "6.7 Bond Enthalpies",
+      "ref": "ENE-2.G (Unit 6, Topic 6.7)",
+      "prompt": "This topic covers bond enthalpies for AP Chemistry students (CED: ENE-2.G, Unit 6, Topic 6.7). Students should understand that bond enthalpy (bond energy) is the energy required to break one mole of a specific bond in the gas phase. Breaking bonds requires energy (endothermic); forming bonds releases energy (exothermic). The enthalpy of reaction can be estimated as: delta-H_rxn = sum of bond enthalpies broken minus sum of bond enthalpies formed. This is an approximation because average bond enthalpies are used, and values vary with molecular environment. If energy to break bonds exceeds energy from forming bonds, the reaction is endothermic. Students must calculate delta-H from bond enthalpy tables and predict whether reactions are exothermic or endothermic. Connect to Lewis structures, molecular stability, and thermochemistry. AP exam note: bond enthalpy calculations appear regularly. Vocabulary: bond enthalpy, bond energy, bond dissociation energy, endothermic, exothermic, average bond enthalpy."
+    },
+    {
+      "skill": "6.8 Enthalpy of Formation",
+      "ref": "ENE-2.H (Unit 6, Topic 6.8)",
+      "prompt": "This topic covers enthalpy of formation for AP Chemistry students (CED: ENE-2.H, Unit 6, Topic 6.8). Students should understand that the standard enthalpy of formation (delta-H_f degrees) is the enthalpy change when one mole of a compound forms from its elements in their standard states. By definition, delta-H_f degrees for elements in standard states is zero. The enthalpy of reaction can be calculated using: delta-H_rxn = sum of delta-H_f(products) minus sum of delta-H_f(reactants), with each multiplied by its stoichiometric coefficient. This is a powerful method because extensive tabulated data is available. Students must use formation enthalpies to calculate reaction enthalpies and identify standard states of elements. Connect to Hess's law, thermochemical calculations, and bond enthalpies. AP exam note: formation enthalpy calculations are a core quantitative skill. Vocabulary: standard enthalpy of formation, standard state, delta-H_f, Hess's law, reference point, stoichiometric coefficient."
+    },
+    {
+      "skill": "6.9 Hess’s Law",
+      "ref": "ENE-2.I (Unit 6, Topic 6.9)",
+      "prompt": "This topic covers Hess’s law for AP Chemistry students (CED: ENE-2.I, Unit 6, Topic 6.9). Students should understand that Hess’s law states that the total enthalpy change for a reaction is independent of the pathway and equals the sum of enthalpy changes for individual steps. This follows from enthalpy being a state function. To apply Hess’s law: manipulate given thermochemical equations (reverse, multiply) so they sum to the target equation, then sum the corresponding delta-H values. When reversing an equation, change the sign of delta-H. When multiplying by a factor, multiply delta-H by the same factor. Students must combine multiple thermochemical equations to determine unknown delta-H values. Connect to enthalpy of formation, bond enthalpies, and energy diagrams. AP exam note: Hess’s law problems are classic free-response questions requiring careful equation manipulation. Vocabulary: Hess’s law, state function, thermochemical equation, enthalpy path, additive, manipulation."
+    }
+  ]
+}

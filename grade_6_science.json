@@ -1,0 +1,138 @@
+{
+  "grade": "Grade 6",
+  "subject": "Science",
+  "skills": [
+    {
+      "skill": "Structure and function of cells",
+      "teks": "6.13(A)",
+      "teks_description": "Describe cell theory development and explain organisms are composed of cells",
+      "prompt": "This topic covers cells and cell theory for Grade 6 students (TEKS 6.13(A)). The TEKS standard states: Describe cell theory development and explain organisms are composed of cells. Students should understand that cells are the basic units of life and that all living organisms are composed of one or more cells. Key concepts: cell theory states that all living things are made of cells, cells are the basic unit of structure and function, and all cells come from pre-existing cells; plant cells have cell walls, chloroplasts, and large vacuoles that animal cells lack; both plant and animal cells have a cell membrane, nucleus, cytoplasm, and mitochondria; organisms can be unicellular or multicellular. Vocabulary: cell, cell theory, cell membrane, cell wall, nucleus, cytoplasm, mitochondria, chloroplast, vacuole, organelle, unicellular, multicellular, prokaryotic, eukaryotic. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Cell theory",
+      "teks": "6.13(A)",
+      "teks_description": "Describe cell theory development and explain that organisms are composed of one or more cells",
+      "prompt": "This topic covers cells and cell theory for Grade 6 students (TEKS 6.13(A)). The TEKS standard states: Describe cell theory development and explain that organisms are composed of one or more cells. Students should understand that cells are the basic units of life and that all living organisms are composed of one or more cells. Key concepts: cell theory states that all living things are made of cells, cells are the basic unit of structure and function, and all cells come from pre-existing cells; plant cells have cell walls, chloroplasts, and large vacuoles that animal cells lack; both plant and animal cells have a cell membrane, nucleus, cytoplasm, and mitochondria; organisms can be unicellular or multicellular. Vocabulary: cell, cell theory, cell membrane, cell wall, nucleus, cytoplasm, mitochondria, chloroplast, vacuole, organelle, unicellular, multicellular, prokaryotic, eukaryotic. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Photosynthesis and respiration",
+      "teks": "6.12(A)",
+      "teks_description": "Investigate how organisms depend on biotic and abiotic factors",
+      "prompt": "This topic covers photosynthesis for Grade 6 students (TEKS 6.12(A)). The TEKS standard states: Investigate how organisms depend on biotic and abiotic factors. Students should understand that photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce food (glucose) and release oxygen. Key concepts: plants are producers because they make their own food; photosynthesis occurs primarily in leaves using chlorophyll (the green pigment); the equation for photosynthesis involves sunlight + water + carbon dioxide producing glucose + oxygen; plants need sunlight, water, carbon dioxide, and nutrients from soil to grow. Students should understand that photosynthesis is the foundation of most food chains because it converts light energy into chemical energy stored in food. Vocabulary: photosynthesis, chlorophyll, producer, glucose, carbon dioxide, oxygen, sunlight, chloroplast, energy, food chain. Problems should involve tracing energy flow and explaining what plants need to make food, appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Ecosystems and biomes",
+      "teks": "6.12(C)",
+      "teks_description": "Describe hierarchical organization of organism, population, and community",
+      "prompt": "This topic covers ecosystems and biomes for Grade 6 students (TEKS 6.12(C)). The TEKS standard states: Describe hierarchical organization of organism, population, and community. Students should understand the hierarchical organization of ecological systems from individual organisms to the biosphere. Key concepts: an organism is a single living thing; a population is a group of the same species living in the same area; a community consists of all populations in an area; an ecosystem includes the community plus nonliving factors; biomes are large regions with similar climate and organisms. Students should describe how organisms, populations, and communities interact within ecosystems and understand factors that define different biomes. Vocabulary: organism, population, community, ecosystem, biome, biosphere, habitat, niche, abiotic, biotic, diversity, hierarchy. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Food webs and energy pyramids",
+      "teks": "6.12(B)",
+      "teks_description": "Describe predatory, competitive, and symbiotic relationships",
+      "prompt": "This topic covers food webs and food chains for Grade 6 students (TEKS 6.12(B)). The TEKS standard states: Describe predatory, competitive, and symbiotic relationships. Students should understand that energy flows through ecosystems from producers to consumers to decomposers. Key concepts: producers (plants, algae) make their own food through photosynthesis; primary consumers (herbivores) eat producers; secondary consumers (carnivores) eat primary consumers; tertiary consumers eat secondary consumers; decomposers break down dead organisms and recycle nutrients; food chains show a single path of energy flow; food webs show interconnected food chains in an ecosystem. Students should be able to predict how changes in one population affect others in the food web. Vocabulary: producer, consumer, decomposer, herbivore, carnivore, omnivore, predator, prey, food chain, food web, energy pyramid, ecosystem, trophic level. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Classification of organisms",
+      "teks": "6.13(B)",
+      "teks_description": "Identify and compare characteristics of organisms (prokaryotic/eukaryotic, unicellular/multicellular)",
+      "prompt": "This topic covers classification of organisms for Grade 6 students (TEKS 6.13(B)). The TEKS standard states: Identify and compare characteristics of organisms (prokaryotic/eukaryotic, unicellular/multicellular). Students should understand that organisms can be classified based on shared characteristics. Key concepts: organisms are classified as prokaryotic (no nucleus, like bacteria) or eukaryotic (have a nucleus); organisms can be unicellular (one cell) or multicellular (many cells); the main kingdoms include bacteria, archaea, protists, fungi, plants, and animals; classification is based on shared structural and functional characteristics. Students should compare and contrast different types of organisms using observable features. Vocabulary: classification, prokaryotic, eukaryotic, unicellular, multicellular, kingdom, domain, bacteria, archaea, protist, fungi, plant, animal, cell, nucleus, taxonomy. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Adaptations of organisms",
+      "teks": "6.13(C)",
+      "teks_description": "Describe how variations within populations influence survival",
+      "prompt": "This topic covers adaptations of organisms for Grade 6 students (TEKS 6.13(C)). The TEKS standard states: Describe how variations within populations influence survival. Students should understand that organisms have structural and behavioral adaptations that help them survive in their specific environments. Key concepts: structural adaptations are physical features (e.g., thick fur for cold climates, webbed feet for swimming); behavioral adaptations are actions organisms take to survive (e.g., migration, hibernation); variations within a population mean some individuals may be better suited to survive changes in the environment; over time, populations change as organisms with advantageous traits survive and reproduce more successfully. Vocabulary: adaptation, structural, behavioral, variation, population, environment, survival, natural selection, camouflage, mimicry, hibernate, migrate. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Human body systems (digestive, circulatory, respiratory)",
+      "teks": "6.13(B)",
+      "teks_description": "Identify and compare characteristics of organisms",
+      "prompt": "This topic covers human body systems for Grade 6 students (TEKS 6.13(B)). The TEKS standard states: Identify and compare characteristics of organisms. Students should understand that the human body is organized into systems that work together to carry out life functions. Key concepts: major body systems include skeletal (support and protection), muscular (movement), digestive (breaking down food), circulatory (transporting blood, oxygen, nutrients), respiratory (gas exchange), nervous (sending signals), and excretory (removing waste). Students should understand how structures within each system are specialized for their function and how systems interact with each other. Vocabulary: organ, tissue, system, function, structure, skeleton, muscle, digestion, circulation, respiration, nerve, cell. Students should connect body system functions to everyday experiences like breathing, eating, and moving. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Genetics and heredity (basic concepts)",
+      "teks": "6.13(C)",
+      "teks_description": "Describe how variations within populations influence survival",
+      "prompt": "This topic covers genetics and heredity for Grade 6 students (TEKS 6.13(C)). The TEKS standard states: Describe how variations within populations influence survival. Students should understand basic concepts of how traits are passed from parents to offspring. Key concepts: heredity is the passing of traits from parents to offspring; traits are characteristics of organisms (e.g., eye color, height, flower color); some traits are inherited (genetic) while others are influenced by the environment; offspring share traits with their parents but also show variation; variations within a population can influence survival. Students should understand that genetic information is carried in cells and that offspring are not identical copies of their parents. Vocabulary: heredity, trait, inherited, gene, offspring, parent, variation, generation, dominant, recessive, DNA, genetic. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Natural selection and evolution (introduction)",
+      "teks": "6.13(C)",
+      "teks_description": "Describe how variations within populations influence survival",
+      "prompt": "This topic covers natural selection and evolution for Grade 6 students (TEKS 6.13(C)). The TEKS standard states: Describe how variations within populations influence survival. Students should understand the basic principles of natural selection as a mechanism for how populations change over time. Key concepts: within any population, there is natural variation in traits; organisms compete for limited resources (food, water, shelter); individuals with traits better suited to their environment are more likely to survive and reproduce; over many generations, advantageous traits become more common in a population. Students should understand that natural selection acts on existing variations and does not involve organisms choosing to change. Vocabulary: natural selection, variation, adaptation, population, environment, survival, reproduction, competition, trait, generation, evolution, species, fitness. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Earth's layers and plate tectonics",
+      "teks": "6.10(B)",
+      "teks_description": "Model and describe Earth's layers (inner core, outer core, mantle, crust)",
+      "prompt": "This topic covers Earth's layers and plate tectonics for Grade 6 students (TEKS 6.10(B)). The TEKS standard states: Model and describe Earth's layers (inner core, outer core, mantle, crust). Students should understand the structure of Earth's interior and how plate tectonics shapes Earth's surface. Key concepts: Earth has four main layers: inner core (solid, mostly iron), outer core (liquid metal), mantle (semi-solid, convection currents), and crust (thin, solid outer layer); the crust is divided into tectonic plates that float on the mantle; plate movements cause earthquakes, volcanic eruptions, and mountain formation; plates can converge (collide), diverge (separate), or transform (slide past each other). Vocabulary: inner core, outer core, mantle, crust, tectonic plate, earthquake, volcano, mountain, converge, diverge, transform, fault, magma, convection. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Rocks and minerals",
+      "teks": "6.10(C)",
+      "teks_description": "Describe how metamorphic, igneous, and sedimentary rocks form through geologic processes",
+      "prompt": "This topic covers rocks and minerals for Grade 6 students (TEKS 6.10(C)). The TEKS standard states: Describe how metamorphic, igneous, and sedimentary rocks form through geologic processes. Students should understand that rocks are composed of minerals and are classified by how they form. Key concepts: igneous rocks form from cooled magma or lava; sedimentary rocks form from compressed and cemented layers of sediment; metamorphic rocks form when existing rocks are changed by heat and pressure; the rock cycle describes continuous transformation between rock types; minerals have specific properties including hardness, luster, color, and streak that can be used for identification. Vocabulary: igneous, sedimentary, metamorphic, rock cycle, mineral, magma, lava, sediment, weathering, erosion, deposition, compaction, cementation, crystal, hardness, luster. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Weathering and erosion",
+      "teks": "6.10(C)",
+      "teks_description": "Describe how rocks form and change through geologic processes including weathering",
+      "prompt": "This topic covers erosion for Grade 6 students (TEKS 6.10(C)). The TEKS standard states: Describe how rocks form and change through geologic processes including weathering. Students should understand that erosion is the process by which weathered rock and soil are moved from one location to another by natural forces. Key concepts: agents of erosion include water (rivers, waves, rain), wind, ice (glaciers), and gravity; weathering breaks rocks into smaller pieces while erosion transports those pieces; deposition occurs when eroded material is dropped in a new location. Students should understand slow versus rapid changes to Earth's surface and how human activities can increase or decrease erosion. Vocabulary: erosion, weathering, deposition, sediment, glacier, landslide, delta, canyon, sand dune, prevention, conservation. Problems should include real-world examples and modeling activities appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "The water cycle and weather patterns",
+      "teks": "6.10(A)",
+      "teks_description": "Differentiate between biosphere, hydrosphere, atmosphere, and geosphere",
+      "prompt": "This topic covers the water cycle for Grade 6 students (TEKS 6.10(A)). The TEKS standard states: Differentiate between biosphere, hydrosphere, atmosphere, and geosphere. Students should understand that water continuously moves through Earth's systems in a cycle driven by the Sun's energy. Key concepts: evaporation (liquid water becomes water vapor due to heat), condensation (water vapor cools and forms clouds), precipitation (water falls as rain, snow, sleet, or hail), collection/runoff (water gathers in oceans, lakes, rivers, and groundwater). Students should understand that the Sun provides the energy that drives the water cycle and that the total amount of water on Earth remains relatively constant. Vocabulary: water cycle, evaporation, condensation, precipitation, runoff, groundwater, collection, water vapor, clouds, transpiration, aquifer. Students should be able to model and describe each stage of the cycle. Problems should connect to real-world weather observations appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Climate and climate change",
+      "teks": "6.9(A)",
+      "teks_description": "Model how tilted Earth revolves around the Sun, causing seasonal changes",
+      "prompt": "This topic covers climate and climate change for Grade 6 students (TEKS 6.9(A)). The TEKS standard states: Model how tilted Earth revolves around the Sun, causing seasonal changes. Students should understand that climate is the long-term pattern of weather in a region, influenced by Earth's tilt and revolution around the Sun. Key concepts: seasons are caused by Earth's tilted axis (23.5 degrees) as it revolves around the Sun, causing different parts of Earth to receive varying amounts of direct sunlight; climate varies by latitude, altitude, and proximity to water; climate zones include tropical, temperate, and polar; factors affecting climate include latitude, ocean currents, wind patterns, and elevation. Vocabulary: climate, weather, season, tilt, axis, revolution, latitude, altitude, temperature, precipitation, tropical, temperate, polar, climate zone. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Renewable and nonrenewable resources",
+      "teks": "6.11(A)",
+      "teks_description": "Research and describe importance of resource management in reducing energy use, poverty, malnutrition, and pollution",
+      "prompt": "This topic covers renewable and nonrenewable resources for Grade 6 students (TEKS 6.11(A)). The TEKS standard states: Research and describe importance of resource management in reducing energy use, poverty, malnutrition, and pollution. Students should understand the difference between renewable and nonrenewable resources and the importance of responsible resource management. Key concepts: renewable resources can be replenished naturally in a relatively short time (solar, wind, water, biomass); nonrenewable resources exist in limited quantities and take millions of years to form (fossil fuels like coal, oil, natural gas; minerals); overuse of resources leads to environmental problems including pollution, habitat destruction, and climate change; conservation, recycling, and using renewable energy sources help reduce environmental impact. Vocabulary: renewable, nonrenewable, resource, fossil fuel, conservation, recycling, solar energy, wind energy, pollution, sustainability, environmental impact. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Forces and motion (Newton's Laws)",
+      "teks": "6.7(A)",
+      "teks_description": "Identify and explain how forces act on objects (gravity, friction, magnetism, applied, normal)",
+      "prompt": "This topic covers forces and motion including Newton's Laws for Grade 6 students (TEKS 6.7(A)). Students should understand that forces cause changes in the motion of objects and that Newton's three laws describe these relationships. Key concepts: Newton's First Law (an object at rest stays at rest, an object in motion stays in motion unless acted upon by an unbalanced force - inertia); Newton's Second Law (force = mass x acceleration, or F = ma); Newton's Third Law (every action has an equal and opposite reaction); types of forces include gravity, friction, applied force, normal force, and magnetism; net force determines whether forces are balanced or unbalanced. Vocabulary: force, motion, Newton's Laws, inertia, acceleration, mass, friction, gravity, balanced, unbalanced, net force, action, reaction, applied force, normal force, magnetism. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Simple machines",
+      "teks": "6.7(B)",
+      "teks_description": "Calculate net force and determine if forces are balanced or unbalanced",
+      "prompt": "This topic covers simple machines for Grade 6 students (TEKS 6.7(B)). The TEKS standard states: Calculate net force and determine if forces are balanced or unbalanced. Students should understand that simple machines make work easier by changing the direction or magnitude of a force. Key concepts: the six simple machines are lever, wheel and axle, pulley, inclined plane, wedge, and screw; each machine provides a mechanical advantage by reducing the force needed or changing the direction of force; net force is the combination of all forces acting on an object; balanced forces result in no change in motion while unbalanced forces cause acceleration. Students should calculate net force and determine if forces are balanced or unbalanced. Vocabulary: simple machine, lever, pulley, wheel and axle, inclined plane, wedge, screw, force, work, mechanical advantage, net force, balanced, unbalanced. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Energy forms and transformations",
+      "teks": "6.8(B)",
+      "teks_description": "Describe how energy is conserved through transfers and transformations",
+      "prompt": "This topic covers energy transformations for Grade 6 students (TEKS 6.8(B)). The TEKS standard states: Describe how energy is conserved through transfers and transformations. Students should understand that energy exists in multiple forms and can be transformed from one form to another. Key concepts: forms of energy include kinetic (motion), potential (stored), thermal (heat), light, sound, electrical, and chemical; energy transformations occur constantly (e.g., a lamp transforms electrical energy to light and thermal energy); the law of conservation of energy states that energy cannot be created or destroyed, only transformed or transferred. Students should trace energy transformations in everyday devices and natural processes. Vocabulary: energy, kinetic energy, potential energy, thermal energy, electrical energy, chemical energy, light energy, sound energy, transformation, transfer, conservation. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Waves (sound and light)",
+      "teks": "6.8(C)",
+      "teks_description": "Explain how energy transfers through transverse and longitudinal waves",
+      "prompt": "This topic covers waves including sound and light for Grade 6 students (TEKS 6.8(C)). The TEKS standard states: Explain how energy transfers through transverse and longitudinal waves. Students should understand that energy can be transferred through transverse and longitudinal waves. Key concepts: transverse waves have particles that move perpendicular to the wave direction (e.g., light, water surface waves); longitudinal waves have particles that move parallel to the wave direction (e.g., sound); wave properties include wavelength, frequency, and amplitude; sound requires a medium (solid, liquid, or gas) to travel while light can travel through a vacuum; energy is conserved as it transfers through waves. Vocabulary: transverse wave, longitudinal wave, wavelength, frequency, amplitude, crest, trough, compression, rarefaction, medium, vibration, energy transfer. Problems should be appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "The scientific method and experimental design",
+      "teks": "6.1(B)",
+      "teks_description": "Use scientific practices to plan and conduct descriptive, comparative, and experimental investigations",
+      "prompt": "This topic covers scientific investigations and the scientific method for Grade 6 students (TEKS 6.1(B)). The TEKS standard states: Use scientific practices to plan and conduct descriptive, comparative, and experimental investigations. Students should understand that scientific investigations follow systematic processes to explore questions about the natural world. Key concepts: asking testable questions, forming hypotheses, designing fair tests with controlled variables, collecting and recording data, analyzing results, and drawing evidence-based conclusions. Students should understand the difference between independent variables (what you change), dependent variables (what you measure), and controlled variables (what you keep the same). They should also understand the importance of repeating trials for reliability. Vocabulary: hypothesis, variable, independent variable, dependent variable, controlled variable, data, evidence, conclusion, experiment, observation, prediction, fair test, trial, reliability. Problems should involve designing experiments and identifying variables, appropriate for 11-12 year olds."
+    },
+    {
+      "skill": "Engineering design process",
+      "teks": "6.2(D)",
+      "teks_description": "Evaluate experimental and engineering designs",
+      "prompt": "This topic covers the engineering design process for Grade 6 students (TEKS 6.2(D)). The TEKS standard states: Evaluate experimental and engineering designs. Students should understand that the engineering design process is a systematic approach to solving problems and creating solutions. Key concepts: the process includes identifying a problem, researching solutions, designing and planning, building a prototype, testing and evaluating, and improving the design; engineers use criteria (requirements the solution must meet) and constraints (limitations like time, cost, and materials); designs should be evaluated based on how well they meet the criteria and work within constraints; the process is iterative, meaning designs are continuously improved based on testing results. Vocabulary: engineering, design process, criteria, constraint, prototype, evaluate, iterate, improve, solution, problem, test, data. Problems should be appropriate for 11-12 year olds."
+    }
+  ]
+}

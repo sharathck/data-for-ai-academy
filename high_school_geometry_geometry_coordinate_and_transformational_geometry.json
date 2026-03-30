@@ -1,0 +1,181 @@
+{
+  "grade": "High School - Geometry",
+  "subject": "Geometry - Coordinate and transformational geometry",
+  "skills": [
+    {
+      "skill": "Midpoints - determine the coordinates of a point that is a given fractional distance less than one from one end of a line segment to the other in one- and two-dimensional coordinate systems, including finding the midpoint;",
+      "teks": "G.2(A)",
+      "prompt": "This topic covers midpoints (determine the coordinates of a point that is a given fractional distance less than one from one end of a line segment to the other in one- and two-dimensional coordinate systems, including finding the midpoint;) for Geometry students (TEKS G.2(A)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Key vocabulary includes: Pythagorean theorem, average, coordinates, distance formula, length, midpoint, segment. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Midpoints - Midpoint formula: find the midpoint",
+      "teks": "G.2(A)",
+      "prompt": "This topic covers midpoints (midpoint formula: find the midpoint) for Geometry students (TEKS G.2(A)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. Key vocabulary includes: average, coordinates, midpoint, segment. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Midpoints - Partition a line segment in a given ratio",
+      "teks": "G.2(A)",
+      "prompt": "This topic covers midpoints (partition a line segment in a given ratio) for Geometry students (TEKS G.2(A)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. Key vocabulary includes: average, coordinates, midpoint, segment. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Slope, Distance, Midpoint - derive and use the distance, slope, and midpoint formulas to verify geometric relationships, including congruence of segments and parallelism or perpendicularity of pairs of lines;",
+      "teks": "G.2(B)",
+      "prompt": "This topic covers slope, distance, midpoint (derive and use the distance, slope, and midpoint formulas to verify geometric relationships, including congruence of segments and parallelism or perpendicularity of pairs of lines;) for Geometry students (TEKS G.2(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Slope m = (y2-y1)/(x2-x1) measures steepness; parallel lines have equal slopes, perpendicular lines have negative reciprocal slopes. Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Students construct logical proofs using two-column, paragraph, or flow-chart format, citing definitions, postulates, and theorems. Key vocabulary includes: CPCTC, Pythagorean theorem, average, congruent, coordinates, corresponding parts, distance formula, given, length, midpoint, parallel, perpendicular, postulate, proof, rate of change, reason, rigid motion, rise, run, segment, slope, statement, theorem. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Slope, Distance, Midpoint - Midpoint formula: find the midpoint",
+      "teks": "G.2(B)",
+      "prompt": "This topic covers slope, distance, midpoint (midpoint formula: find the midpoint) for Geometry students (TEKS G.2(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Slope m = (y2-y1)/(x2-x1) measures steepness; parallel lines have equal slopes, perpendicular lines have negative reciprocal slopes. Key vocabulary includes: Pythagorean theorem, average, coordinates, distance formula, length, midpoint, parallel, perpendicular, rate of change, rise, run, segment, slope. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Slope, Distance, Midpoint - Distance formula",
+      "teks": "G.2(B)",
+      "prompt": "This topic covers slope, distance, midpoint (distance formula) for Geometry students (TEKS G.2(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Slope m = (y2-y1)/(x2-x1) measures steepness; parallel lines have equal slopes, perpendicular lines have negative reciprocal slopes. Key vocabulary includes: Pythagorean theorem, average, coordinates, distance formula, length, midpoint, parallel, perpendicular, rate of change, rise, run, segment, slope. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Slope, Distance, Midpoint - Slopes of lines",
+      "teks": "G.2(B)",
+      "prompt": "This topic covers slope, distance, midpoint (slopes of lines) for Geometry students (TEKS G.2(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Slope m = (y2-y1)/(x2-x1) measures steepness; parallel lines have equal slopes, perpendicular lines have negative reciprocal slopes. Key vocabulary includes: Pythagorean theorem, average, coordinates, distance formula, length, midpoint, parallel, perpendicular, rate of change, rise, run, segment, slope. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Slope, Distance, Midpoint - Slopes of parallel and perpendicular lines",
+      "teks": "G.2(B)",
+      "prompt": "This topic covers slope, distance, midpoint (slopes of parallel and perpendicular lines) for Geometry students (TEKS G.2(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Slope m = (y2-y1)/(x2-x1) measures steepness; parallel lines have equal slopes, perpendicular lines have negative reciprocal slopes. Key vocabulary includes: Pythagorean theorem, average, coordinates, distance formula, length, midpoint, parallel, perpendicular, rate of change, rise, run, segment, slope. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Slope, Distance, Midpoint - Classify shapes on the coordinate plane: justify your answer",
+      "teks": "G.2(B)",
+      "prompt": "This topic covers slope, distance, midpoint (classify shapes on the coordinate plane: justify your answer) for Geometry students (TEKS G.2(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Slope m = (y2-y1)/(x2-x1) measures steepness; parallel lines have equal slopes, perpendicular lines have negative reciprocal slopes. Key vocabulary includes: Pythagorean theorem, average, coordinates, distance formula, length, midpoint, parallel, perpendicular, rate of change, rise, run, segment, slope. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Slope, Distance, Midpoint - Determine if a point lies on a circle",
+      "teks": "G.2(B)",
+      "prompt": "This topic covers slope, distance, midpoint (determine if a point lies on a circle) for Geometry students (TEKS G.2(B)). The midpoint formula M = ((x1+x2)/2, (y1+y2)/2) finds the point exactly halfway between two endpoints. The distance formula d = sqrt((x2-x1)^2 + (y2-y1)^2) derives from the Pythagorean theorem. Slope m = (y2-y1)/(x2-x1) measures steepness; parallel lines have equal slopes, perpendicular lines have negative reciprocal slopes. Key vocabulary includes: Pythagorean theorem, arc, average, center, chord, circle, coordinates, distance formula, length, midpoint, parallel, perpendicular, radius, rate of change, rise, run, secant, segment, slope, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Equations of lines - determine an equation of a line parallel or perpendicular to a given line that passes through a given point.",
+      "teks": "G.2(C)",
+      "prompt": "This topic covers writing equations of lines parallel or perpendicular to given lines through specified points for Geometry students (TEKS G.2(C)). For parallel: use same slope. For perpendicular: use negative reciprocal slope. Apply point-slope form y-y1=m(x-x1) with the new point. Key vocabulary: parallel, perpendicular, slope, negative reciprocal, point-slope form. Common errors: using wrong slope relationship, algebraic errors in point-slope form, and not converting to required form."
+    },
+    {
+      "skill": "Equations of lines - Equations of parallel and perpendicular lines",
+      "teks": "G.2(C)",
+      "prompt": "This topic covers writing equations of lines parallel or perpendicular to given lines through specified points for Geometry students (TEKS G.2(C)). For parallel: use same slope. For perpendicular: use negative reciprocal slope. Apply point-slope form y-y1=m(x-x1) with the new point. Key vocabulary: parallel, perpendicular, slope, negative reciprocal, point-slope form. Common errors: using wrong slope relationship, algebraic errors in point-slope form, and not converting to required form."
+    },
+    {
+      "skill": "Equations of lines - Checkpoint: Partition a line segment",
+      "teks": "G.2(A)",
+      "prompt": "This is a checkpoint assessment covering equations of lines for Geometry students (TEKS G.2(A)). Students demonstrate comprehensive mastery of the unit's concepts by applying key definitions, formulas, and procedures to varied problems. They show clear mathematical reasoning, use precise vocabulary, and verify their answers. This assessment identifies areas needing additional practice and consolidates understanding of essential skills in coordinate and transformational geometry."
+    },
+    {
+      "skill": "Equations of lines - Checkpoint: Coordinate proofs",
+      "teks": "G.2(B)",
+      "prompt": "This is a checkpoint assessment covering equations of lines for Geometry students (TEKS G.2(B)). Students demonstrate comprehensive mastery of the unit's concepts by applying key definitions, formulas, and procedures to varied problems. They show clear mathematical reasoning, use precise vocabulary, and verify their answers. This assessment identifies areas needing additional practice and consolidates understanding of essential skills in coordinate and transformational geometry."
+    },
+    {
+      "skill": "Equations of lines - Checkpoint: Parallel and perpendicular lines",
+      "teks": "G.2(C)",
+      "prompt": "This is a checkpoint assessment covering equations of lines for Geometry students (TEKS G.2(C)). Students demonstrate comprehensive mastery of the unit's concepts by applying key definitions, formulas, and procedures to varied problems. They show clear mathematical reasoning, use precise vocabulary, and verify their answers. This assessment identifies areas needing additional practice and consolidates understanding of essential skills in coordinate and transformational geometry."
+    },
+    {
+      "skill": "Transformations - describe and perform transformations of figures in a plane using coordinate notation;",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (describe and perform transformations of figures in a plane using coordinate notation;) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Translations: graph the image",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (translations: graph the image) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Translations slide every point the same distance and direction: (x,y) -> (x+a, y+b). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Translations: find the coordinates",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (translations: find the coordinates) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Translations slide every point the same distance and direction: (x,y) -> (x+a, y+b). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Translations: write the rule",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (translations: write the rule) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Translations slide every point the same distance and direction: (x,y) -> (x+a, y+b). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Reflections: graph the image",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (reflections: graph the image) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Reflections create mirror images across a line: over x-axis (x,-y), over y-axis (-x,y), over y=x (y,x). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Reflections: find the coordinates",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (reflections: find the coordinates) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Reflections create mirror images across a line: over x-axis (x,-y), over y-axis (-x,y), over y=x (y,x). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Rotations: graph the image",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (rotations: graph the image) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Rotations turn figures about a point: 90 CCW (-y,x), 180 (-x,-y), 270 CCW (y,-x). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Rotations: find the coordinates",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (rotations: find the coordinates) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Rotations turn figures about a point: 90 CCW (-y,x), 180 (-x,-y), 270 CCW (y,-x). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Reflections and rotations: write the rule",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (reflections and rotations: write the rule) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Reflections create mirror images across a line: over x-axis (x,-y), over y-axis (-x,y), over y=x (y,x). Rotations turn figures about a point: 90 CCW (-y,x), 180 (-x,-y), 270 CCW (y,-x). Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations - Congruence transformations: mixed review",
+      "teks": "G.3(A)",
+      "prompt": "This topic covers transformations (congruence transformations: mixed review) for Geometry students (TEKS G.3(A)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, coordinate notation, corresponding parts, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Compositions - determine the image or pre-image of a given two-dimensional figure under a composition of rigid transformations, a composition of non-rigid transformations, and a composition of both, including dilations where the center can be any point in the plane;",
+      "teks": "G.3(B)",
+      "prompt": "This topic covers compositions (determine the image or pre-image of a given two-dimensional figure under a composition of rigid transformations, a composition of non-rigid transformations, and a composition of both, including dilations where the center can be any point in the plane;) for Geometry students (TEKS G.3(B)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Compositions - Sequences of congruence transformations: graph the image",
+      "teks": "G.3(B)",
+      "prompt": "This topic covers compositions (sequences of congruence transformations: graph the image) for Geometry students (TEKS G.3(B)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, coordinate notation, corresponding parts, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations sequence - identify the sequence of transformations that will carry a given pre-image onto an image on and off the coordinate plane;",
+      "teks": "G.3(C)",
+      "prompt": "This topic covers transformations sequence (identify the sequence of transformations that will carry a given pre-image onto an image on and off the coordinate plane;) for Geometry students (TEKS G.3(C)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Key vocabulary includes: coordinate notation, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations sequence - Classify congruence transformations",
+      "teks": "G.3(C)",
+      "prompt": "This topic covers transformations sequence (classify congruence transformations) for Geometry students (TEKS G.3(C)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, coordinate notation, corresponding parts, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations sequence - Sequences of congruence transformations: choose the sequence",
+      "teks": "G.3(C)",
+      "prompt": "This topic covers transformations sequence (sequences of congruence transformations: choose the sequence) for Geometry students (TEKS G.3(C)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, coordinate notation, corresponding parts, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Transformations sequence - Sequences of congruence transformations: find the rules",
+      "teks": "G.3(C)",
+      "prompt": "This topic covers transformations sequence (sequences of congruence transformations: find the rules) for Geometry students (TEKS G.3(C)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Congruent figures have the same shape and size; corresponding parts of congruent triangles are congruent (CPCTC). Key vocabulary includes: CPCTC, congruent, coordinate notation, corresponding parts, image, pre-image, rigid motion, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Symmetry - identify and distinguish between reflectional and rotational symmetry in a plane figure.",
+      "teks": "G.3(D)",
+      "prompt": "This topic covers symmetry (identify and distinguish between reflectional and rotational symmetry in a plane figure.) for Geometry students (TEKS G.3(D)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Reflections create mirror images across a line: over x-axis (x,-y), over y-axis (-x,y), over y=x (y,x). Rotations turn figures about a point: 90 CCW (-y,x), 180 (-x,-y), 270 CCW (y,-x). A figure has rotational symmetry if it maps onto itself under rotation less than 360 degrees; order = number of such rotations. Key vocabulary includes: axis of symmetry, coordinate notation, image, line symmetry, order, pre-image, rigid motion, rotational symmetry, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Symmetry - Line symmetry",
+      "teks": "G.3(D)",
+      "prompt": "This topic covers symmetry (line symmetry) for Geometry students (TEKS G.3(D)). A figure has line symmetry if a line divides it into two congruent mirror-image halves. Key vocabulary includes: axis of symmetry, line symmetry, order, rotational symmetry. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Symmetry - Rotational symmetry",
+      "teks": "G.3(D)",
+      "prompt": "This topic covers symmetry (rotational symmetry) for Geometry students (TEKS G.3(D)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Rotations turn figures about a point: 90 CCW (-y,x), 180 (-x,-y), 270 CCW (y,-x). A figure has rotational symmetry if it maps onto itself under rotation less than 360 degrees; order = number of such rotations. Key vocabulary includes: axis of symmetry, coordinate notation, image, line symmetry, order, pre-image, rigid motion, rotational symmetry, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    },
+    {
+      "skill": "Symmetry - Checkpoint: Transformations of geometric figures",
+      "teks": "G.3(D)",
+      "prompt": "This topic covers symmetry (checkpoint: transformations of geometric figures) for Geometry students (TEKS G.3(D)). Rigid motions (translations, reflections, rotations) preserve distance and angle measure, making pre-image and image congruent. Key vocabulary includes: axis of symmetry, coordinate notation, image, line symmetry, order, pre-image, rigid motion, rotational symmetry, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Geometry. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+    }
+  ]
+}

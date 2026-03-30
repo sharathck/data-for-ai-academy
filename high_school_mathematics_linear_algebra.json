@@ -1,0 +1,174 @@
+{
+  "grade": "High School - Mathematics",
+  "subject": "Linear Algebra",
+  "skills": [
+    {
+      "skill": "Systems of Linear Equations",
+      "teks": "College.LA.1",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on 2A.3(A) formulating systems of equations",
+      "prompt": "This topic covers solving systems of linear equations for Linear Algebra students (College.LA.1). Students should solve systems using Gaussian elimination, row reduction to echelon and reduced row echelon form, and interpret solutions geometrically. Key concepts: augmented matrix representation, elementary row operations (swap, scale, replacement), pivot positions, free variables, consistent vs. inconsistent systems, and solution types (unique, infinite with parameters, none). Vocabulary: system of equations, augmented matrix, row echelon form, RREF, pivot, free variable, consistent, inconsistent, parametric solution. Common errors: row operation arithmetic mistakes, misidentifying pivot columns, and not expressing infinite solutions with free variable parameters."
+    },
+    {
+      "skill": "Matrices and Matrix Operations",
+      "teks": "College.LA.2",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on 2A.3(B) matrix operations",
+      "prompt": "This topic covers matrix algebra for Linear Algebra students (College.LA.2). Students should perform matrix addition, scalar multiplication, matrix multiplication, and transposition. Key concepts: matrices as representations of linear transformations, matrix multiplication is not commutative (AB ≠ BA in general), dimensions must be compatible for multiplication (m×n times n×p gives m×p), identity matrix I, and zero matrix. Vocabulary: matrix, row, column, entry, transpose, identity matrix, zero matrix, square matrix, product, compatible dimensions. Common errors: multiplying incompatible matrices, assuming commutativity, and element-wise multiplication confusion."
+    },
+    {
+      "skill": "Determinants and Their Properties",
+      "teks": "College.LA.3",
+      "teks_description": "College-level: Extends beyond HS TEKS; determinant theory and properties",
+      "prompt": "This topic covers determinant theory for Linear Algebra students (College.LA.3). Students should compute determinants using cofactor expansion, row reduction, and properties. Key properties: det(AB) = det(A)*det(B), det(A^T) = det(A), swapping rows changes sign, scaling a row scales det, det(A) = 0 iff A is singular. Key concepts: 2×2 formula (ad-bc), 3×3 cofactor expansion, connection to invertibility, volume interpretation, and Cramer's rule. Vocabulary: determinant, cofactor, minor, cofactor expansion, singular, nonsingular, invertible, Cramer's rule, signed volume. Common errors: cofactor sign pattern errors, row reduction errors affecting determinant tracking, and misapplying properties."
+    },
+    {
+      "skill": "Vector Spaces and Subspaces",
+      "teks": "College.LA.4",
+      "teks_description": "College-level: Extends beyond HS TEKS; abstract vector space theory",
+      "prompt": "This topic covers abstract vector space theory for Linear Algebra students (College.LA.4). A vector space V over a field F satisfies ten axioms (closure under addition and scalar multiplication, associativity, commutativity, distributivity, identities, inverses). Key concepts: examples beyond R^n (polynomials, matrices, functions), subspaces (must contain zero vector, be closed under addition and scalar multiplication), column space, null space, row space, and solution spaces. Vocabulary: vector space, subspace, axiom, closure, zero vector, column space, null space, row space, span. Common errors: forgetting to check the zero vector, confusing subspace with subset, and not verifying all closure conditions."
+    },
+    {
+      "skill": "Basis and Dimension",
+      "teks": "College.LA.5",
+      "teks_description": "College-level: Extends beyond HS TEKS; basis and dimension concepts",
+      "prompt": "This topic covers basis and dimension concepts for Linear Algebra students (College.LA.5). A basis for a vector space V is a linearly independent spanning set. The dimension of V is the number of vectors in any basis. Key concepts: every basis of a finite-dimensional space has the same size, extending linearly independent sets to bases, reducing spanning sets to bases, coordinates relative to a basis, and standard bases for R^n, P_n, M_{m×n}. Vocabulary: basis, dimension, coordinates, standard basis, coordinate vector, finite-dimensional, infinite-dimensional. Common errors: confusing spanning sets with bases, claiming dependent sets are bases, and incorrect dimension counts for polynomial or matrix spaces."
+    },
+    {
+      "skill": "Linear Independence and Dependence",
+      "teks": "College.LA.6",
+      "teks_description": "College-level: Extends beyond HS TEKS; linear independence theory",
+      "prompt": "This topic covers linear independence for Linear Algebra students (College.LA.6). Vectors v1, ..., vk are linearly independent if c1*v1 + ... + ck*vk = 0 implies all ci = 0. Key concepts: testing independence by row reducing the matrix with vectors as columns, dependent sets contain a vector expressible as a linear combination of others, maximum number of independent vectors in R^n is n, and the Wronskian for function independence. Vocabulary: linearly independent, linearly dependent, trivial solution, nontrivial solution, Wronskian, span, redundant vector. Common errors: confusing independence with orthogonality, incorrect row reduction, and not checking the zero vector (which makes any set dependent)."
+    },
+    {
+      "skill": "Linear Transformations and Their Matrices",
+      "teks": "College.LA.7",
+      "teks_description": "College-level: Extends beyond HS TEKS; linear transformation theory",
+      "prompt": "This topic covers linear transformations for Linear Algebra students (College.LA.7). A function T: V -> W is linear if T(u+v) = T(u)+T(v) and T(cv) = cT(v). Key concepts: every linear transformation from R^n to R^m has a unique standard matrix A (T(x) = Ax), kernel (null space of A), image (column space of A), rank = dim(image), nullity = dim(kernel), and the Rank-Nullity Theorem (rank + nullity = dim(domain)). Vocabulary: linear transformation, kernel, image, rank, nullity, standard matrix, injective (one-to-one), surjective (onto), isomorphism. Common errors: not checking both linearity conditions, confusing kernel with image, and misapplying rank-nullity."
+    },
+    {
+      "skill": "Eigenvalues and Eigenvectors",
+      "teks": "College.LA.8",
+      "teks_description": "College-level: Extends beyond HS TEKS; eigenvalue decomposition",
+      "prompt": "This topic covers eigenvalue decomposition for Linear Algebra students (College.LA.8). An eigenvalue lambda of matrix A satisfies Av = lambda*v for some nonzero eigenvector v. Key concepts: finding eigenvalues from det(A - lambda*I) = 0 (characteristic polynomial), finding eigenvectors from null space of (A - lambda*I), algebraic vs. geometric multiplicity, eigenspaces, and the characteristic polynomial. Vocabulary: eigenvalue, eigenvector, characteristic polynomial, eigenspace, algebraic multiplicity, geometric multiplicity, spectrum. Common errors: forgetting eigenvectors must be nonzero, characteristic polynomial errors, and confusing algebraic with geometric multiplicity."
+    },
+    {
+      "skill": "Diagonalization of Matrices",
+      "teks": "College.LA.9",
+      "teks_description": "College-level: Extends beyond HS TEKS; matrix diagonalization",
+      "prompt": "This topic covers matrix diagonalization for Linear Algebra students (College.LA.9). A matrix A is diagonalizable if A = PDP^(-1) where D is diagonal (eigenvalues) and P has eigenvectors as columns. Key concepts: A is diagonalizable iff it has n linearly independent eigenvectors, sufficient condition (n distinct eigenvalues), computing powers A^k = PD^kP^(-1), and applications to systems of ODEs and Markov chains. Vocabulary: diagonalizable, diagonal matrix, similar matrices, change of basis matrix, defective matrix. Common errors: assuming all matrices are diagonalizable, column order mismatch between P and D, and P^(-1) computation errors."
+    },
+    {
+      "skill": "Inner Product Spaces",
+      "teks": "College.LA.10",
+      "teks_description": "College-level: Extends beyond HS TEKS; inner product space theory",
+      "prompt": "This topic covers inner product spaces for Linear Algebra students (College.LA.10). An inner product <u,v> generalizes the dot product, satisfying positivity, symmetry (conjugate symmetry for complex), and linearity. Key concepts: the standard inner product in R^n (dot product), defining inner products on function spaces (integral of f*g), induced norm ||v|| = sqrt(<v,v>), Cauchy-Schwarz inequality |<u,v>| <= ||u||*||v||, and triangle inequality. Vocabulary: inner product, inner product space, norm, Cauchy-Schwarz inequality, triangle inequality, positive definite, Hilbert space. Common errors: not verifying inner product axioms, confusing dot product with general inner products, and conjugate symmetry errors in complex spaces."
+    },
+    {
+      "skill": "Orthogonality and Orthogonal Projections",
+      "teks": "College.LA.11",
+      "teks_description": "College-level: Extends beyond HS TEKS; orthogonality concepts",
+      "prompt": "This topic covers orthogonality concepts for Linear Algebra students (College.LA.11). Vectors u and v are orthogonal if <u,v> = 0. Key concepts: orthogonal complement of a subspace W (W-perp), orthogonal projection of v onto W (proj_W(v)), orthogonal decomposition theorem (v = proj_W(v) + v_perp), orthogonal and orthonormal bases, and the projection formula proj_u(v) = (<v,u>/<u,u>)*u. Vocabulary: orthogonal, orthonormal, orthogonal complement, projection, orthogonal decomposition, perpendicular, normal. Applications: least squares, signal decomposition. Common errors: projection formula errors, confusing orthogonal with orthonormal, and not checking orthogonality of complement."
+    },
+    {
+      "skill": "Gram-Schmidt Process",
+      "teks": "College.LA.12",
+      "teks_description": "College-level: Extends beyond HS TEKS; orthonormalization algorithm",
+      "prompt": "This topic covers the Gram-Schmidt orthonormalization algorithm for Linear Algebra students (College.LA.12). Given linearly independent vectors {v1,...,vk}, produce orthonormal vectors {e1,...,ek}: u1 = v1, u_i = v_i - sum of proj_{u_j}(v_i), then normalize e_i = u_i/||u_i||. Key concepts: QR factorization (A = QR where Q has orthonormal columns, R is upper triangular), modified Gram-Schmidt for numerical stability, and applications to solving least squares problems. Vocabulary: Gram-Schmidt process, orthonormalization, QR factorization, orthonormal basis, projection, normalize. Common errors: projection subtraction errors, not normalizing at each step, and accumulation of numerical errors."
+    },
+    {
+      "skill": "Least Squares Solutions",
+      "teks": "College.LA.13",
+      "teks_description": "College-level: Extends beyond HS TEKS; least squares approximation",
+      "prompt": "This topic covers least squares approximation for Linear Algebra students (College.LA.13). When Ax = b has no exact solution, the least squares solution x-hat minimizes ||Ax - b||^2, found by solving A^T*A*x-hat = A^T*b (normal equations). Key concepts: projection interpretation (Ax-hat is the projection of b onto col(A)), connection to regression (finding best-fit line/polynomial), QR method for numerical stability, and residual analysis. Vocabulary: least squares, normal equations, projection, residual, overdetermined system, best fit, regression, pseudoinverse. Applications: data fitting, curve fitting, signal processing. Common errors: A^T*A computation errors, confusing exact solution with least squares, and not checking column rank."
+    },
+    {
+      "skill": "Quadratic Forms and Conic Sections",
+      "teks": "College.LA.14",
+      "teks_description": "College-level: Extends beyond HS TEKS; builds on P.3(G) conic sections",
+      "prompt": "This topic covers quadratic forms for Linear Algebra students (College.LA.14). A quadratic form Q(x) = x^T*A*x (A symmetric) can be classified using eigenvalues of A: positive definite (all lambda > 0), negative definite (all lambda < 0), indefinite (mixed signs). Key concepts: diagonalization of symmetric matrices, principal axis theorem (rotate coordinates to eliminate cross terms), classifying conics/quadrics using eigenvalues, and connecting to optimization (Hessian matrix). Vocabulary: quadratic form, positive definite, negative definite, indefinite, semidefinite, principal axis theorem, symmetric matrix, Hessian. Common errors: non-symmetric matrix in quadratic form, misclassifying definiteness, and eigenvalue computation errors."
+    },
+    {
+      "skill": "Spectral Theorem",
+      "teks": "College.LA.15",
+      "teks_description": "College-level: Extends beyond HS TEKS; spectral decomposition theory",
+      "prompt": "This topic covers the Spectral Theorem for Linear Algebra students (College.LA.15). For real symmetric matrices: A is orthogonally diagonalizable (A = QDQ^T where Q is orthogonal and D is diagonal). Key concepts: symmetric matrices have all real eigenvalues, eigenvectors for distinct eigenvalues are orthogonal, spectral decomposition A = sum lambda_i * u_i * u_i^T, and extension to normal matrices (A^T*A = A*A^T). Vocabulary: Spectral Theorem, orthogonal diagonalization, symmetric matrix, spectral decomposition, normal matrix, self-adjoint. Applications: principal component analysis, quantum mechanics. Common errors: applying to non-symmetric matrices, not using orthogonal eigenvector matrix, and missing the transpose relationship."
+    },
+    {
+      "skill": "Rank and Nullity Theorems",
+      "teks": "College.LA.16",
+      "teks_description": "College-level: Extends beyond HS TEKS; rank-nullity theorem",
+      "prompt": "This topic covers the Rank-Nullity Theorem for Linear Algebra students (College.LA.16). For an m×n matrix A: rank(A) + nullity(A) = n (number of columns). Key concepts: rank = dim(column space) = dim(row space) = number of pivots, nullity = dim(null space) = number of free variables, and relationships: rank(A) = rank(A^T), rank(AB) <= min(rank(A), rank(B)). Vocabulary: rank, nullity, column space, row space, null space, pivot, free variable, dimension, full rank. Applications: determining solvability and solution structure. Common errors: confusing row rank with column rank (they're equal), misapplying to non-square matrices, and incorrect pivot counting."
+    },
+    {
+      "skill": "Change of Basis and Similarity",
+      "teks": "College.LA.17",
+      "teks_description": "College-level: Extends beyond HS TEKS; basis transformation",
+      "prompt": "This topic covers basis transformations for Linear Algebra students (College.LA.17). If B = {b1,...,bn} is a basis, the change-of-basis matrix P_B has basis vectors as columns, and [x]_B = P_B^(-1)*x gives coordinates in basis B. Matrices A and B are similar if B = P^(-1)*A*P for some invertible P. Key concepts: coordinate vectors, transition matrices between bases, similar matrices share eigenvalues, determinant, trace, and rank, and diagonalization as a special case. Vocabulary: change of basis, coordinate vector, transition matrix, similar matrices, basis, coordinate system. Common errors: direction of basis change confusion (P vs. P^(-1)), column order matters, and not verifying P is invertible."
+    },
+    {
+      "skill": "Applications to Differential Equations",
+      "teks": "College.LA.18",
+      "teks_description": "College-level: Extends beyond HS TEKS; LA applications to ODE systems",
+      "prompt": "This topic covers using linear algebra to solve ODE systems for Linear Algebra students (College.LA.18). The system x' = Ax is solved using eigenvalues and eigenvectors: x(t) = c1*v1*e^(lambda1*t) + ... + cn*vn*e^(lambdan*t). Key concepts: matrix exponential e^(At), Jordan form for defective matrices, complex eigenvalues yielding oscillatory solutions, stability (all eigenvalues have negative real part), and phase portraits classified by eigenvalue type. Vocabulary: system of ODEs, matrix exponential, eigenvalue, eigenvector, stability, phase portrait, fundamental matrix. Common errors: eigenvector errors propagating to wrong solutions, mishandling complex eigenvalues, and stability classification mistakes."
+    },
+    {
+      "skill": "Singular Value Decomposition (SVD)",
+      "teks": "College.LA.19",
+      "teks_description": "College-level: Extends beyond HS TEKS; SVD factorization",
+      "prompt": "This topic covers SVD factorization for Linear Algebra students (College.LA.19). Every m×n matrix A can be factored as A = U*Sigma*V^T where U (m×m) and V (n×n) are orthogonal, and Sigma (m×n) is diagonal with non-negative singular values. Key concepts: singular values are square roots of eigenvalues of A^T*A, U columns are eigenvectors of AA^T, V columns are eigenvectors of A^T*A, low-rank approximation (truncated SVD), and condition number. Vocabulary: singular value decomposition, singular value, left/right singular vectors, pseudoinverse, low-rank approximation, condition number. Applications: image compression, data reduction, pseudoinverse. Common errors: ordering singular values, size mismatches, and confusing SVD with eigendecomposition."
+    },
+    {
+      "skill": "Polar Decomposition",
+      "teks": "College.LA.20",
+      "teks_description": "College-level: Extends beyond HS TEKS; polar matrix factorization",
+      "prompt": "This topic covers polar matrix factorization for Linear Algebra students (College.LA.20). Every square matrix A can be written as A = UP (right polar) or A = PU (left polar) where U is orthogonal/unitary and P is positive semidefinite symmetric/Hermitian. Key concepts: P = sqrt(A^T*A) for right polar decomposition, connection to SVD (A = U*Sigma*V^T implies A = (UV^T)(V*Sigma*V^T)), geometric interpretation (rotation followed by stretching), and uniqueness conditions. Vocabulary: polar decomposition, positive semidefinite, orthogonal matrix, unitary matrix, rotation, stretching. Common errors: confusing left and right polar forms, square root of matrix computation errors, and not recognizing when P is positive definite vs. semidefinite."
+    },
+    {
+      "skill": "Matrix Factorizations (LU, QR)",
+      "teks": "College.LA.21",
+      "teks_description": "College-level: Extends beyond HS TEKS; matrix factorization methods",
+      "prompt": "This topic covers LU and QR matrix factorizations for Linear Algebra students (College.LA.21). LU: A = LU where L is lower triangular and U is upper triangular (from Gaussian elimination without row swaps; with pivoting: PA = LU). QR: A = QR where Q has orthonormal columns and R is upper triangular (from Gram-Schmidt). Key concepts: LU for efficient system solving (forward/backward substitution), QR for least squares and eigenvalue algorithms, computational advantages over direct methods, and partial pivoting for numerical stability. Vocabulary: LU factorization, QR factorization, lower triangular, upper triangular, orthonormal, pivoting, forward substitution, backward substitution. Common errors: row swap handling in LU, Gram-Schmidt numerical instability, and forgetting permutation matrix in PA = LU."
+    },
+    {
+      "skill": "Cayley-Hamilton Theorem",
+      "teks": "College.LA.22",
+      "teks_description": "College-level: Extends beyond HS TEKS; matrix polynomial identity",
+      "prompt": "This topic covers the Cayley-Hamilton Theorem for Linear Algebra students (College.LA.22). Every square matrix satisfies its own characteristic equation: if p(lambda) = det(A - lambda*I) is the characteristic polynomial, then p(A) = 0 (zero matrix). Key concepts: computing the characteristic polynomial, substituting the matrix into it, using the theorem to express A^(-1) as a polynomial in A, computing high powers of A efficiently, and minimal polynomial. Vocabulary: Cayley-Hamilton Theorem, characteristic polynomial, minimal polynomial, matrix polynomial, annihilating polynomial. Applications: computing matrix powers and inverses. Common errors: evaluating p(A) incorrectly (must replace lambda^0 with I, not 1), confusing with eigenvalue substitution, and minimal polynomial errors."
+    },
+    {
+      "skill": "Applications to Computer Graphics",
+      "teks": "College.LA.23",
+      "teks_description": "College-level: Extends beyond HS TEKS; transformation matrices in graphics",
+      "prompt": "This topic covers transformation matrices in computer graphics for Linear Algebra students (College.LA.23). Students should apply matrices for 2D and 3D transformations: rotation, scaling, reflection, shearing, and translation (using homogeneous coordinates). Key concepts: 2D rotation matrix [[cos,-sin],[sin,cos]], 3D rotation matrices about coordinate axes, homogeneous coordinates for combining affine transformations, composition of transformations via matrix multiplication, and projection matrices (orthographic and perspective). Vocabulary: transformation matrix, rotation, scaling, shearing, translation, homogeneous coordinates, affine transformation, projection, viewport, rendering pipeline. Common errors: rotation direction conventions, matrix multiplication order (right-to-left for composition), and forgetting homogeneous coordinate division."
+    },
+    {
+      "skill": "Complex Vector Spaces",
+      "teks": "College.LA.24",
+      "teks_description": "College-level: Extends beyond HS TEKS; complex-valued vector spaces",
+      "prompt": "This topic covers complex-valued vector spaces for Linear Algebra students (College.LA.24). Students should extend real linear algebra concepts to complex scalars: complex inner product <u,v> = sum u_i*conj(v_i), Hermitian (conjugate) transpose A* = conj(A^T), unitary matrices (U*U = I), and Hermitian matrices (A* = A). Key concepts: complex eigenvalues come in conjugate pairs for real matrices, Hermitian matrices have real eigenvalues, unitary matrices preserve lengths, and spectral theorem for Hermitian matrices. Vocabulary: complex vector space, Hermitian, unitary, conjugate transpose, Hermitian transpose, sesquilinear, complex inner product. Common errors: forgetting conjugation in inner products, confusing transpose with Hermitian transpose, and applying real-only theorems to complex spaces."
+    },
+    {
+      "skill": "Dual Spaces and Transposes",
+      "teks": "College.LA.25",
+      "teks_description": "College-level: Extends beyond HS TEKS; dual space theory",
+      "prompt": "This topic covers dual space theory for Linear Algebra students (College.LA.25). The dual space V* of a vector space V is the space of all linear functionals (linear maps from V to the scalar field). Key concepts: dual basis, natural isomorphism between V and V** (double dual) for finite-dimensional spaces, transpose of a linear transformation (T*: W* -> V* defined by T*(f) = f composed with T), annihilator of a subspace, and the relationship between rank(A) and rank(A^T). Vocabulary: dual space, linear functional, dual basis, double dual, natural isomorphism, transpose, annihilator, reflexive. Common errors: confusing dual space with the space itself, incorrect dual basis construction, and misunderstanding natural isomorphism."
+    },
+    {
+      "skill": "Bilinear and Quadratic Forms",
+      "teks": "College.LA.26",
+      "teks_description": "College-level: Extends beyond HS TEKS; bilinear form theory",
+      "prompt": "This topic covers bilinear and quadratic forms for Linear Algebra students (College.LA.26). A bilinear form B: V×V -> F is linear in each argument: B(u,v) = u^T*A*v. A quadratic form Q(v) = B(v,v) = v^T*A*v. Key concepts: symmetric bilinear forms, matrix representation, Sylvester's law of inertia (signature is invariant under change of basis), classifying forms (positive/negative definite, semidefinite, indefinite), and polarization identity (recovering B from Q). Vocabulary: bilinear form, quadratic form, symmetric, skew-symmetric, signature, Sylvester's law, positive definite, index, congruent matrices. Common errors: confusing similar with congruent matrices, incorrect signature determination, and non-symmetric matrix handling."
+    },
+    {
+      "skill": "Norms and Metrics",
+      "teks": "College.LA.27",
+      "teks_description": "College-level: Extends beyond HS TEKS; normed vector spaces",
+      "prompt": "This topic covers normed vector spaces for Linear Algebra students (College.LA.27). A norm ||v|| satisfies: positivity (||v|| >= 0, = 0 iff v = 0), homogeneity (||cv|| = |c|*||v||), and triangle inequality (||u+v|| <= ||u||+||v||). Key norms: Euclidean (L2), Manhattan (L1), max (L-infinity), and matrix norms (operator norm, Frobenius norm). Key concepts: all norms on finite-dimensional spaces are equivalent, norm induces a metric d(u,v) = ||u-v||, unit balls differ by norm, and convergence in normed spaces. Vocabulary: norm, normed space, metric, Euclidean norm, L1 norm, L-infinity norm, Frobenius norm, operator norm, unit ball, equivalence of norms. Common errors: confusing different norms, not verifying norm axioms, and applying infinite-dimensional intuitions to finite-dimensional spaces."
+    },
+    {
+      "skill": "Positive Definite Matrices",
+      "teks": "College.LA.28",
+      "teks_description": "College-level: Extends beyond HS TEKS; positive definiteness properties",
+      "prompt": "This topic covers positive definiteness for Linear Algebra students (College.LA.28). A symmetric matrix A is positive definite if x^T*A*x > 0 for all nonzero x, equivalently all eigenvalues are positive, all leading principal minors (determinants of upper-left submatrices) are positive, and A = R^T*R for some invertible R (Cholesky decomposition). Key concepts: positive semidefinite (>= 0), tests for definiteness, Cholesky factorization A = LL^T, applications to optimization (Hessian test) and statistics (covariance matrices). Vocabulary: positive definite, positive semidefinite, Cholesky decomposition, leading principal minor, Sylvester's criterion, covariance matrix, Hessian. Common errors: not checking symmetry first, confusing positive definite with invertible, and Cholesky computation errors."
+    }
+  ]
+}

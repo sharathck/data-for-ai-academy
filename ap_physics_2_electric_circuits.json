@@ -1,0 +1,46 @@
+{
+  "grade": "AP - Physics 2",
+  "subject": "Electric Circuits",
+  "skills": [
+    {
+      "skill": "Electric Current",
+      "ref": "Unit 3, Topic 3.1",
+      "prompt": "This topic covers electric current for AP Physics 2 students (CED: Unit 3, Topic 3.1). Students should understand that electric current (I) is the rate of charge flow: I = delta-Q/delta-t, measured in amperes (A = C/s). Conventional current direction is the direction positive charges would flow (from high to low potential), opposite to electron flow in metals. Current is the same at all points in a series circuit (charge is conserved, there is no accumulation). In a complete circuit, a battery or power source provides the energy (emf) to drive current through resistive elements. Drift velocity is the average velocity of charge carriers, which is very slow compared to the speed of the electric signal. Students must calculate current and relate it to charge flow. Connect to Ohm's law, circuits, and power. AP exam note: current calculations and understanding of conventional vs. electron flow are foundational. Vocabulary: current, ampere, charge flow, conventional current, electron flow, drift velocity, emf, circuit."
+    },
+    {
+      "skill": "Simple Circuits",
+      "ref": "Unit 3, Topic 3.2",
+      "prompt": "This topic covers simple circuits for AP Physics 2 students (CED: Unit 3, Topic 3.2). Students should understand that a simple circuit consists of an energy source (battery with emf), conducting wires, and a load (resistor). The battery maintains a potential difference that drives current through the circuit. In a series circuit, current is the same through all elements and voltages add: V_total = V1 + V2 + .... In a parallel circuit, voltage is the same across all branches and currents add: I_total = I1 + I2 + .... Switches control current flow by opening or closing the circuit. Short circuits occur when current bypasses the intended path through a low-resistance connection. Students must analyze simple series and parallel circuits and calculate voltages and currents. Connect to Ohm's law, Kirchhoff's rules, and power. AP exam note: series and parallel circuit analysis is heavily tested. Vocabulary: series circuit, parallel circuit, emf, battery, resistor, voltage, current, switch, short circuit."
+    },
+    {
+      "skill": "Resistance, Resistivity, and Ohm’s Law",
+      "ref": "Unit 3, Topic 3.3",
+      "prompt": "This topic covers resistance, resistivity, and Ohm’s law for AP Physics 2 students (CED: Unit 3, Topic 3.3). Students should understand that resistance (R) opposes current flow: R = V/I (Ohm’s law), measured in ohms. Resistance depends on material and geometry: R = rho*L/A, where rho is resistivity, L is length, and A is cross-sectional area. Longer and thinner wires have higher resistance. Resistivity is a material property that generally increases with temperature for metals. Ohmic materials have constant resistance (linear V-I graph); non-ohmic materials (diodes, filament bulbs) have variable resistance. Resistors in series: R_total = R1 + R2. Resistors in parallel: 1/R_total = 1/R1 + 1/R2. Students must calculate resistance and equivalent resistance, and apply Ohm’s law. AP exam note: Ohm’s law and resistor combination calculations are core skills. Vocabulary: resistance, resistivity, Ohm’s law, ohm, series, parallel, equivalent resistance, conductor, ohmic."
+    },
+    {
+      "skill": "Electric Power",
+      "ref": "Unit 3, Topic 3.4",
+      "prompt": "This topic covers electric power for AP Physics 2 students (CED: Unit 3, Topic 3.4). Students should understand that electric power is the rate of energy dissipation or delivery: P = IV = I^2*R = V^2/R. Power is measured in watts (W = J/s). In a resistor, electrical energy converts to thermal energy (Joule heating). The total power delivered by a battery is P = emf * I. Energy consumed over time: E = P*t, often measured in kilowatt-hours (kWh) for practical applications. In series circuits, the resistor with highest R dissipates the most power (same current, P = I^2*R). In parallel circuits, the resistor with lowest R dissipates the most power (same voltage, P = V^2/R). Students must calculate power dissipated in individual resistors and total circuits. Connect to Ohm's law, circuit analysis, and energy conservation. AP exam note: power calculations in circuits are commonly tested. Vocabulary: electric power, watt, Joule heating, energy dissipation, kilowatt-hour, power dissipation."
+    },
+    {
+      "skill": "Compound Direct Current (DC) Circuits",
+      "ref": "Unit 3, Topic 3.5",
+      "prompt": "This topic covers compound DC circuits for AP Physics 2 students (CED: Unit 3, Topic 3.5). Students should understand that compound circuits contain both series and parallel combinations of resistors. Analysis strategy: identify series and parallel groups, simplify step-by-step to find equivalent resistance, then work backwards to find individual currents and voltages. The total current from the battery: I_total = emf / R_total. Voltage divides across series elements; current divides across parallel branches. Internal resistance of a battery (r) reduces the terminal voltage: V_terminal = emf - I*r. Students must systematically simplify compound circuits, calculate all currents and voltages, and account for internal resistance. Connect to Kirchhoff's rules, power, and circuit design. AP exam note: compound circuit analysis is a classic free-response problem. Vocabulary: compound circuit, equivalent resistance, terminal voltage, internal resistance, series-parallel combination, simplification."
+    },
+    {
+      "skill": "Kirchhoff’s Loop Rule",
+      "ref": "Unit 3, Topic 3.6",
+      "prompt": "This topic covers Kirchhoff’s Loop Rule for AP Physics 2 students (CED: Unit 3, Topic 3.6). Students should understand that Kirchhoff’s loop rule (voltage law) states that the sum of all potential differences around any closed loop in a circuit equals zero: sum of delta-V = 0. This is a consequence of conservation of energy. When traversing a loop: voltage increases across a battery (from - to +), decreases across a resistor in the direction of current (V = IR). Multiple loops may be needed for circuits with multiple batteries or complex configurations. Students must choose loop directions, write loop equations with correct signs, and solve simultaneous equations for unknown currents and voltages. Connect to energy conservation, Kirchhoff’s junction rule, and circuit analysis. AP exam note: applying the loop rule to multi-loop circuits is a key analytical skill. Vocabulary: Kirchhoff’s loop rule, voltage law, potential difference, closed loop, conservation of energy, sign convention."
+    },
+    {
+      "skill": "Kirchhoff’s Junction Rule",
+      "ref": "Unit 3, Topic 3.7",
+      "prompt": "This topic covers Kirchhoff’s Junction Rule for AP Physics 2 students (CED: Unit 3, Topic 3.7). Students should understand that Kirchhoff’s junction rule (current law) states that the total current entering a junction equals the total current leaving: sum of I_in = sum of I_out. This is a consequence of conservation of charge (charge does not accumulate at any point). Combined with the loop rule, this provides enough equations to solve any circuit. For a circuit with n unknown currents, you need n independent equations from junctions and loops. Students must identify junctions, write junction equations, and combine them with loop equations to solve complex circuits. Connect to conservation of charge, loop rule, and compound circuits. AP exam note: junction and loop rules together are needed for multi-loop circuit problems. Vocabulary: Kirchhoff’s junction rule, current law, junction, conservation of charge, node, branch current."
+    },
+    {
+      "skill": "Resistor-Capacitor (RC) Circuits",
+      "ref": "Unit 3, Topic 3.8",
+      "prompt": "This topic covers RC circuits for AP Physics 2 students (CED: Unit 3, Topic 3.8). Students should understand that when a capacitor charges through a resistor, the current starts at maximum (I_0 = emf/R) and decays exponentially: I(t) = I_0 * e^(-t/RC), while voltage across the capacitor grows: V_C(t) = emf*(1 - e^(-t/RC)). The time constant tau = RC determines the charging rate: at t = tau, the capacitor reaches about 63 percent of maximum charge. During discharging, both current and voltage decay exponentially with the same time constant. After 5 time constants, the capacitor is approximately fully charged or discharged. Students must calculate time constants, sketch charging and discharging curves, and determine voltages and currents at specific times. Connect to capacitance, exponential functions, and circuit analysis. AP exam note: RC circuit behavior and time constant calculations are tested. Vocabulary: RC circuit, time constant, exponential decay, charging, discharging, capacitor, resistor, tau."
+    }
+  ]
+}

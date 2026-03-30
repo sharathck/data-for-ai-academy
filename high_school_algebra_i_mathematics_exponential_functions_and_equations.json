@@ -1,0 +1,51 @@
+{
+  "grade": "High School - Algebra I",
+  "subject": "Mathematics - Exponential functions and equations",
+  "skills": [
+    {
+      "skill": "Domain and range of exponentials: Domain and range of exponential functions: graphs",
+      "teks": "A.9(A)",
+      "prompt": "This topic covers domain and range of exponential functions from graphs for Algebra I students (TEKS A.9(A)). Exponential functions f(x) = ab^x have domain of all real numbers. Range is restricted by the horizontal asymptote: for a > 0, range is (0, infinity) since the function approaches but never reaches 0. Reflections (a < 0) flip the range. Vertical shifts change the asymptote. Students read the asymptote and direction from the graph. Vocabulary: exponential function, asymptote, domain, range, growth, decay. Common errors: including the asymptote in the range, stating range as all reals, and not recognizing reflections."
+    },
+    {
+      "skill": "Domain and range of exponentials: Domain and range of exponential functions: equations",
+      "teks": "A.9(A)",
+      "prompt": "This topic covers domain and range of exponential functions from equations for Algebra I students (TEKS A.9(A)). For f(x) = ab^x + d: domain is all real numbers, horizontal asymptote is y = d, range is (d, infinity) if a > 0 or (-infinity, d) if a < 0. The base b determines growth vs decay, but a and d affect the range. Vocabulary: exponential function, horizontal asymptote, domain, range, vertical shift. Common errors: forgetting the vertical shift d when determining range, including the asymptote in the range, and confusing the roles of a, b, and d."
+    },
+    {
+      "skill": "Values of a and b in exponentials: Exponential growth and decay: word problems",
+      "teks": "A.9(B)",
+      "prompt": "This topic covers exponential growth and decay word problems for Algebra I students (TEKS A.9(B)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+    },
+    {
+      "skill": "Writing exponential functions: Write exponential functions: word problems",
+      "teks": "A.9(C)",
+      "prompt": "This topic covers writing exponential functions from word problems for Algebra I students (TEKS A.9(C)). Students identify initial value a and growth/decay factor b from context and write f(x) = ab^x. For percentage growth r, b = 1+r; for decay, b = 1-r. Process: identify initial amount, determine rate, classify as growth or decay, write equation, make predictions. Common contexts: population, investment, depreciation, bacterial growth. Vocabulary: exponential function, initial value, growth factor, decay factor, model. Common errors: writing linear instead of exponential models, confusing rate with factor, and not defining variables."
+    },
+    {
+      "skill": "Writing exponential functions: Exponential growth and decay: word problems",
+      "teks": "A.9(C)",
+      "prompt": "This topic covers exponential growth and decay word problems for Algebra I students (TEKS A.9(C)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+    },
+    {
+      "skill": "Graphing exponential functions: Graph exponential functions",
+      "teks": "A.9(D)",
+      "prompt": "This topic covers graphing exponential functions for Algebra I students (TEKS A.9(D)). For f(x) = ab^x: plot y-intercept (0, a), draw horizontal asymptote y = 0, create table of values, sketch curve. For b > 1 (growth): rises left to right. For 0 < b < 1 (decay): falls left to right. Key points: (0, a), (1, ab), (-1, a/b). The function never crosses the asymptote (for a > 0). With vertical shift d, asymptote moves to y = d. Vocabulary: exponential function, asymptote, growth, decay, y-intercept, end behavior. Common errors: drawing curve crossing the asymptote, not plotting enough points, and forgetting to shift asymptote."
+    },
+    {
+      "skill": "Graphing exponential functions: Match exponential functions and graphs I",
+      "teks": "A.9(D)",
+      "prompt": "This topic covers matching exponential functions to graphs (set I) for Algebra I students (TEKS A.9(D)). Students analyze: y-intercept f(0) = a, direction of growth or decay, horizontal asymptote, and rate of change. For f(x) = ab^x: a determines y-intercept, b > 1 means growth, 0 < b < 1 means decay. Strategies: compute f(0) to find y-intercept, check f(1) for direction and steepness. Vocabulary: exponential growth, decay, y-intercept, horizontal asymptote, base. Common errors: confusing growth and decay, not checking y-intercept, and ignoring curve steepness."
+    },
+    {
+      "skill": "Graphing exponential functions: Match exponential functions and graphs II",
+      "teks": "A.9(D)",
+      "prompt": "This topic covers matching exponential functions to graphs (set II, more complex) for Algebra I students (TEKS A.9(D)). Problems involve transformations: vertical shifts f(x) = ab^x + d, reflections f(x) = -ab^x, and horizontal shifts. Students analyze asymptote location, direction, and y-intercept f(0) = a + d. Vocabulary: transformation, vertical shift, reflection, horizontal asymptote. Students check multiple features before selecting. Common errors: ignoring transformations, misidentifying asymptote, computing f(0) incorrectly with shifts, and confusing reflections with decay."
+    },
+    {
+      "skill": "Exponential regression: Exponential regression",
+      "teks": "A.9(E)",
+      "prompt": "This topic covers exponential regression for Algebra I students (TEKS A.9(E)). Students use technology to find y = ab^x that best fits data. Steps: enter data, run exponential regression, interpret a and b, use for predictions. Correlation coefficient r indicates fit quality. Students compare exponential vs linear models. Vocabulary: regression, exponential model, correlation coefficient, residual, best fit, interpolation, extrapolation. Common errors: using model far outside data range, confusing with linear regression, and misinterpreting R^2."
+    }
+  ]
+}

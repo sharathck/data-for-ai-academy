@@ -1,0 +1,31 @@
+{
+  "grade": "AP - Physics 1",
+  "subject": "Kinematics",
+  "skills": [
+    {
+      "skill": "Scalars and Vectors in One Dimension",
+      "ref": "Unit 1, Topic 1.1",
+      "prompt": "This topic covers scalars and vectors in one dimension for AP Physics 1 students (CED: Unit 1, Topic 1.1). Students should understand the fundamental distinction between scalar quantities (magnitude only: distance, speed, time, mass, energy) and vector quantities (magnitude and direction: displacement, velocity, acceleration, force). In one dimension, direction is indicated by positive or negative signs relative to a chosen coordinate system. Students must add and subtract vectors along a line, understanding that displacement is a change in position (delta-x = x_final - x_initial) and can be positive, negative, or zero even when distance traveled is nonzero. Connect to kinematics equations, Newton's laws, and momentum. AP exam note: correctly using signs for direction in one-dimensional problems is critical for success. Vocabulary: scalar, vector, displacement, distance, velocity, speed, magnitude, direction, coordinate system."
+    },
+    {
+      "skill": "Displacement, Velocity, and Acceleration",
+      "ref": "Unit 1, Topic 1.2",
+      "prompt": "This topic covers displacement, velocity, and acceleration for AP Physics 1 students (CED: Unit 1, Topic 1.2). Students should understand that velocity is the rate of change of displacement (v = delta-x / delta-t) and acceleration is the rate of change of velocity (a = delta-v / delta-t). Average velocity considers total displacement over total time, while instantaneous velocity is the velocity at a specific moment (slope of position-time graph). The kinematic equations for constant acceleration are: v = v0 + at, x = x0 + v0*t + (1/2)at^2, v^2 = v0^2 + 2a(delta-x), and x = x0 + (1/2)(v + v0)t. Students must solve problems using these equations, interpret motion graphs, and distinguish between average and instantaneous quantities. Connect to free fall, projectile motion, and Newton's second law. AP exam note: graphical analysis of motion is heavily tested. Vocabulary: displacement, velocity, acceleration, kinematic equations, instantaneous, average, constant acceleration."
+    },
+    {
+      "skill": "Representing Motion",
+      "ref": "Unit 1, Topic 1.3",
+      "prompt": "This topic covers representing motion for AP Physics 1 students (CED: Unit 1, Topic 1.3). Students should understand how to interpret and create position-time (x-t), velocity-time (v-t), and acceleration-time (a-t) graphs. The slope of x-t gives velocity; the slope of v-t gives acceleration. The area under a v-t graph gives displacement; the area under an a-t graph gives change in velocity. Motion diagrams (dot diagrams) show an object's position at equal time intervals, with dot spacing indicating speed changes. Students must translate between graphical, mathematical, and verbal representations of motion and recognize constant velocity (linear x-t) vs. constant acceleration (parabolic x-t, linear v-t). Connect to kinematic equations, data analysis, and experimental design. AP exam note: translating between motion representations is a core skill. Vocabulary: position-time graph, velocity-time graph, acceleration-time graph, slope, area under curve, motion diagram."
+    },
+    {
+      "skill": "Reference Frames and Relative Motion",
+      "ref": "Unit 1, Topic 1.4",
+      "prompt": "This topic covers reference frames and relative motion for AP Physics 1 students (CED: Unit 1, Topic 1.4). Students should understand that motion is described relative to a chosen reference frame, and different observers may describe the same motion differently. The velocity of object A relative to object B is found by vector subtraction: v_AB = v_A - v_B (in one dimension). In the reference frame of one moving object, another moving object has a different velocity than in the ground frame. All inertial reference frames (non-accelerating) are equally valid for applying Newton's laws. Students must solve relative velocity problems and explain why different observers may disagree about velocities but agree about accelerations in inertial frames. Connect to Galilean relativity, projectile motion, and forces. AP exam note: relative velocity problems test conceptual understanding of frames. Vocabulary: reference frame, relative velocity, inertial frame, observer, ground frame, Galilean relativity."
+    },
+    {
+      "skill": "Vectors and Motion in Two Dimensions",
+      "ref": "Unit 1, Topic 1.5",
+      "prompt": "This topic covers vectors and motion in two dimensions for AP Physics 1 students (CED: Unit 1, Topic 1.5). Students should understand that 2D motion can be analyzed by treating horizontal and vertical components independently. Vectors are resolved into components using trigonometry: Ax = A*cos(theta), Ay = A*sin(theta). Vectors are added by adding components: Rx = Ax + Bx, Ry = Ay + By. The magnitude of the resultant is R = sqrt(Rx^2 + Ry^2) and direction theta = arctan(Ry/Rx). For projectile motion, horizontal velocity is constant (no horizontal acceleration) while vertical motion has constant acceleration g downward. The kinematic equations apply independently to each direction. Students must solve projectile motion problems and add vectors using components. Connect to forces at angles, circular motion, and momentum in 2D. AP exam note: projectile motion and vector component analysis are heavily tested. Vocabulary: component, resultant, vector addition, projectile motion, trajectory, range, horizontal, vertical."
+    }
+  ]
+}

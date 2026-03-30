@@ -1,0 +1,126 @@
+{
+  "grade": "High School - Algebra II",
+  "subject": "Mathematics - Cubic, cube root, absolute value and rational functions, equations, and inequalities",
+  "skills": [
+    {
+      "skill": "Analyze the effect on the graphs of f(x) = x³ and f(x) = ³√x when f(x) is replaced by af(x), f(bx), f(x - c), and f(x) + d for specific positive and negative real values of a, b, c, and d;",
+      "teks": "2A.6(A)",
+      "prompt": "This topic covers analyze the effect on the graphs of f(x) = x³ and f(x) = ³√x when f(x) is replaced by af(x), f(bx), f(x (c), and f(x) + d for specific positive and negative real values of a, b, c, and d;) for Algebra II students (TEKS 2A.6(A)). Analyze transformations of f(x) = x^3 and f(x) = cbrt(x): af(x) stretches/reflects vertically, f(bx) stretches horizontally, f(x-c)+d shifts. Both have domain/range of all reals. Key vocabulary includes: cubic function, cube root function, transformation, inflection point. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Graph cube root functions",
+      "teks": "2A.6(A)",
+      "prompt": "This topic covers graph cube root functions for Algebra II students (TEKS 2A.6(A)). Parent f(x) = cbrt(x) has S-shape through origin, defined for all reals. Key points: (-8,-2), (-1,-1), (0,0), (1,1), (8,2). Transformations shift the inflection point. Key vocabulary includes: cube root function, S-curve, inflection point, transformation, domain. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve cube root equations that have real roots;",
+      "teks": "2A.6(B)",
+      "prompt": "This topic covers solve cube root equations that have real roots; for Algebra II students (TEKS 2A.6(B)). Isolate the cube root, cube both sides. Unlike square root equations, cubing does not introduce extraneous solutions since the cube function is one-to-one. Key vocabulary includes: cube root equation, isolate, cube both sides, one-to-one, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Analyze the effect on the graphs of f(x) = |x| when f(x) is replaced by af(x), f(bx), f(x-c), and f(x) + d for specific positive and negative real values of a, b, c, and d;",
+      "teks": "2A.6(C)",
+      "prompt": "This topic covers analyzing transformations of the absolute value function for Algebra II students (TEKS 2A.6(C)). Examine how af(x), f(bx), f(x-c), f(x)+d transform f(x) = |x|. The V-shaped parent has vertex at origin. a changes steepness/direction, b stretches horizontally, c shifts vertex horizontally, d shifts vertically. Vertex moves to (c, d). Key vocabulary: absolute value, V-shape, vertex, transformation. Common errors: confusing horizontal shift direction and not applying transformations to both branches."
+    },
+    {
+      "skill": "Graph an absolute value function",
+      "teks": "2A.6(C)",
+      "prompt": "This topic covers graph an absolute value function for Algebra II students (TEKS 2A.6(C)). For f(x) = a|x-h| + k: vertex at (h, k), V opens up if a > 0 and down if a < 0. Slope of right branch is a, left branch is -a. Plot the vertex, use slope to find points on each branch, connect with straight lines forming a V-shape. Key vocabulary includes: absolute value function, vertex, V-shape, slope, piecewise linear. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Transformations of absolute value functions",
+      "teks": "2A.6(C)",
+      "prompt": "This topic covers transformations of absolute value functions for Algebra II students (TEKS 2A.6(C)). Transformations of f(x) = |x|: vertical stretch/compression by |a|, reflection if a < 0, horizontal shift h, vertical shift k in g(x) = a|x-h| + k. Key vocabulary includes: transformation, stretch, compression, reflection, translation, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Formulate absolute value linear equations;",
+      "teks": "2A.6(D)",
+      "prompt": "This topic covers formulate absolute value linear equations; for Algebra II students (TEKS 2A.6(D)). Translate real-world tolerance/distance problems into absolute value equations. |x - target| = tolerance means x is exactly 'tolerance' units from 'target.' Key vocabulary includes: absolute value, tolerance, target, deviation, distance, formulate. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Write absolute value equations from graphs",
+      "teks": "2A.6(D)",
+      "prompt": "This topic covers write absolute value equations from graphs for Algebra II students (TEKS 2A.6(D)). For f(x) = a|x-h| + k: vertex at (h, k), V opens up if a > 0 and down if a < 0. Slope of right branch is a, left branch is -a. Plot the vertex, use slope to find points on each branch, connect with straight lines forming a V-shape. Key vocabulary includes: absolute value function, vertex, V-shape, slope, piecewise linear. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve absolute value linear equations;",
+      "teks": "2A.6(E)",
+      "prompt": "This topic covers solve absolute value linear equations; for Algebra II students (TEKS 2A.6(E)). For |expression| = k: if k > 0, split into expression = k and expression = -k; if k = 0, solve expression = 0; if k < 0, no solution. Key vocabulary includes: absolute value equation, isolate, two cases, verify, no solution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve absolute value equations",
+      "teks": "2A.6(E)",
+      "prompt": "This topic covers solve absolute value equations for Algebra II students (TEKS 2A.6(E)). For |expression| = k: if k > 0, split into expression = k and expression = -k; if k = 0, solve expression = 0; if k < 0, no solution. Key vocabulary includes: absolute value equation, isolate, two cases, verify, no solution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Graph solutions to absolute value equations",
+      "teks": "2A.6(E)",
+      "prompt": "This topic covers graph solutions to absolute value equations for Algebra II students (TEKS 2A.6(E)). After solving, plot solutions on a number line. For |x-a| = b: solutions at x = a+b and x = a-b, symmetric about x = a. Key vocabulary includes: absolute value equation, number line, solution, symmetric, distance. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve absolute value linear inequalities;",
+      "teks": "2A.6(F)",
+      "prompt": "This topic covers solve absolute value linear inequalities; for Algebra II students (TEKS 2A.6(F)). For |expression| < k: write as -k < expression < k (AND). For |expression| > k: expression < -k OR expression > k. Isolate the absolute value first. Key vocabulary includes: absolute value inequality, compound inequality, conjunction, disjunction, interval notation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve absolute value inequalities",
+      "teks": "2A.6(F)",
+      "prompt": "This topic covers solve absolute value inequalities for Algebra II students (TEKS 2A.6(F)). For |expression| < k: write as -k < expression < k (AND). For |expression| > k: expression < -k OR expression > k. Isolate the absolute value first. Key vocabulary includes: absolute value inequality, compound inequality, conjunction, disjunction, interval notation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Graph solutions to absolute value inequalities",
+      "teks": "2A.6(F)",
+      "prompt": "This topic covers graph solutions to absolute value inequalities for Algebra II students (TEKS 2A.6(F)). Graph absolute value inequality solutions on a number line. Less-than type gives a bounded interval; greater-than type gives two unbounded rays. Key vocabulary includes: number line, interval, open/closed circle, ray, solution set. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Analyze the effect on the graphs of f(x) = 1/x when f(x) is replaced by af(x), f(bx), f(x - c), and f(x) + d for specific positive and negative real values of a, b, c, and d;",
+      "teks": "2A.6(G)",
+      "prompt": "This topic covers analyze the effect on the graphs of f(x) = 1/x when f(x) is replaced by af(x), f(bx), f(x (c), and f(x) + d for specific positive and negative real values of a, b, c, and d;) for Algebra II students (TEKS 2A.6(G)). The parent f(x) = 1/x has vertical asymptote x=0 and horizontal asymptote y=0. Transformations: a/(b(x-c))+d shifts asymptotes to x=c and y=d. Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, hyperbola, transformation. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Formulate rational equations that model real-world situations;",
+      "teks": "2A.6(H)",
+      "prompt": "This topic covers formulate rational equations that model real-world situations; for Algebra II students (TEKS 2A.6(H)). Set up equations involving ratios, rates, or proportions. Common contexts: work rate (1/t = 1/t1 + 1/t2), mixture concentrations, speed/distance/time. Key vocabulary includes: rational equation, rate, proportion, work rate, concentration. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve rational equations that have real solutions;",
+      "teks": "2A.6(I)",
+      "prompt": "This topic covers solve rational equations that have real solutions; for Algebra II students (TEKS 2A.6(I)). Find LCD, multiply every term to clear fractions, solve the resulting equation, CHECK all solutions against original denominators for extraneous solutions. Key vocabulary includes: rational equation, LCD, extraneous solution, excluded value, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Solve rational equations",
+      "teks": "2A.6(I)",
+      "prompt": "This topic covers solve rational equations for Algebra II students (TEKS 2A.6(I)). Find LCD, multiply every term to clear fractions, solve the resulting equation, CHECK all solutions against original denominators for extraneous solutions. Key vocabulary includes: rational equation, LCD, extraneous solution, excluded value, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Determine the reasonableness of a solution to a rational equation;",
+      "teks": "2A.6(J)",
+      "prompt": "This topic covers determining reasonableness of solutions to rational equations for Algebra II students (TEKS 2A.6(J)). After solving, verify solutions do not make any denominator zero. Substitute back to check validity. If a solution equals an excluded value, it is extraneous. Key vocabulary: extraneous solution, excluded value, domain restriction, verify. Common errors: accepting solutions without checking denominators, and not identifying all excluded values."
+    },
+    {
+      "skill": "Solve rational equations",
+      "teks": "2A.6(J)",
+      "prompt": "This topic covers solve rational equations for Algebra II students (TEKS 2A.6(J)). Find LCD, multiply every term to clear fractions, solve the resulting equation, CHECK all solutions against original denominators for extraneous solutions. Key vocabulary includes: rational equation, LCD, extraneous solution, excluded value, verify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Determine the asymptotic restrictions on the domain of a rational function and represent domain and range using interval notation, inequalities, and set notation;",
+      "teks": "2A.6(K)",
+      "prompt": "This topic covers determine the asymptotic restrictions on the domain of a rational function and represent domain and range using interval notation, inequalities, and set notation; for Algebra II students (TEKS 2A.6(K)). For f(x) = p(x)/q(x): vertical asymptotes where q(x) = 0 and the factor does not cancel. Horizontal asymptote depends on degree comparison. Degrees rule: num < den gives HA y=0; equal degrees gives HA = leading coeff ratio; num > den gives no HA (possible oblique). Express domain/range three ways: interval notation (-inf, 3) U (3, inf), inequality notation x < 3 or x > 3, set notation {x | x is not 3}. Key vocabulary includes: domain, range, interval notation, set notation, inequality notation, union. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not factoring first, confusing holes with asymptotes, misapplying degree rules."
+    },
+    {
+      "skill": "Rational functions: asymptotes and excluded values",
+      "teks": "2A.6(K)",
+      "prompt": "This topic covers rational functions (asymptotes and excluded values) for Algebra II students (TEKS 2A.6(K)). For f(x) = p(x)/q(x): vertical asymptotes where q(x) = 0 and the factor does not cancel. Horizontal asymptote depends on degree comparison. Degrees rule: num < den gives HA y=0; equal degrees gives HA = leading coeff ratio; num > den gives no HA (possible oblique). Key vocabulary includes: rational function, vertical asymptote, horizontal asymptote, excluded value, hole, degree. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: not factoring first, confusing holes with asymptotes, misapplying degree rules."
+    },
+    {
+      "skill": "Formulate and solve equations involving inverse variation.",
+      "teks": "2A.6(L)",
+      "prompt": "This topic covers formulate and solve equations involving inverse variation. for Algebra II students (TEKS 2A.6(L)). In inverse variation y = k/x (or xy = k), as x increases y decreases proportionally. The graph is a hyperbola. Find k from given values, then solve for unknowns. Key vocabulary includes: inverse variation, constant of variation, hyperbola, reciprocal. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    },
+    {
+      "skill": "Write and solve inverse variation equations",
+      "teks": "2A.6(L)",
+      "prompt": "This topic covers write and solve inverse variation equations for Algebra II students (TEKS 2A.6(L)). In inverse variation y = k/x (or xy = k), as x increases y decreases proportionally. The graph is a hyperbola. Find k from given values, then solve for unknowns. Key vocabulary includes: inverse variation, constant of variation, hyperbola, reciprocal. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+    }
+  ]
+}

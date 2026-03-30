@@ -1,0 +1,54 @@
+{
+  "grade": "Grade 1",
+  "subject": "Science",
+  "skills": [
+    {
+      "skill": "Basic life cycles (plants, animals)",
+      "teks": "1.13(B)",
+      "teks_description": "Record observations and describe basic life cycles of organisms",
+      "prompt": "This topic covers Basic life cycles (plants, animals) for Grade 1 students (TEKS 1.13(B) (Record observations and describe basic life cycles of organisms)). Students learn that living organisms go through predictable growth stages. Key concepts include plant life cycles (seed, sprout, seedling, mature plant, flower/fruit/seed), animal life cycles (birth, growth, reproduction, death), and metamorphosis (complete: egg-larva-pupa-adult; incomplete: egg-nymph-adult). Students should compare life cycles and understand that some young don't resemble their parents. Vocabulary: life cycle, stage, growth, metamorphosis, egg, larva, pupa, adult, seed, seedling. Common misconceptions include thinking all animals undergo metamorphosis. Activities should include observing live organisms, sequencing stages, and comparing across species appropriate for ages 6-7."
+    },
+    {
+      "skill": "Introduction to the five senses",
+      "teks": "1.1(E)",
+      "teks_description": "Collect observations and measurements as evidence (using senses to observe)",
+      "prompt": "This topic covers Introduction to the five senses for Grade 1 students (TEKS 1.1(E) (Collect observations and measurements as evidence (using senses to observe))). Students use their five senses (sight, hearing, touch, smell, taste) as scientific observation tools. Key concepts include identifying which sense provides what information, understanding senses as evidence-gathering tools, and safety limits on taste and smell. Vocabulary: observe, senses, sight, hearing, touch, smell, taste, evidence, property, texture. Common misconceptions include thinking only eyes observe. Activities should include sensory stations, mystery boxes, and science journal recording appropriate for ages 6-7. When generating content for this topic, frame questions and explanations using concrete, observable examples that 6-7-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Exploring weather and seasons",
+      "teks": "1.10(D)",
+      "teks_description": "Describe observable weather characteristics and their impacts; 1.9 - Describe and predict seasonal patterns",
+      "prompt": "This topic covers Exploring weather and seasons for Grade 1 students (TEKS 1.10(D) (Describe observable weather characteristics and their impacts; 1.9 - Describe and predict seasonal patterns)). Students learn about daily weather conditions and seasonal patterns. Key concepts include weather elements (temperature, precipitation, wind, clouds), weather vs. seasons, seasonal characteristics, and weather's impact on daily life. Vocabulary: weather, temperature, precipitation, wind, cloud, season, pattern, predict. Common misconceptions include confusing weather with climate and thinking seasons change suddenly. Activities should include daily observations, temperature graphing, and seasonal comparisons appropriate for ages 6-7. When generating content for this topic, frame questions and explanations using concrete, observable examples that 6-7-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Identifying materials and their uses",
+      "teks": "1.6(A)",
+      "teks_description": "Classify objects by observable physical properties, including shape, color, and texture",
+      "prompt": "This topic covers Identifying materials and their uses for Grade 1 students (TEKS 1.6(A) (Classify objects by observable physical properties, including shape, color, and texture)). Students observe, describe, and classify objects by physical properties: color, shape, size, texture, flexibility, hardness, temperature, magnetism, buoyancy. Vocabulary: property, material, texture, hard, soft, flexible, rigid, transparent, magnetic, float, sink, classify. Common misconceptions include confusing properties with uses. Activities should include sorting, testing, and recording properties appropriate for ages 6-7. When generating content for this topic, frame questions and explanations using concrete, observable examples that 6-7-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Understanding how things move (pushes and pulls)",
+      "teks": "1.7(A)",
+      "teks_description": "Explain how pushes and pulls can start, stop, or change the speed or direction of an object's motion",
+      "prompt": "This topic covers Understanding how things move (pushes and pulls) for Grade 1 students (TEKS 1.7(A) (Explain how pushes and pulls can start, stop, or change the speed or direction of an object's motion)). Pushes and pulls are forces that cause motion changes. Key concepts include push=away, pull=toward, force strength affects speed/distance, and forces can change direction. Vocabulary: force, push, pull, motion, speed, direction, strength, distance. Common misconceptions include thinking objects move without force. Activities should include hands-on force experiments, ramp investigations, and connecting to everyday experiences appropriate for ages 6-7. When generating content for this topic, frame questions and explanations using concrete, observable examples that 6-7-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Basic astronomy (sun, moon, and stars)",
+      "teks": "1.9(A)",
+      "teks_description": "Describe and predict patterns of seasons of the year (patterns in nature including sky objects)",
+      "prompt": "This topic covers Basic astronomy (sun, moon, and stars) for Grade 1 students (TEKS 1.9(A) (Describe and predict patterns of seasons of the year (patterns in nature including sky objects))). Students learn about sky objects: the Sun (a star providing light and heat), Moon (reflects sunlight, phases), and stars (distant suns). Key concepts include predictable patterns, Moon phases, and apparent sky movement. Vocabulary: Sun, Moon, star, phase, orbit, rotate, day, night, pattern. Common misconceptions include Moon making its own light and Sun moving around Earth. Activities should include Moon observations, day/night modeling, and phase tracking appropriate for ages 6-7. When generating content for this topic, frame questions and explanations using concrete, observable examples that 6-7-year-olds can relate to from their daily lives."
+    },
+    {
+      "skill": "Living vs. non-living things",
+      "teks": "1.12(A)",
+      "teks_description": "Classify living and nonliving things based upon whether they have basic needs and produce young",
+      "prompt": "This topic covers Living vs. non-living things for Grade 1 students (TEKS 1.12(A) (Classify living and nonliving things based upon whether they have basic needs and produce young)). Students classify things as living (need food/water/air, grow, reproduce, respond) or nonliving. Vocabulary: living, nonliving, needs, grow, reproduce, respond, organism. Common misconceptions include classifying dead things as nonliving and moving objects as living. Activities should include sorting, observing organisms, and discussing edge cases appropriate for ages 6-7. When generating content for this topic, frame questions and explanations using concrete, observable examples that 6-7-year-olds can relate to from their daily lives. Encourage scientific thinking by asking students to predict outcomes before investigating, describe what they observe using precise vocabulary, and explain their reasoning."
+    },
+    {
+      "skill": "Introduction to simple experiments",
+      "teks": "1.1(B)",
+      "teks_description": "Use scientific practices to plan and conduct investigations and engineering practices to design solutions",
+      "prompt": "This topic covers Introduction to simple experiments for Grade 1 students (TEKS 1.1(B) (Use scientific practices to plan and conduct investigations and engineering practices to design solutions)). Students learn scientific investigation: asking questions, predicting, designing tests, collecting data, drawing conclusions. Key concepts include testable questions, fair tests (one variable), and evidence-based conclusions. Vocabulary: question, predict, investigate, observe, record, data, conclusion, fair test, variable. Common misconceptions include thinking experiments need lab equipment. Activities should include guided investigations, science notebooks, and follow-up questioning appropriate for ages 6-7. When generating content for this topic, frame questions and explanations using concrete, observable examples that 6-7-year-olds can relate to from their daily lives."
+    }
+  ]
+}
