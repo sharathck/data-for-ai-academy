@@ -2,575 +2,575 @@
   "AP - Calculus BC": {
     "Limits and Continuity": [
       {
-        "skill": "Change: Introducing Calculus: Can Change Occur at an Instant?",
+        "skill": "CHA-1.A Limits and Continuity - Change: Introducing Calculus: Can Change Occur at an Instant?",
         "ref": "CHA-1.A",
         "prompt": "This topic introduces the foundational question of calculus for AP Calculus BC students: can change occur at an instant? (CED: CHA-1.A, Unit 1). Students explore how average rates of change over shrinking intervals approach an instantaneous rate of change via limits. Key concepts include the difference quotient [f(b)-f(a)]/(b-a) as average rate of change, the transition from secant lines to tangent lines, and real-world contexts like instantaneous velocity. In BC, this concept extends into parametric and vector-valued contexts where instantaneous rates of change apply to each component. Students should connect this to the limit definition of the derivative and understand that calculus formalizes the idea of instantaneous change. AP exam note: BC students should be comfortable interpreting rates of change in multidimensional motion contexts as well as single-variable contexts. Vocabulary: average rate of change, instantaneous rate of change, secant line, difference quotient, limit, tangent."
       },
       {
-        "skill": "Limits: Defining Limits and Using Limit Notation",
+        "skill": "LIM-1.A, LIM-1.B Limits and Continuity - Limits: Defining Limits and Using Limit Notation",
         "ref": "LIM-1.A, LIM-1.B",
         "prompt": "This topic covers defining limits and using limit notation for AP Calculus BC (CED: LIM-1.A, LIM-1.B, Unit 1). The limit of f(x) as x approaches c, written lim[x->c] f(x) = L, means f(x) can be made arbitrarily close to L for x sufficiently close to c (but x != c). Key concepts: one-sided limits (left-hand lim[x->c-] and right-hand lim[x->c+]); a two-sided limit exists if and only if both one-sided limits exist and are equal; the limit may exist even when f(c) is undefined or differs from L. BC students use limits extensively in series convergence, improper integrals, and parametric/polar contexts. Students should read limits from graphs, tables, and algebraic expressions. AP exam note: limit notation and concepts are foundational to all BC topics including sequences, series, and convergence tests. Vocabulary: limit, left-hand limit, right-hand limit, two-sided limit, notation, approaches, epsilon-delta."
       },
       {
-        "skill": "Change: Estimating Limit Values from Graphs",
+        "skill": "LIM-1.C Limits and Continuity - Change: Estimating Limit Values from Graphs",
         "ref": "LIM-1.C",
         "prompt": "This topic covers estimating limit values from graphs for AP Calculus BC (CED: LIM-1.C, Unit 1). Students read graphs to determine one-sided and two-sided limits by observing the y-value a function approaches near a given x-value. Key concepts: distinguishing f(c) from lim[x->c] f(x); identifying when limits do not exist due to differing one-sided behaviors; recognizing unbounded behavior indicating infinite limits; reading open and closed circles correctly on graphs of piecewise functions. BC students apply graphical limit estimation to more complex functions, including those arising from parametric or polar representations. Students should be comfortable with graphs showing jumps, holes, and vertical asymptotes. AP exam note: graphical limit questions appear in multiple-choice sections and as parts of free-response problems involving accumulation functions and series. Vocabulary: graphical limit, open circle, closed circle, piecewise, jump discontinuity, unbounded."
       },
       {
-        "skill": "Limits: Estimating Limit Values from Tables",
+        "skill": "LIM-1.C Limits and Continuity - Limits: Estimating Limit Values from Tables",
         "ref": "LIM-1.C",
         "prompt": "This topic covers estimating limits from numerical tables for AP Calculus BC (CED: LIM-1.C, Unit 1). Students examine function values at inputs approaching the target from both sides to estimate limits. Key concepts: constructing tables with x-values like c-0.1, c-0.01, c-0.001 and c+0.1, c+0.01, c+0.001; observing trends in f(x) to estimate the limit; recognizing when numerical evidence suggests the limit does not exist (oscillation, divergent values). Tables provide estimates, not proofs. BC students apply this skill in broader contexts including convergence of sequences and estimating series sums. Students should understand limitations of numerical methods and verify with analytical techniques when possible. AP exam note: tabular data appears frequently in BC free-response problems, often requiring estimation of derivatives and integrals alongside limits. Vocabulary: numerical estimate, approaching, trend, table of values, left-hand, right-hand, convergence."
       },
       {
-        "skill": "Limits: Determining Limits Using Algebraic Properties of Limits",
+        "skill": "LIM-1.D Limits and Continuity - Limits: Determining Limits Using Algebraic Properties of Limits",
         "ref": "LIM-1.D",
         "prompt": "This topic covers algebraic limit properties for AP Calculus BC (CED: LIM-1.D, Unit 1). If lim[x->c] f(x) and lim[x->c] g(x) both exist, limits preserve arithmetic: limit of a sum = sum of limits, limit of a product = product of limits, limit of a quotient = quotient of limits (denominator != 0), and limit of [f(x)]^n = [lim f(x)]^n. Direct substitution works for polynomials and rational functions where the denominator is nonzero. These properties extend to compositions under appropriate continuity conditions. BC students apply these properties in more complex settings including sequences (limit laws for sequences), power series, and convergence tests. Mastery of limit properties enables efficient computation throughout the course. AP exam note: these properties are used implicitly in nearly every convergence test and derivative/integral computation. Vocabulary: limit laws, sum rule, product rule, quotient rule, direct substitution, composition."
       },
       {
-        "skill": "Limits: Determining Limits Using Algebraic Manipulation",
+        "skill": "LIM-1.E Limits and Continuity - Limits: Determining Limits Using Algebraic Manipulation",
         "ref": "LIM-1.E",
         "prompt": "This topic covers algebraic manipulation for evaluating limits in AP Calculus BC (CED: LIM-1.E, Unit 1). When direct substitution yields 0/0, students manipulate the expression: factoring and canceling, conjugate multiplication for radicals, simplifying complex fractions, using trigonometric identities, and expanding expressions. Foundational limits: lim[x->0] sin(x)/x = 1 and lim[x->0] (1-cos(x))/x = 0. BC students encounter these techniques in more sophisticated contexts including evaluating limits that arise in series convergence tests and improper integral evaluation. Students should recognize the indeterminate form and select the appropriate algebraic technique to resolve it. AP exam note: algebraic manipulation of limits is tested throughout the BC exam, including in the context of L'Hopital's Rule (which provides an alternative when available). Vocabulary: indeterminate form, factoring, conjugate, rationalize, simplify, trigonometric identity, 0/0."
       },
       {
-        "skill": "Limits: Selecting Procedures for Determining Limits",
+        "skill": "LIM-1.D, LIM-1.E Limits and Continuity - Limits: Selecting Procedures for Determining Limits",
         "ref": "LIM-1.D, LIM-1.E",
         "prompt": "This topic covers selecting limit evaluation procedures for AP Calculus BC (CED: LIM-1.D, LIM-1.E, Unit 1). Students strategically choose among: direct substitution, factoring, conjugate multiplication, simplification, trigonometric identities, or the Squeeze Theorem. Decision process: (1) try direct substitution; (2) if finite, that is the limit; (3) if nonzero/zero, limit is infinite or DNE; (4) if 0/0, apply algebraic manipulation or L'Hopital's Rule. BC students must also consider whether series-related limit techniques (Ratio Test, Root Test) are appropriate. This topic synthesizes all limit techniques and emphasizes efficient problem-solving. AP exam note: the ability to quickly identify the right approach is critical for time management on the BC exam, which has additional series and parametric content. Vocabulary: procedure selection, direct substitution, indeterminate form, factoring, conjugate, L'Hopital's Rule, efficiency."
       },
       {
-        "skill": "Limits: Determining Limits Using the Squeeze Theorem",
+        "skill": "LIM-1.E Limits and Continuity - Limits: Determining Limits Using the Squeeze Theorem",
         "ref": "LIM-1.E",
         "prompt": "This topic covers the Squeeze Theorem for AP Calculus BC (CED: LIM-1.E, Unit 1). If g(x) <= f(x) <= h(x) near c, and lim[x->c] g(x) = lim[x->c] h(x) = L, then lim[x->c] f(x) = L. This is essential for limits involving oscillating functions, such as lim[x->0] x^2 sin(1/x) = 0. Key concepts: identifying appropriate bounding functions, verifying the inequality near the point, and confirming matching limits of the bounds. BC students also apply squeeze-type reasoning in sequence and series contexts. The Squeeze Theorem for sequences states: if a_n <= b_n <= c_n and lim a_n = lim c_n = L, then lim b_n = L. AP exam note: the Squeeze Theorem appears occasionally and tests the student's ability to identify bounds and justify the argument rigorously. Vocabulary: Squeeze Theorem, Sandwich Theorem, bounding functions, inequality, oscillating function, sequences."
       },
       {
-        "skill": "Limits: Connecting Multiple Representations of Limits",
+        "skill": "LIM-1.A, LIM-1.B, LIM-1.C Limits and Continuity - Limits: Connecting Multiple Representations of Limits",
         "ref": "LIM-1.A, LIM-1.B, LIM-1.C",
         "prompt": "This topic covers connecting graphical, numerical, and analytical limit representations for AP Calculus BC (CED: LIM-1.A, LIM-1.B, LIM-1.C, Unit 1). Students should move fluidly between graph-based estimation, table-based estimation, and algebraic computation of limits. Each representation provides complementary information: graphs show overall behavior, tables give numerical evidence, and algebra provides exact values. Students should verify consistency across representations and understand each method's limitations. BC students apply multi-representational reasoning throughout the course, particularly when analyzing series convergence (graphing partial sums, computing terms numerically, proving convergence analytically). AP exam note: free-response questions frequently present mixed representations. Students should explain how evidence from one representation supports conclusions drawn from another. Vocabulary: multiple representations, graphical, numerical, analytical, consistency, verification, complementary."
       },
       {
-        "skill": "Limits: Exploring Types of Discontinuities",
+        "skill": "LIM-2.A Limits and Continuity - Limits: Exploring Types of Discontinuities",
         "ref": "LIM-2.A",
         "prompt": "This topic covers types of discontinuities for AP Calculus BC (CED: LIM-2.A, Unit 1). Students classify discontinuities as: (1) Removable (hole): limit exists but does not equal f(c); (2) Jump: left and right limits exist but differ; (3) Infinite: function grows without bound, producing a vertical asymptote. Key concepts: identifying each type from graphs and formulas, understanding that removable discontinuities arise from common factors in rational functions, and recognizing piecewise functions may have jump discontinuities. BC students encounter discontinuities in more complex contexts including parametric curves (where t-values may produce discontinuities in dy/dx) and when analyzing convergence of series at interval endpoints. AP exam note: classification of discontinuities is foundational knowledge expected throughout the BC exam. Vocabulary: removable discontinuity, jump discontinuity, infinite discontinuity, hole, vertical asymptote, piecewise, classification."
       },
       {
-        "skill": "Analysis of Functions: Defining Continuity at a Point",
+        "skill": "LIM-2.A Limits and Continuity - Analysis of Functions: Defining Continuity at a Point",
         "ref": "LIM-2.A",
         "prompt": "This topic covers the formal definition of continuity at a point for AP Calculus BC (CED: LIM-2.A, Unit 1). A function f is continuous at x = c if: (1) f(c) is defined, (2) lim[x->c] f(x) exists, and (3) lim[x->c] f(x) = f(c). If any condition fails, f is discontinuous at c. Polynomials, exponentials, and trig functions are continuous on their domains. Rational functions are continuous where denominators are nonzero. BC students apply continuity in the hypotheses of major theorems (IVT, MVT, EVT, FTC) and in analyzing convergence of power series at endpoints. Students should determine parameter values that ensure continuity of piecewise functions. AP exam note: the three-part definition is required for justifying continuity in free-response answers throughout the BC course. Vocabulary: continuous at a point, three conditions, defined, limit exists, limit equals value, piecewise, theorem hypothesis."
       },
       {
-        "skill": "Limits: Confirming Continuity over an Interval",
+        "skill": "LIM-2.B Limits and Continuity - Limits: Confirming Continuity over an Interval",
         "ref": "LIM-2.B",
         "prompt": "This topic covers confirming continuity over an interval for AP Calculus BC (CED: LIM-2.B, Unit 1). A function is continuous on an open interval if continuous at every point; on [a,b] it additionally requires right-continuity at a and left-continuity at b. Common continuous functions: polynomials (everywhere), rational functions (domain), trig, exponential, logarithmic (their domains). Compositions and combinations of continuous functions are continuous where defined. BC students verify interval continuity as a prerequisite for applying the IVT, MVT, EVT, and FTC. For power series, the sum function is continuous inside the interval of convergence. AP exam note: students must explicitly verify continuity when applying theorems that require it, especially on free-response questions. Vocabulary: continuous on an interval, open interval, closed interval, right-continuous, left-continuous, domain, theorem prerequisite."
       },
       {
-        "skill": "Limits: Removing Discontinuities",
+        "skill": "LIM-2.C Limits and Continuity - Limits: Removing Discontinuities",
         "ref": "LIM-2.C",
         "prompt": "This topic covers removing discontinuities for AP Calculus BC (CED: LIM-2.C, Unit 1). A removable discontinuity at x = c can be removed by defining f(c) = lim[x->c] f(x). For rational functions, removable discontinuities arise from common factors that cancel. Key steps: factor numerator and denominator, cancel common factors, evaluate the simplified expression at c to find the y-coordinate of the hole. Only removable discontinuities can be fixed; jump and infinite discontinuities cannot. BC students encounter removable discontinuities when analyzing rational functions in partial fraction decomposition and when examining series-related functions. AP exam note: identifying holes in rational functions and making piecewise functions continuous are common question types throughout the BC exam. Vocabulary: removable discontinuity, hole, redefine, continuous extension, common factor, piecewise continuity."
       },
       {
-        "skill": "Limits: Connecting Infinite Limits and Vertical Asymptotes",
+        "skill": "LIM-2.D Limits and Continuity - Limits: Connecting Infinite Limits and Vertical Asymptotes",
         "ref": "LIM-2.D",
         "prompt": "This topic covers infinite limits and vertical asymptotes for AP Calculus BC (CED: LIM-2.D, Unit 1). When lim[x->c] f(x) = +/- infinity, f has a vertical asymptote at x = c. The limit does not exist as a finite number. For rational functions p(x)/q(x), vertical asymptotes occur where q(c) = 0 but p(c) != 0. Sign analysis near the asymptote determines the direction (+infinity or -infinity from each side). Logarithmic functions have vertical asymptotes at the boundary of their domain. BC students encounter vertical asymptotes in polar curves, improper integrals, and when analyzing convergence of series (e.g., integral test with functions having vertical asymptotes). AP exam note: students must clearly state that infinite limits mean the limit DNE as a finite value while describing the unbounded behavior. Vocabulary: infinite limit, vertical asymptote, unbounded, sign analysis, one-sided, domain boundary."
       },
       {
-        "skill": "Limits: Connecting Limits at Infinity and Horizontal Asymptotes",
+        "skill": "LIM-2.D Limits and Continuity - Limits: Connecting Limits at Infinity and Horizontal Asymptotes",
         "ref": "LIM-2.D",
         "prompt": "This topic covers limits at infinity and horizontal asymptotes for AP Calculus BC (CED: LIM-2.D, Unit 1). If lim[x->infinity] f(x) = L, then y = L is a horizontal asymptote. For rational functions: if deg(num) < deg(den), HA is y = 0; if degrees are equal, HA is y = (leading coefficients ratio); if deg(num) > deg(den), no HA. Technique: divide by highest power of x in denominator. End behavior of exponentials (e^x dominates polynomials) and logarithms (dominated by polynomials) is important. BC students use limits at infinity extensively in series (nth term test, ratio test, limit comparison test) and when evaluating improper integrals. Growth rate hierarchy: logarithmic < polynomial < exponential < factorial. AP exam note: comparing growth rates is essential for convergence tests in the BC series unit. Vocabulary: limit at infinity, horizontal asymptote, end behavior, dominant term, growth rate hierarchy, leading coefficient."
       },
       {
-        "skill": "Limits: Working with the Intermediate Value Theorem (IVT)",
+        "skill": "FUN-1.A Limits and Continuity - Limits: Working with the Intermediate Value Theorem (IVT)",
         "ref": "FUN-1.A",
         "prompt": "This topic covers the Intermediate Value Theorem for AP Calculus BC (CED: FUN-1.A, Unit 1). The IVT states: if f is continuous on [a,b] and N is between f(a) and f(b), then there exists c in (a,b) with f(c) = N. Key concepts: the IVT guarantees existence only (not location); continuity is the required hypothesis; commonly used to prove existence of roots (if f(a) and f(b) have opposite signs, f has a zero in (a,b)). BC students apply the IVT in the same way as AB but may encounter it in more complex contexts involving parametric functions or series-defined functions. Students must explicitly verify continuity and that N lies between f(a) and f(b) when invoking the theorem. AP exam note: IVT justification requires three components: state continuity, identify the interval, and confirm the intermediate value condition. Vocabulary: Intermediate Value Theorem, continuous, existence, root, zero, closed interval, hypothesis."
       }
     ],
     "Differentiation: Definition and Basic Derivative Rules": [
       {
-        "skill": "Change: Defining Average and Instantaneous Rates of Change at a Point",
+        "skill": "CHA-2.A, CHA-2.B Differentiation: Definition and Basic Derivative Rules - Change: Defining Average and Instantaneous Rates of Change at a Point",
         "ref": "CHA-2.A, CHA-2.B",
         "prompt": "This topic covers average and instantaneous rates of change for AP Calculus BC (CED: CHA-2.A, CHA-2.B, Unit 2). The average rate of change of f on [a,b] is [f(b)-f(a)]/(b-a) (secant line slope). The instantaneous rate at x = a is lim[h->0] [f(a+h)-f(a)]/h (tangent line slope). Key concepts: secant lines approximate tangent lines as endpoints converge; the instantaneous rate is the derivative at a point; interpreting rates in context with units. BC students extend this to parametric and vector-valued contexts where rates of change have x- and y-components. Students should compute average rates from functions, tables, and graphs. AP exam note: interpretation with correct units is critical. BC free-response often involves parametric velocity components as rates of change. Vocabulary: average rate of change, instantaneous rate of change, secant line, tangent line, difference quotient, parametric rate."
       },
       {
-        "skill": "Analysis of Functions: Defining the Derivative of a Function and Using Derivative Notation",
+        "skill": "CHA-2.B, CHA-2.C Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: Defining the Derivative of a Function and Using Derivative Notation",
         "ref": "CHA-2.B, CHA-2.C",
         "prompt": "This topic covers the limit definition of the derivative for AP Calculus BC (CED: CHA-2.B, CHA-2.C, Unit 2). f'(a) = lim[h->0] [f(a+h)-f(a)]/h = lim[x->a] [f(x)-f(a)]/(x-a). When this limit exists, it gives the instantaneous rate of change and the tangent line slope. Notation: f'(x), dy/dx, d/dx[f(x)], y'. The derivative function f'(x) applies the limit for general x. BC students use derivative notation extensively in parametric (dy/dx = (dy/dt)/(dx/dt)), polar, and vector contexts. Students should compute derivatives from the definition for simple functions and understand the derivative as the best linear approximation near a point. AP exam note: the limit definition may be tested directly or used to justify derivative formulas. Clear notation is essential in BC's multi-variable settings. Vocabulary: derivative, limit definition, difference quotient, Leibniz notation, prime notation, tangent line, instantaneous rate."
       },
       {
-        "skill": "Change: Estimating Derivatives of a Function at a Point",
+        "skill": "CHA-2.D Differentiation: Definition and Basic Derivative Rules - Change: Estimating Derivatives of a Function at a Point",
         "ref": "CHA-2.D",
         "prompt": "This topic covers estimating derivatives from data for AP Calculus BC (CED: CHA-2.D, Unit 2). Students approximate f'(a) using secant line slopes from tables or graphs: [f(a+h)-f(a)]/h for small h, or the symmetric difference quotient [f(a+h)-f(a-h)]/(2h). From graphs, estimate the tangent line slope visually. Key concepts: smaller intervals give better estimates; the symmetric quotient is generally more accurate; choose nearby data points from tables. BC students apply this in parametric contexts, estimating dx/dt and dy/dt from tabular data to find dy/dx. AP exam note: free-response frequently provides tables and asks for derivative approximations with units and contextual interpretation. BC questions may involve estimating rates for vector-valued motion. Vocabulary: estimate, secant line, difference quotient, symmetric difference quotient, approximation, tabular data."
       },
       {
-        "skill": "Analysis of Functions: Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist",
+        "skill": "FUN-2.A Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist",
         "ref": "FUN-2.A",
         "prompt": "This topic covers differentiability and continuity relationships for AP Calculus BC (CED: FUN-2.A, Unit 2). Key theorem: differentiability implies continuity, but continuity does not imply differentiability. A function fails to be differentiable at: corners/cusps (different left and right derivatives), vertical tangents (infinite slope), and discontinuities. For piecewise functions, check that left and right derivatives match at boundaries. BC students encounter differentiability issues with parametric curves (cusps where both dx/dt and dy/dt are zero) and polar curves. Students should identify non-differentiable points from graphs and algebraic analysis. AP exam note: BC questions may ask about differentiability of parametrically defined functions or accumulation functions. Students should clearly justify differentiability conclusions. Vocabulary: differentiable, continuous, corner, cusp, vertical tangent, piecewise, left-hand derivative, right-hand derivative."
       },
       {
-        "skill": "Analysis of Functions: Applying the Power Rule",
+        "skill": "FUN-3.A Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: Applying the Power Rule",
         "ref": "FUN-3.A",
         "prompt": "This topic covers the Power Rule for AP Calculus BC (CED: FUN-3.A, Unit 2). If f(x) = x^n, then f'(x) = n*x^(n-1) for any real n. This applies to integer, fractional, and negative exponents. Students should rewrite radicals (sqrt(x) = x^(1/2)) and reciprocals (1/x^2 = x^(-2)) before applying. Combined with sum/difference and constant multiple rules, the Power Rule handles all polynomials. BC students use the Power Rule within more complex differentiation scenarios (parametric, polar, implicit). Mastery is essential as it underlies most derivative computations throughout the course. AP exam note: the Power Rule is foundational and appears in virtually every derivative problem. Errors with negative and fractional exponents are common pitfalls. Vocabulary: Power Rule, exponent, polynomial, rational exponent, negative exponent, rewrite, derivative."
       },
       {
-        "skill": "Analysis of Functions: Derivative Rules: Constant, Sum, Difference, and Constant Multiple",
+        "skill": "FUN-3.A Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: Derivative Rules: Constant, Sum, Difference, and Constant Multiple",
         "ref": "FUN-3.A",
         "prompt": "This topic covers basic derivative rules for AP Calculus BC (CED: FUN-3.A, Unit 2). Rules: d/dx[c] = 0, d/dx[cf(x)] = cf'(x), d/dx[f+g] = f'+g', d/dx[f-g] = f'-g'. Differentiation is linear: it preserves addition and scalar multiplication. These rules combined with the Power Rule differentiate any polynomial. BC students apply these rules within all differentiation contexts including parametric components (differentiating x(t) and y(t) separately), series term-by-term differentiation, and polar functions. AP exam note: these rules are used in every derivative computation. Fluency enables efficient work on the exam's more complex BC-specific problems. Vocabulary: constant rule, sum rule, difference rule, constant multiple rule, linearity, polynomial derivative."
       },
       {
-        "skill": "Analysis of Functions: Derivatives of cos x, sin x, e^x, and ln x",
+        "skill": "FUN-3.A, LIM-3.A Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: Derivatives of cos x, sin x, e^x, and ln x",
         "ref": "FUN-3.A, LIM-3.A",
         "prompt": "This topic covers derivatives of transcendental functions for AP Calculus BC (CED: FUN-3.A, LIM-3.A, Unit 2). Key formulas: d/dx[sin x] = cos x, d/dx[cos x] = -sin x, d/dx[e^x] = e^x, d/dx[ln x] = 1/x. These are derived using limit definitions and foundational limits (lim[h->0] sin(h)/h = 1). BC students use these derivatives extensively combined with the Chain Rule in parametric (e.g., x(t) = e^(2t)), polar (r = sin(theta)), and series contexts (derivatives of Taylor series). The derivative of e^x equaling itself is the basis for exponential growth models and for the exponential series. AP exam note: these four derivatives appear throughout the entire BC exam. Students must apply them fluently with other rules. Vocabulary: transcendental function, sine, cosine, exponential, natural logarithm, derivative formula, Chain Rule."
       },
       {
-        "skill": "Analysis of Functions: The Product Rule",
+        "skill": "FUN-3.B Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: The Product Rule",
         "ref": "FUN-3.B",
         "prompt": "This topic covers the Product Rule for AP Calculus BC (CED: FUN-3.B, Unit 2). If f and g are differentiable, d/dx[fg] = f'g + fg'. The derivative of a product is NOT the product of derivatives. BC students apply the Product Rule in complex settings: differentiating polar functions (x = r*cos(theta) requires the Product Rule), finding derivatives for integration by parts setup, and analyzing parametric equations. The Product Rule extends to products of three or more functions and can derive the Quotient Rule. AP exam note: the Product Rule is frequently combined with the Chain Rule in BC problems, especially in parametric and polar differentiation. Vocabulary: Product Rule, factors, derivative of a product, Leibniz notation, polar differentiation."
       },
       {
-        "skill": "Analysis of Functions: The Quotient Rule",
+        "skill": "FUN-3.B Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: The Quotient Rule",
         "ref": "FUN-3.B",
         "prompt": "This topic covers the Quotient Rule for AP Calculus BC (CED: FUN-3.B, Unit 2). d/dx[f/g] = [f'g - fg']/g^2, provided g != 0. Memory aid: 'lo d-hi minus hi d-lo over lo squared.' The order matters (subtraction is not commutative). BC students use the Quotient Rule when computing dy/dx for parametric second derivatives and when simplifying expressions in polar differentiation. Sometimes rewriting with negative exponents and using the Product Rule is an alternative. AP exam note: Quotient Rule errors (sign, order) are common. The rule appears in computing second parametric derivatives d^2y/dx^2 = (d/dt[dy/dx])/(dx/dt). Vocabulary: Quotient Rule, numerator, denominator, rational function, lo-d-hi, parametric second derivative."
       },
       {
-        "skill": "Analysis of Functions: Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions (BC ONLY)",
+        "skill": "FUN-3.B Differentiation: Definition and Basic Derivative Rules - Analysis of Functions: Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions (BC ONLY)",
         "ref": "FUN-3.B",
         "prompt": "This topic covers derivatives of tangent, cotangent, secant, and cosecant for AP Calculus BC (CED: FUN-3.B, Unit 2). Key formulas: d/dx[tan x] = sec^2 x, d/dx[cot x] = -csc^2 x, d/dx[sec x] = sec x tan x, d/dx[csc x] = -csc x cot x. These are derived using the Quotient Rule on sin/cos ratios. Pattern: co-function derivatives carry negative signs. While these appear in AB as well, BC students use them more extensively in integration (recognizing antiderivatives), polar differentiation, and series representations. The integrals of sec^2(x) and csc^2(x) yield tan(x) and -cot(x), which are important antiderivative formulas. AP exam note: BC students should know these derivatives for both differentiation and recognizing antiderivative forms in integration problems. Vocabulary: tangent, cotangent, secant, cosecant, Quotient Rule derivation, co-function, negative sign."
       }
     ],
     "Differentiation: Composite, Implicit, and Inverse Functions": [
       {
-        "skill": "Analysis of Functions: The Chain Rule",
+        "skill": "FUN-3.C Differentiation: Composite, Implicit, and Inverse Functions - Analysis of Functions: The Chain Rule",
         "ref": "FUN-3.C",
         "prompt": "This topic covers the Chain Rule for AP Calculus BC (CED: FUN-3.C, Unit 3). If y = f(g(x)), then dy/dx = f'(g(x))*g'(x). In Leibniz notation: dy/dx = (dy/du)(du/dx). Key concepts: identify outer and inner functions, apply the Chain Rule with all function types, combine with Product and Quotient Rules. BC students use the Chain Rule extensively in parametric differentiation (dy/dx = (dy/dt)/(dx/dt) is a Chain Rule application), polar differentiation, implicit differentiation, and when differentiating series representations. The Chain Rule also appears in u-substitution (its integration counterpart). AP exam note: the Chain Rule is arguably the most important differentiation rule and appears in virtually every BC differentiation problem. Vocabulary: Chain Rule, composition, outer function, inner function, nested, Leibniz notation, parametric."
       },
       {
-        "skill": "Analysis of Functions: Implicit Differentiation",
+        "skill": "FUN-3.D Differentiation: Composite, Implicit, and Inverse Functions - Analysis of Functions: Implicit Differentiation",
         "ref": "FUN-3.D",
         "prompt": "This topic covers implicit differentiation for AP Calculus BC (CED: FUN-3.D, Unit 3). For relations defined implicitly (e.g., x^2 + y^2 = 25), differentiate both sides with respect to x, applying the Chain Rule to y-terms (multiply by dy/dx), then solve for dy/dx. BC students use implicit differentiation for: finding slopes of tangent lines to implicit curves, related rates problems, analyzing implicit relations (Topic 5.12), and working with polar curves where implicit relationships arise. Second implicit derivatives require differentiating dy/dx again, substituting the first derivative expression. AP exam note: implicit differentiation appears in BC free-response, often in conjunction with related rates or analysis of implicit relations. Students must show clear use of the Chain Rule on y-terms. Vocabulary: implicit differentiation, implicit relation, Chain Rule, dy/dx, tangent line, second derivative."
       },
       {
-        "skill": "Analysis of Functions: Differentiating Inverse Functions",
+        "skill": "FUN-3.D Differentiation: Composite, Implicit, and Inverse Functions - Analysis of Functions: Differentiating Inverse Functions",
         "ref": "FUN-3.D",
         "prompt": "This topic covers differentiating inverse functions for AP Calculus BC (CED: FUN-3.D, Unit 3). If g = f^(-1), then g'(x) = 1/f'(g(x)), provided f'(g(x)) != 0. Equivalently, (f^(-1))'(b) = 1/f'(a) where f(a) = b. Key concepts: the derivative of an inverse at a point is the reciprocal of the original function's derivative at the corresponding point; graphically, slopes at corresponding points on f and f^(-1) are reciprocals (reflection over y = x). BC students use this for deriving inverse trig derivatives and understanding relationships between function-inverse pairs in various contexts. AP exam note: questions often provide tabular data for f and f' and ask for derivatives of f^(-1) at specific points. Vocabulary: inverse function, one-to-one, reciprocal, corresponding points, reflection, derivative of inverse."
       },
       {
-        "skill": "Analysis of Functions: Differentiating Inverse Trigonometric Functions",
+        "skill": "FUN-3.E Differentiation: Composite, Implicit, and Inverse Functions - Analysis of Functions: Differentiating Inverse Trigonometric Functions",
         "ref": "FUN-3.E",
         "prompt": "This topic covers inverse trig derivatives for AP Calculus BC (CED: FUN-3.E, Unit 3). Key formulas: d/dx[arcsin x] = 1/sqrt(1-x^2), d/dx[arccos x] = -1/sqrt(1-x^2), d/dx[arctan x] = 1/(1+x^2). With Chain Rule: d/dx[arctan(u)] = u'/(1+u^2). BC students use these in both differentiation and integration contexts: recognizing 1/(1+x^2) as the derivative of arctan(x) is crucial for integration. The arctan derivative appears in series (Maclaurin series for arctan: sum((-1)^n x^(2n+1)/(2n+1))). Students should know domains and ranges of inverse trig functions. AP exam note: inverse trig derivatives and their integral counterparts are commonly tested. BC students should recognize these forms fluently for antidifferentiation. Vocabulary: inverse trigonometric, arcsine, arctan, restricted domain, Chain Rule, integration connection."
       },
       {
-        "skill": "Analysis of Functions: Selecting Procedures for Calculating Derivatives",
+        "skill": "FUN-3.C, FUN-3.D, FUN-3.E Differentiation: Composite, Implicit, and Inverse Functions - Analysis of Functions: Selecting Procedures for Calculating Derivatives",
         "ref": "FUN-3.C, FUN-3.D, FUN-3.E",
         "prompt": "This topic covers selecting differentiation procedures for AP Calculus BC (CED: FUN-3.C, FUN-3.D, FUN-3.E, Unit 3). Students identify which rules apply based on function structure: Power Rule, Product Rule, Quotient Rule, Chain Rule, implicit differentiation, or inverse function formulas. Often multiple rules combine. Strategy: identify the outermost operation and apply the corresponding rule first. BC students face more complex combinations involving parametric derivatives (dy/dx = (dy/dt)/(dx/dt)), polar derivatives (using Product Rule for x = r cos(theta)), and derivatives of series representations. AP exam note: efficient procedure selection is critical for the BC exam's broader scope. Students should practice with mixed problem sets requiring multiple techniques. Vocabulary: procedure selection, combined rules, parametric, polar, implicit, efficiency, strategy."
       },
       {
-        "skill": "Analysis of Functions: Calculating Higher-Order Derivatives",
+        "skill": "FUN-3.F Differentiation: Composite, Implicit, and Inverse Functions - Analysis of Functions: Calculating Higher-Order Derivatives",
         "ref": "FUN-3.F",
         "prompt": "This topic covers higher-order derivatives for AP Calculus BC (CED: FUN-3.F, Unit 3). The second derivative f''(x) = d/dx[f'(x)] relates to concavity (f'' > 0: concave up; f'' < 0: concave down) and acceleration. Higher derivatives cycle for trig functions (period 4) and eventually vanish for polynomials. BC students compute higher-order derivatives in parametric contexts: d^2y/dx^2 = (d/dt[dy/dx])/(dx/dt), which requires careful application of the Quotient Rule. Higher derivatives also appear in Taylor polynomial coefficients: the nth coefficient is f^(n)(a)/n!. AP exam note: second derivatives in parametric form are commonly tested on BC exams. Students must use the correct formula and not simply take d^2y/dt^2 / d^2x/dt^2. Vocabulary: second derivative, higher-order, concavity, acceleration, parametric second derivative, Taylor coefficient."
       }
     ],
     "Contextual Applications of Differentiation": [
       {
-        "skill": "Change: Interpreting the Meaning of the Derivative in Context",
+        "skill": "CHA-3.A Contextual Applications of Differentiation - Change: Interpreting the Meaning of the Derivative in Context",
         "ref": "CHA-3.A",
         "prompt": "This topic covers interpreting derivatives in context for AP Calculus BC (CED: CHA-3.A, Unit 4). When f(t) represents a quantity, f'(t) is its instantaneous rate of change. Students must state what f'(t) means in context, include units (units of f / units of t), and interpret the sign. BC students apply this to parametric contexts: x'(t) is the rate of change of horizontal position, y'(t) of vertical position. Speed = sqrt([x'(t)]^2 + [y'(t)]^2) gives the rate of change of distance along the path. AP exam note: contextual interpretation with units appears on nearly every BC free-response exam. Students should write complete sentences interpreting derivatives in the given scenario. Vocabulary: rate of change, context, units, interpretation, increasing, decreasing, parametric velocity."
       },
       {
-        "skill": "Change: Straight-Line Motion: Connecting Position, Velocity, and Acceleration",
+        "skill": "CHA-3.B Contextual Applications of Differentiation - Change: Straight-Line Motion: Connecting Position, Velocity, and Acceleration",
         "ref": "CHA-3.B",
         "prompt": "This topic covers rectilinear motion for AP Calculus BC (CED: CHA-3.B, Unit 4). s'(t) = v(t) (velocity), v'(t) = a(t) (acceleration), speed = |v(t)|. Particle changes direction when v changes sign. Speeding up: v and a same sign; slowing down: opposite signs. BC students extend this to planar motion using vector-valued functions r(t) = <x(t), y(t)>, where v(t) = <x'(t), y'(t)> and speed = |v(t)| = sqrt([x']^2+[y']^2). Displacement vs. total distance: displacement = integral of v(t)dt; total distance = integral of |v(t)|dt (1D) or integral of |v(t)|dt = integral of speed dt (2D). AP exam note: BC motion problems frequently involve 2D parametric/vector contexts. Students must distinguish displacement from distance and velocity from speed. Vocabulary: position, velocity, acceleration, speed, displacement, distance, direction change, vector, component."
       },
       {
-        "skill": "Change: Rates of Change in Applied Contexts Other Than Motion",
+        "skill": "CHA-3.C Contextual Applications of Differentiation - Change: Rates of Change in Applied Contexts Other Than Motion",
         "ref": "CHA-3.C",
         "prompt": "This topic covers applied rates of change beyond motion for AP Calculus BC (CED: CHA-3.C, Unit 4). Students interpret derivatives in contexts like population growth (dP/dt), temperature change (dT/dt), economic functions (marginal cost/revenue), and volume/area change. Key skills: identify independent and dependent variables, compute rates using differentiation, interpret sign and magnitude with units. BC students may encounter rates involving parametrically defined quantities or rates that lead to differential equations with logistic or exponential solutions. Students should connect derivative values to the function's behavior in context. AP exam note: contextual interpretation with correct units is essential. BC free-response may combine rates of change with series approximations or parametric analysis. Vocabulary: applied rate, marginal cost, interpretation, units, context, independent variable, dependent variable."
       },
       {
-        "skill": "Change: Introduction to Related Rates",
+        "skill": "CHA-3.D Contextual Applications of Differentiation - Change: Introduction to Related Rates",
         "ref": "CHA-3.D",
         "prompt": "This topic introduces related rates for AP Calculus BC (CED: CHA-3.D, Unit 4). Related rates involve quantities changing over time connected by an equation. Differentiate with respect to t using implicit differentiation and the Chain Rule to relate the rates. Steps: (1) draw diagram, identify variables; (2) write relating equation; (3) differentiate with respect to t; (4) substitute known values, solve for unknown rate. BC students may encounter related rates in parametric or polar contexts. Common geometric relationships: Pythagorean theorem, volume/surface area formulas, similar triangles, trigonometry. AP exam note: related rates is a classic free-response topic. Students must differentiate first, then substitute (never substitute before differentiating). Vocabulary: related rates, implicit differentiation, time, rate of change, variables, geometric relationship, Chain Rule."
       },
       {
-        "skill": "Change: Solving Related Rates Problems",
+        "skill": "CHA-3.E Contextual Applications of Differentiation - Change: Solving Related Rates Problems",
         "ref": "CHA-3.E",
         "prompt": "This topic covers solving related rates problems for AP Calculus BC (CED: CHA-3.E, Unit 4). Building on the setup, students solve complex problems: expanding spheres/circles, filling cones/cylinders, ladder problems (Pythagorean), shadow problems (similar triangles), angle of elevation (trigonometry). Key strategies: choose the equation directly relating known and unknown rates; eliminate extra variables using constraints before differentiating; track signs (negative for decreasing quantities). BC students should handle problems involving more sophisticated geometric relationships. AP exam note: common errors include substituting before differentiating and using wrong geometric formulas. Final answers must include units and contextual interpretation. Vocabulary: related rates, Pythagorean theorem, similar triangles, volume, surface area, geometric constraints, solve."
       },
       {
-        "skill": "Change: Approximating Values of a Function Using Local Linearity and Linearization",
+        "skill": "CHA-3.F Contextual Applications of Differentiation - Change: Approximating Values of a Function Using Local Linearity and Linearization",
         "ref": "CHA-3.F",
         "prompt": "This topic covers linearization for AP Calculus BC (CED: CHA-3.F, Unit 4). The tangent line approximation L(x) = f(a) + f'(a)(x-a) approximates f(x) near x = a. Differentiable functions are locally linear. Key concepts: better approximation for x closer to a; concavity determines over/underestimate (f'' > 0: underestimate; f'' < 0: overestimate). BC students connect linearization to Taylor polynomials: the linearization is the first-degree Taylor polynomial. Higher-degree Taylor polynomials provide better approximations (Unit 10). The differential dy = f'(x)dx approximates change in f. AP exam note: BC students should connect linearization to the broader Taylor polynomial framework and justify over/underestimates using concavity. Vocabulary: linearization, tangent line approximation, local linearity, overestimate, underestimate, Taylor polynomial, differential."
       },
       {
-        "skill": "Limits: Using L’Hospital’s Rule for Determining Limits of Indeterminate Forms",
+        "skill": "LIM-4.A Contextual Applications of Differentiation - Limits: Using L\u2019Hospital\u2019s Rule for Determining Limits of Indeterminate Forms",
         "ref": "LIM-4.A",
         "prompt": "This topic covers L'Hopital's Rule for AP Calculus BC (CED: LIM-4.A, Unit 4). If lim[x->c] f(x)/g(x) gives 0/0 or infinity/infinity, and f, g are differentiable with g' != 0 near c, then lim f(x)/g(x) = lim f'(x)/g'(x) (if the latter exists). The rule can be applied repeatedly. Other indeterminate forms (0*infinity, infinity-infinity, 0^0, 1^infinity, infinity^0) must be rewritten first. BC students use L'Hopital's Rule in evaluating limits for convergence tests, improper integrals, and analyzing series convergence. Example: lim[x->0] (e^x - 1)/x = lim e^x/1 = 1. AP exam note: always verify the indeterminate form before applying. BC students should be adept at using L'Hopital's Rule in series contexts like the Ratio Test. Vocabulary: L'Hopital's Rule, indeterminate form, 0/0, infinity/infinity, verify, convergence, Ratio Test."
       }
     ],
     "Analytical Applications of Differentiation": [
       {
-        "skill": "Analysis of Functions: Using the Mean Value Theorem",
+        "skill": "FUN-1.B Analytical Applications of Differentiation - Analysis of Functions: Using the Mean Value Theorem",
         "ref": "FUN-1.B",
         "prompt": "This topic covers the Mean Value Theorem for AP Calculus BC (CED: FUN-1.B, Unit 5). MVT: if f is continuous on [a,b] and differentiable on (a,b), there exists c in (a,b) with f'(c) = [f(b)-f(a)]/(b-a). Geometrically: a tangent line parallels the secant line. Rolle's Theorem is the special case f(a) = f(b), giving f'(c) = 0. MVT applications: proving a function with zero derivative is constant, bounding function values, and justifying existence of particular derivative values. BC students apply MVT in similar contexts as AB but may encounter it with parametric or accumulation functions. AP exam note: free-response requires explicit verification of hypotheses (continuity on closed, differentiability on open interval) and a conclusion statement. Vocabulary: Mean Value Theorem, Rolle's Theorem, continuous, differentiable, secant, parallel tangent, existence."
       },
       {
-        "skill": "Analysis of Functions: Extreme Value Theorem, Global Versus Local Extrema, and Critical Points",
+        "skill": "FUN-1.C Analytical Applications of Differentiation - Analysis of Functions: Extreme Value Theorem, Global Versus Local Extrema, and Critical Points",
         "ref": "FUN-1.C",
         "prompt": "This topic covers the EVT, extrema classification, and critical points for AP Calculus BC (CED: FUN-1.C, Unit 5). EVT: continuous f on [a,b] attains global max and min. Critical points: f'(c) = 0 or f'(c) undefined (f(c) defined). Local extrema occur only at interior critical points; global extrema also at endpoints. BC students analyze extrema of parametric and vector-valued functions (e.g., maximum speed, extreme coordinates). The EVT provides theoretical foundation for the Candidates Test. AP exam note: BC students must distinguish local from global extrema and understand that not every critical point yields an extremum. Vocabulary: Extreme Value Theorem, critical point, local extremum, global extremum, endpoint, continuous, Candidates Test."
       },
       {
-        "skill": "Analysis of Functions: Determining Intervals on Which a Function Is Increasing or Decreasing",
+        "skill": "FUN-4.A Analytical Applications of Differentiation - Analysis of Functions: Determining Intervals on Which a Function Is Increasing or Decreasing",
         "ref": "FUN-4.A",
         "prompt": "This topic covers increasing/decreasing analysis for AP Calculus BC (CED: FUN-4.A, Unit 5). f' > 0 on an interval means f is increasing; f' < 0 means decreasing. Procedure: find critical points, create a sign chart for f', state intervals. BC students apply this analysis to accumulation functions (g(x) = integral from a to x of f(t)dt is increasing where f > 0), components of parametric/vector functions, and more complex function types. AP exam note: justification must reference the sign of f', not just a sign chart. BC free-response often requires connecting increasing/decreasing behavior of accumulation functions to the sign of the integrand. Vocabulary: increasing, decreasing, sign chart, critical point, first derivative, interval, accumulation function."
       },
       {
-        "skill": "Analysis of Functions: Using the First Derivative Test to Determine Relative (Local) Extrema",
+        "skill": "FUN-4.A Analytical Applications of Differentiation - Analysis of Functions: Using the First Derivative Test to Determine Relative (Local) Extrema",
         "ref": "FUN-4.A",
         "prompt": "This topic covers the First Derivative Test for AP Calculus BC (CED: FUN-4.A, Unit 5). If f' changes from + to - at c: relative max. If f' changes from - to +: relative min. If no sign change: not an extremum. This test works even when f''(c) = 0 or is undefined. BC students use the FDT for analyzing accumulation functions, parametric curve analysis, and optimization in complex contexts. AP exam note: justification must reference the sign change of f'. 'f'(c) = 0' alone is insufficient. Students should write: 'f has a relative maximum at x = c because f' changes from positive to negative at c.' Vocabulary: First Derivative Test, relative maximum, relative minimum, sign change, critical point, justification."
       },
       {
-        "skill": "Analysis of Functions: Using the Candidates Test to Determine Absolute (Global) Extrema",
+        "skill": "FUN-4.A Analytical Applications of Differentiation - Analysis of Functions: Using the Candidates Test to Determine Absolute (Global) Extrema",
         "ref": "FUN-4.A",
         "prompt": "This topic covers the Candidates Test for AP Calculus BC (CED: FUN-4.A, Unit 5). To find absolute extrema of continuous f on [a,b]: find critical points in (a,b), evaluate f at all critical points and both endpoints, compare values. The largest is the absolute max, smallest the absolute min. This method works because the EVT guarantees extrema exist. BC students apply this in optimization problems and when analyzing parametric curves over closed parameter intervals. AP exam note: students must evaluate f (not f') at all candidates, including both endpoints. Missing an endpoint or critical point is a common error. Vocabulary: Candidates Test, absolute maximum, absolute minimum, endpoint, critical point, evaluate, closed interval."
       },
       {
-        "skill": "Analysis of Functions: Determining Concavity of Functions over Their Domains",
+        "skill": "FUN-4.A Analytical Applications of Differentiation - Analysis of Functions: Determining Concavity of Functions over Their Domains",
         "ref": "FUN-4.A",
         "prompt": "This topic covers concavity for AP Calculus BC (CED: FUN-4.A, Unit 5). f'' > 0: concave up (tangent lines below curve); f'' < 0: concave down (tangent lines above). Inflection points occur where f'' changes sign. Procedure: find where f'' = 0 or undefined, test sign in each interval. f''(c) = 0 alone does not guarantee an inflection point (need sign change). BC students analyze concavity of accumulation functions (g'' = f', so g is concave up where f is increasing) and parametric curves (using d^2y/dx^2). AP exam note: concavity justification must reference f'' sign, and inflection points require a sign change. BC problems often involve concavity of parametric or accumulation functions. Vocabulary: concave up, concave down, inflection point, second derivative, sign change, parametric concavity."
       },
       {
-        "skill": "Analysis of Functions: Using the Second Derivative Test to Determine Extrema",
+        "skill": "FUN-4.A Analytical Applications of Differentiation - Analysis of Functions: Using the Second Derivative Test to Determine Extrema",
         "ref": "FUN-4.A",
         "prompt": "This topic covers the Second Derivative Test for AP Calculus BC (CED: FUN-4.A, Unit 5). If f'(c) = 0 and f''(c) > 0: relative min. If f'(c) = 0 and f''(c) < 0: relative max. If f''(c) = 0: inconclusive, use FDT. The test uses concavity at the critical point. BC students may apply this in optimization and when analyzing parametric/polar functions. The SDT is faster than the FDT when f'' is easy to compute, but fails when f''(c) = 0. AP exam note: both conditions (f'(c) = 0 AND f''(c) > 0 or < 0) must be stated. Students should know when to switch to the FDT. Vocabulary: Second Derivative Test, relative minimum, relative maximum, concavity, inconclusive, critical point."
       },
       {
-        "skill": "Analysis of Functions: Sketching Graphs of Functions and Their Derivatives",
+        "skill": "FUN-4.A Analytical Applications of Differentiation - Analysis of Functions: Sketching Graphs of Functions and Their Derivatives",
         "ref": "FUN-4.A",
         "prompt": "This topic covers graph relationships between f, f', and f'' for AP Calculus BC (CED: FUN-4.A, Unit 5). Key connections: f increasing iff f' > 0; f has extremum where f' = 0 with sign change; f concave up iff f'' > 0 iff f' increasing; inflection points of f correspond to extrema of f'. Students should sketch f' given f's graph and vice versa. BC students apply these relationships to accumulation functions where g' = f (the integrand) and g'' = f'. This allows complete analysis of accumulation functions from the graph of f. AP exam note: graph-matching between f, f', and f'' is a common BC question type. Students should systematically verify correspondences (zeros, signs, extrema). Vocabulary: graph of derivative, sign correspondence, extrema, concavity, inflection point, accumulation function."
       },
       {
-        "skill": "Analysis of Functions: Connecting a Function, Its First Derivative, and Its Second Derivative",
+        "skill": "FUN-4.A Analytical Applications of Differentiation - Analysis of Functions: Connecting a Function, Its First Derivative, and Its Second Derivative",
         "ref": "FUN-4.A",
         "prompt": "This topic covers comprehensive f-f'-f'' connections for AP Calculus BC (CED: FUN-4.A, Unit 5). Students synthesize: f' determines increasing/decreasing and extrema of f; f'' determines concavity and inflection points of f and increasing/decreasing of f'. All three levels work together to provide complete function analysis. BC students apply this synthesis to more complex scenarios including accumulation functions, parametric curves, and functions defined by series. Students should create complete behavioral analyses using derivative information at all levels. AP exam note: multi-step reasoning connecting f, f', and f'' is a hallmark of BC free-response questions. Students should justify each conclusion with appropriate derivative evidence. Vocabulary: synthesis, first derivative analysis, second derivative analysis, complete analysis, justification, accumulation."
       },
       {
-        "skill": "Analysis of Functions: Introduction to Optimization Problems",
+        "skill": "FUN-4.B Analytical Applications of Differentiation - Analysis of Functions: Introduction to Optimization Problems",
         "ref": "FUN-4.B",
         "prompt": "This topic introduces optimization for AP Calculus BC (CED: FUN-4.B, Unit 5). Optimization finds maximum or minimum values in applied contexts. Setup: (1) identify quantity to optimize; (2) write as function of one variable; (3) determine feasible domain; (4) find critical points and evaluate. BC students may encounter optimization in parametric or polar contexts (e.g., maximizing the distance from the origin on a polar curve, or optimizing a parameter in a vector-valued function). AP exam note: optimization is a major free-response topic. Students must define variables, state the objective function and domain, and justify the extremum. Vocabulary: optimization, maximize, minimize, constraint, objective function, feasible domain, applied context."
       },
       {
-        "skill": "Analysis of Functions: Solving Optimization Problems",
+        "skill": "FUN-4.C Analytical Applications of Differentiation - Analysis of Functions: Solving Optimization Problems",
         "ref": "FUN-4.C",
         "prompt": "This topic covers solving optimization problems for AP Calculus BC (CED: FUN-4.C, Unit 5). After setup, find critical points, then justify the extremum using Candidates Test, FDT, or SDT. Common types: maximizing volume with fixed surface area, minimizing distance, optimizing economic functions. BC students handle more sophisticated problems potentially involving transcendental functions, parametric constraints, or series-approximated functions. Students must include units and verify answers are physically reasonable. AP exam note: full credit requires justified extremum identification, not just f'=0. BC problems may integrate optimization with other BC-specific topics. Vocabulary: optimization, critical point, justify, Candidates Test, First Derivative Test, Second Derivative Test, applied."
       },
       {
-        "skill": "Analysis of Functions: Exploring Behaviors of Implicit Relations",
+        "skill": "FUN-4.D, FUN-4.E Analytical Applications of Differentiation - Analysis of Functions: Exploring Behaviors of Implicit Relations",
         "ref": "FUN-4.D, FUN-4.E",
         "prompt": "This topic covers analyzing implicit relations for AP Calculus BC (CED: FUN-4.D, FUN-4.E, Unit 5). Using dy/dx from implicit differentiation, students find: tangent/normal lines, horizontal tangents (numerator of dy/dx = 0, denominator != 0), vertical tangents (denominator = 0, numerator != 0), and analyze increasing/decreasing behavior. Second implicit derivatives (d^2y/dx^2) determine concavity. BC students may encounter more complex implicit relations and should be comfortable with the algebra of implicit second derivatives (substituting dy/dx back in). AP exam note: implicit relation analysis appears in BC free-response. Students must carefully handle the algebra and use the original equation to find corresponding y-values. Vocabulary: implicit relation, horizontal tangent, vertical tangent, implicit second derivative, concavity, normal line."
       }
     ],
     "Integration and Accumulation of Change": [
       {
-        "skill": "Change: Exploring Accumulations of Change",
+        "skill": "CHA-4.A Integration and Accumulation of Change - Change: Exploring Accumulations of Change",
         "ref": "CHA-4.A",
         "prompt": "This topic introduces accumulation for AP Calculus BC (CED: CHA-4.A, Unit 6). The total change in a quantity equals the integral of its rate of change. If f(t) is a rate, integral from a to b of f(t)dt gives total accumulation. Key concepts: area under a positive rate curve = total accumulation; net area = net change; connecting rate graphs to total change. BC students apply this in more complex contexts including parametric motion (integral of speed = distance traveled) and series (partial sums as accumulations). AP exam note: interpreting integrals as accumulated change is essential for BC free-response. Students must explain what the integral represents with correct units and context. Vocabulary: accumulation, total change, rate of change, area under curve, net change, integral, parametric."
       },
       {
-        "skill": "Limits: Approximating Areas with Riemann Sums",
+        "skill": "LIM-5.A Integration and Accumulation of Change - Limits: Approximating Areas with Riemann Sums",
         "ref": "LIM-5.A",
         "prompt": "This topic covers Riemann sums for AP Calculus BC (CED: LIM-5.A, Unit 6). Types: Left, Right, Midpoint, and Trapezoidal sums approximate the area under f on [a,b]. For n equal subintervals of width Delta_x = (b-a)/n, sum heights times widths. For increasing f: left sums underestimate, right overestimate. Trapezoidal sum = average of left and right. BC students use Riemann sums as the foundation for defining the definite integral as a limit of sums, and for understanding series as discrete analogs of integrals. AP exam note: Riemann sum calculations from tables (often with unequal subintervals) are common BC free-response questions. Vocabulary: Riemann sum, left, right, midpoint, trapezoidal, partition, overestimate, underestimate, approximation."
       },
       {
-        "skill": "Limits: Riemann Sums, Summation Notation, and Definite Integral Notation",
+        "skill": "LIM-5.B, LIM-5.C Integration and Accumulation of Change - Limits: Riemann Sums, Summation Notation, and Definite Integral Notation",
         "ref": "LIM-5.B, LIM-5.C",
         "prompt": "This topic connects Riemann sums to definite integrals for AP Calculus BC (CED: LIM-5.B, LIM-5.C, Unit 6). The definite integral = lim[n->infinity] sum[i=1 to n] f(x_i*)*Delta_x. The integral exists when f is continuous. It represents net signed area. Key notation: integral symbol, limits a (lower) and b (upper), integrand f(x), differential dx. BC students connect this to infinite series: a series is a 'discrete integral.' Understanding the limit process in both contexts deepens comprehension. AP exam note: students should express Riemann sums in sigma notation and connect them to definite integrals. Vocabulary: definite integral, limit of Riemann sums, summation notation, net signed area, integrand, limits of integration."
       },
       {
-        "skill": "Analysis of Functions: The Fundamental Theorem of Calculus and Accumulation Functions",
+        "skill": "FUN-5.A Integration and Accumulation of Change - Analysis of Functions: The Fundamental Theorem of Calculus and Accumulation Functions",
         "ref": "FUN-5.A",
         "prompt": "This topic covers FTC Part 1 for AP Calculus BC (CED: FUN-5.A, Unit 6). If f is continuous, then g(x) = integral from a to x of f(t)dt has g'(x) = f(x). With Chain Rule: d/dx[integral from a to h(x) of f(t)dt] = f(h(x))*h'(x). Key analysis: g increases where f > 0, decreases where f < 0; g has extrema where f changes sign; g has inflection points where f has extrema. BC students extend FTC1 to parametric contexts and connect it to power series (term-by-term integration creates new series whose derivative returns the original). AP exam note: analyzing accumulation functions from graphs of f is a signature BC free-response question. Students must systematically connect properties of g to features of f's graph. Vocabulary: FTC Part 1, accumulation function, integrand, Chain Rule extension, increasing, decreasing, inflection point."
       },
       {
-        "skill": "Analysis of Functions: Interpreting the Behavior of Accumulation Functions Involving Area",
+        "skill": "FUN-5.A Integration and Accumulation of Change - Analysis of Functions: Interpreting the Behavior of Accumulation Functions Involving Area",
         "ref": "FUN-5.A",
         "prompt": "This topic covers interpreting accumulation functions for AP Calculus BC (CED: FUN-5.A, Unit 6). For g(x) = integral from a to x of f(t)dt: g(a) = 0; g increases where f > 0, decreases where f < 0; g has relative max where f goes from + to -, relative min where f goes from - to +; g is concave up where f increases, concave down where f decreases; g has inflection points at extrema of f. Evaluate g at specific points by computing net area (using geometric shapes). BC students should fluently analyze accumulation functions and connect this to series partial sums. AP exam note: this is among the most frequently tested topics on both AB and BC exams. Students must clearly reason from the graph of f to properties of g. Vocabulary: accumulation function, net area, increasing, decreasing, concavity, extrema, inflection point, geometric area."
       },
       {
-        "skill": "Analysis of Functions: Applying Properties of Definite Integrals",
+        "skill": "FUN-6.A Integration and Accumulation of Change - Analysis of Functions: Applying Properties of Definite Integrals",
         "ref": "FUN-6.A",
         "prompt": "This topic covers properties of definite integrals for AP Calculus BC (CED: FUN-6.A, Unit 6). Key properties: integral(a to a) = 0; integral(a to b) = -integral(b to a); linearity (sum and constant multiple); additivity: integral(a to c) = integral(a to b) + integral(b to c). BC students use these properties to manipulate integrals in applied contexts, evaluate integrals from given partial information, and in series-related arguments. Students should break apart or combine integrals strategically. AP exam note: questions provide integral values and ask students to compute related integrals using properties. This appears in both multiple-choice and free-response. Vocabulary: properties of integrals, linearity, additivity, reversing limits, constant multiple, combination."
       },
       {
-        "skill": "Analysis of Functions: The Fundamental Theorem of Calculus and Definite Integrals",
+        "skill": "FUN-6.B Integration and Accumulation of Change - Analysis of Functions: The Fundamental Theorem of Calculus and Definite Integrals",
         "ref": "FUN-6.B",
         "prompt": "This topic covers FTC Part 2 for AP Calculus BC (CED: FUN-6.B, Unit 6). If f is continuous and F' = f, then integral from a to b of f(x)dx = F(b) - F(a). This enables evaluating definite integrals via antiderivatives. The Net Change Theorem follows: integral of f'(x)dx from a to b = f(b) - f(a). BC students use FTC2 extensively with all integration techniques (substitution, parts, partial fractions) and in parametric/polar area/volume calculations. AP exam note: FTC2 is used in nearly every integral computation. Students must find correct antiderivatives and evaluate at both bounds accurately. Vocabulary: FTC Part 2, antiderivative, evaluation, Net Change Theorem, bounds, parametric integration."
       },
       {
-        "skill": "Analysis of Functions: Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation",
+        "skill": "FUN-6.C Integration and Accumulation of Change - Analysis of Functions: Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation",
         "ref": "FUN-6.C",
         "prompt": "This topic covers basic antiderivative rules for AP Calculus BC (CED: FUN-6.C, Unit 6). Key rules: integral of x^n = x^(n+1)/(n+1) + C (n!=-1); integral of 1/x = ln|x| + C; integral of e^x = e^x + C; integral of sin x = -cos x + C; integral of cos x = sin x + C; integral of sec^2 x = tan x + C; integral of 1/(1+x^2) = arctan x + C; integral of 1/sqrt(1-x^2) = arcsin x + C. Always include +C for indefinite integrals. BC students use these as building blocks for more advanced techniques (parts, partial fractions) and for term-by-term integration of power series. AP exam note: these basic formulas must be memorized and applied fluently. Forgetting +C is a common error. Vocabulary: antiderivative, indefinite integral, constant of integration, basic rules, reverse differentiation."
       },
       {
-        "skill": "Analysis of Functions: Integrating Using Substitution",
+        "skill": "FUN-6.D Integration and Accumulation of Change - Analysis of Functions: Integrating Using Substitution",
         "ref": "FUN-6.D",
         "prompt": "This topic covers u-substitution for AP Calculus BC (CED: FUN-6.D, Unit 6). U-substitution reverses the Chain Rule: integral of f(g(x))*g'(x)dx = integral of f(u)du with u = g(x). Steps: identify inner function u, compute du, rewrite integral in u, integrate, substitute back. For definite integrals, change limits to u-values or substitute back after integrating. BC students use substitution in more complex settings including within integration by parts and for series-defined integrals. AP exam note: u-substitution is the most frequently tested integration technique. Students should be comfortable adjusting for missing constant factors. Vocabulary: u-substitution, change of variable, inner function, differential, reverse Chain Rule, limits."
       },
       {
-        "skill": "Analysis of Functions: Integrating Functions Using Long Division and Completing the Square",
+        "skill": "FUN-6.D Integration and Accumulation of Change - Analysis of Functions: Integrating Functions Using Long Division and Completing the Square",
         "ref": "FUN-6.D",
         "prompt": "This topic covers long division and completing the square for integration in AP Calculus BC (CED: FUN-6.D, Unit 6). Long division: when numerator degree >= denominator degree, divide to get polynomial + proper fraction, then integrate. Completing the square: rewrite quadratics to match arctan or arcsin forms. Example: integral of 1/(x^2+6x+13) = integral of 1/((x+3)^2+4) = (1/2)arctan((x+3)/2) + C. BC students encounter these techniques in partial fraction contexts and when evaluating improper integrals. AP exam note: recognizing when long division or completing the square is needed is key. These techniques transform intractable integrals into standard forms. Vocabulary: long division, completing the square, proper fraction, arctan form, arcsin form, standard form."
       },
       {
-        "skill": "Analysis of Functions: Integrating Using Integration by Parts (BC ONLY)",
+        "skill": "FUN-6.E Integration and Accumulation of Change - Analysis of Functions: Integrating Using Integration by Parts (BC ONLY)",
         "ref": "FUN-6.E",
         "prompt": "This topic covers integration by parts for AP Calculus BC (CED: FUN-6.E, Unit 6). The formula integral of u dv = uv - integral of v du reverses the Product Rule. Use LIATE to choose u: Logarithmic, Inverse trig, Algebraic, Trigonometric, Exponential. Key applications: integral of x*e^x dx, integral of ln(x)dx, integral of x^2*sin(x)dx (apply twice), integral of e^x*sin(x)dx (apply twice, solve algebraically for original integral). The tabular method streamlines repeated application. For definite integrals, apply bounds to the uv term and remaining integral. This technique is BC ONLY. AP exam note: integration by parts is commonly tested on the BC exam. Students should practice efficient u/dv selection and handle cases requiring multiple applications. Vocabulary: integration by parts, LIATE, Product Rule reversal, tabular method, repeated application, BC only."
       },
       {
-        "skill": "Analysis of Functions: Using Linear Partial Fractions (BC ONLY)",
+        "skill": "FUN-6.F Integration and Accumulation of Change - Analysis of Functions: Using Linear Partial Fractions (BC ONLY)",
         "ref": "FUN-6.F",
         "prompt": "This topic covers partial fraction decomposition for AP Calculus BC (CED: FUN-6.F, Unit 6). For rational functions with distinct linear factors in the denominator, decompose: p(x)/((x-r1)(x-r2)...) = A/(x-r1) + B/(x-r2) + .... Find constants by multiplying through and substituting roots or equating coefficients. Each fraction integrates to a natural log. Prerequisite: numerator degree < denominator degree (else do long division first). This technique is BC ONLY. AP exam note: partial fractions on BC is limited to non-repeated linear factors. Students should practice the full process: factor, decompose, solve for constants, integrate. Vocabulary: partial fractions, decomposition, linear factors, coefficients, rational function, natural logarithm, BC only."
       },
       {
-        "skill": "Limits: Evaluating Improper Integrals (BC ONLY)",
+        "skill": "LIM-6.A Integration and Accumulation of Change - Limits: Evaluating Improper Integrals (BC ONLY)",
         "ref": "LIM-6.A",
         "prompt": "This topic covers improper integrals for AP Calculus BC (CED: LIM-6.A, Unit 6). Improper integrals have infinite bounds or discontinuous integrands. Evaluation: replace infinite bounds with a variable and take the limit. Type 1: integral from a to infinity of f(x)dx = lim[t->inf] integral from a to t of f(x)dx. Type 2: if f has a discontinuity at c in [a,b], split and use limits. Converges if limit is finite; diverges otherwise. Key result: integral of 1/x^p from 1 to infinity converges iff p > 1. This connects to the Integral Test for series. This is BC ONLY. AP exam note: students must show the limit process explicitly. Improper integrals connect to series convergence via the Integral Test. Vocabulary: improper integral, convergent, divergent, infinite bound, discontinuity, limit process, p-integral, BC only."
       },
       {
-        "skill": "Analysis of Functions: Selecting Techniques for Antidifferentiation",
+        "skill": "FUN-6.D, FUN-6.E, FUN-6.F Integration and Accumulation of Change - Analysis of Functions: Selecting Techniques for Antidifferentiation",
         "ref": "FUN-6.D, FUN-6.E, FUN-6.F",
         "prompt": "This topic covers selecting integration techniques for AP Calculus BC (CED: FUN-6.D, FUN-6.E, FUN-6.F, Unit 6). BC students choose from: basic rules, u-substitution, integration by parts, partial fractions, long division, completing the square. Decision strategy: (1) basic rule? (2) composition suggesting u-sub? (3) product suggesting parts? (4) rational function suggesting partial fractions or long division? (5) quadratic denominator suggesting completing the square? BC students face a wider range of integrands than AB and must be fluent with all techniques. Sometimes multiple techniques combine (e.g., u-sub followed by parts). AP exam note: efficient technique identification is critical for BC time management. Mixed practice is essential preparation. Vocabulary: technique selection, u-substitution, integration by parts, partial fractions, long division, completing the square."
       }
     ],
     "Differential Equations": [
       {
-        "skill": "Analysis of Functions: Modeling Situations with Differential Equations",
+        "skill": "FUN-7.A Differential Equations - Analysis of Functions: Modeling Situations with Differential Equations",
         "ref": "FUN-7.A",
         "prompt": "This topic covers modeling with differential equations for AP Calculus BC (CED: FUN-7.A, Unit 7). A differential equation involves a function and its derivatives. Students write DEs from verbal descriptions: identify the rate of change and its dependence. Common models: dy/dx = ky (exponential), dy/dx = k(y-A) (Newton's cooling), dP/dt = kP(1-P/L) (logistic). BC students work with all these models and must verify proposed solutions by substitution. The general solution contains arbitrary constants; particular solutions use initial conditions. AP exam note: writing DEs from context is a BC free-response skill. Students should identify whether a model is exponential, logistic, or other. Vocabulary: differential equation, model, rate of change, proportional, exponential, logistic, general solution, particular solution."
       },
       {
-        "skill": "Analysis of Functions: Verifying Solutions for Differential Equations",
+        "skill": "FUN-7.B Differential Equations - Analysis of Functions: Verifying Solutions for Differential Equations",
         "ref": "FUN-7.B",
         "prompt": "This topic covers verifying DE solutions for AP Calculus BC (CED: FUN-7.B, Unit 7). To verify y = f(x) solves a DE: compute required derivatives, substitute into the equation, confirm equality for all x. Also verify initial conditions when given. General solutions have constant C; particular solutions have specific C from initial conditions. BC students verify solutions for exponential, logistic, and other models. AP exam note: verification tests differentiation skills and algebraic manipulation. Students must show substitution and simplification clearly. Vocabulary: verify, solution, general solution, particular solution, initial condition, substitute, identity, differentiate."
       },
       {
-        "skill": "Analysis of Functions: Sketching Slope Fields",
+        "skill": "FUN-7.C Differential Equations - Analysis of Functions: Sketching Slope Fields",
         "ref": "FUN-7.C",
         "prompt": "This topic covers slope fields for AP Calculus BC (CED: FUN-7.C, Unit 7). A slope field for dy/dx = f(x,y) shows small segments at grid points with slope f(x,y). Key concepts: slope fields visualize solution families without solving; solution curves follow the segment pattern; horizontal segments where f(x,y) = 0; parallel segments indicate dependence on only one variable. BC students should quickly sketch and interpret slope fields, connecting them to the qualitative behavior of solutions. AP exam note: slope field questions appear in both multiple-choice (matching) and free-response (sketching solution curves through given points). Vocabulary: slope field, direction field, line segment, slope, solution curve, grid point, pattern."
       },
       {
-        "skill": "Analysis of Functions: Reasoning Using Slope Fields",
+        "skill": "FUN-7.C Differential Equations - Analysis of Functions: Reasoning Using Slope Fields",
         "ref": "FUN-7.C",
         "prompt": "This topic covers reasoning with slope fields for AP Calculus BC (CED: FUN-7.C, Unit 7). Students use slope fields to: sketch solution curves from initial points, identify equilibria (horizontal segments along a line), determine long-term behavior, and match fields to DEs. Reasoning: if slopes depend only on y (isoclines are horizontal), the field has the same slopes across rows; if only on x, same slopes down columns. BC students should connect slope field analysis to analytical solutions and use it when analytical solutions are unavailable. AP exam note: matching slope fields to DEs is a common MC question. Students should also sketch solutions through specified initial points. Vocabulary: slope field, solution curve, equilibrium, long-term behavior, isocline, qualitative, pattern matching."
       },
       {
-        "skill": "Analysis of Functions: Approximating Solutions Using Euler’s Method (BC ONLY)",
+        "skill": "FUN-7.C Differential Equations - Analysis of Functions: Approximating Solutions Using Euler\u2019s Method (BC ONLY)",
         "ref": "FUN-7.C",
         "prompt": "This topic covers Euler's Method for AP Calculus BC (CED: FUN-7.C, Unit 7). Euler's Method approximates solutions to dy/dx = f(x,y) with y(x0) = y0 using steps: x_(n+1) = x_n + h, y_(n+1) = y_n + h*f(x_n, y_n). Each step follows the tangent line. Smaller h gives better accuracy. Concavity determines error direction: concave up means underestimate, concave down means overestimate. This is BC ONLY. Students should perform several steps by hand, organizing work in a table. Example: dy/dx = x+y, y(0) = 1, h = 0.1: y(0.1) = 1 + 0.1(0+1) = 1.1. AP exam note: Euler's Method is commonly tested on BC. Students should organize computations clearly. Vocabulary: Euler's Method, step size, numerical approximation, iteration, tangent line, error, concavity, BC only."
       },
       {
-        "skill": "Analysis of Functions: Finding General Solutions Using Separation of Variables",
+        "skill": "FUN-7.D Differential Equations - Analysis of Functions: Finding General Solutions Using Separation of Variables",
         "ref": "FUN-7.D",
         "prompt": "This topic covers separation of variables for AP Calculus BC (CED: FUN-7.D, Unit 7). For dy/dx = f(x)g(y): separate as (1/g(y))dy = f(x)dx, integrate both sides, include constant C. Check for equilibrium solutions where g(y) = 0 (may be lost during separation). BC students handle a wider variety of separable equations, including those leading to logarithmic, inverse trig, and more complex solutions. AP exam note: separation of variables is the primary DE-solving technique on the BC exam. Students must show the separation step clearly and include the constant of integration. Vocabulary: separation of variables, separable, general solution, equilibrium, constant of integration, family of curves."
       },
       {
-        "skill": "Analysis of Functions: Finding Particular Solutions Using Initial Conditions and Separation of Variables",
+        "skill": "FUN-7.E Differential Equations - Analysis of Functions: Finding Particular Solutions Using Initial Conditions and Separation of Variables",
         "ref": "FUN-7.E",
         "prompt": "This topic covers finding particular solutions for AP Calculus BC (CED: FUN-7.E, Unit 7). After finding the general solution, substitute the initial condition y(x0) = y0 to determine C. Steps: (1) general solution with C; (2) plug in initial values; (3) solve for C; (4) write particular solution. Often easier to find C before solving explicitly for y. Verify the solution satisfies both the DE and initial condition. AP exam note: finding particular solutions is a core BC free-response skill. Students must show clear use of the initial condition. Vocabulary: particular solution, initial condition, initial value problem, constant of integration, verify, specific solution."
       },
       {
-        "skill": "Analysis of Functions: Exponential Models with Differential Equations",
+        "skill": "FUN-7.F, FUN-7.G Differential Equations - Analysis of Functions: Exponential Models with Differential Equations",
         "ref": "FUN-7.F, FUN-7.G",
         "prompt": "This topic covers exponential growth/decay for AP Calculus BC (CED: FUN-7.F, FUN-7.G, Unit 7). dy/dt = ky has solution y = Ce^(kt). k > 0: growth; k < 0: decay. With y(0) = y0: y = y0*e^(kt). Applications: population growth, radioactive decay (half-life = ln2/|k|), Newton's Cooling (dT/dt = -k(T-T_env), solution T = T_env + (T0-T_env)e^(-kt)). BC students should derive solutions via separation of variables and apply them in context. AP exam note: exponential models are commonly tested. Students should connect the DE to its solution and interpret parameters (growth rate, initial value, half-life) in context. Vocabulary: exponential growth, decay, half-life, doubling time, Newton's Cooling, growth rate."
       },
       {
-        "skill": "Analysis of Functions: Logistic Models with Differential Equations (BC ONLY)",
+        "skill": "FUN-7.H Differential Equations - Analysis of Functions: Logistic Models with Differential Equations (BC ONLY)",
         "ref": "FUN-7.H",
         "prompt": "This topic covers logistic growth for AP Calculus BC (CED: FUN-7.H, Unit 7). dP/dt = kP(1-P/L), carrying capacity L, growth constant k. Solution is S-shaped; maximum growth at P = L/2 (inflection point); equilibria at P = 0 (unstable) and P = L (stable). Solution: P(t) = L/(1+Ae^(-kt)) where A = (L-P0)/P0. For P0 < L, population grows toward L; for P0 > L, decreases toward L. This is BC ONLY. AP exam note: BC students should analyze logistic equations qualitatively (concavity, inflection, equilibria) and know that fastest growth occurs at P = L/2. Vocabulary: logistic growth, carrying capacity, inflection point, sigmoidal, equilibrium, maximum growth rate, BC only."
       }
     ],
     "Applications of Integration": [
       {
-        "skill": "Change: Finding the Average Value of a Function on an Interval",
+        "skill": "CHA-4.B Applications of Integration - Change: Finding the Average Value of a Function on an Interval",
         "ref": "CHA-4.B",
         "prompt": "This topic covers average value for AP Calculus BC (CED: CHA-4.B, Unit 8). f_avg = (1/(b-a)) * integral from a to b of f(x)dx. This is the height of the rectangle with same area as the region under f. MVT for Integrals: there exists c with f(c) = f_avg (if f continuous). BC students apply this in parametric contexts and with functions defined by series. AP exam note: average value is regularly tested. Students must use the formula correctly and interpret results in context with units. Vocabulary: average value, Mean Value Theorem for Integrals, continuous, integral, rectangle, context."
       },
       {
-        "skill": "Change: Connecting Position, Velocity, and Acceleration of Functions Using Integrals",
+        "skill": "CHA-4.C Applications of Integration - Change: Connecting Position, Velocity, and Acceleration of Functions Using Integrals",
         "ref": "CHA-4.C",
         "prompt": "This topic covers integral-based motion analysis for AP Calculus BC (CED: CHA-4.C, Unit 8). v(t) = v(t0) + integral of a(s)ds; s(t) = s(t0) + integral of v(s)ds. Displacement = integral of v(t)dt; total distance = integral of |v(t)|dt. BC students extend to 2D: position r(t) = r(t0) + integral of v(t)dt (component-wise); distance = integral of speed = integral of |v(t)| = integral of sqrt([x']^2+[y']^2)dt. AP exam note: distinguishing displacement from total distance is crucial. BC problems frequently involve 2D parametric/vector motion. Vocabulary: displacement, total distance, velocity, acceleration, Net Change Theorem, parametric, vector, speed."
       },
       {
-        "skill": "Change: Using Accumulation Functions and Definite Integrals in Applied Contexts",
+        "skill": "CHA-4.D, CHA-4.E Applications of Integration - Change: Using Accumulation Functions and Definite Integrals in Applied Contexts",
         "ref": "CHA-4.D, CHA-4.E",
         "prompt": "This topic covers applied integrals for AP Calculus BC (CED: CHA-4.D, CHA-4.E, Unit 8). When R(t) is a rate, integral from a to b of R(t)dt gives total accumulated quantity. For inflow/outflow: net change = integral of (inflow - outflow). The accumulation function F(t) = F(a) + integral from a to t of R(s)ds tracks running totals. BC students encounter more complex applied contexts and may need series approximations for integrals without closed forms. AP exam note: applied integral problems are staples of BC free-response. Correct setup, units, and contextual interpretation are essential. Vocabulary: accumulation, net change, inflow, outflow, rate function, units, context, total quantity."
       },
       {
-        "skill": "Change: Finding the Area Between Curves Expressed as Functions of x",
+        "skill": "CHA-5.A Applications of Integration - Change: Finding the Area Between Curves Expressed as Functions of x",
         "ref": "CHA-5.A",
         "prompt": "This topic covers area between curves (functions of x) for AP Calculus BC (CED: CHA-5.A, Unit 8). A = integral from a to b of [f(x)-g(x)]dx where f(x) >= g(x). Find intersection points for limits; determine top/bottom functions; split if curves cross. BC students apply this in more complex scenarios and connect to polar area (a different formula) and parametric applications. AP exam note: area between curves is commonly tested. Students must identify upper and lower functions and find correct intersection points. Vocabulary: area between curves, upper function, lower function, intersection, limits of integration, top minus bottom."
       },
       {
-        "skill": "Change: Finding the Area Between Curves Expressed as Functions of y",
+        "skill": "CHA-5.A Applications of Integration - Change: Finding the Area Between Curves Expressed as Functions of y",
         "ref": "CHA-5.A",
         "prompt": "This topic covers area between curves as functions of y for AP Calculus BC (CED: CHA-5.A, Unit 8). A = integral from c to d of [f(y)-g(y)]dy where f(y) is rightmost, g(y) is leftmost. Use horizontal slicing when integrating with respect to y is simpler. Limits c, d are y-values at intersections. BC students should choose between dx and dy integration based on problem structure. AP exam note: students must be able to determine whether integrating with respect to x or y is more efficient. Vocabulary: functions of y, horizontal slicing, right minus left, intersection, integrate with respect to y."
       },
       {
-        "skill": "Change: Finding the Area Between Curves That Intersect at More Than Two Points",
+        "skill": "CHA-5.A Applications of Integration - Change: Finding the Area Between Curves That Intersect at More Than Two Points",
         "ref": "CHA-5.A",
         "prompt": "This topic covers area between curves with multiple intersections for AP Calculus BC (CED: CHA-5.A, Unit 8). Find all intersection points; determine which function is on top in each sub-interval; integrate |f(x)-g(x)| by splitting at crossing points; sum the sub-areas. BC students should handle more complex curve configurations and may encounter this with polar curves as well. AP exam note: students must find all intersection points and handle each region correctly. Careful setup prevents sign errors. Vocabulary: multiple intersections, sub-regions, crossing points, piecewise integration, total area."
       },
       {
-        "skill": "Change: Volumes with Cross Sections: Squares and Rectangles",
+        "skill": "CHA-5.B Applications of Integration - Change: Volumes with Cross Sections: Squares and Rectangles",
         "ref": "CHA-5.B",
         "prompt": "This topic covers volumes with square and rectangular cross sections for AP Calculus BC (CED: CHA-5.B, Unit 8). V = integral of A(x)dx where A(x) is the cross-section area. For squares with side s(x): A = s^2. For rectangles: A = s*h where dimensions depend on the base region. s(x) is typically the distance between curves. Students visualize 3D solids by stacking cross sections. AP exam note: cross-section volume is a common free-response question. Students must express A(x) clearly and set up the integral correctly. Vocabulary: cross section, perpendicular, base region, square, rectangle, side length, volume integral."
       },
       {
-        "skill": "Change: Volumes with Cross Sections: Triangles and Semicircles",
+        "skill": "CHA-5.B Applications of Integration - Change: Volumes with Cross Sections: Triangles and Semicircles",
         "ref": "CHA-5.B",
         "prompt": "This topic covers volumes with triangular and semicircular cross sections for AP Calculus BC (CED: CHA-5.B, Unit 8). For equilateral triangles with side s: A = (sqrt(3)/4)s^2. For isosceles right triangles with leg s: A = s^2/2. For semicircles with diameter s: A = (pi/8)s^2. The base region determines s(x). V = integral of A(x)dx. AP exam note: students must know the area formulas for each cross-section type. Careful determination of s(x) is critical. Vocabulary: equilateral triangle, isosceles right triangle, semicircle, diameter, area formula, cross section, volume."
       },
       {
-        "skill": "Change: Volume with Disc Method: Revolving Around the x- or y-Axis",
+        "skill": "CHA-5.C Applications of Integration - Change: Volume with Disc Method: Revolving Around the x- or y-Axis",
         "ref": "CHA-5.C",
         "prompt": "This topic covers the disc method for AP Calculus BC (CED: CHA-5.C, Unit 8). For revolution around x-axis: V = pi * integral of [f(x)]^2 dx. For revolution around y-axis: V = pi * integral of [g(y)]^2 dy. Each cross section is a disc with radius = distance from curve to axis. AP exam note: disc method problems are common. The most frequent error is forgetting to square the function or forgetting pi. Students should sketch the region to correctly identify the radius. Vocabulary: disc method, solid of revolution, axis of rotation, radius, cross-sectional area, revolve."
       },
       {
-        "skill": "Change: Volume with Disc Method: Revolving Around Other Axes",
+        "skill": "CHA-5.C Applications of Integration - Change: Volume with Disc Method: Revolving Around Other Axes",
         "ref": "CHA-5.C",
         "prompt": "This topic covers the disc method for non-standard axes in AP Calculus BC (CED: CHA-5.C, Unit 8). For revolution around y = k or x = k, the radius = distance from curve to axis = |f(x)-k| or |g(y)-k|. V = pi * integral of [radius]^2 dx (or dy). Students must determine the correct distance formula based on the geometry. AP exam note: revolution around non-standard axes is frequently tested. Draw diagrams showing the axis and identify the radius correctly. Vocabulary: disc method, non-standard axis, distance, radius, revolution, horizontal line, vertical line."
       },
       {
-        "skill": "Change: Volume with Washer Method: Revolving Around the x- or y-Axis",
+        "skill": "CHA-5.C Applications of Integration - Change: Volume with Washer Method: Revolving Around the x- or y-Axis",
         "ref": "CHA-5.C",
         "prompt": "This topic covers the washer method for AP Calculus BC (CED: CHA-5.C, Unit 8). V = pi * integral of [R^2 - r^2]dx where R = outer radius (farther curve to axis), r = inner radius (closer curve). The washer = disc with hole. Do NOT compute pi*(R-r)^2; must subtract squares. For revolution around y-axis, integrate with respect to y. AP exam note: the (R^2 - r^2) vs (R-r)^2 distinction is critical. Students should clearly label R and r. Vocabulary: washer method, outer radius, inner radius, annulus, subtract squares, solid of revolution."
       },
       {
-        "skill": "Change: Volume with Washer Method: Revolving Around Other Axes",
+        "skill": "CHA-5.C Applications of Integration - Change: Volume with Washer Method: Revolving Around Other Axes",
         "ref": "CHA-5.C",
         "prompt": "This topic covers washer method for non-standard axes in AP Calculus BC (CED: CHA-5.C, Unit 8). For revolution around y = k: R(x) = |farther curve - k|, r(x) = |closer curve - k|. V = pi * integral of [R^2 - r^2]dx. Drawing a representative rectangle perpendicular to the axis and rotating it helps identify radii. Students must carefully determine outer vs. inner based on distance from the axis. AP exam note: this combines non-standard axis and washer challenges. Meticulous setup with labeled radii is essential. Vocabulary: washer method, non-standard axis, outer radius, inner radius, distance, representative rectangle."
       },
       {
-        "skill": "Change: The Arc Length of a Smooth, Planar Curve and Distance Traveled (BC ONLY)",
+        "skill": "CHA-6.A Applications of Integration - Change: The Arc Length of a Smooth, Planar Curve and Distance Traveled (BC ONLY)",
         "ref": "CHA-6.A",
         "prompt": "This topic covers arc length for AP Calculus BC (CED: CHA-6.A, Unit 8). For y = f(x): L = integral of sqrt(1+[f'(x)]^2)dx from a to b. For parametric x = f(t), y = g(t): L = integral of sqrt([f'(t)]^2+[g'(t)]^2)dt from a to b. The parametric integrand is the speed, so arc length = integral of speed. This is BC ONLY. Key concepts: requires a smooth curve (continuous derivative); most arc length integrals need a calculator. Distance traveled by a particle equals the arc length of its trajectory. AP exam note: arc length setup is commonly tested. Students should set up the integral correctly even if calculator evaluation is needed. Vocabulary: arc length, smooth curve, speed, distance traveled, parametric, Pythagorean, BC only."
       }
     ],
     "Parametric Equations, Polar Coordinates, and Vector-Valued Functions": [
       {
-        "skill": "Change: Defining and Differentiating Parametric Equations",
+        "skill": "CHA-3.G, FUN-8.A Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Change: Defining and Differentiating Parametric Equations",
         "ref": "CHA-3.G, FUN-8.A",
         "prompt": "This topic covers parametric differentiation for AP Calculus BC (CED: CHA-3.G, FUN-8.A, Unit 9). Parametric curves x = f(t), y = g(t) have dy/dx = (dy/dt)/(dx/dt), provided dx/dt != 0. Horizontal tangents: dy/dt = 0, dx/dt != 0. Vertical tangents: dx/dt = 0, dy/dt != 0. The parameter t determines direction of travel. Students find tangent line equations at specific t-values. BC students use parametric differentiation extensively in motion problems and curve analysis. AP exam note: parametric differentiation is a core BC topic. Students must clearly apply the Chain Rule and handle horizontal/vertical tangent cases. Vocabulary: parametric equations, parameter, dy/dx, Chain Rule, horizontal tangent, vertical tangent, direction."
       },
       {
-        "skill": "Change: Second Derivatives of Parametric Equations",
+        "skill": "FUN-8.B Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Change: Second Derivatives of Parametric Equations",
         "ref": "FUN-8.B",
         "prompt": "This topic covers parametric second derivatives for AP Calculus BC (CED: FUN-8.B, Unit 9). d^2y/dx^2 = (d/dt[dy/dx])/(dx/dt). Steps: compute dy/dx = (dy/dt)/(dx/dt), differentiate with respect to t using the Quotient Rule, then divide by dx/dt. A common error is computing d^2y/dt^2 / d^2x/dt^2 (WRONG). The second derivative determines concavity of the parametric curve. AP exam note: the parametric second derivative formula is frequently tested and commonly misapplied. Students must use the correct formula and show all steps. Vocabulary: second derivative, parametric, concavity, Quotient Rule, d/dt, correct formula."
       },
       {
-        "skill": "Change: Finding Arc Lengths of Curves Given by Parametric Equations",
+        "skill": "CHA-6.A Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Change: Finding Arc Lengths of Curves Given by Parametric Equations",
         "ref": "CHA-6.A",
         "prompt": "This topic covers parametric arc length for AP Calculus BC (CED: CHA-6.A, Unit 9). L = integral from a to b of sqrt([dx/dt]^2+[dy/dt]^2)dt. The integrand is the speed. Arc length = integral of speed over time. The curve must be smooth. Students set up and evaluate (often with calculator). Example: unit circle x = cos t, y = sin t, t in [0,2pi]: L = 2pi. AP exam note: setting up parametric arc length integrals is commonly tested. Vocabulary: arc length, parametric, speed, smooth curve, integral, Pythagorean theorem."
       },
       {
-        "skill": "Change: Defining and Differentiating Vector-Valued Functions",
+        "skill": "FUN-8.A, CHA-3.G Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Change: Defining and Differentiating Vector-Valued Functions",
         "ref": "FUN-8.A, CHA-3.G",
         "prompt": "This topic covers vector-valued functions for AP Calculus BC (CED: FUN-8.A, CHA-3.G, Unit 9). r(t) = <x(t), y(t)> gives position. v(t) = r'(t) = <x'(t), y'(t)> is velocity. a(t) = v'(t) = <x''(t), y''(t)> is acceleration. Speed = |v(t)| = sqrt([x']^2+[y']^2). The velocity vector is tangent to the path. At rest when v = <0,0>. BC students analyze planar motion using vectors, distinguishing velocity (vector) from speed (scalar). AP exam note: vector-valued function problems are a signature BC topic. Students must compute velocity, acceleration, and speed accurately. Vocabulary: vector-valued function, position, velocity, acceleration, speed, magnitude, component, tangent."
       },
       {
-        "skill": "Analysis of Functions: Integrating Vector-Valued Functions",
+        "skill": "FUN-8.C Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Analysis of Functions: Integrating Vector-Valued Functions",
         "ref": "FUN-8.C",
         "prompt": "This topic covers integrating vector-valued functions for AP Calculus BC (CED: FUN-8.C, Unit 9). Integrate component-wise: integral of <f(t), g(t)>dt = <integral f dt, integral g dt>. Position from velocity: r(t) = r(t0) + integral from t0 to t of v(s)ds. Velocity from acceleration: v(t) = v(t0) + integral from t0 to t of a(s)ds. Displacement = integral of v dt (vector). Total distance = integral of |v| dt = integral of speed (scalar, not the same as displacement magnitude). AP exam note: students must distinguish displacement (vector) from total distance (scalar). Initial conditions determine particular solutions component-wise. Vocabulary: component-wise integration, displacement, total distance, initial condition, vector integral."
       },
       {
-        "skill": "Analysis of Functions: Solving Motion Problems Using Parametric and Vector-Valued Functions",
+        "skill": "CHA-3.G, FUN-8.A Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Analysis of Functions: Solving Motion Problems Using Parametric and Vector-Valued Functions",
         "ref": "CHA-3.G, FUN-8.A",
         "prompt": "This topic covers solving planar motion problems for AP Calculus BC (CED: CHA-3.G, FUN-8.A, Unit 9). Students synthesize parametric/vector tools: find position, velocity, acceleration at given times; determine when particle is at rest; find slope of path (dy/dx = y'/x'); compute speed; find total distance; determine position using integrals and initial conditions. BC exam signature problem: given v(t) and initial position, find position at time t by integrating components. AP exam note: motion problems are among the most common BC free-response questions. Students should organize work clearly, label vectors, and distinguish scalar from vector quantities. Vocabulary: motion, parametric, vector, position, velocity, speed, distance, slope of path, at rest."
       },
       {
-        "skill": "Analysis of Functions: Defining Polar Coordinates and Differentiating in Polar Form",
+        "skill": "FUN-8.D Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Analysis of Functions: Defining Polar Coordinates and Differentiating in Polar Form",
         "ref": "FUN-8.D",
         "prompt": "This topic covers polar coordinates and differentiation for AP Calculus BC (CED: FUN-8.D, Unit 9). Point (r, theta): r = distance from origin, theta = angle from positive x-axis. Conversion: x = r cos theta, y = r sin theta. For r = f(theta), use parametric form x = f(theta)cos(theta), y = f(theta)sin(theta). dy/dx = (dy/dtheta)/(dx/dtheta) using Product Rule for dx/dtheta and dy/dtheta. Common curves: circles, cardioids, roses, limacons. Horizontal tangent: dy/dtheta = 0, dx/dtheta != 0. Vertical: dx/dtheta = 0, dy/dtheta != 0. AP exam note: polar differentiation requires careful Product Rule application. Students should identify tangent line slopes on polar curves. Vocabulary: polar coordinates, r, theta, conversion, dy/dx, Product Rule, cardioid, rose, limacon."
       },
       {
-        "skill": "Change: Finding the Area of a Polar Region or the Area Bounded by a Single Polar Curve",
+        "skill": "CHA-5.D Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Change: Finding the Area of a Polar Region or the Area Bounded by a Single Polar Curve",
         "ref": "CHA-5.D",
         "prompt": "This topic covers polar area for AP Calculus BC (CED: CHA-5.D, Unit 9). A = (1/2) integral from alpha to beta of [f(theta)]^2 d(theta). This sums infinitesimal triangular sectors. Key: choose limits to trace the region exactly once. For curves passing through the origin, determine where r = 0. Common applications: area inside cardioids, rose petals, circles. Students must sketch curves and identify correct angular bounds. AP exam note: correct limits of integration are crucial. Students should know when curves complete full traversals. Vocabulary: polar area, sector, half r-squared, limits of integration, cardioid, rose petal, trace once."
       },
       {
-        "skill": "Change: Finding the Area of the Region Bounded by Two Polar Curves",
+        "skill": "CHA-5.D Parametric Equations, Polar Coordinates, and Vector-Valued Functions - Change: Finding the Area of the Region Bounded by Two Polar Curves",
         "ref": "CHA-5.D",
         "prompt": "This topic covers area between polar curves for AP Calculus BC (CED: CHA-5.D, Unit 9). A = (1/2) integral from alpha to beta of ([f(theta)]^2 - [g(theta)]^2)d(theta), where f is the outer curve and g is the inner. Find intersections by solving f(theta) = g(theta). Determine which curve is outer in each region. May need to split into separate integrals. Watch for origin intersections where both curves are zero at different theta values. AP exam note: polar area between curves requires careful identification of intersection angles and outer/inner curves. Sketch both curves on the same grid. Vocabulary: polar area, outer curve, inner curve, intersection, angular bounds, split integral."
       }
     ],
     "Infinite Sequences and Series": [
       {
-        "skill": "Limits: Defining Convergent and Divergent Infinite Series",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Defining Convergent and Divergent Infinite Series",
         "ref": "LIM-7.A",
         "prompt": "This topic covers infinite series fundamentals for AP Calculus BC (CED: LIM-7.A, Unit 10). An infinite series sum(a_n) is the limit of partial sums: S = lim S_N. Converges if S is finite; diverges otherwise. Distinguish between sequence {a_n} and series sum(a_n). Necessary condition: convergence requires lim a_n = 0 (but not sufficient -- harmonic series). BC students build on this to apply multiple convergence tests. Understanding partial sums is essential for error bounds and approximations. AP exam note: foundational understanding of series convergence is critical for the entire BC series unit. Vocabulary: infinite series, partial sum, convergent, divergent, sequence, limit, necessary condition."
       },
       {
-        "skill": "Limits: Working with Geometric Series",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Working with Geometric Series",
         "ref": "LIM-7.A",
         "prompt": "This topic covers geometric series for AP Calculus BC (CED: LIM-7.A, Unit 10). Form: sum(a*r^n) = a/(1-r) when |r| < 1; diverges when |r| >= 1. Partial sums: S_N = a(1-r^N)/(1-r). Identify a (first term) and r (common ratio). Applications: repeating decimals, telescoping via partial fractions, power series as generalized geometric series (sum(x^n) = 1/(1-x) for |x| < 1). BC students connect geometric series to power series representations. AP exam note: geometric series are foundational. Students should recognize them in various forms and connect 1/(1-x) = sum(x^n) to Taylor series. Vocabulary: geometric series, common ratio, sum formula, convergence condition, power series connection."
       },
       {
-        "skill": "Limits: The nth Term Test for Divergence",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: The nth Term Test for Divergence",
         "ref": "LIM-7.A",
         "prompt": "This topic covers the nth Term Test for AP Calculus BC (CED: LIM-7.A, Unit 10). If lim a_n != 0 or DNE, then sum(a_n) diverges. If lim a_n = 0, the test is inconclusive. Always apply this test first. The harmonic series shows that lim a_n = 0 is necessary but not sufficient for convergence. BC students should evaluate sequence limits using L'Hopital's Rule, comparison, and algebraic techniques before proceeding to other convergence tests. AP exam note: the nth Term Test is the first step in any convergence analysis. Students must clearly state 'inconclusive' when the limit is zero. Vocabulary: nth Term Test, Divergence Test, necessary condition, inconclusive, harmonic series, limit."
       },
       {
-        "skill": "Limits: Integral Test for Convergence",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Integral Test for Convergence",
         "ref": "LIM-7.A",
         "prompt": "This topic covers the Integral Test for AP Calculus BC (CED: LIM-7.A, Unit 10). If f is positive, continuous, and decreasing on [1,inf) with a_n = f(n), then sum(a_n) and integral of f(x)dx from 1 to infinity either both converge or both diverge. Conditions must be verified. The test does not give the series sum. Classic use: proving p-series convergence (p > 1) and divergence (p <= 1). BC students use the Integral Test when the integrand has a known antiderivative. AP exam note: verify the three conditions when applying. The Integral Test connects series to improper integrals (BC only). Vocabulary: Integral Test, positive, continuous, decreasing, improper integral, p-series."
       },
       {
-        "skill": "Limits: Harmonic Series and p-Series",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Harmonic Series and p-Series",
         "ref": "LIM-7.A",
         "prompt": "This topic covers harmonic and p-series for AP Calculus BC (CED: LIM-7.A, Unit 10). Harmonic series sum(1/n) diverges. p-series sum(1/n^p): converges if p > 1, diverges if p <= 1. These serve as benchmark series for comparison tests. Key examples: sum(1/n^2) converges, sum(1/sqrt(n)) diverges, sum(1/n^3) converges. BC students use p-series extensively as comparison standards and in endpoint convergence analysis for power series. AP exam note: p-series convergence is foundational knowledge used throughout the series unit. Quick identification of p and convergence/divergence is essential. Vocabulary: harmonic series, p-series, convergence threshold, benchmark, comparison, exponent."
       },
       {
-        "skill": "Limits: Comparison Tests for Convergence",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Comparison Tests for Convergence",
         "ref": "LIM-7.A",
         "prompt": "This topic covers comparison tests for AP Calculus BC (CED: LIM-7.A, Unit 10). Direct Comparison: 0 <= a_n <= b_n with sum(b_n) converging implies sum(a_n) converges; a_n >= b_n >= 0 with sum(b_n) diverging implies sum(a_n) diverges. Limit Comparison: if lim(a_n/b_n) = L with 0 < L < inf, both series share the same convergence behavior. Choose comparison series (p-series or geometric) based on dominant terms for large n. AP exam note: Limit Comparison is often easier than Direct Comparison. Students must show the comparison series converges/diverges. Vocabulary: Direct Comparison, Limit Comparison, positive terms, inequality, dominant term, benchmark series."
       },
       {
-        "skill": "Limits: Alternating Series Test for Convergence",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Alternating Series Test for Convergence",
         "ref": "LIM-7.A",
         "prompt": "This topic covers the Alternating Series Test for AP Calculus BC (CED: LIM-7.A, Unit 10). For sum((-1)^n b_n) with b_n > 0: if b_n is decreasing and lim b_n = 0, the series converges. This convergence is conditional if sum(b_n) diverges. Classic: alternating harmonic sum((-1)^(n+1)/n) converges to ln(2). Partial sums oscillate around the sum. BC students connect this to the error bound (Topic 10.10) and absolute/conditional convergence analysis. AP exam note: both conditions must be verified explicitly. The AST is paired with the error bound on many BC exams. Vocabulary: Alternating Series Test, Leibniz Test, decreasing, limit zero, conditional convergence, oscillating."
       },
       {
-        "skill": "Limits: Ratio Test for Convergence",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Ratio Test for Convergence",
         "ref": "LIM-7.A",
         "prompt": "This topic covers the Ratio Test for AP Calculus BC (CED: LIM-7.A, Unit 10). Compute L = lim|a_(n+1)/a_n|. L < 1: converges absolutely. L > 1 or infinity: diverges. L = 1: inconclusive. Best for series with factorials and exponentials. For power series sum(c_n(x-a)^n), the Ratio Test determines the radius of convergence R: |x-a| < R when L < 1. BC students use the Ratio Test as the primary tool for finding radius of convergence. AP exam note: the Ratio Test is one of the most important and frequently tested convergence tests on BC. Careful simplification of the ratio is essential. Vocabulary: Ratio Test, absolute convergence, factorial, exponential, radius of convergence, inconclusive."
       },
       {
-        "skill": "Limits: Determining Absolute or Conditional Convergence",
+        "skill": "LIM-7.A Infinite Sequences and Series - Limits: Determining Absolute or Conditional Convergence",
         "ref": "LIM-7.A",
         "prompt": "This topic covers absolute vs. conditional convergence for AP Calculus BC (CED: LIM-7.A, Unit 10). Absolute convergence: sum(|a_n|) converges. Conditional: sum(a_n) converges but sum(|a_n|) diverges. Absolute convergence implies convergence. Procedure: (1) test sum(|a_n|) with appropriate positive series test; (2) if converges, it is absolute; (3) if diverges, test sum(a_n) (often AST); (4) if sum(a_n) converges, it is conditional. This classification is important at power series endpoints. AP exam note: students must test both the original and absolute value series and clearly state the type of convergence. Vocabulary: absolute convergence, conditional convergence, series of absolute values, classification, endpoint."
       },
       {
-        "skill": "Limits: Alternating Series Error Bound",
+        "skill": "LIM-7.B Infinite Sequences and Series - Limits: Alternating Series Error Bound",
         "ref": "LIM-7.B",
         "prompt": "This topic covers the alternating series error bound for AP Calculus BC (CED: LIM-7.B, Unit 10). For a convergent alternating series: |S - S_N| <= |a_(N+1)| = b_(N+1). The error is bounded by the first omitted term. To achieve accuracy epsilon, find smallest N with b_(N+1) < epsilon. This is a simple and powerful error bound specific to alternating series. BC students use it to determine how many terms are needed for a desired accuracy and to bound errors in Taylor polynomial approximations of alternating series. AP exam note: frequently tested. Students must identify the first omitted term correctly. Vocabulary: error bound, alternating series, first omitted term, accuracy, partial sum, truncation."
       },
       {
-        "skill": "Limits: Finding Taylor Polynomial Approximations of Functions",
+        "skill": "LIM-8.A Infinite Sequences and Series - Limits: Finding Taylor Polynomial Approximations of Functions",
         "ref": "LIM-8.A",
         "prompt": "This topic covers Taylor polynomials for AP Calculus BC (CED: LIM-8.A, Unit 10). The nth-degree Taylor polynomial centered at a: P_n(x) = sum[k=0 to n] f^(k)(a)(x-a)^k/k!. Maclaurin polynomial: a = 0. Higher degree generally gives better approximation near a. The polynomial matches f through its first n derivatives at a. Common Maclaurin polynomials: e^x, sin x, cos x, 1/(1-x), ln(1+x). BC students construct Taylor polynomials as part of series analysis and error bound problems. AP exam note: constructing Taylor polynomials is a core BC free-response skill. Students must compute derivatives accurately and apply the formula correctly. Vocabulary: Taylor polynomial, Maclaurin polynomial, center, degree, derivatives, approximation, coefficient."
       },
       {
-        "skill": "Limits: Lagrange Error Bound",
+        "skill": "LIM-8.B Infinite Sequences and Series - Limits: Lagrange Error Bound",
         "ref": "LIM-8.B",
         "prompt": "This topic covers the Lagrange Error Bound for AP Calculus BC (CED: LIM-8.B, Unit 10). |f(x) - P_n(x)| <= M|x-a|^(n+1)/(n+1)! where M bounds |f^(n+1)(c)| for c between a and x. Key: M must be an upper bound on the (n+1)th derivative on the entire interval. The bound decreases as n increases (usually) and as x gets closer to a. Works for any Taylor polynomial. BC students use this to determine how many terms are needed for a specified accuracy. AP exam note: Lagrange Error Bound is a challenging but commonly tested BC topic. Students must correctly identify M and set up the inequality. Vocabulary: Lagrange Error Bound, remainder, Taylor polynomial, upper bound, (n+1)th derivative, accuracy."
       },
       {
-        "skill": "Limits: Radius and Interval of Convergence of Power Series",
+        "skill": "LIM-8.C Infinite Sequences and Series - Limits: Radius and Interval of Convergence of Power Series",
         "ref": "LIM-8.C",
         "prompt": "This topic covers radius and interval of convergence for AP Calculus BC (CED: LIM-8.C, Unit 10). Power series sum(c_n(x-a)^n) converges for |x-a| < R (radius) and diverges for |x-a| > R. Find R using the Ratio Test: R = 1/lim|c_(n+1)/c_n| (or Root Test). Test endpoints separately using other convergence tests (p-series, AST, etc.). The interval may be open, half-open, or closed. Inside the radius: absolute convergence. At endpoints: may converge conditionally, absolutely, or diverge. BC students must master this for representing functions as power series. AP exam note: finding the interval of convergence with complete endpoint analysis is a signature BC free-response problem. Vocabulary: power series, radius of convergence, interval of convergence, endpoint analysis, Ratio Test, absolute."
       },
       {
-        "skill": "Limits: Finding Taylor or Maclaurin Series for a Function",
+        "skill": "LIM-8.D Infinite Sequences and Series - Limits: Finding Taylor or Maclaurin Series for a Function",
         "ref": "LIM-8.D",
         "prompt": "This topic covers finding Taylor/Maclaurin series for AP Calculus BC (CED: LIM-8.D, Unit 10). Taylor series: sum(f^(n)(a)/n! * (x-a)^n). Key known series: e^x = sum(x^n/n!), sin x = sum((-1)^n x^(2n+1)/(2n+1)!), cos x = sum((-1)^n x^(2n)/(2n)!), 1/(1-x) = sum(x^n), ln(1+x) = sum((-1)^(n+1) x^n/n). Derive new series by: computing derivatives and finding patterns, substitution into known series (e.g., e^(-x^2)), differentiation/integration of known series, multiplication/addition. AP exam note: BC students must memorize common series and manipulate them fluently. Series manipulation is one of the most tested BC skills. Vocabulary: Taylor series, Maclaurin series, known series, substitution, manipulation, coefficient pattern."
       },
       {
-        "skill": "Limits: Representing Functions as Power Series",
+        "skill": "LIM-8.E Infinite Sequences and Series - Limits: Representing Functions as Power Series",
         "ref": "LIM-8.E",
         "prompt": "This topic covers representing functions as power series for AP Calculus BC (CED: LIM-8.E, Unit 10). Techniques: (1) substitution into known series; (2) term-by-term differentiation; (3) term-by-term integration (determine C with initial conditions); (4) multiplication/addition of series. Example: integral of e^(-t^2)dt has no elementary form but its series is obtained by integrating the series for e^(-t^2) term by term. The interval of convergence may change at endpoints after differentiation or integration (radius stays the same). AP exam note: representing functions as power series is a classic BC free-response question. Students should justify convergence and use series operations fluently. Vocabulary: power series representation, term-by-term differentiation, term-by-term integration, substitution, interval."
       }

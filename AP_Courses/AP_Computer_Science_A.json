@@ -2,310 +2,310 @@
   "AP - Computer Science A": {
     "Primitive Types": [
       {
-        "skill": "1.1 Why Programming? Why Java?",
+        "skill": "VAR-1.A (Unit 1, Topic 1.1) Primitive Types - 1.1 Why Programming? Why Java?",
         "ref": "VAR-1.A (Unit 1, Topic 1.1)",
         "prompt": "This topic introduces why programming matters and why Java is the language used in AP Computer Science A (CED: VAR-1.A, Unit 1, Topic 1.1). Students should understand the motivation behind learning to program: solving problems, automating tasks, and expressing algorithms precisely. Key concepts: Java as an object-oriented, platform-independent language; the Java Development Kit (JDK) and the role of the compiler and Java Virtual Machine (JVM); the structure of a basic Java program including the main method signature (public static void main(String[] args)); System.out.print and System.out.println for output; the difference between syntax errors and logic errors. Students should be able to write and run a simple Java program, understand the compilation process from source code (.java) to bytecode (.class), and recognize that programming is a creative, iterative process. Vocabulary: source code, bytecode, compiler, IDE, syntax, logic error, console output, object-oriented programming."
       },
       {
-        "skill": "1.2 Variables and Data Types",
+        "skill": "VAR-1.B (Unit 1, Topic 1.2) Primitive Types - 1.2 Variables and Data Types",
         "ref": "VAR-1.B (Unit 1, Topic 1.2)",
         "prompt": "This topic covers variables and data types for AP CSA students (CED: VAR-1.B, Unit 1, Topic 1.2). Students should understand that variables are named memory locations that store values of a specific type. Key concepts: the three primitive data types tested on the AP exam (int, double, boolean); declaring and initializing variables; the difference between primitive types and reference types; naming conventions (camelCase) and valid identifiers; literal values for each type. Students must know that int stores whole numbers, double stores floating-point (decimal) numbers, and boolean stores true/false values. Important details: Java is statically typed so variables must be declared with a type before use; default values exist but should not be relied upon; the assignment operator (=) assigns the right-side value to the left-side variable. Vocabulary: variable, data type, primitive, declaration, initialization, identifier, int, double, boolean, literal, assignment."
       },
       {
-        "skill": "1.3 Expressions and Assignment Statements",
+        "skill": "VAR-1.C (Unit 1, Topic 1.3) Primitive Types - 1.3 Expressions and Assignment Statements",
         "ref": "VAR-1.C (Unit 1, Topic 1.3)",
         "prompt": "This topic covers expressions and assignment statements for AP CSA students (CED: VAR-1.C, Unit 1, Topic 1.3). Students should understand how to evaluate arithmetic expressions using +, -, *, /, and % operators. Key concepts: integer division truncates the decimal (7/2 yields 3, not 3.5); the modulo operator (%) returns the remainder; operator precedence follows standard mathematical order (*, /, % before +, -); parentheses override precedence; mixed-type arithmetic promotes int to double automatically. Students must trace through expressions step by step, predict output, and understand that assignment statements evaluate the right side first, then store the result in the left-side variable. Common pitfalls: integer overflow, unintended integer division, and confusing = (assignment) with == (equality). Vocabulary: expression, operator, operand, arithmetic, integer division, modulo, precedence, truncation, promotion, assignment statement."
       },
       {
-        "skill": "1.4 Compound Assignment Operators",
+        "skill": "VAR-1.D (Unit 1, Topic 1.4) Primitive Types - 1.4 Compound Assignment Operators",
         "ref": "VAR-1.D (Unit 1, Topic 1.4)",
         "prompt": "This topic covers compound assignment operators for AP CSA students (CED: VAR-1.D, Unit 1, Topic 1.4). Students should understand the shorthand operators +=, -=, *=, /=, %= and the increment/decrement operators ++ and --. Key concepts: x += 5 is equivalent to x = x + 5; these operators combine an arithmetic operation with assignment; the increment operator (++) adds 1 and the decrement operator (--) subtracts 1. Students should be able to trace code using compound assignment operators, convert between standard and compound assignment forms, and predict variable values after a sequence of operations. Important note: on the AP exam, only the postfix form (x++, x--) is tested, and it appears only as a standalone statement, not embedded in larger expressions. Vocabulary: compound assignment, increment, decrement, postfix, shorthand operator, accumulator pattern."
       },
       {
-        "skill": "1.5 Casting and Ranges of Variables",
+        "skill": "VAR-1.E (Unit 1, Topic 1.5) Primitive Types - 1.5 Casting and Ranges of Variables",
         "ref": "VAR-1.E (Unit 1, Topic 1.5)",
         "prompt": "This topic covers casting and ranges of variables for AP CSA students (CED: VAR-1.E, Unit 1, Topic 1.5). Students should understand type casting between int and double. Key concepts: implicit (widening) casting automatically converts int to double when needed; explicit (narrowing) casting uses (int) to truncate a double to an int (e.g., (int) 3.9 yields 3, not 4); the range of int is approximately -2.1 billion to 2.1 billion (Integer.MIN_VALUE to Integer.MAX_VALUE); integer overflow wraps around. Students should know how to use casting to force floating-point division (e.g., (double) a / b), round a double to the nearest int using (int)(x + 0.5), and understand why narrowing casts can lose information. Connect to expressions: casting has higher precedence than arithmetic operators. Vocabulary: casting, widening, narrowing, truncation, overflow, range, Integer.MIN_VALUE, Integer.MAX_VALUE, precision."
       }
     ],
     "Using Objects": [
       {
-        "skill": "2.1 Objects: Instances of Classes",
+        "skill": "MOD-1.A (Unit 2, Topic 2.1) Using Objects - 2.1 Objects: Instances of Classes",
         "ref": "MOD-1.A (Unit 2, Topic 2.1)",
         "prompt": "This topic covers objects as instances of classes for AP CSA students (CED: MOD-1.A, Unit 2, Topic 2.1). Students should understand the relationship between classes and objects in object-oriented programming. Key concepts: a class is a blueprint or template that defines the attributes (instance variables) and behaviors (methods) of objects; an object is a specific instance of a class created at runtime; each object has its own state (values of instance variables) and behavior (methods it can execute). Students should distinguish between a class definition and object instantiation, understand that multiple objects can be created from the same class, and recognize that objects are reference types (variables store memory addresses, not the objects themselves). Vocabulary: class, object, instance, instantiation, state, behavior, attribute, instance variable, method, reference type, null."
       },
       {
-        "skill": "2.2 Creating and Storing Objects (Instantiation)",
+        "skill": "MOD-1.B (Unit 2, Topic 2.2) Using Objects - 2.2 Creating and Storing Objects (Instantiation)",
         "ref": "MOD-1.B (Unit 2, Topic 2.2)",
         "prompt": "This topic covers creating and storing objects through instantiation for AP CSA students (CED: MOD-1.B, Unit 2, Topic 2.2). Students should understand how to create objects using the new keyword and constructors. Key concepts: the new operator allocates memory for a new object and calls its constructor; constructors initialize the object's state and have the same name as the class with no return type; constructors can be overloaded (multiple constructors with different parameter lists); a reference variable stores the address of the object in memory; if no object is assigned, a reference variable holds null. Students should write object creation statements like ClassName obj = new ClassName(args), understand constructor signatures, and trace object creation through constructor calls. Vocabulary: constructor, new keyword, instantiation, overloaded constructor, reference variable, null, memory allocation, parameter, argument."
       },
       {
-        "skill": "2.3 Calling a Void Method",
+        "skill": "MOD-1.C (Unit 2, Topic 2.3) Using Objects - 2.3 Calling a Void Method",
         "ref": "MOD-1.C (Unit 2, Topic 2.3)",
         "prompt": "This topic covers calling void methods for AP CSA students (CED: MOD-1.C, Unit 2, Topic 2.3). Students should understand that a void method performs an action but does not return a value. Key concepts: void methods are called using dot notation (objectName.methodName()); they can modify the object's internal state or produce side effects like printing output; void method calls are standalone statements, not part of expressions; the method signature includes the method name and parameter types. Students should trace method calls and understand that calling a method transfers control to that method's code, executes it, then returns control to the calling code. Distinguish void methods from non-void methods: void methods cannot be used in expressions or assigned to variables. Vocabulary: void method, dot notation, method call, side effect, state change, method signature, control flow."
       },
       {
-        "skill": "2.4 Calling a Void Method with Parameters",
+        "skill": "MOD-1.D (Unit 2, Topic 2.4) Using Objects - 2.4 Calling a Void Method with Parameters",
         "ref": "MOD-1.D (Unit 2, Topic 2.4)",
         "prompt": "This topic covers calling void methods with parameters for AP CSA students (CED: MOD-1.D, Unit 2, Topic 2.4). Students should understand how to pass arguments to methods. Key concepts: parameters are variables declared in the method header that receive values when the method is called; arguments are the actual values passed during the method call; Java uses pass-by-value for both primitive and reference types; for primitives, a copy of the value is passed; for objects, a copy of the reference is passed (so the method can modify the object but cannot reassign the caller's variable). Students should match argument types to parameter types, understand that the order and type of arguments must match the method's parameter list, and trace how parameter values flow into method execution. Vocabulary: parameter, argument, pass-by-value, formal parameter, actual parameter, method header, overloading."
       },
       {
-        "skill": "2.5 Calling a Non-void Method",
+        "skill": "MOD-1.E (Unit 2, Topic 2.5) Using Objects - 2.5 Calling a Non-void Method",
         "ref": "MOD-1.E (Unit 2, Topic 2.5)",
         "prompt": "This topic covers calling non-void methods for AP CSA students (CED: MOD-1.E, Unit 2, Topic 2.5). Students should understand that non-void methods compute and return a value. Key concepts: non-void methods have a return type (int, double, boolean, String, or an object type) specified in the method header; the return value can be stored in a variable, used in an expression, or passed as an argument to another method; calling a non-void method without using its return value wastes the computation. Students should trace through method calls that return values, chain method calls, and use returned values in expressions and conditional statements. Important distinction: unlike void methods, non-void method calls are expressions that evaluate to a value. Vocabulary: return type, return value, non-void method, method chaining, expression, accessor method."
       },
       {
-        "skill": "2.6 String Objects: Concatenation, Literals, and More",
+        "skill": "VAR-1.F (Unit 2, Topic 2.6) Using Objects - 2.6 String Objects: Concatenation, Literals, and More",
         "ref": "VAR-1.F (Unit 2, Topic 2.6)",
         "prompt": "This topic covers String objects including concatenation, literals, and more for AP CSA students (CED: VAR-1.F, Unit 2, Topic 2.6). Students should understand that String is a reference type (class), not a primitive, and String objects are immutable. Key concepts: String literals are enclosed in double quotes; the + operator concatenates Strings; when a String is concatenated with a primitive, the primitive is automatically converted to a String; concatenation is evaluated left to right; escape sequences (\\n, \\\\, \\\") allow special characters in Strings. Students should predict the output of complex concatenation expressions, understand that String concatenation with numbers follows left-to-right evaluation (\"a\" + 1 + 2 yields \"a12\" but 1 + 2 + \"a\" yields \"3a\"), and know that Strings are objects stored as references. Vocabulary: String, concatenation, literal, immutable, escape sequence, reference, null, empty string."
       },
       {
-        "skill": "2.7 String Methods",
+        "skill": "VAR-1.G (Unit 2, Topic 2.7) Using Objects - 2.7 String Methods",
         "ref": "VAR-1.G (Unit 2, Topic 2.7)",
         "prompt": "This topic covers String methods for AP CSA students (CED: VAR-1.G, Unit 2, Topic 2.7). Students should understand the key String methods tested on the AP exam. Key methods: length() returns the number of characters; substring(int from, int to) returns characters from index 'from' up to but not including index 'to'; substring(int from) returns from that index to the end; indexOf(String str) returns the index of the first occurrence of str or -1 if not found; equals(String other) compares content (not ==, which compares references); compareTo(String other) returns a negative, zero, or positive int for lexicographic ordering. Critical concept: String indices start at 0 and go to length()-1; StringIndexOutOfBoundsException occurs with invalid indices. Students must trace through String method calls and understand immutability means methods return new Strings. Vocabulary: index, substring, indexOf, equals, compareTo, length, zero-based indexing, lexicographic order, immutable."
       },
       {
-        "skill": "2.8 Wrapper Classes: Integer and Double",
+        "skill": "VAR-1.H (Unit 2, Topic 2.8) Using Objects - 2.8 Wrapper Classes: Integer and Double",
         "ref": "VAR-1.H (Unit 2, Topic 2.8)",
         "prompt": "This topic covers wrapper classes Integer and Double for AP CSA students (CED: VAR-1.H, Unit 2, Topic 2.8). Students should understand that wrapper classes allow primitive values to be treated as objects. Key concepts: Integer wraps int and Double wraps double; autoboxing automatically converts a primitive to its wrapper object (Integer x = 5); unboxing automatically converts a wrapper object back to a primitive (int y = x); wrapper classes are needed when an object is required, such as in ArrayList<Integer>; Integer.MAX_VALUE and Integer.MIN_VALUE represent the range of int. Students should understand that wrapper objects are immutable and that == compares references for objects (use .equals() for value comparison, though autoboxing can make == appear to work for small integers due to caching). Vocabulary: wrapper class, autoboxing, unboxing, Integer, Double, immutable, object, primitive, caching."
       },
       {
-        "skill": "2.9 Using the Class Math",
+        "skill": "VAR-1.I (Unit 2, Topic 2.9) Using Objects - 2.9 Using the Class Math",
         "ref": "VAR-1.I (Unit 2, Topic 2.9)",
         "prompt": "This topic covers using the Math class for AP CSA students (CED: VAR-1.I, Unit 2, Topic 2.9). Students should understand that Math is a utility class with static methods that do not require object instantiation. Key methods: Math.abs(x) returns the absolute value; Math.pow(base, exp) returns base raised to the exp power (returns double); Math.sqrt(x) returns the square root (returns double); Math.random() returns a random double in [0.0, 1.0). Critical pattern for generating random integers in a range: (int)(Math.random() * range) + min. For example, to get a random int from 1 to 6: (int)(Math.random() * 6) + 1. Students should understand that all Math methods are called using Math.methodName() (static methods), not on an object instance. Vocabulary: static method, Math class, absolute value, power, square root, random number generation, range, casting."
       }
     ],
     "Boolean Expressions and if Statements": [
       {
-        "skill": "3.1 Boolean Expressions",
+        "skill": "CON-1.A (Unit 3, Topic 3.1) Boolean Expressions and if Statements - 3.1 Boolean Expressions",
         "ref": "CON-1.A (Unit 3, Topic 3.1)",
         "prompt": "This topic covers boolean expressions for AP CSA students (CED: CON-1.A, Unit 3, Topic 3.1). Students should understand how to form and evaluate boolean expressions using relational operators. Key concepts: the six relational operators (==, !=, <, >, <=, >=) compare two values and return true or false; these operators work with primitive types; for objects, == compares references (memory addresses), not content; boolean expressions are the foundation of control flow in Java. Students should evaluate expressions like (x > 5), (a == b), and (score >= 90), understand that boolean is a primitive type that holds only true or false, and recognize that boolean variables can store the result of a comparison for later use. Common error: using = (assignment) instead of == (comparison). Vocabulary: boolean, relational operator, comparison, true, false, equality, inequality, expression evaluation."
       },
       {
-        "skill": "3.2 if Statements and Control Flow",
+        "skill": "CON-1.B (Unit 3, Topic 3.2) Boolean Expressions and if Statements - 3.2 if Statements and Control Flow",
         "ref": "CON-1.B (Unit 3, Topic 3.2)",
         "prompt": "This topic covers if statements and control flow for AP CSA students (CED: CON-1.B, Unit 3, Topic 3.2). Students should understand that an if statement executes a block of code only when its boolean condition is true. Key concepts: the if statement syntax (if (condition) { body }); the condition must be a boolean expression; if the condition is false, the body is skipped entirely; curly braces define the scope of the if body; without braces, only the single next statement is conditional (a common source of bugs). Students should trace through code with if statements, predict which statements execute for given variable values, and understand that if statements enable programs to make decisions and respond differently to different inputs. Control flow: execution proceeds sequentially unless altered by conditional or iterative structures. Vocabulary: if statement, condition, control flow, block, scope, sequential execution, conditional execution, decision."
       },
       {
-        "skill": "3.3 if-else Statements",
+        "skill": "CON-1.C (Unit 3, Topic 3.3) Boolean Expressions and if Statements - 3.3 if-else Statements",
         "ref": "CON-1.C (Unit 3, Topic 3.3)",
         "prompt": "This topic covers if-else statements for AP CSA students (CED: CON-1.C, Unit 3, Topic 3.3). Students should understand that if-else provides two-way branching: one path when the condition is true, another when false. Key concepts: syntax is if (condition) { trueBlock } else { falseBlock }; exactly one of the two blocks always executes; the else block has no condition of its own; if-else is ideal for binary decisions (pass/fail, positive/negative, even/odd). Students should trace through if-else logic, determine output for different inputs, and understand that if-else guarantees one block executes. Nesting: an if-else can contain other if-else statements inside either block. Common patterns: finding the maximum or minimum of two values, classifying input into two categories. Vocabulary: if-else, two-way selection, branching, true block, false block, binary decision, nested conditional."
       },
       {
-        "skill": "3.4 else if Statements",
+        "skill": "CON-1.D (Unit 3, Topic 3.4) Boolean Expressions and if Statements - 3.4 else if Statements",
         "ref": "CON-1.D (Unit 3, Topic 3.4)",
         "prompt": "This topic covers else if statements for AP CSA students (CED: CON-1.D, Unit 3, Topic 3.4). Students should understand multi-way selection using chained if-else if-else structures. Key concepts: conditions are checked sequentially from top to bottom; once a true condition is found, its block executes and all remaining conditions are skipped; the final else (optional) serves as a default case; the order of conditions matters because only the first true condition's block runs. Students should trace through multi-branch logic, understand that conditions are mutually exclusive in execution (even if not logically), and recognize when the order of conditions affects correctness (e.g., grading scales must check from highest to lowest). Common error: using separate if statements instead of else if, which allows multiple blocks to execute. Vocabulary: else if, multi-way selection, chained conditionals, mutually exclusive, default case, sequential evaluation."
       },
       {
-        "skill": "3.5 Compound Boolean Expressions",
+        "skill": "CON-1.E (Unit 3, Topic 3.5) Boolean Expressions and if Statements - 3.5 Compound Boolean Expressions",
         "ref": "CON-1.E (Unit 3, Topic 3.5)",
         "prompt": "This topic covers compound boolean expressions for AP CSA students (CED: CON-1.E, Unit 3, Topic 3.5). Students should understand how to combine boolean expressions using logical operators. Key concepts: && (AND) returns true only if both operands are true; || (OR) returns true if at least one operand is true; ! (NOT) negates a boolean value; short-circuit evaluation means Java stops evaluating as soon as the result is determined (&& stops at false, || stops at true). Students should build truth tables, evaluate complex expressions with multiple operators, and understand operator precedence (! highest, then &&, then ||). Common patterns: range checking (x >= 0 && x <= 100), validating multiple conditions, checking if a value is outside a range using OR. Vocabulary: logical operator, AND, OR, NOT, short-circuit evaluation, truth table, compound expression, precedence, De Morgan's Law."
       },
       {
-        "skill": "3.6 Equivalent Boolean Expressions",
+        "skill": "CON-1.F (Unit 3, Topic 3.6) Boolean Expressions and if Statements - 3.6 Equivalent Boolean Expressions",
         "ref": "CON-1.F (Unit 3, Topic 3.6)",
         "prompt": "This topic covers equivalent boolean expressions for AP CSA students (CED: CON-1.F, Unit 3, Topic 3.6). Students should understand De Morgan's Laws and how to simplify or transform boolean expressions. Key concepts: De Morgan's Laws state that !(a && b) is equivalent to !a || !b, and !(a || b) is equivalent to !a && !b; when negating a compound expression, flip the operator (AND becomes OR, OR becomes AND) and negate each operand. Students should apply De Morgan's Laws to simplify conditions, prove equivalence of two boolean expressions using truth tables, and recognize common simplification patterns. This is heavily tested on the AP exam: students must be able to identify which of several expressions is equivalent to a given expression. Practice: distribute NOT through complex conditions and verify using test values. Vocabulary: De Morgan's Laws, equivalence, negation, simplification, truth table, logical identity, complement."
       },
       {
-        "skill": "3.7 Comparing Objects",
+        "skill": "CON-1.G (Unit 3, Topic 3.7) Boolean Expressions and if Statements - 3.7 Comparing Objects",
         "ref": "CON-1.G (Unit 3, Topic 3.7)",
         "prompt": "This topic covers comparing objects for AP CSA students (CED: CON-1.G, Unit 3, Topic 3.7). Students should understand the critical difference between == and .equals() for object comparison. Key concepts: == compares references (whether two variables point to the same object in memory); .equals() compares content (whether two objects have the same value); for String objects, always use .equals() for content comparison; two String literals with the same text may share a reference (String pool), but Strings created with new always have different references. Students should predict the output of comparisons using both == and .equals(), understand that null.equals() throws NullPointerException, and know that == is appropriate for primitives but not for comparing object content. Vocabulary: reference comparison, content comparison, equals method, String pool, null, NullPointerException, aliasing, identity vs. equality."
       }
     ],
     "Iteration": [
       {
-        "skill": "4.1 while Loops",
+        "skill": "CON-2.A (Unit 4, Topic 4.1) Iteration - 4.1 while Loops",
         "ref": "CON-2.A (Unit 4, Topic 4.1)",
         "prompt": "This topic covers while loops for AP CSA students (CED: CON-2.A, Unit 4, Topic 4.1). Students should understand that a while loop repeatedly executes a block of code as long as its boolean condition evaluates to true. Key concepts: loop control variable initialization before the loop, condition checking before each iteration, updating the control variable inside the loop body to eventually terminate, and recognizing infinite loops. Students should trace through loop execution step-by-step, predict output, and count iterations. Common patterns: counting loops, sentinel-controlled loops, accumulator patterns, and input validation. Connect to for loops (any while loop can be rewritten as a for loop and vice versa) and understand when each is more appropriate. AP exam note: tracing loop execution is heavily tested in multiple-choice. Vocabulary: iteration, loop body, condition, control variable, infinite loop, sentinel value, accumulator."
       },
       {
-        "skill": "4.2 for Loops",
+        "skill": "CON-2.B (Unit 4, Topic 4.2) Iteration - 4.2 for Loops",
         "ref": "CON-2.B (Unit 4, Topic 4.2)",
         "prompt": "This topic covers for loops for AP CSA students (CED: CON-2.B, Unit 4, Topic 4.2). Students should understand the three-part structure of a for loop: initialization, condition, and update, all in one line. Key concepts: for (init; condition; update) { body }; the init runs once before the loop; the condition is checked before each iteration; the update runs after each iteration; the loop variable's scope is limited to the loop. Students should trace for loops step by step, convert between for and while loops, and recognize standard patterns: counting from 0 to n-1, counting from 1 to n, counting backwards, and counting by increments other than 1. Common uses: iterating a known number of times, traversing arrays by index. Off-by-one errors are the most common mistake. Vocabulary: for loop, initialization, condition, update, loop variable, scope, off-by-one error, iteration count."
       },
       {
-        "skill": "4.3 Developing Algorithms Using Strings",
+        "skill": "CON-2.C (Unit 4, Topic 4.3) Iteration - 4.3 Developing Algorithms Using Strings",
         "ref": "CON-2.C (Unit 4, Topic 4.3)",
         "prompt": "This topic covers developing algorithms using Strings for AP CSA students (CED: CON-2.C, Unit 4, Topic 4.3). Students should understand how to traverse and manipulate Strings using loops and String methods. Key concepts: using a for loop with charAt(i) or substring(i, i+1) to process each character; building a new String by concatenating characters that meet certain criteria; counting characters that satisfy a condition; reversing a String; searching for substrings. Common algorithms: counting vowels or specific characters, removing or replacing characters, checking if a String is a palindrome, comparing Strings character by character. Students should remember that Strings are immutable, so algorithms must build new Strings rather than modifying existing ones. Performance note: repeated concatenation creates many temporary String objects. Vocabulary: traversal, charAt, substring, concatenation, immutable, palindrome, character processing, String algorithm."
       },
       {
-        "skill": "4.4 Nested Iteration",
+        "skill": "CON-2.D (Unit 4, Topic 4.4) Iteration - 4.4 Nested Iteration",
         "ref": "CON-2.D (Unit 4, Topic 4.4)",
         "prompt": "This topic covers nested iteration for AP CSA students (CED: CON-2.D, Unit 4, Topic 4.4). Students should understand that a loop inside another loop creates nested iteration, where the inner loop completes all its iterations for each single iteration of the outer loop. Key concepts: if the outer loop runs m times and the inner loop runs n times, the inner body executes m * n times total; nested loops are essential for processing 2D structures, comparing all pairs of elements, and generating patterns. Common applications: printing rectangular patterns of characters (stars, numbers), processing 2D arrays (covered later), and checking all pairs in an array. Students should trace through nested loops carefully, tracking both loop variables. AP exam note: expect questions asking for output of nested loops or total number of iterations. Vocabulary: nested loop, outer loop, inner loop, iteration count, quadratic complexity, pattern generation."
       },
       {
-        "skill": "4.5 Informal Code Analysis",
+        "skill": "CON-2.E (Unit 4, Topic 4.5) Iteration - 4.5 Informal Code Analysis",
         "ref": "CON-2.E (Unit 4, Topic 4.5)",
         "prompt": "This topic covers informal code analysis for AP CSA students (CED: CON-2.E, Unit 4, Topic 4.5). Students should understand how to analyze the number of times a loop body executes and estimate the efficiency of iterative algorithms without formal Big-O notation. Key concepts: counting iterations by examining loop bounds (a for loop from 0 to n-1 runs n times); recognizing that nested loops multiply iteration counts; understanding that the number of operations affects program speed; distinguishing between best-case, worst-case, and typical-case behavior informally. Students should determine how many times a statement inside a loop executes, identify which loops are more efficient, and understand why reducing unnecessary iterations improves performance. Connect to searching (linear search checks up to n elements) and recognize that algorithm choice impacts runtime. Vocabulary: statement execution count, iteration analysis, efficiency, linear, quadratic, performance, runtime, algorithm analysis."
       }
     ],
     "Writing Classes": [
       {
-        "skill": "5.1 Anatomy of a Class",
+        "skill": "MOD-2.A (Unit 5, Topic 5.1) Writing Classes - 5.1 Anatomy of a Class",
         "ref": "MOD-2.A (Unit 5, Topic 5.1)",
         "prompt": "This topic covers the anatomy of a class for AP CSA students (CED: MOD-2.A, Unit 5, Topic 5.1). Students should understand the components that make up a Java class definition. Key concepts: a class contains instance variables (fields) that define its state, constructors that initialize new objects, and methods that define its behavior; access modifiers (public, private) control visibility; instance variables should be declared private to enforce encapsulation; the class header includes the access modifier and class name. Students should understand the relationship between a class file and the objects it creates, recognize the separation of interface (what a class does) from implementation (how it does it), and read class definitions to understand what objects of that class can do. Vocabulary: class, instance variable, constructor, method, access modifier, public, private, encapsulation, interface, implementation, field."
       },
       {
-        "skill": "5.2 Constructors",
+        "skill": "MOD-2.B (Unit 5, Topic 5.2) Writing Classes - 5.2 Constructors",
         "ref": "MOD-2.B (Unit 5, Topic 5.2)",
         "prompt": "This topic covers constructors for AP CSA students (CED: MOD-2.B, Unit 5, Topic 5.2). Students should understand that constructors initialize the state of a new object when it is created with the new keyword. Key concepts: constructors have the same name as the class and no return type; they can be overloaded to accept different parameter lists; a no-argument (default) constructor initializes instance variables to default values; if no constructor is written, Java provides a default no-arg constructor, but if any constructor is written, the default is no longer provided. Students should write constructors that assign parameters to instance variables, understand constructor overloading, and trace object creation through constructor execution. Common pattern: using parameters to set initial state. Vocabulary: constructor, overloading, no-argument constructor, default constructor, initialization, parameter, instance variable, new keyword."
       },
       {
-        "skill": "5.3 Documentation with Comments",
+        "skill": "MOD-2.C (Unit 5, Topic 5.3) Writing Classes - 5.3 Documentation with Comments",
         "ref": "MOD-2.C (Unit 5, Topic 5.3)",
         "prompt": "This topic covers documentation with comments for AP CSA students (CED: MOD-2.C, Unit 5, Topic 5.3). Students should understand the importance of commenting code and the types of comments available in Java. Key concepts: single-line comments (//) explain individual lines or short sections; multi-line comments (/* */) span multiple lines; Javadoc comments (/** */) generate documentation and describe classes, constructors, and methods including @param and @return tags; preconditions describe what must be true before a method is called; postconditions describe what is true after a method executes. Students should write meaningful comments that explain why, not just what; document preconditions and postconditions for methods; and understand that good documentation makes code maintainable and reusable. Vocabulary: comment, single-line, multi-line, Javadoc, precondition, postcondition, documentation, @param, @return, readability."
       },
       {
-        "skill": "5.4 Accessor Methods",
+        "skill": "MOD-2.D (Unit 5, Topic 5.4) Writing Classes - 5.4 Accessor Methods",
         "ref": "MOD-2.D (Unit 5, Topic 5.4)",
         "prompt": "This topic covers accessor methods for AP CSA students (CED: MOD-2.D, Unit 5, Topic 5.4). Students should understand that accessor methods (getters) allow external code to read the values of private instance variables without modifying them. Key concepts: accessor methods are public, have a non-void return type matching the instance variable type, and typically follow the naming convention getVariableName(); they support encapsulation by providing controlled read access; the return statement sends a value back to the caller and exits the method; an accessor for a String returns a reference to the String object. Students should write accessor methods, use return statements correctly, and understand that accessors do not change object state. The toString() method is a special accessor that returns a String representation of the object. Vocabulary: accessor, getter, return type, return statement, encapsulation, toString, read access."
       },
       {
-        "skill": "5.5 Mutator Methods",
+        "skill": "MOD-2.E (Unit 5, Topic 5.5) Writing Classes - 5.5 Mutator Methods",
         "ref": "MOD-2.E (Unit 5, Topic 5.5)",
         "prompt": "This topic covers mutator methods for AP CSA students (CED: MOD-2.E, Unit 5, Topic 5.5). Students should understand that mutator methods (setters) allow external code to modify the values of private instance variables in a controlled way. Key concepts: mutator methods are public, have a void return type, and accept parameters that specify new values; they typically follow the naming convention setVariableName(type newValue); mutators can include validation logic to ensure only valid values are assigned (e.g., rejecting negative ages); they modify the object's state. Students should write mutator methods, include appropriate validation, and understand that mutators enforce encapsulation by controlling how instance variables are changed. Contrast with accessor methods: accessors read state, mutators change state. Vocabulary: mutator, setter, void, parameter, validation, encapsulation, state change, instance variable modification."
       },
       {
-        "skill": "5.6 Writing Methods",
+        "skill": "MOD-2.F (Unit 5, Topic 5.6) Writing Classes - 5.6 Writing Methods",
         "ref": "MOD-2.F (Unit 5, Topic 5.6)",
         "prompt": "This topic covers writing methods for AP CSA students (CED: MOD-2.F, Unit 5, Topic 5.6). Students should understand how to design and implement methods that perform computations and encapsulate behavior. Key concepts: methods have a header (access modifier, return type, name, parameters) and a body; methods can be void or return a value; methods can call other methods within the same class; local variables exist only within the method where they are declared; method decomposition breaks complex tasks into smaller, reusable methods. Students should write methods that use instance variables and parameters, return computed values, and call helper methods. Understand that well-designed methods do one thing well, have descriptive names, and reduce code duplication. The method call stack tracks which method is currently executing. Vocabulary: method header, method body, local variable, return statement, method decomposition, helper method, call stack, scope."
       },
       {
-        "skill": "5.7 Static Variables and Methods",
+        "skill": "MOD-2.G (Unit 5, Topic 5.7) Writing Classes - 5.7 Static Variables and Methods",
         "ref": "MOD-2.G (Unit 5, Topic 5.7)",
         "prompt": "This topic covers static variables and methods for AP CSA students (CED: MOD-2.G, Unit 5, Topic 5.7). Students should understand the difference between static (class-level) and non-static (instance-level) members. Key concepts: static variables belong to the class, not to any individual object, and are shared among all instances; static methods can be called using the class name (e.g., Math.sqrt()) without creating an object; static methods cannot access instance variables or call instance methods directly because they have no 'this' reference; the main method is static. Common use: a static variable to count the number of objects created from a class. Students should determine when to use static vs. instance members and understand that static methods operate on the class level, not the object level. Vocabulary: static, class variable, class method, instance variable, instance method, shared state, main method."
       },
       {
-        "skill": "5.8 Scope and Access",
+        "skill": "MOD-2.H (Unit 5, Topic 5.8) Writing Classes - 5.8 Scope and Access",
         "ref": "MOD-2.H (Unit 5, Topic 5.8)",
         "prompt": "This topic covers scope and access for AP CSA students (CED: MOD-2.H, Unit 5, Topic 5.8). Students should understand where variables can be accessed based on where they are declared. Key concepts: instance variables have class scope (accessible throughout the class); local variables have method or block scope (accessible only within the method or block where declared); parameters have method scope; a local variable with the same name as an instance variable shadows the instance variable (use 'this' to distinguish). Access modifiers: private restricts access to within the class; public allows access from any class. Students should identify the scope of any variable, predict which variable is referenced when names conflict, and understand that encapsulation relies on making instance variables private while providing public methods. Vocabulary: scope, access modifier, private, public, local variable, instance variable, shadowing, block scope, encapsulation."
       },
       {
-        "skill": "5.9 this Keyword",
+        "skill": "MOD-2.I (Unit 5, Topic 5.9) Writing Classes - 5.9 this Keyword",
         "ref": "MOD-2.I (Unit 5, Topic 5.9)",
         "prompt": "This topic covers the this keyword for AP CSA students (CED: MOD-2.I, Unit 5, Topic 5.9). Students should understand that 'this' is a reference to the current object within an instance method or constructor. Key concepts: 'this' is used to distinguish instance variables from parameters with the same name (this.name = name); 'this' can be passed as an argument to other methods when the current object needs to be referenced; 'this' can be used to call another constructor in the same class using this(args) in the first line of a constructor. Students should use 'this' to resolve naming ambiguity in constructors and methods, understand that 'this' is implicit when accessing instance variables without naming conflicts, and recognize that static methods cannot use 'this'. Vocabulary: this keyword, current object, self-reference, constructor chaining, name disambiguation, implicit reference."
       },
       {
-        "skill": "5.10 Ethical and Social Implications of Computing Systems",
+        "skill": "IOC-1.A (Unit 5, Topic 5.10) Writing Classes - 5.10 Ethical and Social Implications of Computing Systems",
         "ref": "IOC-1.A (Unit 5, Topic 5.10)",
         "prompt": "This topic covers ethical and social implications of computing systems for AP CSA students (CED: IOC-1.A, Unit 5, Topic 5.10). Students should understand the broader impact of computing on society. Key concepts: software can have unintended consequences affecting people's lives; bias in algorithms and data can lead to unfair or discriminatory outcomes; intellectual property considerations including copyright and open-source licensing; the digital divide affects access to technology; privacy concerns arise from data collection and storage; computing innovations can have both beneficial and harmful effects. Students should analyze real-world examples of computing impacts, consider multiple perspectives on technology issues, and understand their responsibility as programmers to write ethical software. This topic connects computer science to its real-world effects and encourages thoughtful consideration of who is affected by the systems programmers build. Vocabulary: ethics, bias, intellectual property, digital divide, privacy, open source, unintended consequences, accessibility."
       }
     ],
     "Array": [
       {
-        "skill": "6.1 Array Creation and Access",
+        "skill": "VAR-2.A (Unit 6, Topic 6.1) Array - 6.1 Array Creation and Access",
         "ref": "VAR-2.A (Unit 6, Topic 6.1)",
         "prompt": "This topic covers array creation and access for AP CSA students (CED: VAR-2.A, Unit 6, Topic 6.1). Students should understand that an array is a fixed-size, ordered collection of elements of the same type, accessed by integer index. Key concepts: declaring arrays (int[] arr), creating arrays with new (new int[5]), and using initializer lists ({1, 2, 3, 4, 5}); array indices start at 0 and go to length - 1; accessing an element uses bracket notation (arr[i]); arr.length returns the number of elements (note: no parentheses, unlike String's length()); ArrayIndexOutOfBoundsException occurs when accessing an invalid index. Students should create arrays, access and modify elements, and understand that arrays of primitives store values directly while arrays of objects store references. Default values: int arrays initialize to 0, double to 0.0, boolean to false, and object references to null. Vocabulary: array, index, element, length, declaration, initialization, initializer list, bounds, ArrayIndexOutOfBoundsException."
       },
       {
-        "skill": "6.2 Traversing Arrays",
+        "skill": "VAR-2.B (Unit 6, Topic 6.2) Array - 6.2 Traversing Arrays",
         "ref": "VAR-2.B (Unit 6, Topic 6.2)",
         "prompt": "This topic covers traversing arrays for AP CSA students (CED: VAR-2.B, Unit 6, Topic 6.2). Students should understand how to use loops to visit every element in an array. Key concepts: a standard for loop (for (int i = 0; i < arr.length; i++)) visits each index sequentially; the loop condition uses < arr.length (not <=) to avoid bounds errors; traversal can go forward or backward; common traversal algorithms include finding a sum, average, maximum, minimum, counting elements that meet a condition, and searching for a specific value. Students should write traversal code for various tasks, handle off-by-one errors, and understand that modifying the loop variable does not affect the array. Important: when removing or inserting elements while traversing, be careful about index adjustments. Vocabulary: traversal, for loop, index, bounds checking, accumulator, linear search, off-by-one error."
       },
       {
-        "skill": "6.3 Enhanced for Loop for Arrays",
+        "skill": "VAR-2.C (Unit 6, Topic 6.3) Array - 6.3 Enhanced for Loop for Arrays",
         "ref": "VAR-2.C (Unit 6, Topic 6.3)",
         "prompt": "This topic covers the enhanced for loop (for-each loop) for arrays for AP CSA students (CED: VAR-2.C, Unit 6, Topic 6.3). Students should understand that the enhanced for loop provides a simpler syntax for traversing all elements without using an index. Key concepts: syntax is for (type element : array) { body }; the loop variable receives a copy of each element; you cannot modify the array contents through the loop variable (changes to the variable do not affect the array for primitives); you cannot access the index of the current element; you cannot traverse only part of the array or traverse backwards. Use the enhanced for loop when you need to read all elements and do not need the index; use a standard for loop when you need the index, need to modify elements, or need partial traversal. Vocabulary: enhanced for loop, for-each, traversal, read-only access, element copy, standard for loop comparison."
       },
       {
-        "skill": "6.4 Developing Algorithms Using Arrays",
+        "skill": "VAR-2.D (Unit 6, Topic 6.4) Array - 6.4 Developing Algorithms Using Arrays",
         "ref": "VAR-2.D (Unit 6, Topic 6.4)",
         "prompt": "This topic covers developing algorithms using arrays for AP CSA students (CED: VAR-2.D, Unit 6, Topic 6.4). Students should understand standard array algorithms tested on the AP exam. Key algorithms: computing the sum and average of elements; finding the minimum and maximum values; determining if at least one, all, or no elements meet a condition; accessing all consecutive pairs or sequences of elements; shifting elements left or right; reversing an array. Students should implement these algorithms, test them with various inputs including edge cases (empty arrays, single-element arrays, arrays with duplicates), and recognize that many algorithms require careful initialization (e.g., initializing max to the first element, not to 0). Common patterns: using a boolean flag for existence checks, using a running total for accumulation, comparing adjacent elements. Vocabulary: algorithm, sum, average, max, min, shift, reverse, consecutive pairs, edge case, flag variable, accumulation."
       }
     ],
     "ArrayList": [
       {
-        "skill": "7.1 Introduction to ArrayList",
+        "skill": "VAR-2.E (Unit 7, Topic 7.1) ArrayList - 7.1 Introduction to ArrayList",
         "ref": "VAR-2.E (Unit 7, Topic 7.1)",
         "prompt": "This topic covers introduction to ArrayList for AP CSA students (CED: VAR-2.E, Unit 7, Topic 7.1). Students should understand that ArrayList is a resizable collection class from java.util that stores objects (not primitives). Key concepts: import java.util.ArrayList; declare and create with ArrayList<Type> list = new ArrayList<Type>(); ArrayList automatically resizes as elements are added or removed; only object types are allowed (use Integer instead of int, Double instead of double); generics (<Type>) specify the element type at compile time, providing type safety. Contrast with arrays: arrays have fixed size and can store primitives; ArrayList is dynamic and stores objects only. Students should understand when to choose ArrayList over arrays (when size is unknown or changes frequently) and vice versa. Vocabulary: ArrayList, dynamic sizing, generics, type parameter, wrapper class, import, java.util, type safety, resizable."
       },
       {
-        "skill": "7.2 ArrayList Methods",
+        "skill": "VAR-2.F (Unit 7, Topic 7.2) ArrayList - 7.2 ArrayList Methods",
         "ref": "VAR-2.F (Unit 7, Topic 7.2)",
         "prompt": "This topic covers ArrayList methods for AP CSA students (CED: VAR-2.F, Unit 7, Topic 7.2). Students should understand the key methods of the ArrayList class. Key methods: add(E obj) appends to the end; add(int index, E obj) inserts at the specified index, shifting subsequent elements right; get(int index) returns the element at index; set(int index, E obj) replaces the element at index and returns the old element; remove(int index) removes and returns the element at index, shifting subsequent elements left; size() returns the number of elements. Students should trace through sequences of ArrayList operations, predict the state of the list after multiple add/remove/set calls, and understand how indices shift when elements are inserted or removed. Important: size() uses parentheses (unlike array's length). Vocabulary: add, get, set, remove, size, index shifting, dynamic resizing, insert, append."
       },
       {
-        "skill": "7.3 Traversing ArrayLists",
+        "skill": "VAR-2.G (Unit 7, Topic 7.3) ArrayList - 7.3 Traversing ArrayLists",
         "ref": "VAR-2.G (Unit 7, Topic 7.3)",
         "prompt": "This topic covers traversing ArrayLists for AP CSA students (CED: VAR-2.G, Unit 7, Topic 7.3). Students should understand how to iterate through an ArrayList using standard for loops, enhanced for loops, and while loops. Key concepts: use for (int i = 0; i < list.size(); i++) with list.get(i) for index-based traversal; use for (Type item : list) for read-only traversal; ConcurrentModificationException can occur if you modify an ArrayList during enhanced for loop traversal. Critical pitfall: when removing elements during traversal with a standard for loop, decrement the index after removal (i--) or traverse backwards to avoid skipping elements. Students should choose the appropriate loop type for the task and handle modifications during traversal correctly. Vocabulary: traversal, for loop, enhanced for loop, while loop, ConcurrentModificationException, index adjustment, forward traversal, backward traversal."
       },
       {
-        "skill": "7.4 Developing Algorithms Using ArrayLists",
+        "skill": "VAR-2.H (Unit 7, Topic 7.4) ArrayList - 7.4 Developing Algorithms Using ArrayLists",
         "ref": "VAR-2.H (Unit 7, Topic 7.4)",
         "prompt": "This topic covers developing algorithms using ArrayLists for AP CSA students (CED: VAR-2.H, Unit 7, Topic 7.4). Students should understand how to implement standard algorithms with ArrayLists, leveraging their dynamic sizing. Key algorithms: inserting elements in sorted order; removing all elements that meet a condition (traversing backwards to avoid index issues); finding and removing duplicates; merging two sorted lists; partitioning elements based on a condition; accumulating results into a new ArrayList. Students should implement these algorithms, understand the performance implications of frequent insertions and removals (elements shift), and compare ArrayList algorithms to their array counterparts. Common patterns: building a result list by selectively adding elements, using multiple passes to process data. Vocabulary: insertion, removal, duplicate detection, merge, partition, filter, accumulate, dynamic algorithm, index management."
       },
       {
-        "skill": "7.5 Searching",
+        "skill": "CON-2.F (Unit 7, Topic 7.5) ArrayList - 7.5 Searching",
         "ref": "CON-2.F (Unit 7, Topic 7.5)",
         "prompt": "This topic covers searching for AP CSA students (CED: CON-2.F, Unit 7, Topic 7.5). Students should understand linear (sequential) search and binary search algorithms. Key concepts: linear search checks each element from start to end until the target is found or the list is exhausted; it works on any list, sorted or unsorted, with O(n) worst-case performance. Binary search requires a sorted list and repeatedly divides the search space in half, achieving O(log n) performance; it compares the target to the middle element and eliminates half the remaining elements each step. Students should implement both algorithms, trace through examples, compare their efficiency, and understand when each is appropriate. Important: binary search only works on sorted data. Students should be able to determine the maximum number of comparisons for binary search (log2(n) + 1). Vocabulary: linear search, binary search, sequential search, sorted, target, comparisons, efficiency, O(n), O(log n)."
       },
       {
-        "skill": "7.6 Sorting",
+        "skill": "CON-2.G (Unit 7, Topic 7.6) ArrayList - 7.6 Sorting",
         "ref": "CON-2.G (Unit 7, Topic 7.6)",
         "prompt": "This topic covers sorting for AP CSA students (CED: CON-2.G, Unit 7, Topic 7.6). Students should understand selection sort and insertion sort algorithms. Selection sort: repeatedly find the minimum element from the unsorted portion and swap it with the first unsorted element; makes n-1 passes; O(n^2) time complexity. Insertion sort: for each element, insert it into its correct position among the previously sorted elements by shifting larger elements right; efficient on nearly sorted data; also O(n^2) worst case but can be O(n) best case. Students should trace through both algorithms step by step, implement them for arrays and ArrayLists, compare their behavior on different inputs, and understand that both are comparison-based sorts. AP exam note: students must trace these algorithms but may not need to write them from scratch. Vocabulary: selection sort, insertion sort, swap, pass, comparison, shift, sorted portion, unsorted portion, time complexity."
       },
       {
-        "skill": "7.7 Ethical Issues Around Data Collection",
+        "skill": "IOC-1.B (Unit 7, Topic 7.7) ArrayList - 7.7 Ethical Issues Around Data Collection",
         "ref": "IOC-1.B (Unit 7, Topic 7.7)",
         "prompt": "This topic covers ethical issues around data collection for AP CSA students (CED: IOC-1.B, Unit 7, Topic 7.7). Students should understand the ethical considerations involved in collecting, storing, and using data in computing systems. Key concepts: data collection can invade privacy if done without informed consent; large datasets can reveal sensitive patterns even from anonymized data (re-identification); data breaches expose personal information; algorithms trained on biased data perpetuate and amplify existing biases; the trade-off between data utility and privacy; regulations like GDPR and COPPA attempt to protect users. Students should analyze real-world scenarios involving data ethics, consider who benefits and who is harmed by data collection practices, and understand their responsibilities as future software developers. Connect to ArrayList and array storage: the data structures students learn to manipulate hold real people's information. Vocabulary: privacy, consent, data breach, anonymization, re-identification, bias, surveillance, regulation, GDPR, ethics."
       }
     ],
     "2D Array": [
       {
-        "skill": "8.1 2D Arrays",
+        "skill": "VAR-2.I (Unit 8, Topic 8.1) 2D Array - 8.1 2D Arrays",
         "ref": "VAR-2.I (Unit 8, Topic 8.1)",
         "prompt": "This topic covers 2D arrays for AP CSA students (CED: VAR-2.I, Unit 8, Topic 8.1). Students should understand that a 2D array is an array of arrays, used to represent data in rows and columns like a grid, table, or matrix. Key concepts: declaration and creation (int[][] grid = new int[rows][cols]); accessing elements uses two indices (grid[row][col]); grid.length gives the number of rows; grid[0].length gives the number of columns in the first row; 2D arrays can be initialized with nested initializer lists. Students should understand that each row is itself a 1D array, rows can theoretically have different lengths (ragged arrays, though the AP exam focuses on rectangular arrays), and that 2D arrays are stored in row-major order. Applications: game boards, seating charts, image pixel data, spreadsheet data. Vocabulary: 2D array, row, column, row-major order, rectangular array, ragged array, grid, matrix, nested array."
       },
       {
-        "skill": "8.2 Traversing 2D Arrays",
+        "skill": "VAR-2.J (Unit 8, Topic 8.2) 2D Array - 8.2 Traversing 2D Arrays",
         "ref": "VAR-2.J (Unit 8, Topic 8.2)",
         "prompt": "This topic covers traversing 2D arrays for AP CSA students (CED: VAR-2.J, Unit 8, Topic 8.2). Students should understand how to use nested loops to visit every element in a 2D array. Key concepts: row-major traversal uses the outer loop for rows and inner loop for columns (for each row, process all columns); column-major traversal reverses this (for each column, process all rows); the outer loop controls which dimension is traversed first. Standard algorithms on 2D arrays: summing all elements, finding max/min, counting elements meeting a condition, searching for a value, processing a specific row or column. Enhanced for loops can traverse 2D arrays: for (int[] row : grid) { for (int val : row) { ... } }. Students should trace through nested loop traversals, determine output for given 2D arrays, and implement algorithms. Vocabulary: row-major traversal, column-major traversal, nested loops, outer loop, inner loop, 2D traversal, grid processing."
       }
     ],
     "Inheritance": [
       {
-        "skill": "9.1 Creating Superclasses and Subclasses",
+        "skill": "MOD-3.A (Unit 9, Topic 9.1) Inheritance - 9.1 Creating Superclasses and Subclasses",
         "ref": "MOD-3.A (Unit 9, Topic 9.1)",
         "prompt": "This topic covers creating superclasses and subclasses for AP CSA students (CED: MOD-3.A, Unit 9, Topic 9.1). Students should understand that inheritance establishes an 'is-a' relationship between classes, allowing a subclass to inherit attributes and behaviors from a superclass. Key concepts: the extends keyword creates a subclass (class Dog extends Animal); the subclass inherits all public and protected methods and instance variables from the superclass; private instance variables are inherited but not directly accessible (use accessor/mutator methods); a subclass can add new instance variables and methods, and can override inherited methods. Inheritance promotes code reuse and creates a class hierarchy. Students should design class hierarchies, determine what is inherited, and understand that Java supports single inheritance only (a class can extend only one class). Vocabulary: superclass, subclass, inheritance, extends, is-a relationship, class hierarchy, code reuse, single inheritance."
       },
       {
-        "skill": "9.2 Writing Constructors for Subclasses",
+        "skill": "MOD-3.B (Unit 9, Topic 9.2) Inheritance - 9.2 Writing Constructors for Subclasses",
         "ref": "MOD-3.B (Unit 9, Topic 9.2)",
         "prompt": "This topic covers writing constructors for subclasses for AP CSA students (CED: MOD-3.B, Unit 9, Topic 9.2). Students should understand that subclass constructors must initialize both the superclass portion and the subclass-specific portion of an object. Key concepts: the super keyword calls the superclass constructor (super(args)); super() must be the first statement in the subclass constructor; if super() is not explicitly called, Java inserts a no-argument super() call automatically (which fails if the superclass has no no-arg constructor); the superclass constructor runs first, then the subclass constructor completes initialization. Students should write subclass constructors that properly chain to superclass constructors, pass appropriate arguments, and initialize subclass-specific instance variables. Common error: forgetting to call super() when the superclass requires parameters. Vocabulary: super keyword, constructor chaining, superclass constructor, subclass constructor, initialization order."
       },
       {
-        "skill": "9.3 Overriding Methods",
+        "skill": "MOD-3.C (Unit 9, Topic 9.3) Inheritance - 9.3 Overriding Methods",
         "ref": "MOD-3.C (Unit 9, Topic 9.3)",
         "prompt": "This topic covers overriding methods for AP CSA students (CED: MOD-3.C, Unit 9, Topic 9.3). Students should understand that a subclass can override an inherited method by providing its own implementation with the same method signature. Key concepts: the overriding method must have the exact same name, return type, and parameter list as the superclass method; @Override annotation is optional but recommended; the overriding method replaces the superclass behavior for objects of the subclass type; overriding differs from overloading (overloading uses different parameter lists within the same class). Students should write overriding methods, understand when the subclass version vs. superclass version is called, and use super.methodName() to call the original superclass version from within the override. Vocabulary: method overriding, method signature, @Override, superclass method, subclass method, overriding vs. overloading, super.method()."
       },
       {
-        "skill": "9.4 Keyword super",
+        "skill": "MOD-3.D (Unit 9, Topic 9.4) Inheritance - 9.4 Keyword super",
         "ref": "MOD-3.D (Unit 9, Topic 9.4)",
         "prompt": "This topic covers the super keyword for AP CSA students (CED: MOD-3.D, Unit 9, Topic 9.4). Students should understand the two uses of the super keyword in Java. Key concepts: super(args) calls the superclass constructor and must be the first line in a subclass constructor; super.methodName(args) calls the superclass version of an overridden method from within the subclass. Using super allows the subclass to leverage existing superclass functionality while extending or modifying behavior. Common pattern: overriding a method but calling super.method() first to execute the superclass behavior, then adding additional subclass-specific behavior. Students should trace through code involving super in both constructors and methods, understanding the order of execution. Important: super cannot be used in static methods. Vocabulary: super keyword, superclass constructor call, superclass method call, constructor chaining, method extension, execution order."
       },
       {
-        "skill": "9.5 Creating References Using Inheritance Hierarchies",
+        "skill": "MOD-3.E (Unit 9, Topic 9.5) Inheritance - 9.5 Creating References Using Inheritance Hierarchies",
         "ref": "MOD-3.E (Unit 9, Topic 9.5)",
         "prompt": "This topic covers creating references using inheritance hierarchies for AP CSA students (CED: MOD-3.E, Unit 9, Topic 9.5). Students should understand polymorphic references and the compile-time vs. runtime type distinction. Key concepts: a superclass reference variable can hold a subclass object (Animal a = new Dog()); the declared type (compile-time type) determines which methods can be called; the actual object type (runtime type) determines which version of an overridden method executes; a subclass reference cannot hold a superclass object without casting. Students should determine what is legal to call based on the declared type, predict which overridden method version runs based on the actual type, and understand that this enables flexible, extensible code. Casting: (Dog) a converts the reference but throws ClassCastException if the object is not actually a Dog. Vocabulary: polymorphic reference, declared type, actual type, compile-time type, runtime type, upcasting, downcasting, ClassCastException."
       },
       {
-        "skill": "9.6 Polymorphism",
+        "skill": "MOD-3.F (Unit 9, Topic 9.6) Inheritance - 9.6 Polymorphism",
         "ref": "MOD-3.F (Unit 9, Topic 9.6)",
         "prompt": "This topic covers polymorphism for AP CSA students (CED: MOD-3.F, Unit 9, Topic 9.6). Students should understand that polymorphism allows objects of different subclass types to be treated uniformly through a common superclass reference. Key concepts: when a method is called on a superclass reference, Java uses dynamic binding (late binding) to determine at runtime which overridden version to execute based on the actual object type; this enables writing general code that works with any subclass. Example: an array of Animal references can hold Dog, Cat, and Bird objects, and calling speak() on each invokes the correct subclass version. Polymorphism is a cornerstone of object-oriented design, enabling extensibility (new subclasses can be added without modifying existing code). Students should trace through polymorphic method calls and predict output. Vocabulary: polymorphism, dynamic binding, late binding, runtime dispatch, extensibility, abstraction, uniform interface."
       },
       {
-        "skill": "9.7 Object Superclass",
+        "skill": "MOD-3.G (Unit 9, Topic 9.7) Inheritance - 9.7 Object Superclass",
         "ref": "MOD-3.G (Unit 9, Topic 9.7)",
         "prompt": "This topic covers the Object superclass for AP CSA students (CED: MOD-3.G, Unit 9, Topic 9.7). Students should understand that Object is the root of Java's class hierarchy; every class implicitly extends Object. Key concepts: the Object class provides methods that all classes inherit, including toString() and equals(); toString() returns a String representation of the object (default is className@hashCode); equals() by default compares references (same as ==); subclasses should override both methods to provide meaningful behavior. Students should override toString() to return a descriptive String and override equals() to compare relevant instance variables. Understanding Object enables polymorphism at the highest level: an Object reference can hold any Java object. The instanceof operator tests whether an object is an instance of a particular class. Vocabulary: Object class, root class, toString, equals, override, class hierarchy, instanceof, default implementation, hashCode."
       }
     ],
     "Recursion": [
       {
-        "skill": "10.1 Recursion",
+        "skill": "CON-2.H (Unit 10, Topic 10.1) Recursion - 10.1 Recursion",
         "ref": "CON-2.H (Unit 10, Topic 10.1)",
         "prompt": "This topic covers recursion for AP CSA students (CED: CON-2.H, Unit 10, Topic 10.1). Students should understand that recursion is a technique where a method calls itself to solve a problem by breaking it into smaller, similar subproblems. Key concepts: every recursive method must have a base case (stopping condition) that returns a value without making another recursive call; the recursive case reduces the problem toward the base case; each recursive call creates a new stack frame with its own local variables and parameters. Students should trace through recursive calls using a call stack diagram, determine return values, and identify base cases. Classic examples: factorial (n! = n * (n-1)!), Fibonacci numbers, summing digits, computing powers. Common error: missing or incorrect base case leads to StackOverflowError (infinite recursion). Vocabulary: recursion, base case, recursive case, call stack, stack frame, StackOverflowError, self-similar, reduction."
       },
       {
-        "skill": "10.2 Recursive Searching and Sorting",
+        "skill": "CON-2.I (Unit 10, Topic 10.2) Recursion - 10.2 Recursive Searching and Sorting",
         "ref": "CON-2.I (Unit 10, Topic 10.2)",
         "prompt": "This topic covers recursive searching and sorting for AP CSA students (CED: CON-2.I, Unit 10, Topic 10.2). Students should understand how recursion can be applied to searching and sorting algorithms. Key concepts: recursive binary search divides the search space in half by passing updated low and high bounds in each recursive call; merge sort recursively divides an array into halves, sorts each half, then merges them back together; merge sort achieves O(n log n) time complexity, significantly better than O(n^2) selection/insertion sort for large datasets. Students should trace through recursive binary search calls, understand merge sort's divide-and-conquer strategy, and compare recursive vs. iterative approaches. AP exam note: students should be able to trace merge sort and binary search but may not need to implement them from scratch. Vocabulary: recursive binary search, merge sort, divide and conquer, merge, base case, efficiency, O(n log n), call tree."
       }
