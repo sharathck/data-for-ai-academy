@@ -1,0 +1,992 @@
+{
+  "High School - Precalculus": {
+    "Mathematics - Functions": [
+      {
+        "skill": "A: use the composition of two functions to model and solve real-world problems",
+        "teks": "P.2(A)",
+        "prompt": "This topic covers use the composition of two functions to model and solve real-world problems for Precalculus students (TEKS P.2(A)). Function composition f(g(x)) substitutes g(x) into f. Composition is generally not commutative: f(g(x)) is usually different from g(f(x)). Key vocabulary includes: composition, domain, f(g(x)), inner function, outer function. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "A: Composition of functions",
+        "teks": "P.2(A)",
+        "prompt": "This topic covers composition of functions for Precalculus students (TEKS P.2(A)). Function composition f(g(x)) substitutes g(x) into f. Composition is generally not commutative: f(g(x)) is usually different from g(f(x)). Key vocabulary includes: composition, domain, f(g(x)), inner function, outer function. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "B: demonstrate that function composition is not always commutative",
+        "teks": "P.2(B)",
+        "prompt": "This topic covers demonstrate that function composition is not always commutative for Precalculus students (TEKS P.2(B)). Function composition f(g(x)) substitutes g(x) into f. Composition is generally not commutative: f(g(x)) is usually different from g(f(x)). Key vocabulary includes: composition, domain, f(g(x)), inner function, outer function. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "C: represent a given function as a composite function of two or more functions",
+        "teks": "P.2(C)",
+        "prompt": "This topic covers representing a function as a composite of two or more functions for Precalculus students (TEKS P.2(C)). Students decompose a complex function into simpler components: e.g., h(x)=sqrt(3x+1) can be written as f(g(x)) where f(x)=sqrt(x) and g(x)=3x+1. Key vocabulary: composition, decompose, inner function, outer function. Multiple valid decompositions may exist. Common errors: choosing decompositions that do not compose correctly, and domain issues."
+      },
+      {
+        "skill": "D: describe symmetry of graphs of even and odd functions",
+        "teks": "P.2(D)",
+        "prompt": "This topic covers describe symmetry of graphs of even and odd functions for Precalculus students (TEKS P.2(D)). Even functions satisfy f(-x) = f(x) and are symmetric about the y-axis. Odd functions satisfy f(-x) = -f(x) and are symmetric about the origin. Key vocabulary includes: even function, odd function, origin, symmetry, y-axis. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: Even and odd functions",
+        "teks": "P.2(D)",
+        "prompt": "This topic covers even and odd functions for Precalculus students (TEKS P.2(D)). Even functions satisfy f(-x) = f(x) and are symmetric about the y-axis. Odd functions satisfy f(-x) = -f(x) and are symmetric about the origin. Key vocabulary includes: even function, odd function, origin, symmetry, y-axis. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: Symmetry and periodicity of trigonometric functions",
+        "teks": "P.2(D)",
+        "prompt": "This topic covers symmetry and periodicity of trigonometric functions for Precalculus students (TEKS P.2(D)). Sine is odd: sin(-x)=-sin(x). Cosine is even: cos(-x)=cos(x). Sin and cos have period 2pi; tan has period pi. Students use these properties to simplify expressions and evaluate functions. Key vocabulary: symmetry, periodicity, even, odd, period, 2pi, pi. Common errors: confusing even/odd properties, and not recognizing periodicity."
+      },
+      {
+        "skill": "E: determine an inverse function, when it exists, for a given function over its domain or a subset of its domain and represent the inverse using multiple representations",
+        "teks": "P.2(E)",
+        "prompt": "This topic covers determine an inverse function, when it exists, for a given function over its domain or a subset of its domain and represent the inverse using multiple representations for Precalculus students (TEKS P.2(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Identify inverse functions",
+        "teks": "P.2(E)",
+        "prompt": "This topic covers identify inverse functions for Precalculus students (TEKS P.2(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Find values of inverse functions from tables",
+        "teks": "P.2(E)",
+        "prompt": "This topic covers find values of inverse functions from tables for Precalculus students (TEKS P.2(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Find values of inverse functions from graphs",
+        "teks": "P.2(E)",
+        "prompt": "This topic covers find values of inverse functions from graphs for Precalculus students (TEKS P.2(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Find inverse functions and relations",
+        "teks": "P.2(E)",
+        "prompt": "This topic covers find inverse functions and relations for Precalculus students (TEKS P.2(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Check whether two rational functions are inverses",
+        "teks": "P.2(E)",
+        "prompt": "This topic covers check whether two rational functions are inverses for Precalculus students (TEKS P.2(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: graph exponential, logarithmic, rational, polynomial, power, trigonometric, inverse trigonometric, and piecewise defined functions, including step functions",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers graphing exponential functions for Precalculus students (TEKS P.2(F)). For f(x) = ab^x: plot y-intercept (0, a), draw horizontal asymptote y = 0, create table of values, sketch curve. For b > 1 (growth): rises left to right. For 0 < b < 1 (decay): falls left to right. Key points: (0, a), (1, ab), (-1, a/b). The function never crosses the asymptote (for a > 0). With vertical shift d, asymptote moves to y = d. Vocabulary: exponential function, asymptote, growth, decay, y-intercept, end behavior. Common errors: drawing curve crossing the asymptote, not plotting enough points, and forgetting to shift asymptote."
+      },
+      {
+        "skill": "F: Graph piecewise-defined functions",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers evaluating piecewise-defined functions for Precalculus students (TEKS P.2(F)). A piecewise function has different rules for different domain intervals. To evaluate: determine which piece applies based on the input value, then use that formula. Check boundary points carefully for which piece includes them. Example: f(x) = {x+1 if x<0; 2x if x>=0}. Vocabulary: piecewise function, domain restriction, boundary, interval. Common errors: using wrong piece, misreading inequalities at boundaries, and not evaluating boundary points correctly."
+      },
+      {
+        "skill": "F: Graph a quadratic function",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers graphing quadratic functions for Precalculus students (TEKS P.2(F)). Students graph f(x)=ax^2+bx+c or vertex form, identifying vertex, axis of symmetry, direction, intercepts, and domain/range. In Precalculus, emphasis on analyzing key attributes and connecting to transformations of parent function y=x^2. Key vocabulary: parabola, vertex, axis of symmetry, direction, intercepts. Common errors: vertex calculation mistakes, and not identifying all key features."
+      },
+      {
+        "skill": "F: Match polynomials and graphs",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers match polynomials and graphs for Precalculus students (TEKS P.2(F)). Match/graph polynomials by analyzing: degree (determines end behavior and max turning points), leading coefficient (determines direction), zeros/x-intercepts, y-intercept, and multiplicity of roots. Key vocabulary includes: polynomial, degree, leading coefficient, end behavior, zeros, multiplicity, turning point. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "F: Graph logarithmic functions",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers graphing logarithmic functions for Precalculus students (TEKS P.2(F)). For f(x) = a*log_b(x-h) + k: identify vertical asymptote x = h, find key points by substituting convenient x-values, note y-intercept if it exists. The parent log function passes through (1, 0) and (b, 1). Transformations shift, stretch, and reflect. Vocabulary: logarithmic function, vertical asymptote, base, transformation, inverse. Bases 2, 10, and e (ln) are most common. Common errors: graphing on wrong side of asymptote, forgetting the vertical asymptote, and incorrect key points."
+      },
+      {
+        "skill": "F: Graph sine functions",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers graph sine functions for Precalculus students (TEKS P.2(F)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Graph cosine functions",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers graph cosine functions for Precalculus students (TEKS P.2(F)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Graph sine and cosine functions",
+        "teks": "P.2(F)",
+        "prompt": "This topic covers graph sine and cosine functions for Precalculus students (TEKS P.2(F)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: graph functions, including exponential, logarithmic, sine, cosine, rational, polynomial, and power functions and their transformations, including af(x), f(x) + d, f(x - c), f(bx) for specific values of a, b, c, and d, in mathematical and real-world problems",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers graph functions, including exponential, logarithmic, sine, cosine, rational, polynomial, and power functions and their transformations, including af(x), f(x) + d, f(x (c), f(bx) for specific values of a, b, c, and d, in mathematical and real-world problems) for Precalculus students (TEKS P.2(G)). Function transformations: af(x) vertical stretch/compression, f(x)+d vertical shift, f(x-c) horizontal shift, f(bx) horizontal stretch/compression. Key vocabulary includes: compression, dilation, reflection, stretch, transformation, translation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Function transformation rules",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers function transformation rules for Precalculus students (TEKS P.2(G)). Function transformations: af(x) vertical stretch/compression, f(x)+d vertical shift, f(x-c) horizontal shift, f(bx) horizontal stretch/compression. Key vocabulary includes: compression, dilation, reflection, stretch, transformation, translation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Translations of functions",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers translations of functions for Precalculus students (TEKS P.2(G)). f(x)+d shifts up (d>0) or down (d<0). f(x-c) shifts right (c>0) or left (c<0). Translations preserve shape but change position. Equations, graphs, and tables all shift accordingly. Key vocabulary: translation, horizontal shift, vertical shift, function. Common errors: confusing direction of horizontal shifts (f(x-c) shifts right), and not shifting all features."
+      },
+      {
+        "skill": "G: Reflections of functions",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers reflections of functions for Precalculus students (TEKS P.2(G)). -f(x) reflects over x-axis (negate outputs). f(-x) reflects over y-axis (negate inputs). Combining: -f(-x) reflects over both axes (equivalent to 180-degree rotation). Key vocabulary: reflection, x-axis, y-axis, negate, symmetry. Common errors: confusing which axis the reflection is over, and not applying to all points."
+      },
+      {
+        "skill": "G: Dilations of functions",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers dilations of functions for Precalculus students (TEKS P.2(G)). af(x): |a|>1 vertical stretch, 0<|a|<1 vertical compression. f(bx): |b|>1 horizontal compression, 0<|b|<1 horizontal stretch (counterintuitive). Negative a or b adds reflection. Key vocabulary: dilation, stretch, compression, vertical, horizontal, scale factor. Common errors: confusing stretch/compression for horizontal dilations, and not handling negative parameters."
+      },
+      {
+        "skill": "G: Transformations of functions",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers transformations of functions for Precalculus students (TEKS P.2(G)). Function transformations: af(x) vertical stretch/compression, f(x)+d vertical shift, f(x-c) horizontal shift, f(bx) horizontal stretch/compression. Key vocabulary includes: compression, dilation, reflection, stretch, transformation, translation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Describe function transformations",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers describe function transformations for Precalculus students (TEKS P.2(G)). Function transformations: af(x) vertical stretch/compression, f(x)+d vertical shift, f(x-c) horizontal shift, f(bx) horizontal stretch/compression. Key vocabulary includes: compression, dilation, reflection, stretch, transformation, translation. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Match polynomials and graphs",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers match polynomials and graphs for Precalculus students (TEKS P.2(G)). Match/graph polynomials by analyzing: degree (determines end behavior and max turning points), leading coefficient (determines direction), zeros/x-intercepts, y-intercept, and multiplicity of roots. Key vocabulary includes: polynomial, degree, leading coefficient, end behavior, zeros, multiplicity, turning point. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "G: Graph translations of sine functions",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers graph translations of sine functions for Precalculus students (TEKS P.2(G)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Graph translations of cosine functions",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers graph translations of cosine functions for Precalculus students (TEKS P.2(G)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Graph translations of sine and cosine functions",
+        "teks": "P.2(G)",
+        "prompt": "This topic covers graph translations of sine and cosine functions for Precalculus students (TEKS P.2(G)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "H: graph arcsin x and arccos x and describe the limitations on the domain",
+        "teks": "P.2(H)",
+        "prompt": "This topic covers graph arcsin x and arccos x and describe the limitations on the domain for Precalculus students (TEKS P.2(H)). arcsin(x) has domain [-1,1] and range [-pi/2, pi/2]. arccos(x) has domain [-1,1] and range [0, pi]. These are inverse trig functions with restricted domains. Key vocabulary includes: arcsin, arccos, inverse trigonometric, domain, range, restriction. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "I: determine and analyze the key features of exponential, logarithmic, rational, polynomial, power, trigonometric, inverse trigonometric, and piecewise defined functions, including step functions such as domain, range, symmetry, relative maximum, relative minimum, zeros, asymptotes, and intervals over which the function is increasing or decreasing",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers evaluating piecewise-defined functions for Precalculus students (TEKS P.2(I)). A piecewise function has different rules for different domain intervals. To evaluate: determine which piece applies based on the input value, then use that formula. Check boundary points carefully for which piece includes them. Example: f(x) = {x+1 if x<0; 2x if x>=0}. Vocabulary: piecewise function, domain restriction, boundary, interval. Common errors: using wrong piece, misreading inequalities at boundaries, and not evaluating boundary points correctly."
+      },
+      {
+        "skill": "I: Find the roots of factored polynomials",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers factoring polynomials for Precalculus students (TEKS P.2(I)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+      },
+      {
+        "skill": "I: Match polynomials and graphs",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers match polynomials and graphs for Precalculus students (TEKS P.2(I)). Match/graph polynomials by analyzing: degree (determines end behavior and max turning points), leading coefficient (determines direction), zeros/x-intercepts, y-intercept, and multiplicity of roots. Key vocabulary includes: polynomial, degree, leading coefficient, end behavior, zeros, multiplicity, turning point. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "I: Domain and range of polynomials",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers domain and range of polynomial functions for Precalculus students (TEKS P.2(I)). Domain is always all real numbers. Range: odd-degree polynomials have range all reals; even-degree polynomials have restricted range determined by absolute extrema. Students analyze end behavior and local extrema. Key vocabulary: polynomial, degree, domain, range, end behavior, local extrema. Common errors: assuming all polynomials have range of all reals."
+      },
+      {
+        "skill": "I: Rational functions: asymptotes and excluded values",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers rational functions (asymptotes and excluded values) for Precalculus students (TEKS P.2(I)). Vertical asymptotes occur where the function is undefined and values approach infinity. Horizontal asymptotes describe end behavior. Oblique asymptotes occur when numerator degree exceeds denominator by 1. Key vocabulary includes: behavior, horizontal asymptote, limit, oblique asymptote, vertical asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Linear and exponential functions over unit intervals",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers comparing linear and exponential functions over unit intervals for Precalculus students (TEKS P.2(I)). Linear functions have constant additive change per unit interval. Exponential functions have constant multiplicative change (constant ratio). Students distinguish by examining differences vs ratios in tables. Key vocabulary: unit interval, constant difference, constant ratio, linear, exponential. Common errors: confusing additive with multiplicative change."
+      },
+      {
+        "skill": "I: Domain and range of logarithmic functions",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers domain and range of logarithmic functions for Precalculus students (TEKS P.2(I)). For f(x) = a*log_b(x-h) + k: domain is (h, infinity) because the argument must be positive, range is all real numbers. The vertical asymptote is x = h. The logarithmic function is the inverse of exponential, so domain/range are swapped. Vocabulary: logarithmic function, domain, range, vertical asymptote, argument. Common errors: including the asymptote in the domain, incorrectly stating range is restricted, and sign errors finding h."
+      },
+      {
+        "skill": "I: Find properties of sine functions",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers find properties of sine functions for Precalculus students (TEKS P.2(I)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find properties of cosine functions",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers find properties of cosine functions for Precalculus students (TEKS P.2(I)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Symmetry and periodicity of trigonometric functions",
+        "teks": "P.2(I)",
+        "prompt": "This topic covers symmetry and periodicity of trigonometric functions for Precalculus students (TEKS P.2(I)). Sine is odd: sin(-x)=-sin(x). Cosine is even: cos(-x)=cos(x). Sin and cos have period 2pi; tan has period pi. Students use these properties to simplify expressions and evaluate functions. Key vocabulary: symmetry, periodicity, even, odd, period, 2pi, pi. Common errors: confusing even/odd properties, and not recognizing periodicity."
+      },
+      {
+        "skill": "J: analyze and describe end behavior of functions, including exponential, logarithmic, rational, polynomial, and power functions, using infinity notation to communicate this characteristic in mathematical and real-world problems",
+        "teks": "P.2(J)",
+        "prompt": "This topic covers analyze and describe end behavior of functions, including exponential, logarithmic, rational, polynomial, and power functions, using infinity notation to communicate this characteristic in mathematical and real-world problems for Precalculus students (TEKS P.2(J)). End behavior describes function values as x approaches +/- infinity, determined by the leading term for polynomials. Use infinity notation: as x -> infinity, f(x) -> ... Key vocabulary includes: degree, end behavior, infinity, leading coefficient, leading term. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: analyze characteristics of rational functions and the behavior of the function around the asymptotes, including horizontal, vertical, and oblique asymptotes",
+        "teks": "P.2(K)",
+        "prompt": "This topic covers analyze characteristics of rational functions and the behavior of the function around the asymptotes, including horizontal, vertical, and oblique asymptotes for Precalculus students (TEKS P.2(K)). Vertical asymptotes occur where the function is undefined and values approach infinity. Horizontal asymptotes describe end behavior. Oblique asymptotes occur when numerator degree exceeds denominator by 1. Key vocabulary includes: behavior, horizontal asymptote, limit, oblique asymptote, vertical asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: Rational functions: asymptotes and excluded values",
+        "teks": "P.2(K)",
+        "prompt": "This topic covers rational functions (asymptotes and excluded values) for Precalculus students (TEKS P.2(K)). Vertical asymptotes occur where the function is undefined and values approach infinity. Horizontal asymptotes describe end behavior. Oblique asymptotes occur when numerator degree exceeds denominator by 1. Key vocabulary includes: behavior, horizontal asymptote, limit, oblique asymptote, vertical asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: Find the limit at a vertical asymptote of a rational function I",
+        "teks": "P.2(K)",
+        "prompt": "This topic covers find the limit at a vertical asymptote of a rational function i for Precalculus students (TEKS P.2(K)). Vertical asymptotes occur where the function is undefined and values approach infinity. Horizontal asymptotes describe end behavior. Oblique asymptotes occur when numerator degree exceeds denominator by 1. Key vocabulary includes: behavior, horizontal asymptote, limit, oblique asymptote, vertical asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: Find the limit at a vertical asymptote of a rational function II",
+        "teks": "P.2(K)",
+        "prompt": "This topic covers find the limit at a vertical asymptote of a rational function ii for Precalculus students (TEKS P.2(K)). Vertical asymptotes occur where the function is undefined and values approach infinity. Horizontal asymptotes describe end behavior. Oblique asymptotes occur when numerator degree exceeds denominator by 1. Key vocabulary includes: behavior, horizontal asymptote, limit, oblique asymptote, vertical asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "L: determine various types of discontinuities in the interval (-∞, ∞) as they relate to functions and explore the limitations of the graphing calculator as it relates to the behavior of the function around discontinuities",
+        "teks": "P.2(L)",
+        "prompt": "This topic covers determine various types of discontinuities in the interval (-∞, ∞) as they relate to functions and explore the limitations of the graphing calculator as it relates to the behavior of the function around discontinuities for Precalculus students (TEKS P.2(L)). Types of discontinuity: removable (hole), jump (left and right limits differ), and infinite (vertical asymptote). Students analyze behavior near discontinuities. Key vocabulary includes: asymptote, discontinuity, hole, infinite, jump, removable. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "L: Rational functions: asymptotes and excluded values",
+        "teks": "P.2(L)",
+        "prompt": "This topic covers rational functions (asymptotes and excluded values) for Precalculus students (TEKS P.2(L)). Vertical asymptotes occur where the function is undefined and values approach infinity. Horizontal asymptotes describe end behavior. Oblique asymptotes occur when numerator degree exceeds denominator by 1. Key vocabulary includes: behavior, horizontal asymptote, limit, oblique asymptote, vertical asymptote. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "L: Find and analyze points of discontinuity using graphs",
+        "teks": "P.2(L)",
+        "prompt": "This topic covers find and analyze points of discontinuity using graphs for Precalculus students (TEKS P.2(L)). Types of discontinuity: removable (hole), jump (left and right limits differ), and infinite (vertical asymptote). Students analyze behavior near discontinuities. Key vocabulary includes: asymptote, discontinuity, hole, infinite, jump, removable. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "M: describe the left-sided behavior and the right-sided behavior of the graph of a function around discontinuities",
+        "teks": "P.2(M)",
+        "prompt": "This topic covers describe the left-sided behavior and the right-sided behavior of the graph of a function around discontinuities for Precalculus students (TEKS P.2(M)). Types of discontinuity: removable (hole), jump (left and right limits differ), and infinite (vertical asymptote). Students analyze behavior near discontinuities. Key vocabulary includes: asymptote, discontinuity, hole, infinite, jump, removable. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "N: analyze situations modeled by functions, including exponential, logarithmic, rational, polynomial, and power functions, to solve real-world problems",
+        "teks": "P.2(N)",
+        "prompt": "This topic covers analyzing real-world situations modeled by various functions for Precalculus students (TEKS P.2(N)). Students select appropriate function type (exponential, logarithmic, rational, polynomial, power) to model data, solve problems, and interpret results. Key vocabulary: model, function, real-world, exponential, logarithmic, polynomial, interpret. Common errors: choosing wrong function type, and not interpreting results in context."
+      },
+      {
+        "skill": "N: Exponential growth and decay: word problems",
+        "teks": "P.2(N)",
+        "prompt": "This topic covers exponential growth and decay word problems for Precalculus students (TEKS P.2(N)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+      },
+      {
+        "skill": "N: Compound interest: word problems",
+        "teks": "P.2(N)",
+        "prompt": "This topic covers compound interest word problems for Precalculus students (TEKS P.2(N)). Formula: A=P(1+r/n)^(nt) for discrete, A=Pe^(rt) for continuous. Solve for any variable; solving for t requires logarithms. Key vocabulary: principal, compound interest, continuous, e, logarithm. Common errors: confusing formulas, not converting rates, and not using logarithms for t."
+      },
+      {
+        "skill": "N: Exponential regression",
+        "teks": "P.2(N)",
+        "prompt": "This topic covers exponential regression for Precalculus students (TEKS P.2(N)). Students use technology to find y = ab^x that best fits data. Steps: enter data, run exponential regression, interpret a and b, use for predictions. Correlation coefficient r indicates fit quality. Students compare exponential vs linear models. Vocabulary: regression, exponential model, correlation coefficient, residual, best fit, interpolation, extrapolation. Common errors: using model far outside data range, confusing with linear regression, and misinterpreting R^2."
+      },
+      {
+        "skill": "O: develop and use a sinusoidal function that models a situation in mathematical and real-world problems",
+        "teks": "P.2(O)",
+        "prompt": "This topic covers develop and use a sinusoidal function that models a situation in mathematical and real-world problems for Precalculus students (TEKS P.2(O)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "O: Write equations of sine functions from graphs",
+        "teks": "P.2(O)",
+        "prompt": "This topic covers write equations of sine functions from graphs for Precalculus students (TEKS P.2(O)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "O: Write equations of sine functions using properties",
+        "teks": "P.2(O)",
+        "prompt": "This topic covers write equations of sine functions using properties for Precalculus students (TEKS P.2(O)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "O: Write equations of cosine functions from graphs",
+        "teks": "P.2(O)",
+        "prompt": "This topic covers write equations of cosine functions from graphs for Precalculus students (TEKS P.2(O)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "O: Write equations of cosine functions using properties",
+        "teks": "P.2(O)",
+        "prompt": "This topic covers write equations of cosine functions using properties for Precalculus students (TEKS P.2(O)). Sinusoidal functions: y = a*sin(b(x-c)) + d or y = a*cos(b(x-c)) + d. Amplitude = |a|, period = 2*pi/|b|, phase shift = c, vertical shift = d. Key vocabulary includes: amplitude, period, phase shift, sinusoidal, vertical shift. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "P: determine the values of the trigonometric functions at the special angles and relate them in mathematical and real-world problems",
+        "teks": "P.2(P)",
+        "prompt": "This topic covers determine the values of the trigonometric functions at the special angles and relate them in mathematical and real-world problems for Precalculus students (TEKS P.2(P)). Evaluate trig functions at special angles (0, 30, 45, 60, 90 degrees or 0, pi/6, pi/4, pi/3, pi/2 radians) using special right triangles or the unit circle. Key vocabulary includes: special angles, unit circle, exact values, sine, cosine, tangent. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "P: Find trigonometric ratios using right triangles",
+        "teks": "P.2(P)",
+        "prompt": "This topic covers find trigonometric ratios using right triangles for Precalculus students (TEKS P.2(P)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. In right triangles: sin = opp/hyp, cos = adj/hyp, tan = opp/adj. Given two sides or one side and an angle, find remaining parts. Key vocabulary includes: right triangle, sine, cosine, tangent, SOHCAHTOA. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "P: Find trigonometric ratios using reference angles",
+        "teks": "P.2(P)",
+        "prompt": "This topic covers find trigonometric ratios using reference angles for Precalculus students (TEKS P.2(P)). Coterminal angles differ by multiples of 360 degrees (or 2*pi). Reference angle is the acute angle to the x-axis, used to evaluate trig functions in any quadrant. Key vocabulary includes: coterminal, quadrant, reference angle, standard position, terminal side. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      }
+    ],
+    "Mathematics - Relations and geometric reasoning": [
+      {
+        "skill": "A: graph a set of parametric equations",
+        "teks": "P.3(A)",
+        "prompt": "This topic covers graph a set of parametric equations for Precalculus students (TEKS P.3(A)). Parametric equations express x and y each in terms of parameter t. Convert to rectangular by eliminating t through substitution or trigonometric identities. Key vocabulary includes: eliminate parameter, parameter, parametric equations, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "B: convert parametric equations into rectangular relations and convert rectangular relations into parametric equations",
+        "teks": "P.3(B)",
+        "prompt": "This topic covers convert parametric equations into rectangular relations and convert rectangular relations into parametric equations for Precalculus students (TEKS P.3(B)). Parametric equations express x and y each in terms of parameter t. Convert to rectangular by eliminating t through substitution or trigonometric identities. Key vocabulary includes: eliminate parameter, parameter, parametric equations, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "C: use parametric equations to model and solve mathematical and real-world problems",
+        "teks": "P.3(C)",
+        "prompt": "This topic covers use parametric equations to model and solve mathematical and real-world problems for Precalculus students (TEKS P.3(C)). Parametric equations express x and y each in terms of parameter t. Convert to rectangular by eliminating t through substitution or trigonometric identities. Key vocabulary includes: eliminate parameter, parameter, parametric equations, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: graph points in the polar coordinate system and convert between rectangular coordinates and polar coordinates",
+        "teks": "P.3(D)",
+        "prompt": "This topic covers graph points in the polar coordinate system and convert between rectangular coordinates and polar coordinates for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Key vocabulary includes: conversion, polar coordinates, r, rectangular, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: Find the modulus and argument of a complex number",
+        "teks": "P.3(D)",
+        "prompt": "This topic covers find the modulus and argument of a complex number for Precalculus students (TEKS P.3(D)). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, modulus, polar form, rectangular form. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: Convert complex numbers from rectangular to polar form",
+        "teks": "P.3(D)",
+        "prompt": "This topic covers convert complex numbers from rectangular to polar form for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, conversion, modulus, polar coordinates, polar form, r, rectangular, rectangular form, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: Convert complex numbers from polar to rectangular form",
+        "teks": "P.3(D)",
+        "prompt": "This topic covers convert complex numbers from polar to rectangular form for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, conversion, modulus, polar coordinates, polar form, r, rectangular, rectangular form, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: Convert complex numbers between rectangular and polar form",
+        "teks": "P.3(D)",
+        "prompt": "This topic covers convert complex numbers between rectangular and polar form for Precalculus students (TEKS P.3(D)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Complex numbers in polar form: z = r(cos(theta) + i*sin(theta)) where r is the modulus and theta is the argument. Convert using x = r*cos(theta), y = r*sin(theta). Key vocabulary includes: argument, complex number, conversion, modulus, polar coordinates, polar form, r, rectangular, rectangular form, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: graph polar equations by plotting points and using technology",
+        "teks": "P.3(E)",
+        "prompt": "This topic covers graph polar equations by plotting points and using technology for Precalculus students (TEKS P.3(E)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Key vocabulary includes: conversion, polar coordinates, r, rectangular, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Match polar equations and graphs",
+        "teks": "P.3(E)",
+        "prompt": "This topic covers match polar equations and graphs for Precalculus students (TEKS P.3(E)). Polar coordinates (r, theta) describe points by distance from origin and angle. Convert: x = r*cos(theta), y = r*sin(theta), r = sqrt(x^2+y^2), theta = arctan(y/x). Key vocabulary includes: conversion, polar coordinates, r, rectangular, theta. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: determine the conic section formed when a plane intersects a double-napped cone",
+        "teks": "P.3(F)",
+        "prompt": "This topic covers determine the conic section formed when a plane intersects a double-napped cone for Precalculus students (TEKS P.3(F)). When a plane intersects a double-napped cone: circle (parallel to base), ellipse (angled cut), parabola (parallel to slant), hyperbola (parallel to axis). Key vocabulary includes: conic section, double-napped cone, circle, ellipse, parabola, hyperbola. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "G: make connections between the locus definition of conic sections and their equations in rectangular coordinates",
+        "teks": "P.3(G)",
+        "prompt": "This topic covers make connections between the locus definition of conic sections and their equations in rectangular coordinates for Precalculus students (TEKS P.3(G)). When a plane intersects a double-napped cone: circle (parallel to base), ellipse (angled cut), parabola (parallel to slant), hyperbola (parallel to axis). Each conic section is defined as a locus of points satisfying a distance condition, leading to its standard rectangular equation. Key vocabulary includes: locus, conic section, distance, standard form, rectangular coordinates. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "G: Write equations of parabolas in vertex form",
+        "teks": "P.3(G)",
+        "prompt": "This topic covers write equations of parabolas in vertex form for Precalculus students (TEKS P.3(G)). A parabola is the set of points equidistant from a focus and directrix. Vertex form: y = a(x-h)^2 + k or x = a(y-k)^2 + h. Key vocabulary includes: conic section, directrix, focus, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Write equations of parabolas in vertex form using properties",
+        "teks": "P.3(G)",
+        "prompt": "This topic covers write equations of parabolas in vertex form using properties for Precalculus students (TEKS P.3(G)). A parabola is the set of points equidistant from a focus and directrix. Vertex form: y = a(x-h)^2 + k or x = a(y-k)^2 + h. Key vocabulary includes: conic section, directrix, focus, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Write equations of ellipses in standard form",
+        "teks": "P.3(G)",
+        "prompt": "This topic covers write equations of ellipses in standard form for Precalculus students (TEKS P.3(G)). An ellipse is the set of points where the sum of distances to two foci is constant. Standard form: (x-h)^2/a^2 + (y-k)^2/b^2 = 1. Key vocabulary includes: center, conic section, directrix, ellipse, foci, focus, major axis, minor axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Use the characteristics of an ellipse to write the equation of an ellipse with center (h, k)",
+        "teks": "P.3(H)",
+        "prompt": "This topic covers use the characteristics of an ellipse to write the equation of an ellipse with center (h, k) for Precalculus students (TEKS P.3(H)). An ellipse is the set of points where the sum of distances to two foci is constant. Standard form: (x-h)^2/a^2 + (y-k)^2/b^2 = 1. Key vocabulary includes: center, conic section, directrix, ellipse, foci, focus, major axis, minor axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Write equations of hyperbolas in standard form",
+        "teks": "P.3(G)",
+        "prompt": "This topic covers write equations of hyperbolas in standard form for Precalculus students (TEKS P.3(G)). A hyperbola is the set of points where the difference of distances to two foci is constant. Has two branches and asymptotes. Key vocabulary includes: asymptotes, conic section, conjugate axis, directrix, foci, focus, hyperbola, transverse axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Use the characteristics of a hyperbola to write the equation of a hyperbola with center (h, k)",
+        "teks": "P.3(I)",
+        "prompt": "This topic covers use the characteristics of a hyperbola to write the equation of a hyperbola with center (h, k) for Precalculus students (TEKS P.3(I)). A hyperbola is the set of points where the difference of distances to two foci is constant. Has two branches and asymptotes. Key vocabulary includes: asymptotes, conic section, conjugate axis, directrix, foci, focus, hyperbola, transverse axis, vertex. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      }
+    ],
+    "Mathematics - Number and measure": [
+      {
+        "skill": "A: determine the relationship between the unit circle and the definition of a periodic function to evaluate trigonometric functions in mathematical and real-world problems",
+        "teks": "P.4(A)",
+        "prompt": "This topic covers evaluating functions using function notation for Precalculus students (TEKS P.4(A)). f(x) names the function (f) and input (x). To evaluate f(a), substitute a for x and simplify. Example: f(x) = 3x^2 - 2x + 1, f(4) = 41. Students evaluate for numbers, variables, and expressions like f(a+1). Vocabulary: function notation, evaluate, substitute, input, output. Common errors: confusing f(x) with multiplication, not substituting into all x instances, and order of operations errors."
+      },
+      {
+        "skill": "A: Find trigonometric ratios using the unit circle",
+        "teks": "P.4(A)",
+        "prompt": "This topic covers find trigonometric ratios using the unit circle for Precalculus students (TEKS P.4(A)). The unit circle has radius 1 centered at origin. Point at angle theta has coordinates (cos(theta), sin(theta)). Students memorize special angles: 0, pi/6, pi/4, pi/3, pi/2 and their multiples. Key vocabulary includes: coordinate, periodic, quadrant, reference angle, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "B: describe the relationship between degree and radian measure on the unit circle",
+        "teks": "P.4(B)",
+        "prompt": "This topic covers describe the relationship between degree and radian measure on the unit circle for Precalculus students (TEKS P.4(B)). The unit circle has radius 1 centered at origin. Point at angle theta has coordinates (cos(theta), sin(theta)). Students memorize special angles: 0, pi/6, pi/4, pi/3, pi/2 and their multiples. Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, coordinate, degree, periodic, quadrant, radian, reference angle, sector, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "B: Convert between radians and degrees",
+        "teks": "P.4(B)",
+        "prompt": "This topic covers convert between radians and degrees for Precalculus students (TEKS P.4(B)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "C: represent angles in radians or degrees based on the concept of rotation and find the measure of reference angles and angles in standard position",
+        "teks": "P.4(C)",
+        "prompt": "This topic covers represent angles in radians or degrees based on the concept of rotation and find the measure of reference angles and angles in standard position for Precalculus students (TEKS P.4(C)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Coterminal angles differ by multiples of 360 degrees (or 2*pi). Reference angle is the acute angle to the x-axis, used to evaluate trig functions in any quadrant. Key vocabulary includes: arc length, conversion, coterminal, degree, quadrant, radian, reference angle, sector, standard position, terminal side. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "C: Radians and arc length",
+        "teks": "P.4(C)",
+        "prompt": "This topic covers radians and arc length for Precalculus students (TEKS P.4(C)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "C: Quadrants",
+        "teks": "P.4(C)",
+        "prompt": "This topic covers quadrants for Precalculus students (TEKS P.4(C)). The coordinate plane has four quadrants. In trig: Q1 all positive, Q2 sin positive, Q3 tan positive, Q4 cos positive (ASTC rule). Key vocabulary includes: quadrant, coordinate plane, ASTC, sign, trigonometric function. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "C: Coterminal and reference angles",
+        "teks": "P.4(C)",
+        "prompt": "This topic covers coterminal and reference angles for Precalculus students (TEKS P.4(C)). Coterminal angles differ by multiples of 360 degrees (or 2*pi). Reference angle is the acute angle to the x-axis, used to evaluate trig functions in any quadrant. Key vocabulary includes: coterminal, quadrant, reference angle, standard position, terminal side. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: represent angles in radians or degrees based on the concept of rotation in mathematical and real-world problems, including linear and angular velocity",
+        "teks": "P.4(D)",
+        "prompt": "This topic covers represent angles in radians or degrees based on the concept of rotation in mathematical and real-world problems, including linear and angular velocity for Precalculus students (TEKS P.4(D)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "D: Radians and arc length",
+        "teks": "P.4(D)",
+        "prompt": "This topic covers radians and arc length for Precalculus students (TEKS P.4(D)). Radian measure: theta = arc length / radius. Conversion: degrees * pi/180 = radians, radians * 180/pi = degrees. Arc length s = r*theta. Key vocabulary includes: arc length, conversion, degree, radian, sector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: determine the value of trigonometric ratios of angles and solve problems involving trigonometric ratios in mathematical and real-world problems",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers determine the value of trigonometric ratios of angles and solve problems involving trigonometric ratios in mathematical and real-world problems for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Isolate the trig function, find reference angle using inverse trig, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: trigonometric equation, reference angle, unit circle, period, general solution. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "E: Find trigonometric ratios using right triangles",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers find trigonometric ratios using right triangles for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. In right triangles: sin = opp/hyp, cos = adj/hyp, tan = opp/adj. Given two sides or one side and an angle, find remaining parts. Key vocabulary includes: right triangle, sine, cosine, tangent, SOHCAHTOA. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "E: Find trigonometric ratios using the unit circle",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers find trigonometric ratios using the unit circle for Precalculus students (TEKS P.4(E)). The unit circle has radius 1 centered at origin. Point at angle theta has coordinates (cos(theta), sin(theta)). Students memorize special angles: 0, pi/6, pi/4, pi/3, pi/2 and their multiples. Key vocabulary includes: coordinate, periodic, quadrant, reference angle, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Find trigonometric ratios using reference angles",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers find trigonometric ratios using reference angles for Precalculus students (TEKS P.4(E)). Coterminal angles differ by multiples of 360 degrees (or 2*pi). Reference angle is the acute angle to the x-axis, used to evaluate trig functions in any quadrant. Key vocabulary includes: coterminal, quadrant, reference angle, standard position, terminal side. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Inverses of trigonometric functions",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers inverses of trigonometric functions for Precalculus students (TEKS P.4(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Inverses of trigonometric functions using a calculator",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers inverses of trigonometric functions using a calculator for Precalculus students (TEKS P.4(E)). Inverse functions undo each other: f(f^(-1)(x)) = x. Only one-to-one functions have inverses. Graphically, inverses reflect over y = x. Key vocabulary includes: f^(-1)(x), horizontal line test, inverse function, one-to-one, reflection, y = x. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Solve trigonometric equations",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers solve trigonometric equations for Precalculus students (TEKS P.4(E)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "E: Trigonometric ratios: find a side length",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers trigonometric ratios (find a side length) for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Use the trig ratio that relates the known angle and side to the unknown side. Set up the equation and solve. Key vocabulary includes: trigonometric ratio, right triangle, sine, cosine, tangent, solve. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "E: Trigonometric ratios: find an angle measure",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers trigonometric ratios (find an angle measure) for Precalculus students (TEKS P.4(E)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Use inverse trig functions (arcsin, arccos, arctan) to find angles from known side ratios. Key vocabulary includes: inverse trigonometric function, arcsin, arccos, arctan, angle measure. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "E: Solve a right triangle",
+        "teks": "P.4(E)",
+        "prompt": "This topic covers solve a right triangle for Precalculus students (TEKS P.4(E)). Finding all unknown sides and angles. For right triangles: use trig ratios and Pythagorean theorem. For oblique: use Law of Sines (AAS/ASA/SSA) and Law of Cosines (SAS/SSS). Key vocabulary includes: solve a triangle, Law of Sines, Law of Cosines, right triangle, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "F: use trigonometry in mathematical and real-world problems, including directional bearing",
+        "teks": "P.4(F)",
+        "prompt": "This topic covers applying trigonometry to real-world problems including directional bearing for Precalculus students (TEKS P.4(F)). Students solve triangles, compute areas, and apply bearing angles (measured clockwise from north). Use Law of Sines, Law of Cosines, and right triangle trig. Key vocabulary: bearing, direction, navigation, Law of Sines, Law of Cosines, area. Common errors: confusing bearing conventions, and not converting between bearing and standard angle."
+      },
+      {
+        "skill": "F: Solve a triangle",
+        "teks": "P.4(F)",
+        "prompt": "This topic covers solve a triangle for Precalculus students (TEKS P.4(F)). Solving a triangle means finding all unknown sides and angles. Use Law of Sines for AAS/ASA/SSA cases and Law of Cosines for SAS/SSS cases. Key vocabulary includes: Law of Cosines, Law of Sines, angles, sides, solve a triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Area of a triangle: sine formula",
+        "teks": "P.4(F)",
+        "prompt": "This topic covers area of a triangle (sine formula) for Precalculus students (TEKS P.4(F)). Triangle area using sine: A = (1/2)*a*b*sin(C), where a and b are two sides and C is the included angle. Key vocabulary includes: area, included angle, sine formula, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Area of a triangle: Heron's formula",
+        "teks": "P.4(F)",
+        "prompt": "This topic covers area of a triangle (heron's formula) for Precalculus students (TEKS P.4(F)). Heron's formula: A = sqrt(s(s-a)(s-b)(s-c)) where s = (a+b+c)/2 is the semi-perimeter. Works when all three sides are known. Key vocabulary includes: Heron's formula, area, semi-perimeter, triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: use the Law of Sines in mathematical and real-world problems",
+        "teks": "P.4(G)",
+        "prompt": "This topic covers use the law of sines in mathematical and real-world problems for Precalculus students (TEKS P.4(G)). Law of Sines: a/sin(A) = b/sin(B) = c/sin(C). Used for ASA, AAS cases. The ambiguous case (SSA) may yield 0, 1, or 2 triangles. Key vocabulary includes: AAS, ASA, Law of Sines, ambiguous case, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Law of Sines",
+        "teks": "P.4(G)",
+        "prompt": "This topic covers law of sines for Precalculus students (TEKS P.4(G)). Law of Sines: a/sin(A) = b/sin(B) = c/sin(C). Used for ASA, AAS cases. The ambiguous case (SSA) may yield 0, 1, or 2 triangles. Key vocabulary includes: AAS, ASA, Law of Sines, ambiguous case, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: Solve a triangle",
+        "teks": "P.4(G)",
+        "prompt": "This topic covers solve a triangle for Precalculus students (TEKS P.4(G)). Solving a triangle means finding all unknown sides and angles. Use Law of Sines for AAS/ASA/SSA cases and Law of Cosines for SAS/SSS cases. Key vocabulary includes: Law of Cosines, Law of Sines, angles, sides, solve a triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "H: use the Law of Cosines in mathematical and real-world problems",
+        "teks": "P.4(H)",
+        "prompt": "This topic covers use the law of cosines in mathematical and real-world problems for Precalculus students (TEKS P.4(H)). Law of Cosines: c^2 = a^2 + b^2 - 2ab*cos(C). Used for SAS and SSS cases. Generalizes the Pythagorean theorem. Key vocabulary includes: Law of Cosines, SAS, SSS, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "H: Law of Cosines",
+        "teks": "P.4(H)",
+        "prompt": "This topic covers law of cosines for Precalculus students (TEKS P.4(H)). Law of Cosines: c^2 = a^2 + b^2 - 2ab*cos(C). Used for SAS and SSS cases. Generalizes the Pythagorean theorem. Key vocabulary includes: Law of Cosines, SAS, SSS, oblique triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "H: Solve a triangle",
+        "teks": "P.4(H)",
+        "prompt": "This topic covers solve a triangle for Precalculus students (TEKS P.4(H)). Solving a triangle means finding all unknown sides and angles. Use Law of Sines for AAS/ASA/SSA cases and Law of Cosines for SAS/SSS cases. Key vocabulary includes: Law of Cosines, Law of Sines, angles, sides, solve a triangle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: use vectors to model situations involving magnitude and direction",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers use vectors to model situations involving magnitude and direction for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find the magnitude of a vector",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers find the magnitude of a vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find the component form of a vector",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers find the component form of a vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find the direction angle of a vector",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers find the direction angle of a vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find the component form of a vector from its magnitude and direction angle",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers find the component form of a vector from its magnitude and direction angle for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find the magnitude and direction of a vector sum",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers find the magnitude and direction of a vector sum for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Find resultant vector by adding components, then compute its magnitude and direction angle. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find the magnitude of a vector scalar multiple",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers find the magnitude of a vector scalar multiple for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Determine the direction of a vector scalar multiple",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers determine the direction of a vector scalar multiple for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "I: Find a unit vector",
+        "teks": "P.4(I)",
+        "prompt": "This topic covers find a unit vector for Precalculus students (TEKS P.4(I)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. A unit vector has magnitude 1. Find it by dividing the vector by its magnitude: u = v/|v|. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "J: represent the addition of vectors and the multiplication of a vector by a scalar geometrically and symbolically",
+        "teks": "P.4(J)",
+        "prompt": "This topic covers represent the addition of vectors and the multiplication of a vector by a scalar geometrically and symbolically for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Vector addition: add corresponding components, or use triangle/parallelogram method graphically. <a,b> + <c,d> = <a+c, b+d>. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "J: Graph a resultant vector using the triangle method",
+        "teks": "P.4(J)",
+        "prompt": "This topic covers graph a resultant vector using the triangle method for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "J: Graph a resultant vector using the parallelogram method",
+        "teks": "P.4(J)",
+        "prompt": "This topic covers graph a resultant vector using the parallelogram method for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "J: Add vectors",
+        "teks": "P.4(J)",
+        "prompt": "This topic covers add vectors for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Vector addition: add corresponding components, or use triangle/parallelogram method graphically. <a,b> + <c,d> = <a+c, b+d>. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "J: Multiply a vector by a scalar",
+        "teks": "P.4(J)",
+        "prompt": "This topic covers multiply a vector by a scalar for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "J: Find the magnitude of a vector scalar multiple",
+        "teks": "P.4(J)",
+        "prompt": "This topic covers find the magnitude of a vector scalar multiple for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "J: Determine the direction of a vector scalar multiple",
+        "teks": "P.4(J)",
+        "prompt": "This topic covers determine the direction of a vector scalar multiple for Precalculus students (TEKS P.4(J)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: apply vector addition and multiplication of a vector by a scalar in mathematical and real-world problems",
+        "teks": "P.4(K)",
+        "prompt": "This topic covers apply vector addition and multiplication of a vector by a scalar in mathematical and real-world problems for Precalculus students (TEKS P.4(K)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Vector addition: add corresponding components, or use triangle/parallelogram method graphically. <a,b> + <c,d> = <a+c, b+d>. Scalar multiplication: k<a,b> = <ka, kb>. Magnitude scales by |k|. Direction reverses if k < 0. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: Linear combinations of vectors",
+        "teks": "P.4(K)",
+        "prompt": "This topic covers linear combinations of vectors for Precalculus students (TEKS P.4(K)). Vectors have magnitude (length) and direction. Component form <a, b>: magnitude = sqrt(a^2+b^2), direction angle = arctan(b/a). Operations: addition, scalar multiplication. Key vocabulary includes: component form, direction, magnitude, unit vector, vector. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      }
+    ],
+    "Mathematics - Algebraic Reasoning": [
+      {
+        "skill": "A: evaluate finite sums and geometric series, when possible, written in sigma notation",
+        "teks": "P.5(A)",
+        "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(A)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+      },
+      {
+        "skill": "A: Identify arithmetic and geometric series",
+        "teks": "P.5(A)",
+        "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(A)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+      },
+      {
+        "skill": "A: Find the sum of a finite geometric series",
+        "teks": "P.5(A)",
+        "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(A)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+      },
+      {
+        "skill": "B: represent arithmetic sequences and geometric sequences using recursive formulas",
+        "teks": "P.5(B)",
+        "prompt": "This topic covers writing explicit formulas for arithmetic sequences for Precalculus students (TEKS P.5(B)). An arithmetic sequence has constant common difference d. Formula: a_n = a_1 + (n-1)d. Find d by subtracting consecutive terms. Example: 3, 7, 11, 15... has d=4, a_1=3, so a_n = 4n-1. An arithmetic sequence is a linear function of n. Vocabulary: arithmetic sequence, common difference, explicit formula, linear. Common errors: using ratio instead of difference, not simplifying, and confusing with recursive formula."
+      },
+      {
+        "skill": "B: Find terms of a recursive sequence",
+        "teks": "P.5(B)",
+        "prompt": "This topic covers finding terms of recursive sequences for Precalculus students (TEKS P.5(B)). Given initial term(s) and recursive rule, compute terms sequentially. Each term depends on previous term(s). Key vocabulary: recursive sequence, initial term, recursive rule, iteration. Common errors: wrong initial term, not computing all intermediate terms, and formula application errors."
+      },
+      {
+        "skill": "B: Find a recursive formula",
+        "teks": "P.5(B)",
+        "prompt": "This topic covers finding recursive formulas from sequences for Precalculus students (TEKS P.5(B)). Analyze how each term relates to the previous. Arithmetic: a_n=a_(n-1)+d. Geometric: a_n=r*a_(n-1). Specify a_1. Key vocabulary: recursive formula, common difference, common ratio, initial term. Common errors: not specifying initial term, wrong pattern identification."
+      },
+      {
+        "skill": "B: Convert an explicit formula to a recursive formula",
+        "teks": "P.5(B)",
+        "prompt": "This topic covers converting explicit formulas to recursive formulas for Precalculus students (TEKS P.5(B)). From explicit a_n=f(n), determine how a_n relates to a_(n-1). For arithmetic a_n=a_1+(n-1)d: recursive is a_n=a_(n-1)+d. For geometric a_n=a_1*r^(n-1): recursive is a_n=r*a_(n-1). Key vocabulary: explicit formula, recursive formula, convert. Common errors: incorrect conversion and forgetting the initial term."
+      },
+      {
+        "skill": "C: calculate the nth term and the nth partial sum of an arithmetic series in mathematical and real-world problems",
+        "teks": "P.5(C)",
+        "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(C)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+      },
+      {
+        "skill": "C: Find terms of a sequence",
+        "teks": "P.5(C)",
+        "prompt": "This topic covers finding terms of arithmetic sequences for Precalculus students (TEKS P.5(C)). Use explicit formula a_n=a_1+(n-1)d to find any term directly. Students find specific terms and determine term numbers for given values. Key vocabulary: arithmetic sequence, common difference, explicit formula, nth term. Common errors: off-by-one errors with n, and confusing arithmetic with geometric."
+      },
+      {
+        "skill": "C: Find the sum of an arithmetic series",
+        "teks": "P.5(C)",
+        "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(C)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+      },
+      {
+        "skill": "C: Introduction to partial sums",
+        "teks": "P.5(C)",
+        "prompt": "This topic covers introduction to partial sums for Precalculus students (TEKS P.5(C)). A partial sum is the sum of the first n terms of a sequence. Students compute partial sums by direct addition or using formulas. Key vocabulary includes: partial sum, sequence, series, sum, formula. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "C: Partial sums of arithmetic series",
+        "teks": "P.5(C)",
+        "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(C)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+      },
+      {
+        "skill": "C: Partial sums: mixed review",
+        "teks": "P.5(C)",
+        "prompt": "This topic covers partial sums (mixed review) for Precalculus students (TEKS P.5(C)). Students distinguish between arithmetic and geometric series and apply the appropriate partial sum formula for each type. Key vocabulary includes: partial sum, arithmetic, geometric, distinguish, formula. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "D: represent arithmetic series and geometric series using sigma notation",
+        "teks": "P.5(D)",
+        "prompt": "This topic covers arithmetic series for Precalculus students (TEKS P.5(D)). The sum of the first n terms of an arithmetic sequence is S_n = n/2*(a_1 + a_n) or S_n = n/2*(2a_1 + (n-1)d). Students find nth partial sums and apply to real-world problems. Vocabulary: arithmetic series, partial sum, sigma notation, common difference. Common errors: confusing sequence (list) with series (sum), using wrong formula, and off-by-one errors in n."
+      },
+      {
+        "skill": "D: Introduction to sigma notation",
+        "teks": "P.5(D)",
+        "prompt": "This topic covers introduction to sigma notation for Precalculus students (TEKS P.5(D)). Sigma notation compactly represents sums. Components: summation symbol, index variable, lower/upper limits, and expression. Convert between expanded and sigma forms. Key vocabulary includes: sigma notation, summation, index, lower limit, upper limit. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "E: calculate the nth term of a geometric series, the nth partial sum of a geometric series, and sum of an infinite geometric series when it exists",
+        "teks": "P.5(E)",
+        "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+      },
+      {
+        "skill": "E: Find terms of a sequence",
+        "teks": "P.5(E)",
+        "prompt": "This topic covers finding terms of geometric sequences for Precalculus students (TEKS P.5(E)). Use explicit formula a_n=a_1*r^(n-1) to find any term. Students find specific terms and identify the common ratio. Key vocabulary: geometric sequence, common ratio, explicit formula, nth term. Common errors: using n instead of n-1 in the exponent, and confusing with arithmetic sequences."
+      },
+      {
+        "skill": "E: Partial sums of geometric series",
+        "teks": "P.5(E)",
+        "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+      },
+      {
+        "skill": "E: Partial sums: mixed review",
+        "teks": "P.5(E)",
+        "prompt": "This topic covers partial sums (mixed review) for Precalculus students (TEKS P.5(E)). Students distinguish between arithmetic and geometric series and apply the appropriate partial sum formula for each type. Key vocabulary includes: partial sum, arithmetic, geometric, distinguish, formula. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "E: Convergent and divergent geometric series",
+        "teks": "P.5(E)",
+        "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+      },
+      {
+        "skill": "E: Find the value of an infinite geometric series",
+        "teks": "P.5(E)",
+        "prompt": "This topic covers geometric series for Precalculus students (TEKS P.5(E)). The nth partial sum is S_n = a_1*(1 - r^n)/(1 - r) for r not equal to 1. For infinite geometric series with |r| < 1: S = a_1/(1-r). Series with |r| >= 1 diverge. Vocabulary: geometric series, partial sum, convergent, divergent, common ratio, infinite series. Common errors: using wrong formula, not checking convergence for infinite series, and sign errors."
+      },
+      {
+        "skill": "E: Write a repeating decimal as a fraction",
+        "teks": "P.5(E)",
+        "prompt": "This topic covers writing repeating decimals as fractions using infinite geometric series for Precalculus students (TEKS P.5(E)). Express the repeating part as a geometric series, apply S=a_1/(1-r). Example: 0.333...=3/10/(1-1/10)=1/3. Key vocabulary: repeating decimal, geometric series, convergent, fraction. Common errors: wrong a_1 or r, and not simplifying the fraction."
+      },
+      {
+        "skill": "F: apply the Binomial Theorem for the expansion of (a + b)^n in powers of a and b for a positive integer n, where a and b are any numbers",
+        "teks": "P.5(F)",
+        "prompt": "This topic covers apply the binomial theorem for the expansion of (a + b)^n in powers of a and b for a positive integer n, where a and b are any numbers for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Pascal's triangle",
+        "teks": "P.5(F)",
+        "prompt": "This topic covers pascal's triangle for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Pascal's triangle and the Binomial Theorem",
+        "teks": "P.5(F)",
+        "prompt": "This topic covers pascal's triangle and the binomial theorem for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Binomial Theorem I",
+        "teks": "P.5(F)",
+        "prompt": "This topic covers binomial theorem i for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "F: Binomial Theorem II",
+        "teks": "P.5(F)",
+        "prompt": "This topic covers binomial theorem ii for Precalculus students (TEKS P.5(F)). The Binomial Theorem: (a+b)^n = sum of nCr * a^(n-r) * b^r for r = 0 to n. Pascal's triangle gives the coefficients. Each term has degree n. Key vocabulary includes: Binomial Theorem, Pascal's triangle, coefficient, expansion, nCr. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "G: use the properties of logarithms to evaluate or transform logarithmic expressions",
+        "teks": "P.5(G)",
+        "prompt": "This topic covers using properties of logarithms for Precalculus students (TEKS P.5(G)). Key properties: product rule log_b(MN) = log_b(M) + log_b(N), quotient rule log_b(M/N) = log_b(M) - log_b(N), power rule log_b(M^p) = p*log_b(M), change of base log_b(x) = log(x)/log(b). Students use properties to expand, condense, and evaluate logarithmic expressions. Vocabulary: product property, quotient property, power property, change of base, evaluate. Common errors: applying properties incorrectly (especially with addition vs multiplication), and confusing log rules."
+      },
+      {
+        "skill": "G: Evaluate logarithms",
+        "teks": "P.5(G)",
+        "prompt": "This topic covers evaluating logarithmic expressions for Precalculus students (TEKS P.5(G)). Students evaluate log_b(x) by asking 'b to what power equals x?' Key values to know: log_b(1) = 0, log_b(b) = 1, log_b(b^n) = n. For common log: log(10) = 1, log(100) = 2. For natural log: ln(e) = 1, ln(1) = 0. Students use change of base formula for calculator evaluation: log_b(x) = ln(x)/ln(b). Vocabulary: logarithm, evaluate, base, common logarithm, natural logarithm. Common errors: confusing the base, not recognizing perfect powers, and calculator entry errors."
+      },
+      {
+        "skill": "G: Change of base formula",
+        "teks": "P.5(G)",
+        "prompt": "This topic covers the change of base formula for Precalculus students (TEKS P.5(G)). log_b(x)=log(x)/log(b)=ln(x)/ln(b). Essential for calculator evaluation of non-standard bases. Students apply to simplify and compute. Key vocabulary: change of base, common logarithm, natural logarithm, evaluate. Common errors: inverting the formula, and not recognizing when to apply it."
+      },
+      {
+        "skill": "G: Product property of logarithms",
+        "teks": "P.5(G)",
+        "prompt": "This topic covers the product property of logarithms for Precalculus students (TEKS P.5(G)). The product property states log_b(MN) = log_b(M) + log_b(N). This allows expanding a log of a product into a sum of logs, or condensing a sum of logs into a log of a product. Students apply this to simplify expressions and solve equations. Vocabulary: product property, expand, condense, logarithm. Important: this only works for multiplication inside the log, not addition. Common errors: applying to log(M+N) instead of log(MN), and confusing with other log properties."
+      },
+      {
+        "skill": "G: Quotient property of logarithms",
+        "teks": "P.5(G)",
+        "prompt": "This topic covers the quotient property of logarithms for Precalculus students (TEKS P.5(G)). The quotient property states log_b(M/N) = log_b(M) - log_b(N). Students use this to expand logs of quotients into differences or condense differences into single logs. Combined with other properties, this allows complex simplification. Vocabulary: quotient property, expand, condense, logarithm, difference. Common errors: applying to log(M-N) instead of log(M/N), subtracting in wrong order, and confusing with the product property."
+      },
+      {
+        "skill": "G: Power property of logarithms",
+        "teks": "P.5(G)",
+        "prompt": "This topic covers the power property of logarithms for Precalculus students (TEKS P.5(G)). The power property states log_b(M^p) = p*log_b(M). The exponent becomes a coefficient in front of the logarithm. This property is used to expand, condense, and solve logarithmic and exponential equations. Vocabulary: power property, exponent, coefficient, expand, condense. This is the key property used when solving exponential equations by taking logarithms. Common errors: applying the property in the wrong direction, and confusing with the product property."
+      },
+      {
+        "skill": "G: Evaluate logarithms using properties",
+        "teks": "P.5(G)",
+        "prompt": "This topic covers using properties of logarithms for Precalculus students (TEKS P.5(G)). Key properties: product rule log_b(MN) = log_b(M) + log_b(N), quotient rule log_b(M/N) = log_b(M) - log_b(N), power rule log_b(M^p) = p*log_b(M), change of base log_b(x) = log(x)/log(b). Students use properties to expand, condense, and evaluate logarithmic expressions. Vocabulary: product property, quotient property, power property, change of base, evaluate. Common errors: applying properties incorrectly (especially with addition vs multiplication), and confusing log rules."
+      },
+      {
+        "skill": "H: generate and solve logarithmic equations in mathematical and real-world problems",
+        "teks": "P.5(H)",
+        "prompt": "This topic covers solving logarithmic equations for Precalculus students (TEKS P.5(H)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+      },
+      {
+        "skill": "H: Solve logarithmic equations with one logarithm",
+        "teks": "P.5(H)",
+        "prompt": "This topic covers solving logarithmic equations for Precalculus students (TEKS P.5(H)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+      },
+      {
+        "skill": "H: Solve logarithmic equations with multiple logarithms",
+        "teks": "P.5(H)",
+        "prompt": "This topic covers solving logarithmic equations for Precalculus students (TEKS P.5(H)). Method 1: convert to exponential form (log_b(expression) = c becomes b^c = expression). Method 2: if logs on both sides have same base, set arguments equal. Always CHECK that arguments remain positive since log is only defined for positive arguments. Vocabulary: logarithmic equation, convert, exponential form, argument, domain restriction. Common errors: forgetting domain checks, conversion errors, and not isolating the log before converting."
+      },
+      {
+        "skill": "I: generate and solve exponential equations in mathematical and real-world problems",
+        "teks": "P.5(I)",
+        "prompt": "This topic covers generating and solving exponential equations in mathematical and real-world contexts for Precalculus students (TEKS P.5(I)). Students write exponential models from scenarios and solve using rewriting bases or logarithms. Contexts: growth, decay, finance. Key vocabulary: exponential equation, model, growth, decay, logarithm. Common errors: wrong model setup, and not using logarithms when needed."
+      },
+      {
+        "skill": "I: Solve exponential equations by rewriting the base",
+        "teks": "P.5(I)",
+        "prompt": "This topic covers solving exponential equations by rewriting bases for Precalculus students (TEKS P.5(I)). Express both sides with the same base, then set exponents equal. Example: 4^x=32 gives (2^2)^x=2^5, so 2x=5, x=5/2. Key vocabulary: common base, exponent equality, rewrite. Common errors: not finding a common base, and exponent arithmetic errors."
+      },
+      {
+        "skill": "I: Solve exponential equations using logarithms",
+        "teks": "P.5(I)",
+        "prompt": "This topic covers solving exponential equations using logarithms for Precalculus students (TEKS P.5(I)). When bases cannot be made equal, take log or ln of both sides. Apply power rule: log(a^x)=x*log(a). Solve for x. Key vocabulary: logarithm, power rule, solve, exponential equation. Common errors: not isolating the exponential first, and forgetting the power rule."
+      },
+      {
+        "skill": "I: Exponential growth and decay: word problems",
+        "teks": "P.5(I)",
+        "prompt": "This topic covers exponential growth and decay word problems for Precalculus students (TEKS P.5(I)). Students apply f(t) = a(1+r)^t for growth and f(t) = a(1-r)^t for decay, where a is initial value, r is rate, t is time. Growth factor b = 1+r (e.g., 5% growth gives b = 1.05). Decay factor b = 1-r (e.g., 3% decay gives b = 0.97). Key concepts: doubling time, half-life, percentage change. Vocabulary: exponential growth, exponential decay, growth factor, decay factor, half-life. Common errors: confusing rate with factor, using rate as b instead of 1+/-rate, and not converting percentages to decimals."
+      },
+      {
+        "skill": "I: Compound interest: word problems",
+        "teks": "P.5(I)",
+        "prompt": "This topic covers compound interest word problems for Precalculus students (TEKS P.5(I)). Use A=P(1+r/n)^(nt) or A=Pe^(rt). Solve for any variable using logarithms when needed. Key vocabulary: compound interest, principal, rate, compounding, logarithm. Common errors: unit mismatches, wrong n, and not using logs to solve for t."
+      },
+      {
+        "skill": "J: solve polynomial equations with real coefficients by applying a variety of techniques in mathematical and real-world problems",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers solving polynomial equations using varied techniques for Precalculus students (TEKS P.5(J)). Methods: factoring, Rational Root Theorem, synthetic division, quadratic formula (for reducible cases), sum/difference of cubes, and quadratic patterns. Key vocabulary: polynomial equation, Rational Root Theorem, Factor Theorem, synthetic division. Common errors: not trying all possible rational roots, and incomplete factoring."
+      },
+      {
+        "skill": "J: Solve quadratic equations: word problems",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers solving quadratic equations in word problem contexts for Precalculus students (TEKS P.5(J)). Common contexts: projectile motion (h = -16t^2 + v0t + h0), area problems, revenue optimization, and falling objects. Steps: define variables, write the quadratic equation, solve using any method, interpret solutions in context (reject negative time, unreasonable dimensions). Vocabulary: projectile, maximum height, time of flight, area, optimization. Common errors: not rejecting extraneous solutions, setting up equations incorrectly, and misinterpreting context."
+      },
+      {
+        "skill": "J: Divide polynomials using long division",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers dividing polynomials using long division for Precalculus students (TEKS P.5(J)). Process mirrors numerical long division: divide leading terms, multiply divisor by result, subtract, bring down next term, repeat until remainder has degree less than divisor. Include placeholder terms (0x^n) for missing degrees. Result: quotient + remainder/divisor. Vocabulary: dividend, divisor, quotient, remainder, leading term. Common errors: forgetting placeholders, subtraction errors, and stopping too early."
+      },
+      {
+        "skill": "J: Divide polynomials using synthetic division",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers dividing polynomials using synthetic division for Precalculus students (TEKS P.5(J)). A shortcut for dividing by (x-c). Setup: write c on left, coefficients across top (include 0 for missing terms). Process: bring down first coefficient, multiply by c, add to next, repeat. Last number is remainder; others are quotient coefficients. By the Factor Theorem, remainder 0 means (x-c) is a factor. Vocabulary: synthetic division, coefficient, remainder, Factor Theorem. Common errors: using wrong sign for c, missing placeholder coefficients, and arithmetic errors."
+      },
+      {
+        "skill": "J: Evaluate polynomials using synthetic division",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers evaluating polynomials using synthetic division (Remainder Theorem) for Precalculus students (TEKS P.5(J)). By the Remainder Theorem, f(c) equals the remainder when dividing f(x) by (x-c). Synthetic division efficiently computes this. Key vocabulary: synthetic division, Remainder Theorem, evaluate, polynomial. Common errors: wrong sign for c, missing placeholder coefficients, and arithmetic errors."
+      },
+      {
+        "skill": "J: Solve equations with sums and differences of cubes",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers solving equations involving sums and differences of cubes for Precalculus students (TEKS P.5(J)). Factor using a^3+b^3=(a+b)(a^2-ab+b^2) or a^3-b^3=(a-b)(a^2+ab+b^2), then solve each factor. The trinomial factor may be irreducible or yield complex roots. Key vocabulary: sum of cubes, difference of cubes, factor, solve. Common errors: sign errors in formulas, and not solving all factors."
+      },
+      {
+        "skill": "J: Solve equations using a quadratic pattern",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers solving equations using a quadratic pattern (u-substitution) for Precalculus students (TEKS P.5(J)). Recognize degree-4 or degree-6 equations as quadratics in x^2 or x^3. Substitute u, solve the quadratic in u, substitute back, solve for x. Key vocabulary: quadratic pattern, u-substitution, degree 4, solve. Common errors: not recognizing the pattern, forgetting to substitute back, and missing solutions."
+      },
+      {
+        "skill": "J: Find the roots of factored polynomials",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers factoring polynomials for Precalculus students (TEKS P.5(J)). Techniques include: GCF extraction, grouping, Rational Root Theorem with synthetic division, sum/difference of cubes, quadratic patterns, and trial factors. Strategy: always extract GCF first, then choose technique based on structure. A polynomial of degree n has at most n linear factors. Vocabulary: factor, GCF, grouping, rational root, synthetic division, irreducible. Common errors: not extracting GCF first, missing rational roots, and incomplete factorization."
+      },
+      {
+        "skill": "J: Rational root theorem",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers rational root theorem for Precalculus students (TEKS P.5(J)). Rational Root Theorem: possible rational roots of a polynomial with integer coefficients are +/-p/q where p divides the constant term and q divides the leading coefficient. Key vocabulary includes: Rational Root Theorem, possible roots, polynomial, leading coefficient, constant term. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "J: Complex conjugate theorem",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers complex conjugate theorem for Precalculus students (TEKS P.5(J)). Complex Conjugate Theorem: if a+bi is a root of a polynomial with real coefficients, then a-bi is also a root. Complex roots come in conjugate pairs. Key vocabulary includes: Complex Conjugate Theorem, conjugate pair, polynomial, real coefficients. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "J: Conjugate root theorems",
+        "teks": "P.5(J)",
+        "prompt": "This topic covers conjugate root theorems for Precalculus students (TEKS P.5(J)). Complex Conjugate Theorem: if a+bi is a root of a polynomial with real coefficients, then a-bi is also a root. Complex roots come in conjugate pairs. Key vocabulary includes: Complex Conjugate Theorem, conjugate pair, polynomial, real coefficients. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "K: solve polynomial inequalities with real coefficients by applying a variety of techniques and write the solution set of the polynomial inequality in interval notation in mathematical and real-world problems",
+        "teks": "P.5(K)",
+        "prompt": "This topic covers solve polynomial inequalities with real coefficients by applying a variety of techniques and write the solution set of the polynomial inequality in interval notation in mathematical and real-world problems for Precalculus students (TEKS P.5(K)). Solve polynomial inequalities by finding zeros, testing intervals between zeros, and expressing the solution in interval notation. Include/exclude endpoints based on strict vs non-strict inequality. Key vocabulary includes: critical values, interval notation, polynomial inequality, sign chart, zeros. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: Graph solutions to higher-degree inequalities",
+        "teks": "P.5(K)",
+        "prompt": "This topic covers graph solutions to higher-degree inequalities for Precalculus students (TEKS P.5(K)). Solve polynomial inequalities by finding zeros, testing intervals between zeros, and expressing the solution in interval notation. Include/exclude endpoints based on strict vs non-strict inequality. Key vocabulary includes: critical values, interval notation, polynomial inequality, sign chart, zeros. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "K: Solve higher-degree inequalities",
+        "teks": "P.5(K)",
+        "prompt": "This topic covers solve higher-degree inequalities for Precalculus students (TEKS P.5(K)). Solve polynomial inequalities by finding zeros, testing intervals between zeros, and expressing the solution in interval notation. Include/exclude endpoints based on strict vs non-strict inequality. Key vocabulary includes: critical values, interval notation, polynomial inequality, sign chart, zeros. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "L: solve rational inequalities with real coefficients by applying a variety of techniques and write the solution set of the rational inequality in interval notation in mathematical and real-world problems",
+        "teks": "P.5(L)",
+        "prompt": "This topic covers solve rational inequalities with real coefficients by applying a variety of techniques and write the solution set of the rational inequality in interval notation in mathematical and real-world problems for Precalculus students (TEKS P.5(L)). Solve rational inequalities by finding critical values (zeros and undefined points), creating a sign chart, and testing intervals. Express solutions in interval notation, excluding undefined points. Key vocabulary includes: critical values, excluded values, interval notation, rational inequality, sign chart. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "M: use trigonometric identities such as reciprocal, quotient, Pythagorean, cofunctions, even/odd, and sum and difference identities for cosine and sine to simplify trigonometric expressions",
+        "teks": "P.5(M)",
+        "prompt": "This topic covers use trigonometric identities such as reciprocal, quotient, pythagorean, cofunctions, even/odd, and sum and difference identities for cosine and sine to simplify trigonometric expressions for Precalculus students (TEKS P.5(M)). Even functions satisfy f(-x) = f(x) and are symmetric about the y-axis. Odd functions satisfy f(-x) = -f(x) and are symmetric about the origin. Key identities: sin^2+cos^2=1, tan=sin/cos, sum formulas sin(A+B) = sin(A)cos(B)+cos(A)sin(B). Students use identities to simplify expressions and solve equations. Key vocabulary includes: Pythagorean identity, even function, identity, odd function, origin, quotient, reciprocal, sum/difference, symmetry, y-axis. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "M: Complementary angle identities",
+        "teks": "P.5(M)",
+        "prompt": "This topic covers complementary angle (cofunction) identities for Precalculus students (TEKS P.5(M)). sin(90-x)=cos(x), cos(90-x)=sin(x), tan(90-x)=cot(x), and their reciprocals. In radians: sin(pi/2-x)=cos(x). Cofunctions of complementary angles are equal. Key vocabulary: cofunction, complementary, sine, cosine, tangent, cotangent. Common errors: confusing which functions are cofunctions, and forgetting to convert degrees/radians."
+      },
+      {
+        "skill": "M: Symmetry and periodicity of trigonometric functions",
+        "teks": "P.5(M)",
+        "prompt": "This topic covers symmetry and periodicity of trigonometric functions for Precalculus students (TEKS P.5(M)). Sine is odd: sin(-x)=-sin(x). Cosine is even: cos(-x)=cos(x). Sin and cos have period 2pi; tan has period pi. Students use these properties to simplify expressions and evaluate functions. Key vocabulary: symmetry, periodicity, even, odd, period, 2pi, pi. Common errors: confusing even/odd properties, and not recognizing periodicity."
+      },
+      {
+        "skill": "M: Find trigonometric ratios using a Pythagorean or reciprocal identity",
+        "teks": "P.5(M)",
+        "prompt": "This topic covers find trigonometric ratios using a pythagorean or reciprocal identity for Precalculus students (TEKS P.5(M)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Reciprocal identities: csc(x) = 1/sin(x), sec(x) = 1/cos(x), cot(x) = 1/tan(x). Used to rewrite and simplify trigonometric expressions. Pythagorean identities: sin^2(x) + cos^2(x) = 1, 1 + tan^2(x) = sec^2(x), 1 + cot^2(x) = csc^2(x). Derive others from the fundamental identity. Key vocabulary includes: Pythagorean identity, sin^2+cos^2=1, derive, simplify. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "M: Find trigonometric ratios using multiple identities",
+        "teks": "P.5(M)",
+        "prompt": "This topic covers find trigonometric ratios using multiple identities for Precalculus students (TEKS P.5(M)). In right triangles: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent (SOHCAHTOA). Find sides or angles. Key vocabulary includes: sine, cosine, tangent, opposite, adjacent, hypotenuse, SOHCAHTOA. Students should practice with varied problem types, show clear mathematical reasoning, and verify answers. Common errors include: computational mistakes, misapplication of formulas, sign errors, and incomplete reasoning."
+      },
+      {
+        "skill": "M: Trigonometric sum and difference identities",
+        "teks": "P.5(M)",
+        "prompt": "This topic covers trigonometric sum and difference identities for Precalculus students (TEKS P.5(M)). sin(A+B)=sin(A)cos(B)+cos(A)sin(B), cos(A+B)=cos(A)cos(B)-sin(A)sin(B), tan(A+B)=(tan(A)+tan(B))/(1-tan(A)tan(B)). Used to find exact values and simplify. Key vocabulary: sum identity, difference identity, exact value, simplify. Common errors: sign errors in formulas, and mixing up sine and cosine versions."
+      },
+      {
+        "skill": "N: generate and solve trigonometric equations in mathematical and real-world problems",
+        "teks": "P.5(N)",
+        "prompt": "This topic covers generate and solve trigonometric equations in mathematical and real-world problems for Precalculus students (TEKS P.5(N)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "N: Solve trigonometric equations",
+        "teks": "P.5(N)",
+        "prompt": "This topic covers solve trigonometric equations for Precalculus students (TEKS P.5(N)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      },
+      {
+        "skill": "N: Solve trigonometric equations using sum and difference identities",
+        "teks": "P.5(N)",
+        "prompt": "This topic covers solve trigonometric equations using sum and difference identities for Precalculus students (TEKS P.5(N)). Solving trig equations: isolate the trig function, find reference angle, determine all solutions in the given interval using the unit circle and periodicity. Key vocabulary includes: general solution, inverse trig, period, trigonometric equation, unit circle. Students should practice with varied problem types, show clear mathematical reasoning, and verify their answers. Connect this topic to real-world applications and prior knowledge from Precalculus. Common errors to watch for include computational mistakes, misapplication of definitions or formulas, sign errors, and incomplete reasoning or justification."
+      }
+    ]
+  }
+}
